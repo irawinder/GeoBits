@@ -2,7 +2,7 @@
 GeoBits is a geospatial rendering platform for generic visualizations and math models in different coordinate systems.
 
 ##Technical Documentation
-Some informal technical documentation can be found at <changingplaces.github.io/GeoBits/>
+Some informal technical documentation can be found at <http://changingplaces.github.io/GeoBits/>
 
 ##Undergoing project.
 Contact @ninalutz with inquiries.
