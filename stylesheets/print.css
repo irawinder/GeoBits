@@ -203,9 +203,11 @@ dl dd {
 }
 
 footer {
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 30px;
+  padding-left: 2cm;
   margin-top: 40px;
+  margin-left: 40px;
   font-size: 13px;
   color: #aaa;
 }

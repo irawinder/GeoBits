@@ -744,6 +744,7 @@ dl dd {
 footer {
   padding-top: 20px;
   padding-bottom: 30px;
+  padding-left: 30px;
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
@@ -878,4 +879,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
