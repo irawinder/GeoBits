@@ -27,7 +27,6 @@ void setup(){
 }
 
 void draw(){
-      screen.beginDraw();
     background(0);
     map.draw();
     
@@ -44,7 +43,5 @@ void draw(){
     if(directions){
       draw_directions();
     }
-    
-    screen.endDraw();
 
 }
