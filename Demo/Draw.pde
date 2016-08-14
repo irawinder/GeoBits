@@ -1,7 +1,7 @@
 //toggling booleans for displays
 boolean showFrameRate = false;
 boolean select = false;
-boolean directions = true;
+boolean directions = false;
 
 //dimensions for box
 int boxw = 400;
