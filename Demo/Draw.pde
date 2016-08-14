@@ -16,7 +16,7 @@ void draw_info(){
       }
   rect(0, 0, width, 30);
   fill(255);
-  text("Nina Lutz. This demo is under developmenet, please be patient", 20, 20);
+  text("Nina Lutz. This demo is under developmenet, please be patient. Press 'd' for instructions.", 20, 20);
 }
 
 //user directions

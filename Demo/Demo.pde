@@ -16,7 +16,7 @@ Last Updated: 8/14/16
 PGraphics screen, table;
 
 void setup(){
-   size(1500, 900, P3D);
+   size(1366, 768, P3D);
    //screen = createGraphics(
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     MapUtils.createDefaultEventDispatcher(this, map);
