@@ -19,5 +19,13 @@ switch(key){
   case 'a':
         pull = !pull;
         break;
+  case 'W':
+        boxw+=10;
+        boxh+=10;
+        break;  
+  case 'w':
+        boxw-=10;
+        boxh-=10;
+        break;
 }
 }

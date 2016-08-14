@@ -1,19 +1,37 @@
 /* 
-Modified version of the utility class written by Chris Allick and Daniel Shiffman
+
+Set of classes responsible for reading data from OSM, Mapzen, and Overpass APIs
+
+GetRequest is based off code by Chris Allick and Daniel Shiffman
+
 */
 
-//package http.requests;
+String output, link;
 
-import java.util.ArrayList;
+void PullData(){
+    println("requesting data...");
+    //GetRequest get = new GetRequest("http://api.openstreetmap.org/api/0.6/map?bbox=-112.0711,33.6326,-111.9965,33.6841");
+    //link = "http://overpass.osm.rambler.ru/cgi/xapi_meta?*[bbox=" + boxcorners().get(0).y + "," + boxcorners().get(1).x + "," + boxcorners().get(1).y + "," + boxcorners().get(0).x + "]";
+    //request the geojson for the current tower
+    link = "https://vector.mapzen.com/osm/all/" + getTileNumber(BoundingBox().get(4).x, BoundingBox().get(4).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+    GetRequest get = new GetRequest(link);
+    println("data requested...");
+    get.send();
+    output = get.getContent();
+    String[] list = split(output, "<ways>");
+    println(list.length);
+    saveStrings("bounds.txt", list);
+    println("data received and exported");
+    pull = false;
+}
+
+//imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 
 import java.util.Iterator;
 
-import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
-import org.apache.http.auth.UsernamePasswordCredentials;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.auth.BasicScheme;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
@@ -23,7 +41,6 @@ public class GetRequest
   String url;
   String content;
   HttpResponse response;
-  UsernamePasswordCredentials creds;
       ArrayList<BasicNameValuePair> headerPairs;
 
   
@@ -34,28 +51,12 @@ public class GetRequest
 
   }
 
-  public void addUser(String user, String pwd) 
-  {
-    creds = new UsernamePasswordCredentials(user, pwd);
-  
-      }
-    
-      public void addHeader(String key,String value) {
-          BasicNameValuePair nvp = new BasicNameValuePair(key,value);
-          headerPairs.add(nvp);
-        
-      }  
-      
   public void send() 
   {
     try {
       DefaultHttpClient httpClient = new DefaultHttpClient();
 
       HttpGet httpGet = new HttpGet(url);
-
-      if(creds != null){
-        httpGet.addHeader(new BasicScheme().authenticate(creds, httpGet, null));        
-      }
 
                       Iterator<BasicNameValuePair> headerIterator = headerPairs.iterator();
                       while (headerIterator.hasNext()) {
@@ -83,18 +84,6 @@ public class GetRequest
   {
     return this.content;
   }
-  
-  public String getHeader(String name)
-  {
-    Header header = response.getFirstHeader(name);
-    if(header == null)
-    {
-      return "";
-    }
-    else
-    {
-      return header.getValue();
-    }
-  }
+
 }
 
