@@ -20,7 +20,7 @@ void PullData(){
     output = get.getContent();
     String[] list = split(output, "<ways>");
     println(list.length);
-    saveStrings("bounds.txt", list);
+    saveStrings("bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt", list);
     println("data received and exported");
     pull = false;
 }
