@@ -15,7 +15,7 @@ Last Updated: 8/13/16
 
 */
 
-String output;
+String output, link;
 ArrayList<String>File = new ArrayList<String>();
 void setup(){
    size(1500, 900);
@@ -39,7 +39,11 @@ void draw(){
               //limit to .25 degree each way
               println("requesting data...");
               //GetRequest get = new GetRequest("http://api.openstreetmap.org/api/0.6/map?bbox=-112.0711,33.6326,-111.9965,33.6841");
-              GetRequest get = new GetRequest("http://overpass.osm.rambler.ru/cgi/xapi_meta?*[bbox=-112.0787,33.6365,-112.0414,33.6622]");
+             //link = "http://overpass.osm.rambler.ru/cgi/xapi_meta?*[bbox=" + boxcorners().get(0).y + "," + boxcorners().get(1).x + "," + boxcorners().get(1).y + "," + boxcorners().get(0).x + "]";
+//              link = "https://vector.mapzen.com/osm/all/16/19/241.json?api_key=vector-tiles-i5Sxwwo";
+   link = "https://vector.mapzen.com/osm/all/" + getTileNumber(xytiles().x, xytiles().y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+
+              GetRequest get = new GetRequest(link);
               println("data requested...");
               get.send();
               output = get.getContent();

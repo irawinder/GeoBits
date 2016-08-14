@@ -20,4 +20,3 @@ import de.fhpotsdam.utils.*;
 import de.fhpotsdam.unfolding.providers.*;
 
 UnfoldingMap map;
- 
