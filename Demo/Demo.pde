@@ -15,7 +15,8 @@ Last Updated: 8/13/16
 
 */
 
-
+String output;
+ArrayList<String>File = new ArrayList<String>();
 void setup(){
    size(1500, 900);
     PFont font = createFont("Roboto-Light.ttf", 32);
@@ -41,8 +42,11 @@ void draw(){
               GetRequest get = new GetRequest("http://overpass.osm.rambler.ru/cgi/xapi_meta?*[bbox=-112.0787,33.6365,-112.0414,33.6622]");
               println("data requested...");
               get.send();
-              println("Reponse Content: " + get.getContent());
-              println("data received");
+              output = get.getContent();
+              String[] list = split(output, "</way>");
+              saveStrings("bounds.txt", list);
+//              println("Reponse Content: " + get.getContent());
+              println("data received and exported");
               pull = false;
             }
     }

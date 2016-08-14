@@ -19,7 +19,5 @@ switch(key){
   case 'a':
         pull = !pull;
         break;
-        
-       
-  }
+}
 }
