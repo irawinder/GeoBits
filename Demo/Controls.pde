@@ -1,4 +1,4 @@
-
+boolean pull = false;
 void keyPressed(){
 switch(key){
     case '+':
@@ -15,6 +15,11 @@ switch(key){
        break;  
   case 'd':
        directions = !directions;
-       break;            
+       break;    
+  case 'a':
+        pull = !pull;
+        break;
+        
+       
   }
 }

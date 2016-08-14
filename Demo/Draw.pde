@@ -36,5 +36,24 @@ void draw_selection(){
   ellipse(mouseX, mouseY, 10, 10);
   fill(#ff0000);
    ellipse(mouseX + 400, mouseY +400, 10, 10);
+   fill(#0000ff);
+   ellipse(mouseX, mouseY + 400, 10, 10);
+   fill(#ffff00);
+   ellipse(mouseX + 400, mouseY, 10, 10);
+  
+  if(mousePressed){
+    println(boxloci());
+  }
 
+}
+
+
+public PVector boxloci() {
+       //if(select && mousePressed){
+         float a = mouseX;
+         float b = mouseY;
+         PVector loc = new PVector(a, b);
+         return loc;
+     //}
+            
 }

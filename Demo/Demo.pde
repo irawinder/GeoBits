@@ -22,10 +22,6 @@ void setup(){
 
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     MapUtils.createDefaultEventDispatcher(this, map);
-    
-      GetRequest get = new GetRequest("http://api.openstreetmap.org/api/0.6/map?bbox=11.54,48.14,11.543,48.145");
-      get.send();
-      println("Reponse Content: " + get.getContent());
   
 }
 
@@ -36,10 +32,25 @@ void draw(){
     
     if(select){
     draw_selection();
+          if(pull){
+              //left, bottom, right, top
+              //min lon, min lat, max long, max lat
+              //limit to .25 degree each way
+              println("requesting data...");
+              //GetRequest get = new GetRequest("http://api.openstreetmap.org/api/0.6/map?bbox=-112.0711,33.6326,-111.9965,33.6841");
+              GetRequest get = new GetRequest("http://overpass.osm.rambler.ru/cgi/xapi_meta?*[bbox=-112.0787,33.6365,-112.0414,33.6622]");
+              println("data requested...");
+              get.send();
+              println("Reponse Content: " + get.getContent());
+              println("data received");
+              pull = false;
+            }
     }
+    
     
     if(directions){
        draw_directions();
     }
+    
 
 }
