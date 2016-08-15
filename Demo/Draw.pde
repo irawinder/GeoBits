@@ -9,19 +9,19 @@ int boxw = 400;
 int boxh = 400;
 
 //draws info
-void draw_info(){
+void draw_info() {
   textSize(20);
   fill(0);
-  if(showFrameRate){
-     text("frameRate: " + frameRate, 20, 50);
-      }
+  if (showFrameRate) {
+    text("frameRate: " + frameRate, 20, 50);
+  }
   rect(0, 0, width, 30);
   fill(255);
   text("Nina Lutz. This demo is under developmenet, please be patient. Press 'd' for instructions.", 20, 20);
 }
 
 //user directions
-void draw_directions(){
+void draw_directions() {
   noStroke();
   fill(255, 200);
   rect(10, 30, width/3+20, height/4+20, 5);
@@ -37,18 +37,18 @@ void draw_directions(){
   text("W = make box bigger, w = smaller", 15, 200);
   text("+/- = zoom in and out", 15, 220);
 }
-  
+
 //draw user selection box
-void draw_selection(){
+void draw_selection() {
   noFill();
   strokeWeight(5);
   stroke(0);
-     //change the color if pulling data to show how fast or slow the pull is    
-        if(pull){
-        fill(#00ff00);
-        stroke(#ff0000);
-          }
- 
+  //change the color if pulling data to show how fast or slow the pull is    
+  if (pull) {
+    fill(#00ff00);
+    stroke(#ff0000);
+  }
+
   rect(mouseX, mouseY, boxw, boxh);
   fill(#00ff00);
   ellipse(mouseX, mouseY, 20, 20);
@@ -58,29 +58,26 @@ void draw_selection(){
   ellipse(mouseX, mouseY + boxh, 20, 20);
   fill(#ffff00);
   ellipse(mouseX + boxw, mouseY, 20, 20);
-
 }
 
 //JSONObject roads;
 
-void drawLines(){
-    JSONObject roads = parseJSONObject(output);
-    if(roads == null){
-      println("no parse");
-    }
-    else{
-      try{
+void drawLines() {
+  JSONObject roads = parseJSONObject(output);
+  if (roads == null) {
+    println("no parse");
+  } else {
+    try {
       JSONArray linestring = roads.getJSONObject("boundaries").getJSONArray("features").getJSONObject(2).getJSONObject("geometry").getJSONArray("coordinates");
       PVector dot = new PVector(linestring.getJSONArray(0).getFloat(1), linestring.getJSONArray(1).getFloat(0));
       dot = map.getLocation(dot.x, dot.y);
       fill(0);
       ellipse(dot.x, dot.y, 10, 10);
       println(dot);
-      }
-            catch( Exception e ) { 
-              println(e);
     }
-
+    catch( Exception e ) { 
+      println(e);
     }
-
+  }
 }
+

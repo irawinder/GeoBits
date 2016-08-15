@@ -10,25 +10,25 @@ Author: Nina Lutz, nlutz@mit.edu
 Supervisor: Ira Winder, jiw@mit.edu
 
 Write date: 8/13/16 
-Last Updated: 8/14/16
+Last Updated: 8/15/16
 */
 
-PGraphics screen, table;
 
-      BufferedReader reader;
-      String line;
+
+  BufferedReader reader;
+  String line;
 
 void setup(){
    size(1366, 768, P3D);
-   //screen = createGraphics(
+  
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     MapUtils.createDefaultEventDispatcher(this, map);
     smooth();
 }
 
 void draw(){
+      screen.beginDraw();
     background(0);
-    
     map.draw();
     
     draw_info();
@@ -44,5 +44,7 @@ void draw(){
     if(directions){
       draw_directions();
     }
+    
+    screen.endDraw();
 
 }
