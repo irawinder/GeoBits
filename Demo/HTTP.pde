@@ -13,7 +13,7 @@ public void PullData(){
     geostuff = new JSONObject();
     println("requesting data...");
     //request the geojson for the current tower
-    link = "https://vector.mapzen.com/osm/all/" + getTileNumber(BoundingBox().get(4).x, BoundingBox().get(4).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+    link = "https://vector.mapzen.com/osm/roads/" + getTileNumber(BoundingBox().get(4).x, BoundingBox().get(4).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
     GetRequest get = new GetRequest(link);
     println("data requested...");
     get.send();
