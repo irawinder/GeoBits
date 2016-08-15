@@ -27,5 +27,8 @@ switch(key){
         boxw-=10;
         boxh-=10;
         break;
+  case 'i':
+    showoutput = !showoutput;  
+    break;    
 }
 }

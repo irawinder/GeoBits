@@ -15,11 +15,15 @@ Last Updated: 8/14/16
 
 PGraphics screen, table;
 
+      BufferedReader reader;
+      String line;
+
 void setup(){
    size(1366, 768, P3D);
    //screen = createGraphics(
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     MapUtils.createDefaultEventDispatcher(this, map);
+    smooth();
 }
 
 void draw(){
@@ -36,7 +40,7 @@ void draw(){
     if(pull){
         PullData();     
       }
-    
+      
     if(directions){
       draw_directions();
     }
