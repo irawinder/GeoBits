@@ -5,8 +5,8 @@ boolean directions = false;
 boolean showoutput = false;
 
 //dimensions for box
-int boxw = 400;
-int boxh = 400;
+int boxw = 250;
+int boxh = 250;
 
 //draws info
 void draw_info() {
@@ -64,14 +64,33 @@ void draw_selection() {
 
 void drawLines() {
   JSONObject roads = parseJSONObject(output);
-  float test;
+  String test;
+  JSONArray linestring, multi, substring;
   if (roads == null) {
     println("no parse");
   } else {
     try {
       for(int i = 0; i<roads.getJSONArray("features").size(); i++){
-       JSONArray linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
-      }
+//       linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+       test = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
+       //println(test);  
+       if(test.equals("LineString")){
+          linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+               for(int j = 0; j<linestring.size(); j++){
+                     float lat = linestring.getJSONArray(j).getFloat(0);
+                     //println(lat);
+                  }
+       }
+       if(test.equals("MultiLineString")){
+           multi = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+               for(int k = 0; k<multi.size(); k++){
+                   substring = multi.getJSONArray(k);
+                        for(int d = 0; d<substring.size(); d++){
+                               float lat = substring.getJSONArray(d).getFloat(0);
+                         }
+               }
+       }
+    }
     }
     catch( Exception e ) { 
       println(e);
