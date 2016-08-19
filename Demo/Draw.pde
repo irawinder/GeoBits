@@ -2,7 +2,7 @@
 boolean showFrameRate = false;
 boolean select = false;
 boolean directions = false;
-boolean showoutput = false;
+boolean showoutput = true;
 
 //dimensions for box
 int boxw = 250;
@@ -58,5 +58,22 @@ void draw_selection() {
   ellipse(mouseX, mouseY + boxh, 20, 20);
   fill(#ffff00);
   ellipse(mouseX + boxw, mouseY, 20, 20);
+}
+
+void drawLines(String filename, color c){ 
+    
+    Table values = loadTable(filename, "header");
+    for(int i = 0; i<values.getRowCount()-1; i++){ 
+         if(values.getFloat(i, "id") == values.getFloat(i+1, "id")){
+                stroke(c);
+                strokeWeight(1);
+                PVector start = mercatorMap.getScreenLocation(new PVector(values.getFloat(i, "lat"), values.getFloat(i, "lon")));
+                PVector end =  mercatorMap.getScreenLocation(new PVector(values.getFloat(i+1, "lat"), values.getFloat(i+1, "lon")));
+                println(start, end);
+                line(start.x, start.y, end.x, end.y);
+            }      
+               }
+               
+       println("lines drawn"); 
 }
 

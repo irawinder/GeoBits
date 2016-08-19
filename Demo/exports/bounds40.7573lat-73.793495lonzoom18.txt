@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"type":"LineString","coordinates":[[-73.79301653,40.75766015],[-73.79287163,40.75661990]]},"type":"Feature","properties":{"kind":"major_road","name":"Utopia Pkwy.","sort_key":377,"source":"openstreetmap.org","oneway":"no","id":419692771,"highway":"secondary"}}]}

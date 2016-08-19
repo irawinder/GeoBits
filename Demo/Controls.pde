@@ -28,7 +28,7 @@ switch(key){
         boxh-=10;
         break;
   case 'i':
-    showoutput = !showoutput;  
+    lines = !lines;
     break;  
 }
 }

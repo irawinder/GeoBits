@@ -12,9 +12,9 @@ Supervisor: Ira Winder, jiw@mit.edu
 Write date: 8/13/16 
 Last Updated: 8/15/16
 */
+boolean lines = false;
 
-
-
+MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
 
@@ -29,7 +29,7 @@ void setup(){
 void draw(){
     background(0);
     map.draw();
-    
+       mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
     draw_info();
     
     if(select){
@@ -41,12 +41,13 @@ void draw(){
         JSONtoLines();
       }
       
-      if(showoutput){
-         JSONtoLines();
+      if(lines){
+         drawLines("lines.csv", #00ff00);
       }
       
     if(directions){
       draw_directions();
     }
+    
 
 }

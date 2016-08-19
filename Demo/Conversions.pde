@@ -4,7 +4,6 @@ All the conversions for all the coordinate systems yay
 
 */
 
-
 //Converts the users' selection box to a lat lon bounding box, returns an array of the corners and center
 public ArrayList<PVector> BoundingBox() {
       ArrayList<PVector> box = new ArrayList<PVector>();
@@ -26,6 +25,19 @@ public ArrayList<PVector> BoundingBox() {
 };
 
 
+public ArrayList<PVector> CanvasBox() {
+      ArrayList<PVector> canvas = new ArrayList<PVector>();
+         float a = 0;
+         float b = 0;
+         float c = width;
+         float d = height;
+         PVector topleft = map.getLocation(a, b);
+         PVector bottomright = map.getLocation(c, d);
+         canvas.add(topleft);
+         canvas.add(bottomright);
+      return canvas;
+};
+
 //this function gets the tile coordinates given the lat and lon of the center, as well as the zoom
 //returns a string for utilization in the HTTP request link
 //I actually want to return all the tiles in the current view, but only smartmesh one, but that calculation happens in the Bresenham with the bounding box
@@ -43,8 +55,6 @@ public ArrayList<PVector> BoundingBox() {
      ytile=((1<<zoom)-1);
     return("" + zoom + "/" + xtile + "/" + ytile);
    }
-   
-ArrayList <PVector> lines = new ArrayList<PVector>();  
 
 Table SmartLines;
 
@@ -69,9 +79,8 @@ void JSONtoLines() {
                for(int j = 0; j<linestring.size(); j++){
                      float lat = linestring.getJSONArray(j).getFloat(1);
                      float lon = linestring.getJSONArray(j).getFloat(0);
-                     lines.add(new PVector(lat, lon));
                      TableRow newRow = SmartLines.addRow();
-                     newRow.setInt("id",  roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                     newRow.setFloat("id",  roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
                      newRow.setFloat("lat", lat);
                      newRow.setFloat("lon", lon);
                   }
@@ -83,9 +92,8 @@ void JSONtoLines() {
                         for(int d = 0; d<substring.size(); d++){
                                float lat = substring.getJSONArray(d).getFloat(1);
                                float lon = substring.getJSONArray(d).getFloat(0);
-                               lines.add(new PVector(lat, lon));
                                TableRow newRow = SmartLines.addRow();
-                               newRow.setInt("id", roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                               newRow.setFloat("id", roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
                                newRow.setFloat("lat", lat);
                                newRow.setFloat("lon", lon);
                          }
