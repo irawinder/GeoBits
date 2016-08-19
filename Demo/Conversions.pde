@@ -44,3 +44,59 @@ public ArrayList<PVector> BoundingBox() {
     return("" + zoom + "/" + xtile + "/" + ytile);
    }
    
+ArrayList <PVector> lines = new ArrayList<PVector>();  
+
+Table SmartLines;
+
+void JSONtoLines() {
+  SmartLines = new Table();
+  SmartLines.addColumn("id");
+  SmartLines.addColumn("lat");
+  SmartLines.addColumn("lon");
+  JSONObject roads = parseJSONObject(output);
+  String test;
+  JSONArray linestring, multi, substring;
+  if (roads == null) {
+    println("no parse");
+  } else {
+    try {
+      for(int i = 0; i<roads.getJSONArray("features").size(); i++){
+//       linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+       test = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
+       //println(test);  
+       if(test.equals("LineString")){
+          linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+               for(int j = 0; j<linestring.size(); j++){
+                     float lat = linestring.getJSONArray(j).getFloat(1);
+                     float lon = linestring.getJSONArray(j).getFloat(0);
+                     lines.add(new PVector(lat, lon));
+                     TableRow newRow = SmartLines.addRow();
+                     newRow.setInt("id",  roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                     newRow.setFloat("lat", lat);
+                     newRow.setFloat("lon", lon);
+                  }
+       }
+       if(test.equals("MultiLineString")){
+           multi = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+               for(int k = 0; k<multi.size(); k++){
+                   substring = multi.getJSONArray(k);
+                        for(int d = 0; d<substring.size(); d++){
+                               float lat = substring.getJSONArray(d).getFloat(1);
+                               float lon = substring.getJSONArray(d).getFloat(0);
+                               lines.add(new PVector(lat, lon));
+                               TableRow newRow = SmartLines.addRow();
+                               newRow.setInt("id", roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                               newRow.setFloat("lat", lat);
+                               newRow.setFloat("lon", lon);
+                         }
+               }
+       }
+    }
+    }
+    catch( Exception e ) { 
+      println(e);
+    }
+        saveTable(SmartLines, "data/lines.csv");
+  }
+}
+   

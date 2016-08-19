@@ -38,11 +38,11 @@ void draw(){
     
     if(pull){
         PullData();    
-                     drawLines(); 
+        JSONtoLines();
       }
       
       if(showoutput){
-        drawLines();
+         JSONtoLines();
       }
       
     if(directions){
