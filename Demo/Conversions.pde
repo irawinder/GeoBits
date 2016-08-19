@@ -28,6 +28,8 @@ public ArrayList<PVector> BoundingBox() {
 
 //this function gets the tile coordinates given the lat and lon of the center, as well as the zoom
 //returns a string for utilization in the HTTP request link
+//I actually want to return all the tiles in the current view, but only smartmesh one, but that calculation happens in the Bresenham with the bounding box
+//remember that each tile is 256x256 pixels
  public static String getTileNumber(final double lat, final double lon, final int zoom) {
    int xtile = (int)Math.floor( (lon + 180) / 360 * (1<<zoom) ) ;
    int ytile = (int)Math.floor( (1 - Math.log(Math.tan(Math.toRadians(lat)) + 1 / Math.cos(Math.toRadians(lat))) / Math.PI) / 2 * (1<<zoom) ) ;

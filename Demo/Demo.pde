@@ -37,7 +37,12 @@ void draw(){
     }
     
     if(pull){
-        PullData();     
+        PullData();    
+                     drawLines(); 
+      }
+      
+      if(showoutput){
+        drawLines();
       }
       
     if(directions){

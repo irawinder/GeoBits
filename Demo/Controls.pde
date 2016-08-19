@@ -29,6 +29,6 @@ switch(key){
         break;
   case 'i':
     showoutput = !showoutput;  
-    break;    
+    break;  
 }
 }

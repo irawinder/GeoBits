@@ -64,16 +64,14 @@ void draw_selection() {
 
 void drawLines() {
   JSONObject roads = parseJSONObject(output);
+  float test;
   if (roads == null) {
     println("no parse");
   } else {
     try {
-      JSONArray linestring = roads.getJSONObject("boundaries").getJSONArray("features").getJSONObject(2).getJSONObject("geometry").getJSONArray("coordinates");
-      PVector dot = new PVector(linestring.getJSONArray(0).getFloat(1), linestring.getJSONArray(1).getFloat(0));
-      dot = map.getLocation(dot.x, dot.y);
-      fill(0);
-      ellipse(dot.x, dot.y, 10, 10);
-      println(dot);
+      for(int i = 0; i<roads.getJSONArray("features").size(); i++){
+       JSONArray linestring = roads.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+      }
     }
     catch( Exception e ) { 
       println(e);
