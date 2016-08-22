@@ -8,6 +8,7 @@ boolean showoutput = true;
 int boxw = 250;
 int boxh = 250;
 
+
 //draws info
 void draw_info() {
   textSize(20);
@@ -71,8 +72,26 @@ void drawLines(String filename, color c){
                 PVector end =  mercatorMap.getScreenLocation(new PVector(values.getFloat(i+1, "lat"), values.getFloat(i+1, "lon")));
                 println(start, end);
                 line(start.x, start.y, end.x, end.y);
+                textSize(20);
             }      
                }
+
+//
+//List<Feature> stuffs = GeoJSONReader.loadDataFromJSON(this, output);  
+//List<Feature> stuffs = GeoJSONReader.loadData(this, "please.json");  
+//          
+//          List<Marker> stufflines = new ArrayList<Marker>();      
+//        
+//         for (Feature feature : stuffs) {  
+//               ShapeFeature lineFeature = (ShapeFeature) feature;
+//               SimpleLinesMarker m = new SimpleLinesMarker(lineFeature.getLocations());
+//               
+//                m.setColor(c);
+//                m.setStrokeWeight(1);
+//                stufflines.add(m);
+//               
+//         }
+//               map.addMarkers(stufflines); 
                
        println("lines drawn"); 
 }

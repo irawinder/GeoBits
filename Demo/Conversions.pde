@@ -80,7 +80,7 @@ void JSONtoLines() {
                      float lat = linestring.getJSONArray(j).getFloat(1);
                      float lon = linestring.getJSONArray(j).getFloat(0);
                      TableRow newRow = SmartLines.addRow();
-                     newRow.setFloat("id",  roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                     newRow.setInt("id",  roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
                      newRow.setFloat("lat", lat);
                      newRow.setFloat("lon", lon);
                   }
@@ -93,7 +93,7 @@ void JSONtoLines() {
                                float lat = substring.getJSONArray(d).getFloat(1);
                                float lon = substring.getJSONArray(d).getFloat(0);
                                TableRow newRow = SmartLines.addRow();
-                               newRow.setFloat("id", roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
+                               newRow.setInt("id", roads.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id"));
                                newRow.setFloat("lat", lat);
                                newRow.setFloat("lon", lon);
                          }
@@ -104,6 +104,8 @@ void JSONtoLines() {
     catch( Exception e ) { 
       println(e);
     }
+
+    
         saveTable(SmartLines, "data/lines.csv");
   }
 }

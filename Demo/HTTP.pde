@@ -9,6 +9,7 @@ GetRequest is based off code by Chris Allick and Daniel Shiffman
 String output, link, file;
 JSONObject geostuff;
 
+
 public void PullData(){
     geostuff = new JSONObject();
     println("requesting data...");
@@ -18,10 +19,13 @@ public void PullData(){
     println("data requested...");
     get.send();
     output = get.getContent();
+    JSONObject json = parseJSONObject(output);
+
+    saveJSONObject(json, "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json");
     String[] list = split(output, "<ways>");
     geostuff.setString("output", output);
     println(list.length);
-    saveStrings("exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt", list);
+    //saveStrings("exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt", list);
     file = "bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt";
     println("data received and exported");
     pull = false;
@@ -30,7 +34,6 @@ public void PullData(){
 
 //imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 
 import java.util.Iterator;
-
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
