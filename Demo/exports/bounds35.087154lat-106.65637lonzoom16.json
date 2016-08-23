@@ -1,0 +1,1631 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": 14423902,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Tijeras Ave. NW",
+        "oneway": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6607666,
+            35.08840337
+          ],
+          [
+            -106.6606318,
+            35.08838126
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415919,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "9th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65754959,
+            35.08530828
+          ],
+          [
+            -106.65762874,
+            35.08491927
+          ],
+          [
+            -106.65764922,
+            35.08481077
+          ],
+          [
+            -106.65775288,
+            35.08430701
+          ],
+          [
+            -106.65781778,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14423635,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "10th St. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6585619,
+            35.08649367
+          ],
+          [
+            -106.6584683,
+            35.08696111
+          ],
+          [
+            -106.65836985,
+            35.08745331
+          ],
+          [
+            -106.6582713,
+            35.0880038
+          ],
+          [
+            -106.65816616,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 255999626,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65991108,
+            35.08536569
+          ],
+          [
+            -106.66002652,
+            35.08551881
+          ],
+          [
+            -106.6607666,
+            35.08561681
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895380,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65730292,
+            35.08525182
+          ],
+          [
+            -106.6572819,
+            35.08538061
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800374,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Park Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65689391,
+            35.08519478
+          ],
+          [
+            -106.65730292,
+            35.08525182
+          ],
+          [
+            -106.65754959,
+            35.08530828
+          ],
+          [
+            -106.65782592,
+            35.08534849
+          ],
+          [
+            -106.65873214,
+            35.08546595
+          ],
+          [
+            -106.65886015,
+            35.08538436
+          ],
+          [
+            -106.65903864,
+            35.08532702
+          ],
+          [
+            -106.65934182,
+            35.08531526
+          ],
+          [
+            -106.65991108,
+            35.08536569
+          ],
+          [
+            -106.65997091,
+            35.08537098
+          ],
+          [
+            -106.6607666,
+            35.08547211
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584684,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Park Ave. SW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.656705,
+            35.08521191
+          ],
+          [
+            -106.65689391,
+            35.08519478
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14409851,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "11th St. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65965489,
+            35.08714951
+          ],
+          [
+            -106.65955733,
+            35.08760782
+          ],
+          [
+            -106.65944701,
+            35.08818779
+          ],
+          [
+            -106.65938701,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 206436553,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6607666,
+            35.08420555
+          ],
+          [
+            -106.66020178,
+            35.08414088
+          ],
+          [
+            -106.65902094,
+            35.08397467
+          ],
+          [
+            -106.65887595,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 187528077,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65882125,
+            35.08496676
+          ],
+          [
+            -106.65764931,
+            35.08481077
+          ],
+          [
+            -106.65647629,
+            35.08466772
+          ],
+          [
+            -106.65528458,
+            35.08450071
+          ],
+          [
+            -106.65527344,
+            35.0844993
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584695,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65657268,
+            35.08534312
+          ],
+          [
+            -106.65712712,
+            35.08566671
+          ],
+          [
+            -106.65723204,
+            35.0856867
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424466,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "11th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.66021066,
+            35.0840995
+          ],
+          [
+            -106.66024154,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424466,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "11th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65997091,
+            35.08537098
+          ],
+          [
+            -106.6600346,
+            35.08499859
+          ],
+          [
+            -106.66010081,
+            35.08461097
+          ],
+          [
+            -106.66020178,
+            35.08414088
+          ],
+          [
+            -106.66021066,
+            35.0840995
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895371,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65649398,
+            35.08483172
+          ],
+          [
+            -106.65647629,
+            35.08466772
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895377,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. SW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65649398,
+            35.08483172
+          ],
+          [
+            -106.6565027,
+            35.0849128
+          ],
+          [
+            -106.65654393,
+            35.08506548
+          ],
+          [
+            -106.65651959,
+            35.08511951
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895381,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6578808,
+            35.08506011
+          ],
+          [
+            -106.65790119,
+            35.08495786
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800381,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Park Ave. SW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65689391,
+            35.08519478
+          ],
+          [
+            -106.65683894,
+            35.08517537
+          ],
+          [
+            -106.65671829,
+            35.08515001
+          ],
+          [
+            -106.65664409,
+            35.08513259
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 133663554,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65657268,
+            35.08534312
+          ],
+          [
+            -106.65662747,
+            35.08533158
+          ],
+          [
+            -106.65667167,
+            35.08530387
+          ],
+          [
+            -106.65669997,
+            35.08526248
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425135,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65544268,
+            35.08747551
+          ],
+          [
+            -106.65536583,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584692,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65593002,
+            35.08751991
+          ],
+          [
+            -106.65599659,
+            35.08714848
+          ],
+          [
+            -106.65608507,
+            35.08667252
+          ],
+          [
+            -106.65617939,
+            35.08616465
+          ],
+          [
+            -106.65634702,
+            35.08534342
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 31387078,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Gold Ave. SW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6607666,
+            35.08470151
+          ],
+          [
+            -106.66010081,
+            35.08461097
+          ],
+          [
+            -106.65891683,
+            35.08445895
+          ],
+          [
+            -106.65775279,
+            35.08430701
+          ],
+          [
+            -106.65655273,
+            35.08416212
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895373,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 356,
+        "service": "parking_aisle",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65784307,
+            35.0852483
+          ],
+          [
+            -106.6578808,
+            35.08506011
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895382,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65773069,
+            35.0849339
+          ],
+          [
+            -106.65762874,
+            35.08491927
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895383,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 356,
+        "service": "parking_aisle",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6572819,
+            35.08538061
+          ],
+          [
+            -106.65725036,
+            35.08557357
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425475,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Keleher Ave. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65620859,
+            35.08754872
+          ],
+          [
+            -106.65616586,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104449681,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "is_bicycle_related": true,
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6607666,
+            35.08765109
+          ],
+          [
+            -106.6599348,
+            35.08728836
+          ],
+          [
+            -106.65965497,
+            35.08714951
+          ],
+          [
+            -106.6585619,
+            35.08649367
+          ],
+          [
+            -106.65848806,
+            35.0864628
+          ],
+          [
+            -106.65723204,
+            35.0856867
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 206436570,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65884586,
+            35.08483547
+          ],
+          [
+            -106.6600346,
+            35.08499859
+          ],
+          [
+            -106.6607666,
+            35.08509046
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800380,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. NW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65642877,
+            35.08523352
+          ],
+          [
+            -106.65633588,
+            35.08529262
+          ],
+          [
+            -106.65634702,
+            35.08534342
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895372,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. NW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65632806,
+            35.08520691
+          ],
+          [
+            -106.65633588,
+            35.08529262
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895374,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65725036,
+            35.08557357
+          ],
+          [
+            -106.65723195,
+            35.0856867
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895375,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65782592,
+            35.08534849
+          ],
+          [
+            -106.65784307,
+            35.0852483
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 402895378,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 356,
+        "service": "parking_aisle",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65773069,
+            35.0849339
+          ],
+          [
+            -106.65790119,
+            35.08495786
+          ],
+          [
+            -106.65799237,
+            35.08496999
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14414920,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "7th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65527344,
+            35.08456345
+          ],
+          [
+            -106.65528458,
+            35.08450071
+          ],
+          [
+            -106.65537037,
+            35.0840165
+          ],
+          [
+            -106.6553829,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424414,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Kent Ave. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65527344,
+            35.08705865
+          ],
+          [
+            -106.65599659,
+            35.08714848
+          ],
+          [
+            -106.65717401,
+            35.08730182
+          ],
+          [
+            -106.65836985,
+            35.08745331
+          ],
+          [
+            -106.65955733,
+            35.08760782
+          ],
+          [
+            -106.66055302,
+            35.08773212
+          ],
+          [
+            -106.6607666,
+            35.08765142
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584686,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. SW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65664409,
+            35.08513259
+          ],
+          [
+            -106.65658148,
+            35.08490302
+          ],
+          [
+            -106.65649398,
+            35.08483172
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 183102368,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Gold Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65655282,
+            35.08416212
+          ],
+          [
+            -106.65537046,
+            35.0840165
+          ],
+          [
+            -106.65527344,
+            35.08400351
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14420632,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "9th St. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65735708,
+            35.08632497
+          ],
+          [
+            -106.6572651,
+            35.08681601
+          ],
+          [
+            -106.65717401,
+            35.08730182
+          ],
+          [
+            -106.65707088,
+            35.08781401
+          ],
+          [
+            -106.65694587,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14418814,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "10th St. SW",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6585619,
+            35.08649367
+          ],
+          [
+            -106.65873214,
+            35.08546595
+          ],
+          [
+            -106.65882125,
+            35.08496676
+          ],
+          [
+            -106.65884586,
+            35.08483547
+          ],
+          [
+            -106.65891683,
+            35.08445895
+          ],
+          [
+            -106.65902094,
+            35.08397467
+          ],
+          [
+            -106.65902504,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584697,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65723204,
+            35.0856867
+          ],
+          [
+            -106.6571785,
+            35.08561216
+          ],
+          [
+            -106.65680821,
+            35.08536069
+          ],
+          [
+            -106.65669997,
+            35.08526248
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800382,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65610798,
+            35.08514149
+          ],
+          [
+            -106.65527344,
+            35.08503799
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 183521470,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Copper Ave. NW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65527344,
+            35.0860524
+          ],
+          [
+            -106.65617939,
+            35.08616465
+          ],
+          [
+            -106.65735708,
+            35.08632497
+          ],
+          [
+            -106.65848806,
+            35.0864628
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415582,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "12th St. NW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6607666,
+            35.08765342
+          ],
+          [
+            -106.66063189,
+            35.08838126
+          ],
+          [
+            -106.66061511,
+            35.08845057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14420605,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65647629,
+            35.08466772
+          ],
+          [
+            -106.65655273,
+            35.08416212
+          ],
+          [
+            -106.65659411,
+            35.08395558
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800378,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "8th St. NW",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65634702,
+            35.08534342
+          ],
+          [
+            -106.65645706,
+            35.08530122
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 193422503,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65527344,
+            35.08555555
+          ],
+          [
+            -106.65568918,
+            35.08561047
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584602,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65646524,
+            35.08514766
+          ],
+          [
+            -106.65618981,
+            35.08511936
+          ],
+          [
+            -106.65610798,
+            35.08514149
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 293800375,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65610798,
+            35.08514149
+          ],
+          [
+            -106.65617939,
+            35.08517552
+          ],
+          [
+            -106.65632806,
+            35.08520691
+          ],
+          [
+            -106.65642877,
+            35.08523352
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 197277689,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65527344,
+            35.08655793
+          ],
+          [
+            -106.65608507,
+            35.08667252
+          ],
+          [
+            -106.6572651,
+            35.08681601
+          ],
+          [
+            -106.6584683,
+            35.08696111
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 303681078,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Tijeras Ave. NW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6606318,
+            35.08838126
+          ],
+          [
+            -106.65944701,
+            35.08818779
+          ],
+          [
+            -106.6582713,
+            35.0880038
+          ],
+          [
+            -106.65707088,
+            35.08781401
+          ],
+          [
+            -106.65694395,
+            35.08778696
+          ],
+          [
+            -106.65640289,
+            35.0875868
+          ],
+          [
+            -106.65633292,
+            35.08756695
+          ],
+          [
+            -106.6562085,
+            35.08754872
+          ],
+          [
+            -106.65593002,
+            35.08751991
+          ],
+          [
+            -106.65544259,
+            35.08747551
+          ],
+          [
+            -106.65527344,
+            35.08745892
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 128584690,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65642823,
+            35.08520441
+          ],
+          [
+            -106.65642877,
+            35.08523352
+          ],
+          [
+            -106.65642921,
+            35.0852555
+          ],
+          [
+            -106.65645706,
+            35.08530122
+          ],
+          [
+            -106.65650943,
+            35.08533357
+          ],
+          [
+            -106.65657268,
+            35.08534312
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 133663556,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NW",
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65669997,
+            35.08526248
+          ],
+          [
+            -106.656705,
+            35.08521191
+          ],
+          [
+            -106.65668568,
+            35.08516802
+          ],
+          [
+            -106.65666439,
+            35.08514987
+          ],
+          [
+            -106.65664409,
+            35.08513259
+          ],
+          [
+            -106.65658238,
+            35.08511392
+          ],
+          [
+            -106.65651959,
+            35.08511951
+          ],
+          [
+            -106.65646524,
+            35.08514766
+          ],
+          [
+            -106.65642823,
+            35.08520441
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

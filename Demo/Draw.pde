@@ -47,7 +47,6 @@ void draw_selection() {
   //change the color if pulling data to show how fast or slow the pull is    
   if (pull) {
     fill(#00ff00);
-    stroke(#ff0000);
   }
 
   rect(mouseX, mouseY, boxw, boxh);

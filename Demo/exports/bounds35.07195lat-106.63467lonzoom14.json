@@ -1,0 +1,9482 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": 134430200,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 380,
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.650629,
+              35.065973
+            ],
+            [
+              -106.65025,
+              35.068109
+            ]
+          ],
+          [
+            [
+              -106.650458,
+              35.066996
+            ],
+            [
+              -106.650757,
+              35.066396
+            ]
+          ],
+          [
+            [
+              -106.650646,
+              35.066973
+            ],
+            [
+              -106.650395,
+              35.068064
+            ]
+          ],
+          [
+            [
+              -106.65035,
+              35.066022
+            ],
+            [
+              -106.650326,
+              35.066654
+            ]
+          ],
+          [
+            [
+              -106.65008,
+              35.068479
+            ],
+            [
+              -106.649071,
+              35.074039
+            ]
+          ],
+          [
+            [
+              -106.649834,
+              35.069496
+            ],
+            [
+              -106.649714,
+              35.069867
+            ]
+          ],
+          [
+            [
+              -106.649155,
+              35.074042
+            ],
+            [
+              -106.649366,
+              35.073023
+            ]
+          ],
+          [
+            [
+              -106.649366,
+              35.073023
+            ],
+            [
+              -106.649381,
+              35.072949
+            ]
+          ],
+          [
+            [
+              -106.649366,
+              35.073023
+            ],
+            [
+              -106.649173,
+              35.074454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 282619279,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "attraction",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637021,
+              35.075789
+            ],
+            [
+              -106.637039,
+              35.075789
+            ]
+          ],
+          [
+            [
+              -106.636477,
+              35.075197
+            ],
+            [
+              -106.636478,
+              35.075282
+            ]
+          ],
+          [
+            [
+              -106.635922,
+              35.076511
+            ],
+            [
+              -106.63592,
+              35.076519
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407959,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Lead Ave. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649786,
+            35.081289
+          ],
+          [
+            -106.654645,
+            35.081923
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14409179,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Locust St. NE",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637104,
+            35.083956
+          ],
+          [
+            -106.63735,
+            35.082685
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 328371767,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654914,
+              35.069601
+            ],
+            [
+              -106.655185,
+              35.069332
+            ]
+          ],
+          [
+            [
+              -106.655102,
+              35.069851
+            ],
+            [
+              -106.654941,
+              35.069786
+            ]
+          ],
+          [
+            [
+              -106.652187,
+              35.080955
+            ],
+            [
+              -106.652178,
+              35.080782
+            ]
+          ],
+          [
+            [
+              -106.651665,
+              35.080629
+            ],
+            [
+              -106.651663,
+              35.080883
+            ]
+          ],
+          [
+            [
+              -106.651478,
+              35.082991
+            ],
+            [
+              -106.65126,
+              35.082961
+            ]
+          ],
+          [
+            [
+              -106.65126,
+              35.082961
+            ],
+            [
+              -106.651063,
+              35.082978
+            ]
+          ],
+          [
+            [
+              -106.651063,
+              35.082978
+            ],
+            [
+              -106.651019,
+              35.082971
+            ]
+          ],
+          [
+            [
+              -106.65125,
+              35.083016
+            ],
+            [
+              -106.65126,
+              35.082961
+            ]
+          ],
+          [
+            [
+              -106.651181,
+              35.082392
+            ],
+            [
+              -106.651035,
+              35.082303
+            ]
+          ],
+          [
+            [
+              -106.651054,
+              35.083021
+            ],
+            [
+              -106.651063,
+              35.082978
+            ]
+          ],
+          [
+            [
+              -106.651043,
+              35.083926
+            ],
+            [
+              -106.651052,
+              35.083869
+            ]
+          ],
+          [
+            [
+              -106.646433,
+              35.072647
+            ],
+            [
+              -106.646434,
+              35.072466
+            ]
+          ],
+          [
+            [
+              -106.64061,
+              35.082628
+            ],
+            [
+              -106.640996,
+              35.082716
+            ]
+          ],
+          [
+            [
+              -106.640532,
+              35.083017
+            ],
+            [
+              -106.640843,
+              35.08304
+            ]
+          ],
+          [
+            [
+              -106.63985,
+              35.083354
+            ],
+            [
+              -106.640109,
+              35.083392
+            ]
+          ],
+          [
+            [
+              -106.638158,
+              35.082096
+            ],
+            [
+              -106.638206,
+              35.081903
+            ]
+          ],
+          [
+            [
+              -106.635698,
+              35.07577
+            ],
+            [
+              -106.637021,
+              35.075789
+            ]
+          ],
+          [
+            [
+              -106.636984,
+              35.078257
+            ],
+            [
+              -106.63688,
+              35.078262
+            ]
+          ],
+          [
+            [
+              -106.636929,
+              35.076448
+            ],
+            [
+              -106.635918,
+              35.076479
+            ]
+          ],
+          [
+            [
+              -106.635918,
+              35.076479
+            ],
+            [
+              -106.635922,
+              35.076511
+            ]
+          ],
+          [
+            [
+              -106.635024,
+              35.074964
+            ],
+            [
+              -106.636478,
+              35.075318
+            ]
+          ],
+          [
+            [
+              -106.636478,
+              35.075318
+            ],
+            [
+              -106.636908,
+              35.075359
+            ]
+          ],
+          [
+            [
+              -106.636313,
+              35.079695
+            ],
+            [
+              -106.636557,
+              35.079724
+            ]
+          ],
+          [
+            [
+              -106.636478,
+              35.075282
+            ],
+            [
+              -106.636478,
+              35.075318
+            ]
+          ],
+          [
+            [
+              -106.6363,
+              35.079356
+            ],
+            [
+              -106.6363,
+              35.079356
+            ]
+          ],
+          [
+            [
+              -106.636256,
+              35.079238
+            ],
+            [
+              -106.636256,
+              35.079238
+            ]
+          ],
+          [
+            [
+              -106.636219,
+              35.078456
+            ],
+            [
+              -106.636274,
+              35.078117
+            ],
+            [
+              -106.636118,
+              35.078121
+            ]
+          ],
+          [
+            [
+              -106.635977,
+              35.079873
+            ],
+            [
+              -106.636021,
+              35.079653
+            ]
+          ],
+          [
+            [
+              -106.635249,
+              35.076484
+            ],
+            [
+              -106.635918,
+              35.076479
+            ]
+          ],
+          [
+            [
+              -106.635788,
+              35.078079
+            ],
+            [
+              -106.635682,
+              35.078062
+            ]
+          ],
+          [
+            [
+              -106.635786,
+              35.077446
+            ],
+            [
+              -106.635775,
+              35.077273
+            ]
+          ],
+          [
+            [
+              -106.635574,
+              35.075285
+            ],
+            [
+              -106.635689,
+              35.075307
+            ]
+          ],
+          [
+            [
+              -106.635152,
+              35.079197
+            ],
+            [
+              -106.635152,
+              35.079197
+            ]
+          ],
+          [
+            [
+              -106.635132,
+              35.067204
+            ],
+            [
+              -106.635051,
+              35.06716
+            ]
+          ],
+          [
+            [
+              -106.634763,
+              35.067605
+            ],
+            [
+              -106.634772,
+              35.067607
+            ]
+          ],
+          [
+            [
+              -106.634635,
+              35.067696
+            ],
+            [
+              -106.634604,
+              35.06784
+            ]
+          ],
+          [
+            [
+              -106.634494,
+              35.071449
+            ],
+            [
+              -106.634494,
+              35.071952
+            ]
+          ],
+          [
+            [
+              -106.634351,
+              35.078701
+            ],
+            [
+              -106.634439,
+              35.078713
+            ]
+          ],
+          [
+            [
+              -106.633762,
+              35.071508
+            ],
+            [
+              -106.633641,
+              35.07151
+            ]
+          ],
+          [
+            [
+              -106.633696,
+              35.071654
+            ],
+            [
+              -106.633762,
+              35.071508
+            ]
+          ],
+          [
+            [
+              -106.633762,
+              35.071508
+            ],
+            [
+              -106.633761,
+              35.071447
+            ]
+          ],
+          [
+            [
+              -106.633505,
+              35.06723
+            ],
+            [
+              -106.633505,
+              35.067196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14414104,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Silver Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648434,
+            35.082127
+          ],
+          [
+            -106.649616,
+            35.082276
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 165925464,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.635147,
+              35.080449
+            ],
+            [
+              -106.635129,
+              35.080534
+            ]
+          ],
+          [
+            [
+              -106.634405,
+              35.081958
+            ],
+            [
+              -106.634442,
+              35.081703
+            ]
+          ],
+          [
+            [
+              -106.634124,
+              35.080992
+            ],
+            [
+              -106.634217,
+              35.081005
+            ]
+          ],
+          [
+            [
+              -106.633558,
+              35.081592
+            ],
+            [
+              -106.634442,
+              35.081703
+            ]
+          ],
+          [
+            [
+              -106.634442,
+              35.081703
+            ],
+            [
+              -106.634651,
+              35.081648
+            ],
+            [
+              -106.634631,
+              35.081403
+            ],
+            [
+              -106.634075,
+              35.081261
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.079588
+            ],
+            [
+              -106.633302,
+              35.079588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14412565,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Coal Ave. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649988,
+            35.080306
+          ],
+          [
+            -106.653643,
+            35.080784
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 191521703,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "5th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.652948,
+            35.083956
+          ],
+          [
+            -106.654381,
+            35.076584
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192924065,
+        "is_link": "yes",
+        "highway": "secondary_link",
+        "source": "openstreetmap.org",
+        "sort_key": 355,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.653125,
+              35.069992
+            ],
+            [
+              -106.652974,
+              35.069719
+            ],
+            [
+              -106.652227,
+              35.069691
+            ]
+          ],
+          [
+            [
+              -106.635602,
+              35.082572
+            ],
+            [
+              -106.636053,
+              35.082763
+            ],
+            [
+              -106.635973,
+              35.083463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 41695471,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639967,
+              35.072372
+            ],
+            [
+              -106.640032,
+              35.070931
+            ]
+          ],
+          [
+            [
+              -106.640032,
+              35.070931
+            ],
+            [
+              -106.640115,
+              35.070065
+            ],
+            [
+              -106.640551,
+              35.06984
+            ]
+          ],
+          [
+            [
+              -106.640543,
+              35.069715
+            ],
+            [
+              -106.640126,
+              35.069602
+            ],
+            [
+              -106.639907,
+              35.069351
+            ]
+          ],
+          [
+            [
+              -106.639907,
+              35.069351
+            ],
+            [
+              -106.639149,
+              35.066152
+            ]
+          ],
+          [
+            [
+              -106.640032,
+              35.070931
+            ],
+            [
+              -106.639907,
+              35.069351
+            ]
+          ],
+          [
+            [
+              -106.639062,
+              35.066785
+            ],
+            [
+              -106.639037,
+              35.069329
+            ]
+          ],
+          [
+            [
+              -106.639037,
+              35.069329
+            ],
+            [
+              -106.63919,
+              35.070283
+            ]
+          ],
+          [
+            [
+              -106.63919,
+              35.070283
+            ],
+            [
+              -106.639746,
+              35.072038
+            ]
+          ],
+          [
+            [
+              -106.638526,
+              35.069881
+            ],
+            [
+              -106.638973,
+              35.069989
+            ],
+            [
+              -106.63919,
+              35.070283
+            ]
+          ],
+          [
+            [
+              -106.639037,
+              35.069329
+            ],
+            [
+              -106.638889,
+              35.069615
+            ],
+            [
+              -106.63842,
+              35.069747
+            ]
+          ],
+          [
+            [
+              -106.638188,
+              35.078804
+            ],
+            [
+              -106.638317,
+              35.077624
+            ],
+            [
+              -106.639009,
+              35.076374
+            ]
+          ],
+          [
+            [
+              -106.63867,
+              35.076468
+            ],
+            [
+              -106.637365,
+              35.07762
+            ],
+            [
+              -106.637082,
+              35.078126
+            ]
+          ],
+          [
+            [
+              -106.636949,
+              35.082391
+            ],
+            [
+              -106.637312,
+              35.080886
+            ],
+            [
+              -106.637984,
+              35.079767
+            ]
+          ],
+          [
+            [
+              -106.63735,
+              35.082685
+            ],
+            [
+              -106.637534,
+              35.080652
+            ]
+          ],
+          [
+            [
+              -106.637423,
+              35.079507
+            ],
+            [
+              -106.637479,
+              35.078923
+            ]
+          ],
+          [
+            [
+              -106.637474,
+              35.080392
+            ],
+            [
+              -106.637414,
+              35.079924
+            ]
+          ],
+          [
+            [
+              -106.636532,
+              35.083956
+            ],
+            [
+              -106.636792,
+              35.082976
+            ]
+          ],
+          [
+            [
+              -106.636778,
+              35.079746
+            ],
+            [
+              -106.636727,
+              35.081667
+            ]
+          ],
+          [
+            [
+              -106.636503,
+              35.082931
+            ],
+            [
+              -106.636012,
+              35.083956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 166243008,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "commercial",
+        "sort_key": 360,
+        "name": "Mulberry St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.635821,
+            35.078494
+          ],
+          [
+            -106.635949,
+            35.07742
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 177610223,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NE",
+        "is_tunnel": "yes",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647186,
+            35.083948
+          ],
+          [
+            -106.646795,
+            35.0839
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 221632373,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "6th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654938,
+              35.079905
+            ],
+            [
+              -106.655082,
+              35.079126
+            ]
+          ],
+          [
+            [
+              -106.654664,
+              35.081303
+            ],
+            [
+              -106.654836,
+              35.080457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14416921,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 376,
+        "name": "Edith Blvd. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.642164,
+            35.083401
+          ],
+          [
+            -106.64328,
+            35.077717
+          ],
+          [
+            -106.642973,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14417270,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 360,
+        "name": "Elm St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.638803,
+            35.081832
+          ],
+          [
+            -106.638314,
+            35.081474
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424690,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Stover Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649164,
+            35.078205
+          ],
+          [
+            -106.654019,
+            35.078821
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 134430198,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 361,
+        "service": "siding",
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.650456,
+            35.065973
+          ],
+          [
+            -106.649005,
+            35.073432
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14416397,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Meadow St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654835,
+            35.071184
+          ],
+          [
+            -106.65483,
+            35.070916
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14423762,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Locust St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.638655,
+              35.075335
+            ],
+            [
+              -106.63865,
+              35.075974
+            ],
+            [
+              -106.638389,
+              35.076369
+            ],
+            [
+              -106.638009,
+              35.076538
+            ],
+            [
+              -106.637108,
+              35.07658
+            ]
+          ],
+          [
+            [
+              -106.637644,
+              35.081701
+            ],
+            [
+              -106.637939,
+              35.080154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 179545666,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Platinum St.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.650525,
+            35.082386
+          ],
+          [
+            -106.650716,
+            35.081412
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 171968169,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "industrial",
+        "sort_key": 360,
+        "name": "Oak St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637219,
+            35.073718
+          ],
+          [
+            -106.637093,
+            35.075152
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 48360485,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Coal Ave. SW",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649988,
+            35.080306
+          ],
+          [
+            -106.648976,
+            35.080192
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424690,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Stover Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654019,
+            35.078821
+          ],
+          [
+            -106.654219,
+            35.078826
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14409424,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Dan Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647585,
+            35.067591
+          ],
+          [
+            -106.639737,
+            35.067772
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424895,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Trumbull Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.649835,
+              35.068248
+            ],
+            [
+              -106.648608,
+              35.068148
+            ]
+          ],
+          [
+            [
+              -106.648524,
+              35.068553
+            ],
+            [
+              -106.641875,
+              35.068706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14413966,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Silver Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.646508,
+              35.081873
+            ],
+            [
+              -106.641954,
+              35.08129
+            ]
+          ],
+          [
+            [
+              -106.640818,
+              35.08114
+            ],
+            [
+              -106.637816,
+              35.080745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 48360483,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Lead Ave.",
+        "is_bicycle_related": true,
+        "is_bridge": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.646245,
+            35.080842
+          ],
+          [
+            -106.649516,
+            35.08126
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 201294080,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "cycleway": "shared_lane",
+        "sort_key": 360,
+        "name": "Silver Ave. SW",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649616,
+            35.082276
+          ],
+          [
+            -106.655273,
+            35.082998
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936656,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "High St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639806,
+              35.083072
+            ],
+            [
+              -106.640853,
+              35.077652
+            ],
+            [
+              -106.640893,
+              35.076649
+            ]
+          ],
+          [
+            [
+              -106.640854,
+              35.074586
+            ],
+            [
+              -106.640692,
+              35.070024
+            ]
+          ],
+          [
+            [
+              -106.640685,
+              35.069842
+            ],
+            [
+              -106.640619,
+              35.067744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415150,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Commercial St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.646855,
+            35.076502
+          ],
+          [
+            -106.647613,
+            35.076402
+          ],
+          [
+            -106.648287,
+            35.075969
+          ],
+          [
+            -106.648463,
+            35.075693
+          ],
+          [
+            -106.64872,
+            35.074624
+          ],
+          [
+            -106.648602,
+            35.074436
+          ],
+          [
+            -106.649835,
+            35.068248
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421659,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Cromwell Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648797,
+            35.073495
+          ],
+          [
+            -106.640813,
+            35.073675
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407296,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Manuel Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654498,
+            35.06922
+          ],
+          [
+            -106.655273,
+            35.069279
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 282415427,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "sort_key": 354,
+        "kind": "path",
+        "bicycle": "yes"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.633552,
+              35.076626
+            ],
+            [
+              -106.633703,
+              35.075922
+            ],
+            [
+              -106.633368,
+              35.075674
+            ]
+          ],
+          [
+            [
+              -106.633368,
+              35.075674
+            ],
+            [
+              -106.633301,
+              35.075628
+            ]
+          ],
+          [
+            [
+              -106.633368,
+              35.075674
+            ],
+            [
+              -106.633316,
+              35.075725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14413966,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Silver Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.641954,
+            35.08129
+          ],
+          [
+            -106.640818,
+            35.08114
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 178905275,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Titanium St.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649897,
+            35.082309
+          ],
+          [
+            -106.650087,
+            35.081329
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 166243008,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Mulberry St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.635949,
+              35.07742
+            ],
+            [
+              -106.635935,
+              35.077172
+            ]
+          ],
+          [
+            [
+              -106.635905,
+              35.076632
+            ],
+            [
+              -106.635903,
+              35.076596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14416448,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Mulberry St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.63492,
+            35.082349
+          ],
+          [
+            -106.634601,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 182955564,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Basehart Southeast",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.633718,
+              35.072972
+            ],
+            [
+              -106.636087,
+              35.072892
+            ],
+            [
+              -106.636516,
+              35.072726
+            ],
+            [
+              -106.636909,
+              35.072229
+            ],
+            [
+              -106.636903,
+              35.071196
+            ]
+          ],
+          [
+            [
+              -106.633718,
+              35.072972
+            ],
+            [
+              -106.633301,
+              35.072966
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.073016
+            ],
+            [
+              -106.633718,
+              35.072972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 173879731,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "is_bridge": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637211,
+            35.071191
+          ],
+          [
+            -106.637437,
+            35.071186
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 133803303,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 361,
+        "service": "spur",
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.65003,
+              35.069
+            ],
+            [
+              -106.648717,
+              35.076142
+            ]
+          ],
+          [
+            [
+              -106.648717,
+              35.076142
+            ],
+            [
+              -106.648476,
+              35.077186
+            ]
+          ],
+          [
+            [
+              -106.648476,
+              35.077186
+            ],
+            [
+              -106.648329,
+              35.077664
+            ]
+          ],
+          [
+            [
+              -106.649071,
+              35.074039
+            ],
+            [
+              -106.648476,
+              35.077186
+            ]
+          ],
+          [
+            [
+              -106.649005,
+              35.073432
+            ],
+            [
+              -106.648697,
+              35.075223
+            ]
+          ],
+          [
+            [
+              -106.648697,
+              35.075223
+            ],
+            [
+              -106.648127,
+              35.076918
+            ]
+          ],
+          [
+            [
+              -106.648127,
+              35.076918
+            ],
+            [
+              -106.647941,
+              35.077457
+            ]
+          ],
+          [
+            [
+              -106.647941,
+              35.077457
+            ],
+            [
+              -106.647319,
+              35.079814
+            ],
+            [
+              -106.647024,
+              35.082126
+            ]
+          ],
+          [
+            [
+              -106.648745,
+              35.077263
+            ],
+            [
+              -106.64833,
+              35.079546
+            ]
+          ],
+          [
+            [
+              -106.64873,
+              35.07776
+            ],
+            [
+              -106.648695,
+              35.078034
+            ]
+          ],
+          [
+            [
+              -106.648695,
+              35.078034
+            ],
+            [
+              -106.648381,
+              35.079804
+            ]
+          ],
+          [
+            [
+              -106.648717,
+              35.076142
+            ],
+            [
+              -106.648745,
+              35.077263
+            ]
+          ],
+          [
+            [
+              -106.648745,
+              35.077263
+            ],
+            [
+              -106.64877,
+              35.078336
+            ],
+            [
+              -106.648643,
+              35.079169
+            ]
+          ],
+          [
+            [
+              -106.648012,
+              35.078826
+            ],
+            [
+              -106.648697,
+              35.075223
+            ]
+          ],
+          [
+            [
+              -106.648503,
+              35.079413
+            ],
+            [
+              -106.648682,
+              35.078463
+            ],
+            [
+              -106.648695,
+              35.078034
+            ]
+          ],
+          [
+            [
+              -106.648478,
+              35.076125
+            ],
+            [
+              -106.648465,
+              35.076195
+            ]
+          ],
+          [
+            [
+              -106.648465,
+              35.076195
+            ],
+            [
+              -106.647915,
+              35.079074
+            ],
+            [
+              -106.647457,
+              35.080376
+            ],
+            [
+              -106.646862,
+              35.083559
+            ]
+          ],
+          [
+            [
+              -106.646862,
+              35.083559
+            ],
+            [
+              -106.646842,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.648465,
+              35.076195
+            ],
+            [
+              -106.647797,
+              35.079225
+            ]
+          ],
+          [
+            [
+              -106.648286,
+              35.077895
+            ],
+            [
+              -106.648105,
+              35.079287
+            ]
+          ],
+          [
+            [
+              -106.648127,
+              35.076918
+            ],
+            [
+              -106.647024,
+              35.082126
+            ]
+          ],
+          [
+            [
+              -106.647024,
+              35.082126
+            ],
+            [
+              -106.646862,
+              35.083559
+            ]
+          ],
+          [
+            [
+              -106.646964,
+              35.083956
+            ],
+            [
+              -106.647687,
+              35.079833
+            ]
+          ],
+          [
+            [
+              -106.647687,
+              35.079833
+            ],
+            [
+              -106.647865,
+              35.07937
+            ]
+          ],
+          [
+            [
+              -106.647865,
+              35.07937
+            ],
+            [
+              -106.64796,
+              35.0791
+            ]
+          ],
+          [
+            [
+              -106.647941,
+              35.077457
+            ],
+            [
+              -106.64766,
+              35.078929
+            ]
+          ],
+          [
+            [
+              -106.646967,
+              35.083956
+            ],
+            [
+              -106.647865,
+              35.07937
+            ]
+          ],
+          [
+            [
+              -106.647687,
+              35.079833
+            ],
+            [
+              -106.646919,
+              35.083468
+            ],
+            [
+              -106.646886,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.647038,
+              35.083956
+            ],
+            [
+              -106.647083,
+              35.083725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 302702214,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Coal Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.634044,
+            35.078266
+          ],
+          [
+            -106.633504,
+            35.078196
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14410759,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Arno St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.643363,
+            35.083548
+          ],
+          [
+            -106.643273,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936659,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Avenida César Chávez Southeast",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637501,
+              35.069852
+            ],
+            [
+              -106.639059,
+              35.069863
+            ]
+          ],
+          [
+            [
+              -106.639052,
+              35.069742
+            ],
+            [
+              -106.637523,
+              35.069716
+            ]
+          ],
+          [
+            [
+              -106.637279,
+              35.069664
+            ],
+            [
+              -106.636494,
+              35.069358
+            ],
+            [
+              -106.635768,
+              35.068822
+            ],
+            [
+              -106.635076,
+              35.068496
+            ],
+            [
+              -106.634304,
+              35.068331
+            ],
+            [
+              -106.633301,
+              35.06834
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.068482
+            ],
+            [
+              -106.634282,
+              35.068476
+            ],
+            [
+              -106.635031,
+              35.068631
+            ],
+            [
+              -106.636424,
+              35.069485
+            ],
+            [
+              -106.637255,
+              35.069802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14419677,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Garfield Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.648996,
+              35.07244
+            ],
+            [
+              -106.646829,
+              35.072464
+            ]
+          ],
+          [
+            [
+              -106.64584,
+              35.072468
+            ],
+            [
+              -106.645664,
+              35.072469
+            ]
+          ],
+          [
+            [
+              -106.645666,
+              35.072564
+            ],
+            [
+              -106.640791,
+              35.072692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 221632373,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "6th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654836,
+              35.080457
+            ],
+            [
+              -106.654938,
+              35.079905
+            ]
+          ],
+          [
+            [
+              -106.654164,
+              35.083855
+            ],
+            [
+              -106.654664,
+              35.081303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936676,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 378,
+        "name": "Avenida César Chávez Southeast",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639059,
+              35.069863
+            ],
+            [
+              -106.645636,
+              35.069713
+            ]
+          ],
+          [
+            [
+              -106.645633,
+              35.069599
+            ],
+            [
+              -106.639052,
+              35.069742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14423763,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Locust St. SE",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637984,
+            35.079767
+          ],
+          [
+            -106.638188,
+            35.078804
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 302702214,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "commercial",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Coal Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.636935,
+            35.07864
+          ],
+          [
+            -106.634676,
+            35.078348
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425122,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Trumbull Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.651,
+            35.068339
+          ],
+          [
+            -106.6523,
+            35.068457
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 191597969,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Cedar St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.634738,
+            35.077555
+          ],
+          [
+            -106.634722,
+            35.077197
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936654,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Bridge Blvd. SW",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654414,
+              35.070145
+            ],
+            [
+              -106.655273,
+              35.07014
+            ]
+          ],
+          [
+            [
+              -106.655273,
+              35.070019
+            ],
+            [
+              -106.65444,
+              35.070034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14417166,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Marquez Ln. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.655165,
+            35.073111
+          ],
+          [
+            -106.655273,
+            35.073097
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14411101,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Walter St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.641124,
+            35.082529
+          ],
+          [
+            -106.641706,
+            35.079543
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14414106,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.648902,
+              35.079683
+            ],
+            [
+              -106.655273,
+              35.080495
+            ]
+          ],
+          [
+            [
+              -106.651041,
+              35.083956
+            ],
+            [
+              -106.649846,
+              35.0838
+            ]
+          ],
+          [
+            [
+              -106.655273,
+              35.07532
+            ],
+            [
+              -106.655044,
+              35.075336
+            ]
+          ],
+          [
+            [
+              -106.655044,
+              35.075336
+            ],
+            [
+              -106.654116,
+              35.07538
+            ]
+          ],
+          [
+            [
+              -106.655044,
+              35.075336
+            ],
+            [
+              -106.655145,
+              35.076238
+            ],
+            [
+              -106.655273,
+              35.076236
+            ]
+          ],
+          [
+            [
+              -106.651202,
+              35.077087
+            ],
+            [
+              -106.655027,
+              35.077566
+            ]
+          ],
+          [
+            [
+              -106.654456,
+              35.082387
+            ],
+            [
+              -106.650887,
+              35.081937
+            ]
+          ],
+          [
+            [
+              -106.654099,
+              35.079343
+            ],
+            [
+              -106.654268,
+              35.079365
+            ]
+          ],
+          [
+            [
+              -106.650451,
+              35.077865
+            ],
+            [
+              -106.65402,
+              35.078339
+            ]
+          ],
+          [
+            [
+              -106.653829,
+              35.079309
+            ],
+            [
+              -106.653934,
+              35.079322
+            ]
+          ],
+          [
+            [
+              -106.653455,
+              35.081273
+            ],
+            [
+              -106.652259,
+              35.081102
+            ]
+          ],
+          [
+            [
+              -106.652193,
+              35.075126
+            ],
+            [
+              -106.653388,
+              35.075288
+            ]
+          ],
+          [
+            [
+              -106.652645,
+              35.079153
+            ],
+            [
+              -106.650265,
+              35.078843
+            ]
+          ],
+          [
+            [
+              -106.651927,
+              35.074593
+            ],
+            [
+              -106.652097,
+              35.073685
+            ]
+          ],
+          [
+            [
+              -106.651137,
+              35.077465
+            ],
+            [
+              -106.651202,
+              35.077087
+            ]
+          ],
+          [
+            [
+              -106.651202,
+              35.077087
+            ],
+            [
+              -106.651268,
+              35.076707
+            ]
+          ],
+          [
+            [
+              -106.651075,
+              35.08096
+            ],
+            [
+              -106.649281,
+              35.080725
+            ]
+          ],
+          [
+            [
+              -106.6497,
+              35.08378
+            ],
+            [
+              -106.649341,
+              35.083736
+            ]
+          ],
+          [
+            [
+              -106.648348,
+              35.082547
+            ],
+            [
+              -106.649531,
+              35.0827
+            ]
+          ],
+          [
+            [
+              -106.648747,
+              35.070535
+            ],
+            [
+              -106.648178,
+              35.07351
+            ]
+          ],
+          [
+            [
+              -106.648041,
+              35.071053
+            ],
+            [
+              -106.646884,
+              35.071075
+            ]
+          ],
+          [
+            [
+              -106.646371,
+              35.073555
+            ],
+            [
+              -106.646444,
+              35.075566
+            ]
+          ],
+          [
+            [
+              -106.646339,
+              35.072369
+            ],
+            [
+              -106.646242,
+              35.069728
+            ]
+          ],
+          [
+            [
+              -106.646245,
+              35.069612
+            ],
+            [
+              -106.6462,
+              35.068614
+            ]
+          ],
+          [
+            [
+              -106.645113,
+              35.075565
+            ],
+            [
+              -106.64514,
+              35.077621
+            ],
+            [
+              -106.644958,
+              35.078668
+            ]
+          ],
+          [
+            [
+              -106.644942,
+              35.070625
+            ],
+            [
+              -106.645054,
+              35.074574
+            ]
+          ],
+          [
+            [
+              -106.64479,
+              35.065973
+            ],
+            [
+              -106.644899,
+              35.069613
+            ]
+          ],
+          [
+            [
+              -106.644761,
+              35.07966
+            ],
+            [
+              -106.643981,
+              35.083536
+            ]
+          ],
+          [
+            [
+              -106.643729,
+              35.069779
+            ],
+            [
+              -106.643906,
+              35.077647
+            ],
+            [
+              -106.642796,
+              35.083384
+            ]
+          ],
+          [
+            [
+              -106.643583,
+              35.065973
+            ],
+            [
+              -106.643708,
+              35.069638
+            ]
+          ],
+          [
+            [
+              -106.642783,
+              35.083477
+            ],
+            [
+              -106.642685,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.642697,
+              35.077083
+            ],
+            [
+              -106.64268,
+              35.077735
+            ],
+            [
+              -106.641603,
+              35.083231
+            ]
+          ],
+          [
+            [
+              -106.642509,
+              35.069804
+            ],
+            [
+              -106.642694,
+              35.075616
+            ]
+          ],
+          [
+            [
+              -106.642379,
+              35.065973
+            ],
+            [
+              -106.642477,
+              35.069178
+            ]
+          ],
+          [
+            [
+              -106.641592,
+              35.083328
+            ],
+            [
+              -106.641461,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.639908,
+              35.082549
+            ],
+            [
+              -106.640498,
+              35.082625
+            ],
+            [
+              -106.641455,
+              35.077726
+            ],
+            [
+              -106.641501,
+              35.075641
+            ],
+            [
+              -106.641303,
+              35.06983
+            ]
+          ],
+          [
+            [
+              -106.64123,
+              35.067733
+            ],
+            [
+              -106.641177,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.639986,
+              35.079039
+            ],
+            [
+              -106.640248,
+              35.077599
+            ]
+          ],
+          [
+            [
+              -106.640248,
+              35.077599
+            ],
+            [
+              -106.640307,
+              35.076712
+            ]
+          ],
+          [
+            [
+              -106.640248,
+              35.077599
+            ],
+            [
+              -106.639653,
+              35.077559
+            ]
+          ],
+          [
+            [
+              -106.63979,
+              35.080002
+            ],
+            [
+              -106.639772,
+              35.0801
+            ]
+          ],
+          [
+            [
+              -106.639624,
+              35.080885
+            ],
+            [
+              -106.639234,
+              35.082927
+            ]
+          ],
+          [
+            [
+              -106.639097,
+              35.08042
+            ],
+            [
+              -106.637914,
+              35.080256
+            ]
+          ],
+          [
+            [
+              -106.635519,
+              35.079947
+            ],
+            [
+              -106.636493,
+              35.080079
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.083725
+            ],
+            [
+              -106.635107,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.635246,
+              35.083956
+            ],
+            [
+              -106.635425,
+              35.083
+            ]
+          ],
+          [
+            [
+              -106.635425,
+              35.083
+            ],
+            [
+              -106.635509,
+              35.082552
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.082724
+            ],
+            [
+              -106.635425,
+              35.083
+            ]
+          ],
+          [
+            [
+              -106.634745,
+              35.077713
+            ],
+            [
+              -106.634683,
+              35.077714
+            ]
+          ],
+          [
+            [
+              -106.634526,
+              35.078824
+            ],
+            [
+              -106.63395,
+              35.078747
+            ]
+          ],
+          [
+            [
+              -106.633665,
+              35.078709
+            ],
+            [
+              -106.633301,
+              35.078662
+            ]
+          ],
+          [
+            [
+              -106.633575,
+              35.077736
+            ],
+            [
+              -106.633495,
+              35.077738
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407420,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Avenida César Chávez Southeast",
+        "is_bridge": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.648436,
+              35.069859
+            ],
+            [
+              -106.648116,
+              35.069832
+            ]
+          ],
+          [
+            [
+              -106.648098,
+              35.069912
+            ],
+            [
+              -106.648414,
+              35.069937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422475,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Southern Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.648809,
+              35.066968
+            ],
+            [
+              -106.647249,
+              35.06694
+            ]
+          ],
+          [
+            [
+              -106.646711,
+              35.066636
+            ],
+            [
+              -106.641202,
+              35.066732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14418524,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "cycleway": "shared_lane",
+        "sort_key": 376,
+        "name": "2nd St. SW",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.652227,
+            35.069691
+          ],
+          [
+            -106.651011,
+            35.076333
+          ],
+          [
+            -106.650657,
+            35.076778
+          ],
+          [
+            -106.650175,
+            35.07934
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 41695479,
+        "ref": "I 25",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "sort_key": 381,
+        "name": "Pan American Fwy.",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637577,
+              35.07852
+            ],
+            [
+              -106.638054,
+              35.077529
+            ],
+            [
+              -106.639426,
+              35.075869
+            ],
+            [
+              -106.640064,
+              35.074745
+            ],
+            [
+              -106.640124,
+              35.073526
+            ],
+            [
+              -106.639646,
+              35.070042
+            ]
+          ],
+          [
+            [
+              -106.639585,
+              35.06955
+            ],
+            [
+              -106.639125,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.63947,
+              35.070055
+            ],
+            [
+              -106.639936,
+              35.073762
+            ],
+            [
+              -106.639907,
+              35.074483
+            ],
+            [
+              -106.639528,
+              35.075393
+            ],
+            [
+              -106.637854,
+              35.077507
+            ],
+            [
+              -106.637397,
+              35.078501
+            ]
+          ],
+          [
+            [
+              -106.638957,
+              35.065973
+            ],
+            [
+              -106.639407,
+              35.069558
+            ]
+          ],
+          [
+            [
+              -106.637327,
+              35.079486
+            ],
+            [
+              -106.637479,
+              35.078923
+            ]
+          ],
+          [
+            [
+              -106.637293,
+              35.078901
+            ],
+            [
+              -106.637159,
+              35.079471
+            ]
+          ],
+          [
+            [
+              -106.636775,
+              35.08237
+            ],
+            [
+              -106.637246,
+              35.079893
+            ]
+          ],
+          [
+            [
+              -106.637081,
+              35.079877
+            ],
+            [
+              -106.636603,
+              35.08239
+            ]
+          ],
+          [
+            [
+              -106.636508,
+              35.083956
+            ],
+            [
+              -106.636669,
+              35.082951
+            ]
+          ],
+          [
+            [
+              -106.636503,
+              35.082931
+            ],
+            [
+              -106.636293,
+              35.083956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422026,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Elm St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.63861,
+            35.082937
+          ],
+          [
+            -106.638411,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415907,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Jesus St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647481,
+            35.068587
+          ],
+          [
+            -106.647603,
+            35.067697
+          ],
+          [
+            -106.647249,
+            35.06694
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 133803300,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 361,
+        "service": "spur",
+        "operator": "BNSF",
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.65057,
+              35.065973
+            ],
+            [
+              -106.648171,
+              35.078278
+            ]
+          ],
+          [
+            [
+              -106.647083,
+              35.083725
+            ],
+            [
+              -106.648123,
+              35.07853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14416075,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Bell Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649349,
+            35.070524
+          ],
+          [
+            -106.640321,
+            35.070713
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104448889,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Avenida César Chávez Southwest",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.65444,
+              35.070034
+            ],
+            [
+              -106.652379,
+              35.069989
+            ]
+          ],
+          [
+            [
+              -106.652376,
+              35.070065
+            ],
+            [
+              -106.654414,
+              35.070145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14419970,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Bell Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654149,
+            35.071866
+          ],
+          [
+            -106.655273,
+            35.071681
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14418921,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Spruce St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.633523,
+              35.076631
+            ],
+            [
+              -106.633417,
+              35.078221
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.078877
+            ],
+            [
+              -106.633343,
+              35.078649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415821,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Walter St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.640982,
+            35.083223
+          ],
+          [
+            -106.640857,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 303716626,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Lead Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.641011,
+            35.080161
+          ],
+          [
+            -106.642145,
+            35.080308
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172662248,
+        "ref": "NM 47",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Broadway Blvd. SE",
+        "network": "US:NM",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.64576,
+              35.07555
+            ],
+            [
+              -106.645605,
+              35.070594
+            ]
+          ],
+          [
+            [
+              -106.645605,
+              35.070594
+            ],
+            [
+              -106.645633,
+              35.069599
+            ]
+          ],
+          [
+            [
+              -106.645467,
+              35.068628
+            ],
+            [
+              -106.645605,
+              35.070594
+            ]
+          ],
+          [
+            [
+              -106.644686,
+              35.083725
+            ],
+            [
+              -106.645593,
+              35.078754
+            ],
+            [
+              -106.644575,
+              35.083713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422053,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "industrial",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.636088,
+            35.073008
+          ],
+          [
+            -106.636104,
+            35.073578
+          ],
+          [
+            -106.636852,
+            35.07371
+          ],
+          [
+            -106.638598,
+            35.073653
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421563,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 376,
+        "name": "Edith Blvd. NE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.642164,
+            35.083401
+          ],
+          [
+            -106.642056,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 321822027,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.633723,
+              35.068296
+            ],
+            [
+              -106.63372,
+              35.06803
+            ]
+          ],
+          [
+            [
+              -106.63372,
+              35.06803
+            ],
+            [
+              -106.633866,
+              35.06721
+            ],
+            [
+              -106.634153,
+              35.066675
+            ],
+            [
+              -106.63468,
+              35.066113
+            ],
+            [
+              -106.634929,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.63468,
+              35.070602
+            ],
+            [
+              -106.634688,
+              35.070329
+            ],
+            [
+              -106.633301,
+              35.070325
+            ]
+          ],
+          [
+            [
+              -106.63372,
+              35.06803
+            ],
+            [
+              -106.633588,
+              35.068039
+            ]
+          ],
+          [
+            [
+              -106.633419,
+              35.067387
+            ],
+            [
+              -106.633505,
+              35.06723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 190435234,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Cedar St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.634624,
+              35.078341
+            ],
+            [
+              -106.634738,
+              35.077555
+            ]
+          ],
+          [
+            [
+              -106.634722,
+              35.077197
+            ],
+            [
+              -106.634696,
+              35.076611
+            ]
+          ],
+          [
+            [
+              -106.634075,
+              35.081261
+            ],
+            [
+              -106.634241,
+              35.08034
+            ]
+          ],
+          [
+            [
+              -106.634075,
+              35.081261
+            ],
+            [
+              -106.633593,
+              35.082273
+            ]
+          ],
+          [
+            [
+              -106.633686,
+              35.082285
+            ],
+            [
+              -106.634075,
+              35.081261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 406593875,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654217,
+              35.066727
+            ],
+            [
+              -106.655273,
+              35.066685
+            ]
+          ],
+          [
+            [
+              -106.655188,
+              35.069273
+            ],
+            [
+              -106.655185,
+              35.069332
+            ]
+          ],
+          [
+            [
+              -106.654249,
+              35.066998
+            ],
+            [
+              -106.654632,
+              35.067003
+            ]
+          ],
+          [
+            [
+              -106.652187,
+              35.080955
+            ],
+            [
+              -106.652285,
+              35.080968
+            ]
+          ],
+          [
+            [
+              -106.651681,
+              35.080528
+            ],
+            [
+              -106.651665,
+              35.080629
+            ]
+          ],
+          [
+            [
+              -106.651601,
+              35.083611
+            ],
+            [
+              -106.651614,
+              35.083538
+            ]
+          ],
+          [
+            [
+              -106.651585,
+              35.081523
+            ],
+            [
+              -106.65156,
+              35.081654
+            ]
+          ],
+          [
+            [
+              -106.651505,
+              35.081951
+            ],
+            [
+              -106.651494,
+              35.082009
+            ]
+          ],
+          [
+            [
+              -106.651163,
+              35.08348
+            ],
+            [
+              -106.651185,
+              35.083364
+            ]
+          ],
+          [
+            [
+              -106.651185,
+              35.083364
+            ],
+            [
+              -106.651193,
+              35.083322
+            ]
+          ],
+          [
+            [
+              -106.651185,
+              35.083364
+            ],
+            [
+              -106.65069,
+              35.083017
+            ]
+          ],
+          [
+            [
+              -106.651166,
+              35.082465
+            ],
+            [
+              -106.651181,
+              35.082392
+            ]
+          ],
+          [
+            [
+              -106.651011,
+              35.076333
+            ],
+            [
+              -106.651473,
+              35.07637
+            ],
+            [
+              -106.651588,
+              35.075977
+            ],
+            [
+              -106.651104,
+              35.075848
+            ]
+          ],
+          [
+            [
+              -106.651039,
+              35.083956
+            ],
+            [
+              -106.651043,
+              35.083926
+            ]
+          ],
+          [
+            [
+              -106.651027,
+              35.082446
+            ],
+            [
+              -106.651016,
+              35.082536
+            ]
+          ],
+          [
+            [
+              -106.651019,
+              35.082971
+            ],
+            [
+              -106.650708,
+              35.082922
+            ]
+          ],
+          [
+            [
+              -106.650527,
+              35.080908
+            ],
+            [
+              -106.65053,
+              35.080886
+            ]
+          ],
+          [
+            [
+              -106.65044,
+              35.081376
+            ],
+            [
+              -106.650455,
+              35.081294
+            ]
+          ],
+          [
+            [
+              -106.650274,
+              35.083367
+            ],
+            [
+              -106.650261,
+              35.083442
+            ]
+          ],
+          [
+            [
+              -106.649679,
+              35.083291
+            ],
+            [
+              -106.649665,
+              35.083362
+            ]
+          ],
+          [
+            [
+              -106.649636,
+              35.083286
+            ],
+            [
+              -106.649653,
+              35.083188
+            ]
+          ],
+          [
+            [
+              -106.648243,
+              35.083054
+            ],
+            [
+              -106.647828,
+              35.083038
+            ],
+            [
+              -106.647635,
+              35.083758
+            ],
+            [
+              -106.647407,
+              35.083769
+            ],
+            [
+              -106.647594,
+              35.082632
+            ],
+            [
+              -106.648316,
+              35.082649
+            ]
+          ],
+          [
+            [
+              -106.646934,
+              35.072648
+            ],
+            [
+              -106.646834,
+              35.072648
+            ]
+          ],
+          [
+            [
+              -106.643613,
+              35.0785
+            ],
+            [
+              -106.643587,
+              35.078608
+            ]
+          ],
+          [
+            [
+              -106.643508,
+              35.078977
+            ],
+            [
+              -106.643526,
+              35.079025
+            ]
+          ],
+          [
+            [
+              -106.64214,
+              35.083039
+            ],
+            [
+              -106.642235,
+              35.083052
+            ]
+          ],
+          [
+            [
+              -106.641928,
+              35.082953
+            ],
+            [
+              -106.641884,
+              35.082938
+            ]
+          ],
+          [
+            [
+              -106.641656,
+              35.082962
+            ],
+            [
+              -106.641672,
+              35.082963
+            ]
+          ],
+          [
+            [
+              -106.641192,
+              35.083178
+            ],
+            [
+              -106.641204,
+              35.083097
+            ]
+          ],
+          [
+            [
+              -106.641166,
+              35.082859
+            ],
+            [
+              -106.64106,
+              35.082844
+            ]
+          ],
+          [
+            [
+              -106.640996,
+              35.082716
+            ],
+            [
+              -106.641083,
+              35.08273
+            ]
+          ],
+          [
+            [
+              -106.640535,
+              35.083095
+            ],
+            [
+              -106.640532,
+              35.083017
+            ]
+          ],
+          [
+            [
+              -106.640018,
+              35.083098
+            ],
+            [
+              -106.640006,
+              35.083154
+            ]
+          ],
+          [
+            [
+              -106.639943,
+              35.08285
+            ],
+            [
+              -106.63985,
+              35.082839
+            ]
+          ],
+          [
+            [
+              -106.639749,
+              35.08334
+            ],
+            [
+              -106.63985,
+              35.083354
+            ]
+          ],
+          [
+            [
+              -106.63977,
+              35.083241
+            ],
+            [
+              -106.63968,
+              35.083229
+            ]
+          ],
+          [
+            [
+              -106.639703,
+              35.083599
+            ],
+            [
+              -106.6396,
+              35.083584
+            ]
+          ],
+          [
+            [
+              -106.638206,
+              35.081903
+            ],
+            [
+              -106.638239,
+              35.081801
+            ]
+          ],
+          [
+            [
+              -106.638219,
+              35.069663
+            ],
+            [
+              -106.638214,
+              35.069749
+            ]
+          ],
+          [
+            [
+              -106.63772,
+              35.068125
+            ],
+            [
+              -106.636912,
+              35.069551
+            ]
+          ],
+          [
+            [
+              -106.637039,
+              35.075789
+            ],
+            [
+              -106.637108,
+              35.075789
+            ]
+          ],
+          [
+            [
+              -106.63706,
+              35.078257
+            ],
+            [
+              -106.637016,
+              35.078257
+            ]
+          ],
+          [
+            [
+              -106.636354,
+              35.081012
+            ],
+            [
+              -106.636544,
+              35.081089
+            ]
+          ],
+          [
+            [
+              -106.636477,
+              35.07515
+            ],
+            [
+              -106.636477,
+              35.075197
+            ]
+          ],
+          [
+            [
+              -106.636438,
+              35.08058
+            ],
+            [
+              -106.63642,
+              35.080683
+            ]
+          ],
+          [
+            [
+              -106.636203,
+              35.079474
+            ],
+            [
+              -106.63619,
+              35.079533
+            ]
+          ],
+          [
+            [
+              -106.635951,
+              35.069145
+            ],
+            [
+              -106.636049,
+              35.069043
+            ]
+          ],
+          [
+            [
+              -106.635951,
+              35.080006
+            ],
+            [
+              -106.635977,
+              35.079873
+            ]
+          ],
+          [
+            [
+              -106.63592,
+              35.076519
+            ],
+            [
+              -106.635903,
+              35.076596
+            ]
+          ],
+          [
+            [
+              -106.635914,
+              35.080507
+            ],
+            [
+              -106.635883,
+              35.080659
+            ]
+          ],
+          [
+            [
+              -106.635047,
+              35.079386
+            ],
+            [
+              -106.635058,
+              35.079325
+            ]
+          ],
+          [
+            [
+              -106.634589,
+              35.082145
+            ],
+            [
+              -106.634869,
+              35.082188
+            ]
+          ],
+          [
+            [
+              -106.634758,
+              35.077907
+            ],
+            [
+              -106.63471,
+              35.0779
+            ]
+          ],
+          [
+            [
+              -106.634655,
+              35.078198
+            ],
+            [
+              -106.634702,
+              35.078205
+            ]
+          ],
+          [
+            [
+              -106.634603,
+              35.06852
+            ],
+            [
+              -106.634643,
+              35.068317
+            ]
+          ],
+          [
+            [
+              -106.634535,
+              35.068294
+            ],
+            [
+              -106.634487,
+              35.068497
+            ]
+          ],
+          [
+            [
+              -106.634524,
+              35.082392
+            ],
+            [
+              -106.634589,
+              35.082145
+            ]
+          ],
+          [
+            [
+              -106.634589,
+              35.082145
+            ],
+            [
+              -106.634405,
+              35.081958
+            ]
+          ],
+          [
+            [
+              -106.63373,
+              35.068461
+            ],
+            [
+              -106.633723,
+              35.068296
+            ]
+          ],
+          [
+            [
+              -106.633713,
+              35.08161
+            ],
+            [
+              -106.633724,
+              35.081557
+            ]
+          ],
+          [
+            [
+              -106.654894,
+              35.069445
+            ],
+            [
+              -106.65506,
+              35.069297
+            ],
+            [
+              -106.654873,
+              35.069179
+            ],
+            [
+              -106.654736,
+              35.069326
+            ],
+            [
+              -106.654894,
+              35.069445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14411205,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Oak St. NE",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.636245,
+            35.08271
+          ],
+          [
+            -106.635886,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 176068052,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Barelas St.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.646898,
+            35.07156
+          ],
+          [
+            -106.646868,
+            35.070031
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 265491016,
+        "highway": "steps",
+        "source": "openstreetmap.org",
+        "sort_key": 354,
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.638137,
+            35.082697
+          ],
+          [
+            -106.638059,
+            35.082687
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407857,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Gold Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.64605,
+              35.082817
+            ],
+            [
+              -106.641763,
+              35.082264
+            ]
+          ],
+          [
+            [
+              -106.640626,
+              35.082117
+            ],
+            [
+              -106.637644,
+              35.081701
+            ]
+          ],
+          [
+            [
+              -106.634075,
+              35.081261
+            ],
+            [
+              -106.633301,
+              35.081163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422627,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Southern Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.652488,
+            35.066009
+          ],
+          [
+            -106.654134,
+            35.066069
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 166243008,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Mulberry St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.635935,
+            35.077172
+          ],
+          [
+            -106.635905,
+            35.076632
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425285,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Santa Fe Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65117,
+            35.075502
+          ],
+          [
+            -106.654059,
+            35.075876
+          ],
+          [
+            -106.655273,
+            35.075784
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 183102368,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Gold Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65491,
+            35.083956
+          ],
+          [
+            -106.648244,
+            35.083099
+          ],
+          [
+            -106.648069,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 135403689,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 359,
+        "service": "yard",
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.651866,
+              35.070639
+            ],
+            [
+              -106.651647,
+              35.069829
+            ]
+          ],
+          [
+            [
+              -106.651647,
+              35.069829
+            ],
+            [
+              -106.651563,
+              35.069551
+            ]
+          ],
+          [
+            [
+              -106.651563,
+              35.069551
+            ],
+            [
+              -106.651024,
+              35.068716
+            ]
+          ],
+          [
+            [
+              -106.651024,
+              35.068716
+            ],
+            [
+              -106.650866,
+              35.068457
+            ]
+          ],
+          [
+            [
+              -106.650866,
+              35.068457
+            ],
+            [
+              -106.650682,
+              35.067971
+            ]
+          ],
+          [
+            [
+              -106.650682,
+              35.067971
+            ],
+            [
+              -106.650611,
+              35.067179
+            ],
+            [
+              -106.650975,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.650656,
+              35.066369
+            ],
+            [
+              -106.650791,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.651356,
+              35.068544
+            ],
+            [
+              -106.651647,
+              35.069829
+            ]
+          ],
+          [
+            [
+              -106.651264,
+              35.068542
+            ],
+            [
+              -106.651499,
+              35.069338
+            ]
+          ],
+          [
+            [
+              -106.651499,
+              35.069338
+            ],
+            [
+              -106.651563,
+              35.069551
+            ]
+          ],
+          [
+            [
+              -106.651305,
+              35.065973
+            ],
+            [
+              -106.650937,
+              35.06794
+            ]
+          ],
+          [
+            [
+              -106.650861,
+              35.065973
+            ],
+            [
+              -106.650656,
+              35.066369
+            ]
+          ],
+          [
+            [
+              -106.650656,
+              35.066369
+            ],
+            [
+              -106.650513,
+              35.066697
+            ]
+          ],
+          [
+            [
+              -106.651311,
+              35.068547
+            ],
+            [
+              -106.651499,
+              35.069338
+            ]
+          ],
+          [
+            [
+              -106.651024,
+              35.068716
+            ],
+            [
+              -106.651265,
+              35.069306
+            ],
+            [
+              -106.651379,
+              35.070669
+            ]
+          ],
+          [
+            [
+              -106.650674,
+              35.065973
+            ],
+            [
+              -106.650617,
+              35.066209
+            ]
+          ],
+          [
+            [
+              -106.650617,
+              35.066209
+            ],
+            [
+              -106.650513,
+              35.066697
+            ]
+          ],
+          [
+            [
+              -106.650513,
+              35.066697
+            ],
+            [
+              -106.650312,
+              35.067785
+            ]
+          ],
+          [
+            [
+              -106.650312,
+              35.067785
+            ],
+            [
+              -106.650173,
+              35.068502
+            ]
+          ],
+          [
+            [
+              -106.650173,
+              35.068502
+            ],
+            [
+              -106.650138,
+              35.068685
+            ]
+          ],
+          [
+            [
+              -106.650138,
+              35.068685
+            ],
+            [
+              -106.650051,
+              35.069498
+            ],
+            [
+              -106.650193,
+              35.070622
+            ]
+          ],
+          [
+            [
+              -106.650193,
+              35.070622
+            ],
+            [
+              -106.6503,
+              35.073165
+            ]
+          ],
+          [
+            [
+              -106.650866,
+              35.068457
+            ],
+            [
+              -106.650969,
+              35.068703
+            ]
+          ],
+          [
+            [
+              -106.650969,
+              35.068703
+            ],
+            [
+              -106.651079,
+              35.069056
+            ],
+            [
+              -106.651197,
+              35.070417
+            ]
+          ],
+          [
+            [
+              -106.651072,
+              35.065973
+            ],
+            [
+              -106.650686,
+              35.067487
+            ]
+          ],
+          [
+            [
+              -106.650898,
+              35.067269
+            ],
+            [
+              -106.651152,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.650657,
+              35.065973
+            ],
+            [
+              -106.650617,
+              35.066209
+            ]
+          ],
+          [
+            [
+              -106.651135,
+              35.070414
+            ],
+            [
+              -106.650969,
+              35.068703
+            ]
+          ],
+          [
+            [
+              -106.650682,
+              35.067971
+            ],
+            [
+              -106.650753,
+              35.068432
+            ]
+          ],
+          [
+            [
+              -106.650753,
+              35.068432
+            ],
+            [
+              -106.651073,
+              35.071171
+            ]
+          ],
+          [
+            [
+              -106.650312,
+              35.067785
+            ],
+            [
+              -106.650975,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.650855,
+              35.069875
+            ],
+            [
+              -106.650753,
+              35.068432
+            ]
+          ],
+          [
+            [
+              -106.650358,
+              35.07108
+            ],
+            [
+              -106.650431,
+              35.072063
+            ]
+          ],
+          [
+            [
+              -106.650308,
+              35.069857
+            ],
+            [
+              -106.650173,
+              35.068502
+            ]
+          ],
+          [
+            [
+              -106.650001,
+              35.069836
+            ],
+            [
+              -106.650046,
+              35.070063
+            ]
+          ],
+          [
+            [
+              -106.650046,
+              35.070063
+            ],
+            [
+              -106.650241,
+              35.072124
+            ]
+          ],
+          [
+            [
+              -106.650241,
+              35.072124
+            ],
+            [
+              -106.650281,
+              35.073163
+            ]
+          ],
+          [
+            [
+              -106.650256,
+              35.069852
+            ],
+            [
+              -106.650138,
+              35.068685
+            ]
+          ],
+          [
+            [
+              -106.650252,
+              35.073159
+            ],
+            [
+              -106.650047,
+              35.071251
+            ]
+          ],
+          [
+            [
+              -106.650047,
+              35.071251
+            ],
+            [
+              -106.650025,
+              35.070192
+            ]
+          ],
+          [
+            [
+              -106.650241,
+              35.072124
+            ],
+            [
+              -106.650047,
+              35.071251
+            ]
+          ],
+          [
+            [
+              -106.650237,
+              35.073162
+            ],
+            [
+              -106.649902,
+              35.070155
+            ]
+          ],
+          [
+            [
+              -106.650046,
+              35.070063
+            ],
+            [
+              -106.650193,
+              35.070622
+            ]
+          ],
+          [
+            [
+              -106.650095,
+              35.071179
+            ],
+            [
+              -106.650025,
+              35.070192
+            ]
+          ],
+          [
+            [
+              -106.650025,
+              35.070192
+            ],
+            [
+              -106.650001,
+              35.069836
+            ]
+          ],
+          [
+            [
+              -106.650001,
+              35.069836
+            ],
+            [
+              -106.649993,
+              35.069465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14419268,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Bazan Ct. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654115,
+            35.07659
+          ],
+          [
+            -106.655026,
+            35.076545
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14411307,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "High St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.639806,
+            35.083072
+          ],
+          [
+            -106.639645,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 190864722,
+        "ref": "NM 47",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "name": "Broadway Blvd. NE",
+        "sort_key": 378,
+        "network": "US:NM",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.64464,
+              35.083956
+            ],
+            [
+              -106.644686,
+              35.083725
+            ]
+          ],
+          [
+            [
+              -106.644575,
+              35.083713
+            ],
+            [
+              -106.644525,
+              35.083956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422145,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "John St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.647463,
+              35.071548
+            ],
+            [
+              -106.647699,
+              35.07023
+            ]
+          ],
+          [
+            [
+              -106.647028,
+              35.075498
+            ],
+            [
+              -106.646928,
+              35.072464
+            ]
+          ],
+          [
+            [
+              -106.646792,
+              35.079147
+            ],
+            [
+              -106.646934,
+              35.078405
+            ]
+          ],
+          [
+            [
+              -106.646875,
+              35.069496
+            ],
+            [
+              -106.646711,
+              35.066636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 48385727,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 378,
+        "name": "Avenida César Chávez Southwest",
+        "is_bicycle_related": true,
+        "is_bridge": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.652379,
+              35.069989
+            ],
+            [
+              -106.649268,
+              35.069891
+            ]
+          ],
+          [
+            [
+              -106.649274,
+              35.069966
+            ],
+            [
+              -106.652376,
+              35.070065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415414,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Barelas Ditch",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647249,
+            35.06694
+          ],
+          [
+            -106.646631,
+            35.06634
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936660,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Avenida César Chávez Southeast",
+        "is_bridge": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637523,
+              35.069716
+            ],
+            [
+              -106.637279,
+              35.069664
+            ]
+          ],
+          [
+            [
+              -106.637255,
+              35.069802
+            ],
+            [
+              -106.637501,
+              35.069852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 438117703,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 354,
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.638384,
+              35.082457
+            ],
+            [
+              -106.638207,
+              35.082579
+            ]
+          ],
+          [
+            [
+              -106.638308,
+              35.081934
+            ],
+            [
+              -106.638271,
+              35.082138
+            ]
+          ],
+          [
+            [
+              -106.636352,
+              35.06637
+            ],
+            [
+              -106.636266,
+              35.066323
+            ]
+          ],
+          [
+            [
+              -106.635769,
+              35.067051
+            ],
+            [
+              -106.635709,
+              35.066983
+            ]
+          ],
+          [
+            [
+              -106.635639,
+              35.067497
+            ],
+            [
+              -106.6356,
+              35.067565
+            ]
+          ],
+          [
+            [
+              -106.635255,
+              35.067344
+            ],
+            [
+              -106.635324,
+              35.067311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407959,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "Lead Ave. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654645,
+            35.081923
+          ],
+          [
+            -106.655273,
+            35.082002
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14412753,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Langham Southeast",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.636847,
+              35.070683
+            ],
+            [
+              -106.636858,
+              35.069974
+            ],
+            [
+              -106.637044,
+              35.069599
+            ]
+          ],
+          [
+            [
+              -106.636912,
+              35.069551
+            ],
+            [
+              -106.636727,
+              35.070089
+            ],
+            [
+              -106.636847,
+              35.070683
+            ]
+          ],
+          [
+            [
+              -106.636903,
+              35.071196
+            ],
+            [
+              -106.636847,
+              35.070683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 173614144,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. NE",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.633301,
+            35.082244
+          ],
+          [
+            -106.637329,
+            35.082861
+          ],
+          [
+            -106.639256,
+            35.083004
+          ],
+          [
+            -106.646713,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 328371767,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "commercial",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.638246,
+              35.06916
+            ],
+            [
+              -106.638219,
+              35.069663
+            ]
+          ],
+          [
+            [
+              -106.637016,
+              35.078257
+            ],
+            [
+              -106.636984,
+              35.078257
+            ]
+          ],
+          [
+            [
+              -106.636174,
+              35.077728
+            ],
+            [
+              -106.636962,
+              35.077687
+            ],
+            [
+              -106.636957,
+              35.077836
+            ]
+          ],
+          [
+            [
+              -106.636365,
+              35.078565
+            ],
+            [
+              -106.636357,
+              35.078763
+            ],
+            [
+              -106.636429,
+              35.078574
+            ]
+          ],
+          [
+            [
+              -106.6363,
+              35.079356
+            ],
+            [
+              -106.636231,
+              35.079346
+            ]
+          ],
+          [
+            [
+              -106.636231,
+              35.079346
+            ],
+            [
+              -106.636153,
+              35.079335
+            ]
+          ],
+          [
+            [
+              -106.636256,
+              35.079238
+            ],
+            [
+              -106.636231,
+              35.079346
+            ]
+          ],
+          [
+            [
+              -106.636231,
+              35.079346
+            ],
+            [
+              -106.636203,
+              35.079474
+            ]
+          ],
+          [
+            [
+              -106.636206,
+              35.078545
+            ],
+            [
+              -106.636219,
+              35.078456
+            ]
+          ],
+          [
+            [
+              -106.636185,
+              35.077803
+            ],
+            [
+              -106.636174,
+              35.077728
+            ]
+          ],
+          [
+            [
+              -106.636174,
+              35.077728
+            ],
+            [
+              -106.635869,
+              35.077678
+            ]
+          ],
+          [
+            [
+              -106.635956,
+              35.077528
+            ],
+            [
+              -106.636061,
+              35.077526
+            ]
+          ],
+          [
+            [
+              -106.635966,
+              35.078102
+            ],
+            [
+              -106.635788,
+              35.078079
+            ]
+          ],
+          [
+            [
+              -106.63595,
+              35.077446
+            ],
+            [
+              -106.63586,
+              35.077445
+            ]
+          ],
+          [
+            [
+              -106.635682,
+              35.078062
+            ],
+            [
+              -106.635542,
+              35.078459
+            ]
+          ],
+          [
+            [
+              -106.635627,
+              35.07847
+            ],
+            [
+              -106.635652,
+              35.078371
+            ]
+          ],
+          [
+            [
+              -106.63509,
+              35.078631
+            ],
+            [
+              -106.63516,
+              35.07864
+            ]
+          ],
+          [
+            [
+              -106.63516,
+              35.07864
+            ],
+            [
+              -106.635291,
+              35.078657
+            ]
+          ],
+          [
+            [
+              -106.635214,
+              35.078417
+            ],
+            [
+              -106.63516,
+              35.07864
+            ]
+          ],
+          [
+            [
+              -106.63516,
+              35.07864
+            ],
+            [
+              -106.635134,
+              35.078766
+            ]
+          ],
+          [
+            [
+              -106.635152,
+              35.079197
+            ],
+            [
+              -106.635048,
+              35.079183
+            ]
+          ],
+          [
+            [
+              -106.635048,
+              35.079183
+            ],
+            [
+              -106.635027,
+              35.07918
+            ]
+          ],
+          [
+            [
+              -106.635058,
+              35.079325
+            ],
+            [
+              -106.635083,
+              35.079188
+            ]
+          ],
+          [
+            [
+              -106.635076,
+              35.079047
+            ],
+            [
+              -106.635048,
+              35.079183
+            ]
+          ],
+          [
+            [
+              -106.634702,
+              35.078205
+            ],
+            [
+              -106.634931,
+              35.07809
+            ],
+            [
+              -106.634928,
+              35.077954
+            ],
+            [
+              -106.634758,
+              35.077907
+            ]
+          ],
+          [
+            [
+              -106.634439,
+              35.078713
+            ],
+            [
+              -106.634545,
+              35.078729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 191597955,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "commercial",
+        "bicycle_network": "lcn",
+        "sort_key": 360,
+        "name": "Cedar St. SE",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.634529,
+            35.078809
+          ],
+          [
+            -106.634616,
+            35.078378
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 438117704,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 354,
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637677,
+              35.066502
+            ],
+            [
+              -106.637488,
+              35.066527
+            ]
+          ],
+          [
+            [
+              -106.637488,
+              35.066527
+            ],
+            [
+              -106.637005,
+              35.066606
+            ]
+          ],
+          [
+            [
+              -106.637005,
+              35.066606
+            ],
+            [
+              -106.636852,
+              35.066671
+            ]
+          ],
+          [
+            [
+              -106.636852,
+              35.066671
+            ],
+            [
+              -106.636359,
+              35.066374
+            ]
+          ],
+          [
+            [
+              -106.636359,
+              35.066374
+            ],
+            [
+              -106.636352,
+              35.06637
+            ]
+          ],
+          [
+            [
+              -106.637598,
+              35.066682
+            ],
+            [
+              -106.637377,
+              35.066693
+            ]
+          ],
+          [
+            [
+              -106.637512,
+              35.066251
+            ],
+            [
+              -106.636957,
+              35.066295
+            ]
+          ],
+          [
+            [
+              -106.636957,
+              35.066295
+            ],
+            [
+              -106.636557,
+              35.066158
+            ]
+          ],
+          [
+            [
+              -106.637113,
+              35.066996
+            ],
+            [
+              -106.637411,
+              35.066963
+            ]
+          ],
+          [
+            [
+              -106.637392,
+              35.067451
+            ],
+            [
+              -106.637411,
+              35.066963
+            ]
+          ],
+          [
+            [
+              -106.637411,
+              35.066963
+            ],
+            [
+              -106.637377,
+              35.066693
+            ]
+          ],
+          [
+            [
+              -106.637377,
+              35.066693
+            ],
+            [
+              -106.637488,
+              35.066527
+            ]
+          ],
+          [
+            [
+              -106.637488,
+              35.066527
+            ],
+            [
+              -106.637512,
+              35.066251
+            ]
+          ],
+          [
+            [
+              -106.637512,
+              35.066251
+            ],
+            [
+              -106.637469,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.636907,
+              35.067517
+            ],
+            [
+              -106.637048,
+              35.067301
+            ]
+          ],
+          [
+            [
+              -106.637048,
+              35.067301
+            ],
+            [
+              -106.637113,
+              35.066996
+            ]
+          ],
+          [
+            [
+              -106.637113,
+              35.066996
+            ],
+            [
+              -106.637059,
+              35.066721
+            ]
+          ],
+          [
+            [
+              -106.637059,
+              35.066721
+            ],
+            [
+              -106.637005,
+              35.066606
+            ]
+          ],
+          [
+            [
+              -106.637005,
+              35.066606
+            ],
+            [
+              -106.636957,
+              35.066295
+            ]
+          ],
+          [
+            [
+              -106.636957,
+              35.066295
+            ],
+            [
+              -106.637044,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.637059,
+              35.066721
+            ],
+            [
+              -106.636959,
+              35.066813
+            ]
+          ],
+          [
+            [
+              -106.636959,
+              35.066813
+            ],
+            [
+              -106.636958,
+              35.066873
+            ]
+          ],
+          [
+            [
+              -106.6368,
+              35.066769
+            ],
+            [
+              -106.636959,
+              35.066813
+            ]
+          ],
+          [
+            [
+              -106.636852,
+              35.066671
+            ],
+            [
+              -106.6368,
+              35.066769
+            ]
+          ],
+          [
+            [
+              -106.6368,
+              35.066769
+            ],
+            [
+              -106.636585,
+              35.067115
+            ]
+          ],
+          [
+            [
+              -106.636585,
+              35.067115
+            ],
+            [
+              -106.636455,
+              35.067397
+            ]
+          ],
+          [
+            [
+              -106.636455,
+              35.067397
+            ],
+            [
+              -106.636491,
+              35.067487
+            ]
+          ],
+          [
+            [
+              -106.635324,
+              35.067311
+            ],
+            [
+              -106.635351,
+              35.067297
+            ]
+          ],
+          [
+            [
+              -106.635351,
+              35.067297
+            ],
+            [
+              -106.635786,
+              35.06707
+            ]
+          ],
+          [
+            [
+              -106.635786,
+              35.06707
+            ],
+            [
+              -106.63615,
+              35.066783
+            ]
+          ],
+          [
+            [
+              -106.63615,
+              35.066783
+            ],
+            [
+              -106.63644,
+              35.06656
+            ],
+            [
+              -106.636359,
+              35.066374
+            ]
+          ],
+          [
+            [
+              -106.636359,
+              35.066374
+            ],
+            [
+              -106.636557,
+              35.066158
+            ]
+          ],
+          [
+            [
+              -106.636557,
+              35.066158
+            ],
+            [
+              -106.636726,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.636348,
+              35.06697
+            ],
+            [
+              -106.635925,
+              35.06728
+            ]
+          ],
+          [
+            [
+              -106.635925,
+              35.06728
+            ],
+            [
+              -106.635648,
+              35.067481
+            ]
+          ],
+          [
+            [
+              -106.635648,
+              35.067481
+            ],
+            [
+              -106.635639,
+              35.067497
+            ]
+          ],
+          [
+            [
+              -106.636326,
+              35.067473
+            ],
+            [
+              -106.635925,
+              35.06728
+            ]
+          ],
+          [
+            [
+              -106.635925,
+              35.06728
+            ],
+            [
+              -106.635786,
+              35.06707
+            ]
+          ],
+          [
+            [
+              -106.635786,
+              35.06707
+            ],
+            [
+              -106.635769,
+              35.067051
+            ]
+          ],
+          [
+            [
+              -106.635351,
+              35.067297
+            ],
+            [
+              -106.635648,
+              35.067481
+            ]
+          ],
+          [
+            [
+              -106.635648,
+              35.067481
+            ],
+            [
+              -106.636173,
+              35.067682
+            ]
+          ],
+          [
+            [
+              -106.63615,
+              35.067732
+            ],
+            [
+              -106.636173,
+              35.067682
+            ]
+          ],
+          [
+            [
+              -106.636173,
+              35.067682
+            ],
+            [
+              -106.636326,
+              35.067473
+            ]
+          ],
+          [
+            [
+              -106.636326,
+              35.067473
+            ],
+            [
+              -106.636455,
+              35.067397
+            ]
+          ],
+          [
+            [
+              -106.636455,
+              35.067397
+            ],
+            [
+              -106.636907,
+              35.067517
+            ]
+          ],
+          [
+            [
+              -106.636907,
+              35.067517
+            ],
+            [
+              -106.637319,
+              35.067692
+            ],
+            [
+              -106.637392,
+              35.067451
+            ]
+          ],
+          [
+            [
+              -106.637392,
+              35.067451
+            ],
+            [
+              -106.637048,
+              35.067301
+            ]
+          ],
+          [
+            [
+              -106.637048,
+              35.067301
+            ],
+            [
+              -106.636585,
+              35.067115
+            ]
+          ],
+          [
+            [
+              -106.636585,
+              35.067115
+            ],
+            [
+              -106.636348,
+              35.06697
+            ]
+          ],
+          [
+            [
+              -106.636348,
+              35.06697
+            ],
+            [
+              -106.63615,
+              35.066783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14423396,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Peak Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654219,
+            35.078826
+          ],
+          [
+            -106.654788,
+            35.078858
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 166237898,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.633301,
+            35.081562
+          ],
+          [
+            -106.633558,
+            35.081592
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172936670,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "Avenida César Chávez Southeast",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.648414,
+              35.069937
+            ],
+            [
+              -106.649274,
+              35.069966
+            ]
+          ],
+          [
+            [
+              -106.649268,
+              35.069891
+            ],
+            [
+              -106.648436,
+              35.069859
+            ]
+          ],
+          [
+            [
+              -106.648116,
+              35.069832
+            ],
+            [
+              -106.645633,
+              35.069599
+            ]
+          ],
+          [
+            [
+              -106.645636,
+              35.069713
+            ],
+            [
+              -106.648098,
+              35.069912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14418512,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "2nd St. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649296,
+            35.083956
+          ],
+          [
+            -106.650175,
+            35.07934
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407857,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Gold Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.641763,
+            35.082264
+          ],
+          [
+            -106.640626,
+            35.082117
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14420212,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Barelas St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.655273,
+              35.073219
+            ],
+            [
+              -106.654047,
+              35.071817
+            ]
+          ],
+          [
+            [
+              -106.654081,
+              35.071603
+            ],
+            [
+              -106.653796,
+              35.070964
+            ],
+            [
+              -106.653694,
+              35.070124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14419599,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Union Square St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.645884,
+            35.08385
+          ],
+          [
+            -106.64605,
+            35.082817
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425355,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Arno St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.643363,
+            35.083548
+          ],
+          [
+            -106.644516,
+            35.077661
+          ],
+          [
+            -106.644177,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 181570927,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Nickel St.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649701,
+            35.08178
+          ],
+          [
+            -106.650887,
+            35.081937
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421094,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Lewis Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649172,
+            35.071514
+          ],
+          [
+            -106.640339,
+            35.071707
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104749611,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "2nd St. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.652227,
+            35.069691
+          ],
+          [
+            -106.652491,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 177610231,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. SW",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647203,
+            35.083956
+          ],
+          [
+            -106.647186,
+            35.083948
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104449676,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Central Ave. SE",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.646795,
+            35.0839
+          ],
+          [
+            -106.633301,
+            35.082141
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14413963,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 360,
+        "name": "Silver Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.636633,
+            35.080607
+          ],
+          [
+            -106.635411,
+            35.080438
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14411666,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 360,
+        "name": "Mulberry St. SE",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.635411,
+            35.080438
+          ],
+          [
+            -106.635627,
+            35.07946
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14419677,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 360,
+        "name": "Garfield Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.646829,
+            35.072464
+          ],
+          [
+            -106.64584,
+            35.072468
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14409304,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 360,
+        "name": "6th St. SW",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654145,
+            35.083956
+          ],
+          [
+            -106.654164,
+            35.083855
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14414231,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Lily Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648926,
+            35.066396
+          ],
+          [
+            -106.646631,
+            35.06634
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14412565,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "Coal Ave. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.653643,
+            35.080784
+          ],
+          [
+            -106.655273,
+            35.080995
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 274892950,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654528,
+              35.071237
+            ],
+            [
+              -106.655273,
+              35.071247
+            ]
+          ],
+          [
+            [
+              -106.646824,
+              35.066576
+            ],
+            [
+              -106.646711,
+              35.066636
+            ]
+          ],
+          [
+            [
+              -106.646453,
+              35.065973
+            ],
+            [
+              -106.646631,
+              35.06634
+            ]
+          ],
+          [
+            [
+              -106.637437,
+              35.071186
+            ],
+            [
+              -106.637667,
+              35.07118
+            ]
+          ],
+          [
+            [
+              -106.636903,
+              35.071196
+            ],
+            [
+              -106.637211,
+              35.071191
+            ]
+          ],
+          [
+            [
+              -106.637107,
+              35.075234
+            ],
+            [
+              -106.636399,
+              35.075135
+            ],
+            [
+              -106.633723,
+              35.074343
+            ],
+            [
+              -106.633572,
+              35.073568
+            ],
+            [
+              -106.633718,
+              35.072972
+            ]
+          ],
+          [
+            [
+              -106.636087,
+              35.072892
+            ],
+            [
+              -106.636088,
+              35.073008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425765,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 360,
+        "name": "Highland Park Circle Southeast",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.638707,
+            35.081466
+          ],
+          [
+            -106.638191,
+            35.081454
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422104,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Stadium Blvd. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.64957,
+            35.069537
+          ],
+          [
+            -106.647297,
+            35.069603
+          ],
+          [
+            -106.646875,
+            35.069496
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422207,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Hazeldine Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649728,
+            35.077287
+          ],
+          [
+            -106.655273,
+            35.077978
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421890,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Cromwell Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.651505,
+            35.073669
+          ],
+          [
+            -106.655273,
+            35.074143
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 48360486,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Lead Ave. SW",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.649516,
+            35.08126
+          ],
+          [
+            -106.649785,
+            35.081289
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422055,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Hazeldine Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.646855,
+              35.076502
+            ],
+            [
+              -106.646688,
+              35.077147
+            ],
+            [
+              -106.645804,
+              35.077036
+            ],
+            [
+              -106.639689,
+              35.077122
+            ]
+          ],
+          [
+            [
+              -106.637108,
+              35.07658
+            ],
+            [
+              -106.633523,
+              35.076631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14412600,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "William St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.647695,
+            35.075031
+          ],
+          [
+            -106.647645,
+            35.073082
+          ],
+          [
+            -106.649014,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14423404,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Iron Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648994,
+            35.079196
+          ],
+          [
+            -106.655273,
+            35.079994
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14418705,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Nuanes Ln. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.655273,
+            35.072721
+          ],
+          [
+            -106.654885,
+            35.072777
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425538,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Cedar St. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.633595,
+              35.082583
+            ],
+            [
+              -106.634008,
+              35.082326
+            ]
+          ],
+          [
+            [
+              -106.633595,
+              35.082583
+            ],
+            [
+              -106.633333,
+              35.083956
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.082236
+            ],
+            [
+              -106.633537,
+              35.082391
+            ],
+            [
+              -106.633595,
+              35.082583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 173879702,
+        "highway": "track",
+        "source": "openstreetmap.org",
+        "sort_key": 354,
+        "name": "Utility Access Rd.",
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637594,
+            35.069721
+          ],
+          [
+            -106.637783,
+            35.068915
+          ],
+          [
+            -106.638547,
+            35.068272
+          ],
+          [
+            -106.6387,
+            35.067929
+          ],
+          [
+            -106.638449,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 265493086,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Iron Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.646809,
+              35.0789
+            ],
+            [
+              -106.639571,
+              35.077984
+            ]
+          ],
+          [
+            [
+              -106.639518,
+              35.078223
+            ],
+            [
+              -106.638456,
+              35.078237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 171968169,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Oak St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637093,
+            35.075152
+          ],
+          [
+            -106.637108,
+            35.07658
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 265493078,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Coal Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.645863,
+              35.079801
+            ],
+            [
+              -106.636935,
+              35.07864
+            ]
+          ],
+          [
+            [
+              -106.634676,
+              35.078348
+            ],
+            [
+              -106.634044,
+              35.078266
+            ]
+          ],
+          [
+            [
+              -106.633504,
+              35.078196
+            ],
+            [
+              -106.633301,
+              35.078169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 265491420,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 354,
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639451,
+              35.081035
+            ],
+            [
+              -106.639386,
+              35.081104
+            ]
+          ],
+          [
+            [
+              -106.638937,
+              35.081038
+            ],
+            [
+              -106.639232,
+              35.081136
+            ]
+          ],
+          [
+            [
+              -106.639066,
+              35.080985
+            ],
+            [
+              -106.638952,
+              35.080972
+            ]
+          ],
+          [
+            [
+              -106.638952,
+              35.080972
+            ],
+            [
+              -106.638937,
+              35.081038
+            ]
+          ],
+          [
+            [
+              -106.638937,
+              35.081038
+            ],
+            [
+              -106.638347,
+              35.081324
+            ],
+            [
+              -106.638314,
+              35.081474
+            ]
+          ],
+          [
+            [
+              -106.638952,
+              35.080972
+            ],
+            [
+              -106.638958,
+              35.080938
+            ]
+          ],
+          [
+            [
+              -106.6335,
+              35.076359
+            ],
+            [
+              -106.633402,
+              35.076476
+            ]
+          ],
+          [
+            [
+              -106.633402,
+              35.076476
+            ],
+            [
+              -106.633372,
+              35.076538
+            ]
+          ],
+          [
+            [
+              -106.633372,
+              35.076538
+            ],
+            [
+              -106.633374,
+              35.078041
+            ],
+            [
+              -106.633301,
+              35.078038
+            ]
+          ],
+          [
+            [
+              -106.633372,
+              35.076538
+            ],
+            [
+              -106.633301,
+              35.076542
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.076454
+            ],
+            [
+              -106.633402,
+              35.076476
+            ]
+          ],
+          [
+            [
+              -106.63939,
+              35.08125
+            ],
+            [
+              -106.639232,
+              35.081136
+            ]
+          ],
+          [
+            [
+              -106.639232,
+              35.081136
+            ],
+            [
+              -106.639386,
+              35.081104
+            ]
+          ],
+          [
+            [
+              -106.639386,
+              35.081104
+            ],
+            [
+              -106.63939,
+              35.08125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 171968171,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "industrial",
+        "sort_key": 360,
+        "name": "Locust St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.638598,
+            35.073653
+          ],
+          [
+            -106.638655,
+            35.075335
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 166237890,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "cycleway": "shared_lane",
+        "bicycle_network": "lcn",
+        "sort_key": 360,
+        "name": "Silver Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.635411,
+              35.080438
+            ],
+            [
+              -106.633301,
+              35.080139
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.080201
+            ],
+            [
+              -106.635411,
+              35.080438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 193419573,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Atlantic Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.650779,
+            35.076639
+          ],
+          [
+            -106.655273,
+            35.077223
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 48360484,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Coal Ave.",
+        "is_bicycle_related": true,
+        "is_bridge": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648976,
+            35.080192
+          ],
+          [
+            -106.645863,
+            35.079801
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 207124472,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.654268,
+              35.079365
+            ],
+            [
+              -106.655273,
+              35.07949
+            ]
+          ],
+          [
+            [
+              -106.653934,
+              35.079322
+            ],
+            [
+              -106.654099,
+              35.079343
+            ]
+          ],
+          [
+            [
+              -106.652097,
+              35.073685
+            ],
+            [
+              -106.652573,
+              35.070643
+            ]
+          ],
+          [
+            [
+              -106.634683,
+              35.077714
+            ],
+            [
+              -106.633575,
+              35.077736
+            ]
+          ],
+          [
+            [
+              -106.63395,
+              35.078747
+            ],
+            [
+              -106.633665,
+              35.078709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 357250776,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "John Southeast St.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.646086,
+              35.081825
+            ],
+            [
+              -106.646232,
+              35.081026
+            ]
+          ],
+          [
+            [
+              -106.64605,
+              35.082817
+            ],
+            [
+              -106.646065,
+              35.081915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14411101,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Walter St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.641706,
+              35.079543
+            ],
+            [
+              -106.642067,
+              35.077701
+            ],
+            [
+              -106.642115,
+              35.076486
+            ],
+            [
+              -106.641782,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.640982,
+              35.083223
+            ],
+            [
+              -106.641124,
+              35.082529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 176068051,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.638708,
+            35.081483
+          ],
+          [
+            -106.638814,
+            35.081551
+          ],
+          [
+            -106.638902,
+            35.081451
+          ],
+          [
+            -106.638771,
+            35.081395
+          ],
+          [
+            -106.638708,
+            35.081483
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14415998,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Copper Ave. NE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.63895,
+              35.083956
+            ],
+            [
+              -106.637136,
+              35.083722
+            ]
+          ],
+          [
+            [
+              -106.635947,
+              35.083559
+            ],
+            [
+              -106.633301,
+              35.083218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14409939,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "4th St. SW",
+        "network": "US:US",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.651731,
+            35.083956
+          ],
+          [
+            -106.65444,
+            35.070034
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104448868,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "4th St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65444,
+            35.070034
+          ],
+          [
+            -106.654498,
+            35.06922
+          ],
+          [
+            -106.654096,
+            35.065973
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421244,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Lewis Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654447,
+            35.072222
+          ],
+          [
+            -106.655273,
+            35.072099
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14407793,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Lead Ave. SE",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.642145,
+              35.080308
+            ],
+            [
+              -106.646245,
+              35.080842
+            ]
+          ],
+          [
+            [
+              -106.633301,
+              35.079167
+            ],
+            [
+              -106.641011,
+              35.080161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 281747114,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Goddard St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.633301,
+            35.069381
+          ],
+          [
+            -106.634575,
+            35.069381
+          ],
+          [
+            -106.634942,
+            35.06949
+          ],
+          [
+            -106.635285,
+            35.069754
+          ],
+          [
+            -106.635555,
+            35.070602
+          ],
+          [
+            -106.635789,
+            35.070926
+          ],
+          [
+            -106.636184,
+            35.07114
+          ],
+          [
+            -106.636903,
+            35.071196
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 187528077,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "parking",
+        "sort_key": 356,
+        "service": "alley",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.649846,
+              35.0838
+            ],
+            [
+              -106.6497,
+              35.08378
+            ]
+          ],
+          [
+            [
+              -106.639772,
+              35.0801
+            ],
+            [
+              -106.639624,
+              35.080885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14412560,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Simpier Ln. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.654221,
+            35.070927
+          ],
+          [
+            -106.655273,
+            35.070917
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 41744671,
+        "ref": "I 25",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "sort_key": 381,
+        "name": "Pan American Fwy.",
+        "is_bridge": "yes",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639646,
+              35.070042
+            ],
+            [
+              -106.639585,
+              35.06955
+            ]
+          ],
+          [
+            [
+              -106.639407,
+              35.069558
+            ],
+            [
+              -106.63947,
+              35.070055
+            ]
+          ],
+          [
+            [
+              -106.637479,
+              35.078923
+            ],
+            [
+              -106.637577,
+              35.07852
+            ]
+          ],
+          [
+            [
+              -106.637397,
+              35.078501
+            ],
+            [
+              -106.637293,
+              35.078901
+            ]
+          ],
+          [
+            [
+              -106.637246,
+              35.079893
+            ],
+            [
+              -106.637327,
+              35.079486
+            ]
+          ],
+          [
+            [
+              -106.637159,
+              35.079471
+            ],
+            [
+              -106.637081,
+              35.079877
+            ]
+          ],
+          [
+            [
+              -106.636669,
+              35.082951
+            ],
+            [
+              -106.636775,
+              35.08237
+            ]
+          ],
+          [
+            [
+              -106.636603,
+              35.08239
+            ],
+            [
+              -106.636503,
+              35.082931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 191597955,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "bicycle_network": "lcn",
+        "sort_key": 360,
+        "name": "Cedar St. SE",
+        "is_bicycle_related": true,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.634616,
+              35.078378
+            ],
+            [
+              -106.634624,
+              35.078341
+            ]
+          ],
+          [
+            [
+              -106.634241,
+              35.08034
+            ],
+            [
+              -106.634529,
+              35.078809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 265491014,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "sort_key": 354,
+        "kind": "path"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.638958,
+              35.080938
+            ],
+            [
+              -106.638965,
+              35.080895
+            ]
+          ],
+          [
+            [
+              -106.638707,
+              35.082389
+            ],
+            [
+              -106.638384,
+              35.082457
+            ]
+          ],
+          [
+            [
+              -106.63851,
+              35.082163
+            ],
+            [
+              -106.638369,
+              35.082112
+            ]
+          ],
+          [
+            [
+              -106.638369,
+              35.082112
+            ],
+            [
+              -106.638277,
+              35.082103
+            ]
+          ],
+          [
+            [
+              -106.638357,
+              35.082167
+            ],
+            [
+              -106.638452,
+              35.082223
+            ]
+          ],
+          [
+            [
+              -106.638452,
+              35.082223
+            ],
+            [
+              -106.638495,
+              35.082323
+            ]
+          ],
+          [
+            [
+              -106.638452,
+              35.082223
+            ],
+            [
+              -106.638348,
+              35.082255
+            ]
+          ],
+          [
+            [
+              -106.638348,
+              35.082255
+            ],
+            [
+              -106.638308,
+              35.08225
+            ]
+          ],
+          [
+            [
+              -106.638308,
+              35.08225
+            ],
+            [
+              -106.638218,
+              35.082237
+            ]
+          ],
+          [
+            [
+              -106.638218,
+              35.082237
+            ],
+            [
+              -106.638179,
+              35.082231
+            ]
+          ],
+          [
+            [
+              -106.638369,
+              35.082112
+            ],
+            [
+              -106.638357,
+              35.082167
+            ]
+          ],
+          [
+            [
+              -106.638357,
+              35.082167
+            ],
+            [
+              -106.638348,
+              35.082255
+            ]
+          ],
+          [
+            [
+              -106.638308,
+              35.08225
+            ],
+            [
+              -106.638352,
+              35.082292
+            ]
+          ],
+          [
+            [
+              -106.63833,
+              35.081892
+            ],
+            [
+              -106.638308,
+              35.081934
+            ]
+          ],
+          [
+            [
+              -106.638271,
+              35.082138
+            ],
+            [
+              -106.638218,
+              35.082237
+            ]
+          ],
+          [
+            [
+              -106.638207,
+              35.082579
+            ],
+            [
+              -106.638075,
+              35.082603
+            ]
+          ],
+          [
+            [
+              -106.638126,
+              35.082783
+            ],
+            [
+              -106.638137,
+              35.082697
+            ]
+          ],
+          [
+            [
+              -106.638082,
+              35.08257
+            ],
+            [
+              -106.638075,
+              35.082603
+            ]
+          ],
+          [
+            [
+              -106.638075,
+              35.082603
+            ],
+            [
+              -106.638059,
+              35.082687
+            ],
+            [
+              -106.63763,
+              35.082721
+            ]
+          ],
+          [
+            [
+              -106.633565,
+              35.076364
+            ],
+            [
+              -106.6335,
+              35.076359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14424565,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "3rd St. SW",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.65136,
+              35.079492
+            ],
+            [
+              -106.653125,
+              35.069992
+            ]
+          ],
+          [
+            [
+              -106.65051,
+              35.083956
+            ],
+            [
+              -106.65136,
+              35.079492
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425726,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Oak St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637108,
+            35.07658
+          ],
+          [
+            -106.637183,
+            35.077594
+          ],
+          [
+            -106.637082,
+            35.078126
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14417270,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Elm St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.639017,
+              35.0809
+            ],
+            [
+              -106.639689,
+              35.077122
+            ]
+          ],
+          [
+            [
+              -106.63861,
+              35.082937
+            ],
+            [
+              -106.638803,
+              35.081832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 282619270,
+        "highway": "footway",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 354,
+        "kind": "path",
+        "bicycle": "yes"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.633316,
+            35.075725
+          ],
+          [
+            -106.633301,
+            35.07574
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14425064,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Santa Fe Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.64576,
+            35.07555
+          ],
+          [
+            -106.640926,
+            35.075652
+          ],
+          [
+            -106.639951,
+            35.07578
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 321758977,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637692,
+              35.066617
+            ],
+            [
+              -106.63796,
+              35.0666
+            ]
+          ],
+          [
+            [
+              -106.637938,
+              35.06648
+            ],
+            [
+              -106.637677,
+              35.066502
+            ]
+          ],
+          [
+            [
+              -106.637864,
+              35.065973
+            ],
+            [
+              -106.637938,
+              35.06648
+            ]
+          ],
+          [
+            [
+              -106.637938,
+              35.06648
+            ],
+            [
+              -106.63796,
+              35.0666
+            ]
+          ],
+          [
+            [
+              -106.63796,
+              35.0666
+            ],
+            [
+              -106.638015,
+              35.067315
+            ],
+            [
+              -106.63772,
+              35.068125
+            ]
+          ],
+          [
+            [
+              -106.637655,
+              35.066369
+            ],
+            [
+              -106.637677,
+              35.066502
+            ]
+          ],
+          [
+            [
+              -106.637677,
+              35.066502
+            ],
+            [
+              -106.637692,
+              35.066617
+            ]
+          ],
+          [
+            [
+              -106.637692,
+              35.066617
+            ],
+            [
+              -106.637705,
+              35.066733
+            ]
+          ],
+          [
+            [
+              -106.635051,
+              35.06716
+            ],
+            [
+              -106.634909,
+              35.067282
+            ]
+          ],
+          [
+            [
+              -106.634909,
+              35.067282
+            ],
+            [
+              -106.634703,
+              35.067303
+            ],
+            [
+              -106.634751,
+              35.06746
+            ]
+          ],
+          [
+            [
+              -106.634751,
+              35.06746
+            ],
+            [
+              -106.634917,
+              35.067437
+            ],
+            [
+              -106.634909,
+              35.067282
+            ]
+          ],
+          [
+            [
+              -106.634685,
+              35.067585
+            ],
+            [
+              -106.634763,
+              35.067605
+            ]
+          ],
+          [
+            [
+              -106.634751,
+              35.06746
+            ],
+            [
+              -106.634685,
+              35.067585
+            ]
+          ],
+          [
+            [
+              -106.634685,
+              35.067585
+            ],
+            [
+              -106.634635,
+              35.067696
+            ]
+          ],
+          [
+            [
+              -106.634643,
+              35.068317
+            ],
+            [
+              -106.63459,
+              35.067938
+            ]
+          ],
+          [
+            [
+              -106.634604,
+              35.06784
+            ],
+            [
+              -106.63459,
+              35.067938
+            ]
+          ],
+          [
+            [
+              -106.63459,
+              35.067938
+            ],
+            [
+              -106.634535,
+              35.068294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 171968176,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 360,
+        "name": "Spruce St. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.633417,
+            35.078221
+          ],
+          [
+            -106.633343,
+            35.078649
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 104749579,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "1st St. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.650779,
+            35.076639
+          ],
+          [
+            -106.6493,
+            35.077541
+          ],
+          [
+            -106.648244,
+            35.083099
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14422062,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Pacific Ave. SW",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.65135,
+            35.074522
+          ],
+          [
+            -106.654005,
+            35.074859
+          ],
+          [
+            -106.655273,
+            35.074847
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 14421865,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "Pacific Ave. SE",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.648602,
+            35.074436
+          ],
+          [
+            -106.640542,
+            35.074686
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 41695466,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "is_bridge": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.637534,
+              35.080652
+            ],
+            [
+              -106.637474,
+              35.080392
+            ]
+          ],
+          [
+            [
+              -106.637414,
+              35.079924
+            ],
+            [
+              -106.637423,
+              35.079507
+            ]
+          ],
+          [
+            [
+              -106.636792,
+              35.082976
+            ],
+            [
+              -106.636949,
+              35.082391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 172665255,
+        "ref": "NM 47",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "name": "Broadway Blvd. SE",
+        "cycleway": "lane",
+        "sort_key": 378,
+        "is_bicycle_related": true,
+        "network": "US:NM",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -106.645593,
+              35.078754
+            ],
+            [
+              -106.645805,
+              35.077529
+            ],
+            [
+              -106.64576,
+              35.07555
+            ]
+          ],
+          [
+            [
+              -106.645633,
+              35.069599
+            ],
+            [
+              -106.645517,
+              35.065973
+            ]
+          ],
+          [
+            [
+              -106.645378,
+              35.065973
+            ],
+            [
+              -106.645467,
+              35.068628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 352354147,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 380,
+        "operator": "BNSF",
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.650504,
+            35.065973
+          ],
+          [
+            -106.647108,
+            35.083956
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 177346965,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Oak St. SE",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.637082,
+            35.078126
+          ],
+          [
+            -106.636245,
+            35.08271
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
