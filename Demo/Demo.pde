@@ -13,7 +13,6 @@ Write date: 8/13/16
 Last Updated: 8/15/16
 */
 boolean lines = false;
-import java.util.List;
 MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
