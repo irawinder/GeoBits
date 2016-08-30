@@ -20,7 +20,6 @@ public void PullData(){
     get.send();
     output = get.getContent();
     JSONObject json = parseJSONObject(output);
-
     saveJSONObject(json, "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json");
     String[] list = split(output, "<ways>");
     geostuff.setString("output", output);

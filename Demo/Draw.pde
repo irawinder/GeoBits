@@ -62,36 +62,46 @@ void draw_selection() {
 
 void drawLines(String filename, color c){ 
     
-    Table values = loadTable(filename, "header");
-    for(int i = 0; i<values.getRowCount()-1; i++){ 
-         if(values.getFloat(i, "id") == values.getFloat(i+1, "id")){
-                stroke(c);
-                strokeWeight(1);
-                PVector start = mercatorMap.getScreenLocation(new PVector(values.getFloat(i, "lat"), values.getFloat(i, "lon")));
-                PVector end =  mercatorMap.getScreenLocation(new PVector(values.getFloat(i+1, "lat"), values.getFloat(i+1, "lon")));
-                println(start, end);
-                line(start.x, start.y, end.x, end.y);
-                textSize(20);
-            }      
-               }
+//    Table values = loadTable(filename, "header");
+//    for(int i = 0; i<values.getRowCount()-1; i++){ 
+//         if(values.getFloat(i, "id") == values.getFloat(i+1, "id")){
+//                stroke(c);
+//                strokeWeight(1);
+//                PVector start = mercatorMap.getScreenLocation(new PVector(values.getFloat(i, "lat"), values.getFloat(i, "lon")));
+//                PVector end =  mercatorMap.getScreenLocation(new PVector(values.getFloat(i+1, "lat"), values.getFloat(i+1, "lon")));
+//                println(start, end);
+//                line(start.x, start.y, end.x, end.y);
+//                textSize(20);
+//            }      
+//               }
+    JSONObject JSON = loadJSONObject("exports/bounds42.358803lat-71.05557lonzoom15.json");
+    JSONArray JSONlines = JSON.getJSONArray("features");
+    for(int i=0; i<JSONlines.size(); i++) {
+      String type = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
+if(type.equals("LineString")){
+ JSONArray linestring = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+       for(int j = 0; j<linestring.size(); j++){
+         if(j<linestring.size()-1){
+            PVector start = mercatorMap.getScreenLocation(new PVector(linestring.getJSONArray(j).getFloat(1), linestring.getJSONArray(j).getFloat(0)));
+            PVector end = mercatorMap.getScreenLocation(new PVector(linestring.getJSONArray(j+1).getFloat(1), linestring.getJSONArray(j+1).getFloat(0)));
+            stroke(c);
+         line(start.x, start.y, end.x, end.y);  
+       }
+       }
+       
+}
 
-//
-//List<Feature> stuffs = GeoJSONReader.loadDataFromJSON(this, output);  
-//List<Feature> stuffs = GeoJSONReader.loadData(this, "please.json");  
-//          
-//          List<Marker> stufflines = new ArrayList<Marker>();      
-//        
-//         for (Feature feature : stuffs) {  
-//               ShapeFeature lineFeature = (ShapeFeature) feature;
-//               SimpleLinesMarker m = new SimpleLinesMarker(lineFeature.getLocations());
-//               
-//                m.setColor(c);
-//                m.setStrokeWeight(1);
-//                stufflines.add(m);
-//               
-//         }
-//               map.addMarkers(stufflines); 
-               
-       println("lines drawn"); 
+      JSONArray points = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+//      for(int j=0; j<points.size(); j++) {
+//        // Point coordinates to XY screen position -->
+//        if(j<points.size()){
+//        PVector start = mercatorMap.getScreenLocation(new PVector(points.getJSONArray(j).getFloat(1), points.getJSONArray(j).getFloat(0)));
+//        PVector end = mercatorMap.getScreenLocation(new PVector(points.getJSONArray(j+1).getFloat(1), points.getJSONArray(j+1).getFloat(0)));
+//        stroke(c);
+//        line(start.x, start.y, end.x, end.y);
+//      }
+//    }
+    
+  }
 }
 
