@@ -61,47 +61,38 @@ void draw_selection() {
 }
 
 void drawLines(String filename, color c){ 
-    
-//    Table values = loadTable(filename, "header");
-//    for(int i = 0; i<values.getRowCount()-1; i++){ 
-//         if(values.getFloat(i, "id") == values.getFloat(i+1, "id")){
-//                stroke(c);
-//                strokeWeight(1);
-//                PVector start = mercatorMap.getScreenLocation(new PVector(values.getFloat(i, "lat"), values.getFloat(i, "lon")));
-//                PVector end =  mercatorMap.getScreenLocation(new PVector(values.getFloat(i+1, "lat"), values.getFloat(i+1, "lon")));
-//                println(start, end);
-//                line(start.x, start.y, end.x, end.y);
-//                textSize(20);
-//            }      
-//               }
-    JSONObject JSON = loadJSONObject("exports/bounds42.358803lat-71.05557lonzoom15.json");
+    JSONObject JSON = loadJSONObject(linegrab);
     JSONArray JSONlines = JSON.getJSONArray("features");
     for(int i=0; i<JSONlines.size(); i++) {
       String type = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
-if(type.equals("LineString")){
- JSONArray linestring = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+    if(type.equals("LineString")){
+     JSONArray linestring = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
        for(int j = 0; j<linestring.size(); j++){
          if(j<linestring.size()-1){
             PVector start = mercatorMap.getScreenLocation(new PVector(linestring.getJSONArray(j).getFloat(1), linestring.getJSONArray(j).getFloat(0)));
             PVector end = mercatorMap.getScreenLocation(new PVector(linestring.getJSONArray(j+1).getFloat(1), linestring.getJSONArray(j+1).getFloat(0)));
             stroke(c);
+            strokeWeight(1);
          line(start.x, start.y, end.x, end.y);  
        }
        }
-       
 }
-
-      JSONArray points = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
-//      for(int j=0; j<points.size(); j++) {
-//        // Point coordinates to XY screen position -->
-//        if(j<points.size()){
-//        PVector start = mercatorMap.getScreenLocation(new PVector(points.getJSONArray(j).getFloat(1), points.getJSONArray(j).getFloat(0)));
-//        PVector end = mercatorMap.getScreenLocation(new PVector(points.getJSONArray(j+1).getFloat(1), points.getJSONArray(j+1).getFloat(0)));
-//        stroke(c);
-//        line(start.x, start.y, end.x, end.y);
-//      }
-//    }
-    
+ if(type.equals("MultiLineString")){
+       JSONArray multi = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+               for(int k = 0; k<multi.size(); k++){
+                   JSONArray substring = multi.getJSONArray(k);
+                        for(int d = 0; d<substring.size(); d++){
+                               float lat = substring.getJSONArray(d).getFloat(1);
+                               float lon = substring.getJSONArray(d).getFloat(0);
+                                if(d<substring.size()-1){
+                                          PVector start = mercatorMap.getScreenLocation(new PVector(substring.getJSONArray(d).getFloat(1), substring.getJSONArray(d).getFloat(0)));
+                                          PVector end = mercatorMap.getScreenLocation(new PVector(substring.getJSONArray(d+1).getFloat(1), substring.getJSONArray(d+1).getFloat(0)));
+                                          stroke(c);
+                                          strokeWeight(1);
+                                       line(start.x, start.y, end.x, end.y);  
+                                     }
+                        }
+               }
+ }
   }
 }
-

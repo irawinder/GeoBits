@@ -6,7 +6,7 @@ GetRequest is based off code by Chris Allick and Daniel Shiffman
 
 */
 
-String output, link, file;
+String output, link, file, linegrab;
 JSONObject geostuff;
 
 
@@ -20,6 +20,7 @@ public void PullData(){
     get.send();
     output = get.getContent();
     JSONObject json = parseJSONObject(output);
+    linegrab = "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json";
     saveJSONObject(json, "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json");
     String[] list = split(output, "<ways>");
     geostuff.setString("output", output);
