@@ -1,0 +1,1312 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": 5598626,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Wagoner Rd.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04662913,
+            33.65357361
+          ],
+          [
+            -112.04654595,
+            33.65349906
+          ],
+          [
+            -112.0463644,
+            33.65341306
+          ],
+          [
+            -112.04622121,
+            33.65338106
+          ],
+          [
+            -112.04599537,
+            33.653375
+          ],
+          [
+            -112.04575624,
+            33.6534168
+          ],
+          [
+            -112.04564269,
+            33.65345912
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 314212718,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Michigan Ave.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04836144,
+            33.65128206
+          ],
+          [
+            -112.0476524,
+            33.6512873
+          ],
+          [
+            -112.04689683,
+            33.65129276
+          ],
+          [
+            -112.04550273,
+            33.65130308
+          ],
+          [
+            -112.04518787,
+            33.65130539
+          ],
+          [
+            -112.04466092,
+            33.65130921
+          ],
+          [
+            -112.04438406,
+            33.6513113
+          ],
+          [
+            -112.04406738,
+            33.6513136
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5692405,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Renee Dr.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04956055,
+            33.65544831
+          ],
+          [
+            -112.04909087,
+            33.65544127
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629851,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 17th Wy.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04461349,
+            33.65279496
+          ],
+          [
+            -112.04465607,
+            33.65269341
+          ],
+          [
+            -112.044662,
+            33.65211591
+          ],
+          [
+            -112.04466092,
+            33.65130921
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 82156983,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "N 16th St.",
+        "oneway": "no",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04835903,
+            33.6512083
+          ],
+          [
+            -112.04836144,
+            33.65128206
+          ],
+          [
+            -112.04839989,
+            33.6518752
+          ],
+          [
+            -112.04841148,
+            33.65256278
+          ],
+          [
+            -112.04843591,
+            33.65327271
+          ],
+          [
+            -112.04844364,
+            33.65362819
+          ],
+          [
+            -112.04845271,
+            33.65386321
+          ],
+          [
+            -112.04847364,
+            33.6543192
+          ],
+          [
+            -112.04849134,
+            33.65481196
+          ],
+          [
+            -112.04849592,
+            33.6549399
+          ],
+          [
+            -112.04849682,
+            33.65507861
+          ],
+          [
+            -112.04850086,
+            33.65569438
+          ],
+          [
+            -112.0485009,
+            33.65578083
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 391178104,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Wy.",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0466533,
+            33.65494095
+          ],
+          [
+            -112.04665231,
+            33.65436668
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629905,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Maria Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04771043,
+            33.65184656
+          ],
+          [
+            -112.04757101,
+            33.65177507
+          ],
+          [
+            -112.04715249,
+            33.65177971
+          ],
+          [
+            -112.04693797,
+            33.6518153
+          ],
+          [
+            -112.04674762,
+            33.65188021
+          ],
+          [
+            -112.0465313,
+            33.65201571
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5604468,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 15th Pl.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04908947,
+            33.65578083
+          ],
+          [
+            -112.04909087,
+            33.65544127
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970138,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04918268,
+            33.65493422
+          ],
+          [
+            -112.04864351,
+            33.65494222
+          ],
+          [
+            -112.04849592,
+            33.6549399
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5667783,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Wy.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04690029,
+            33.6512083
+          ],
+          [
+            -112.04689674,
+            33.65129276
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5658879,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Bluefield Ave.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04406738,
+            33.65279231
+          ],
+          [
+            -112.04448189,
+            33.65279167
+          ],
+          [
+            -112.04461349,
+            33.65279496
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 68238554,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Theresa Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04845271,
+            33.65386321
+          ],
+          [
+            -112.04873308,
+            33.65386912
+          ],
+          [
+            -112.04917298,
+            33.6538354
+          ],
+          [
+            -112.04934492,
+            33.65415237
+          ],
+          [
+            -112.04956055,
+            33.65424856
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 84193301,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Wy.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04589727,
+            33.65428016
+          ],
+          [
+            -112.04601154,
+            33.65416419
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 157362591,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 356,
+        "service": "driveway",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04427213,
+            33.65532918
+          ],
+          [
+            -112.044329,
+            33.65517769
+          ],
+          [
+            -112.04432432,
+            33.65511495
+          ],
+          [
+            -112.04432404,
+            33.65510539
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 157362591,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 356,
+        "service": "driveway",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04432404,
+            33.65510539
+          ],
+          [
+            -112.04431956,
+            33.65495658
+          ],
+          [
+            -112.0443157,
+            33.6548246
+          ],
+          [
+            -112.04432693,
+            33.65438709
+          ],
+          [
+            -112.044329,
+            33.65430648
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629931,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Maria Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04406738,
+            33.65211934
+          ],
+          [
+            -112.044662,
+            33.65211591
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5687595,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Pl.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0465313,
+            33.65201571
+          ],
+          [
+            -112.04667342,
+            33.6521877
+          ],
+          [
+            -112.04677268,
+            33.65236858
+          ],
+          [
+            -112.0468414,
+            33.65260996
+          ],
+          [
+            -112.04688533,
+            33.65271016
+          ],
+          [
+            -112.04696744,
+            33.65277739
+          ],
+          [
+            -112.04708377,
+            33.6528731
+          ],
+          [
+            -112.04722058,
+            33.65296687
+          ],
+          [
+            -112.0473079,
+            33.65303851
+          ],
+          [
+            -112.04737878,
+            33.65310745
+          ],
+          [
+            -112.04749151,
+            33.65327503
+          ],
+          [
+            -112.0475747,
+            33.65350048
+          ],
+          [
+            -112.04757101,
+            33.65370865
+          ],
+          [
+            -112.04751029,
+            33.6539024
+          ],
+          [
+            -112.04739234,
+            33.65407206
+          ],
+          [
+            -112.04720989,
+            33.6542596
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5667779,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Wy.",
+        "oneway": "yes",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04656993,
+            33.65436877
+          ],
+          [
+            -112.04659392,
+            33.6549423
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 212394346,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Pl.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04783565,
+            33.65578083
+          ],
+          [
+            -112.0478362,
+            33.65574246
+          ],
+          [
+            -112.0479334,
+            33.65560129
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 212394351,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04406738,
+            33.65323799
+          ],
+          [
+            -112.0449712,
+            33.65322336
+          ],
+          [
+            -112.04503938,
+            33.6533827
+          ],
+          [
+            -112.04531508,
+            33.65415499
+          ],
+          [
+            -112.04528588,
+            33.65423866
+          ],
+          [
+            -112.04511403,
+            33.65437102
+          ],
+          [
+            -112.04432693,
+            33.65438709
+          ],
+          [
+            -112.04406738,
+            33.65438709
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 84193300,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04921251,
+            33.6543026
+          ],
+          [
+            -112.04934492,
+            33.65415237
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970142,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04785767,
+            33.65494177
+          ],
+          [
+            -112.0466533,
+            33.65494095
+          ],
+          [
+            -112.04659401,
+            33.6549423
+          ],
+          [
+            -112.04507891,
+            33.65495187
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5667784,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 16th Wy.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04601154,
+            33.65416419
+          ],
+          [
+            -112.04593222,
+            33.65408949
+          ],
+          [
+            -112.04583942,
+            33.65397829
+          ],
+          [
+            -112.04577079,
+            33.6538594
+          ],
+          [
+            -112.04564269,
+            33.65345912
+          ],
+          [
+            -112.04552169,
+            33.65308352
+          ],
+          [
+            -112.04549492,
+            33.6525968
+          ],
+          [
+            -112.04549222,
+            33.65179078
+          ],
+          [
+            -112.04550273,
+            33.65130308
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629923,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Maria Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0465313,
+            33.65201571
+          ],
+          [
+            -112.04626837,
+            33.65185501
+          ],
+          [
+            -112.04609607,
+            33.651791
+          ],
+          [
+            -112.04590356,
+            33.65177463
+          ],
+          [
+            -112.04549222,
+            33.65179078
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629837,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "sort_key": 358,
+        "name": "N 17th Wy.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04518787,
+            33.65130539
+          ],
+          [
+            -112.0451898,
+            33.6512083
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5629918,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Maria Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04956055,
+            33.65166499
+          ],
+          [
+            -112.04946215,
+            33.6516671
+          ],
+          [
+            -112.04924844,
+            33.65171428
+          ],
+          [
+            -112.04904452,
+            33.65183938
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970141,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04849592,
+            33.6549399
+          ],
+          [
+            -112.04834536,
+            33.65494207
+          ],
+          [
+            -112.04785767,
+            33.65494177
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5592061,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "East Bluefield Circle",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04584589,
+            33.65256442
+          ],
+          [
+            -112.04549492,
+            33.6525968
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5598625,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Wagoner Rd.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0475747,
+            33.65350048
+          ],
+          [
+            -112.04802161,
+            33.65348986
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5599182,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Villa Theresa Dr.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04601154,
+            33.65416419
+          ],
+          [
+            -112.04622453,
+            33.65428315
+          ],
+          [
+            -112.04641336,
+            33.6543414
+          ],
+          [
+            -112.04656993,
+            33.65436877
+          ],
+          [
+            -112.04665231,
+            33.65436668
+          ],
+          [
+            -112.04675921,
+            33.65436638
+          ],
+          [
+            -112.04698459,
+            33.65433101
+          ],
+          [
+            -112.04720989,
+            33.6542596
+          ],
+          [
+            -112.0474245,
+            33.65438462
+          ],
+          [
+            -112.04798244,
+            33.65435778
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5658860,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "E Bluefield Ave.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04802161,
+            33.65265932
+          ],
+          [
+            -112.04784976,
+            33.65261909
+          ],
+          [
+            -112.04737779,
+            33.6525879
+          ],
+          [
+            -112.04715249,
+            33.6526057
+          ],
+          [
+            -112.04688533,
+            33.65271016
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 212394347,
+        "highway": "service",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 358,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04406738,
+            33.65576573
+          ],
+          [
+            -112.04427213,
+            33.65532918
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5604472,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N 15th Pl.",
+        "oneway": "no",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04904452,
+            33.65183938
+          ],
+          [
+            -112.04893717,
+            33.65196441
+          ],
+          [
+            -112.04887294,
+            33.65207157
+          ],
+          [
+            -112.04884438,
+            33.65220108
+          ],
+          [
+            -112.04884995,
+            33.65236589
+          ],
+          [
+            -112.04891579,
+            33.65251806
+          ],
+          [
+            -112.04910893,
+            33.65274142
+          ],
+          [
+            -112.04915879,
+            33.65285575
+          ],
+          [
+            -112.04918565,
+            33.65300763
+          ],
+          [
+            -112.04916247,
+            33.65335758
+          ],
+          [
+            -112.04911962,
+            33.65359866
+          ],
+          [
+            -112.04917298,
+            33.6538354
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970136,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04956055,
+            33.65493583
+          ],
+          [
+            -112.04928069,
+            33.6549328
+          ],
+          [
+            -112.04918268,
+            33.65493422
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970139,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04507891,
+            33.65495187
+          ],
+          [
+            -112.04444236,
+            33.65495598
+          ],
+          [
+            -112.04431956,
+            33.65495658
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 436970140,
+        "is_bus_route": true,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "name": "E Union Hills Dr.",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "oneway": "no",
+        "is_bicycle_related": true,
+        "network": "local",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.04431956,
+            33.65495658
+          ],
+          [
+            -112.04421329,
+            33.65495695
+          ],
+          [
+            -112.04406738,
+            33.65495756
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

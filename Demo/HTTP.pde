@@ -6,30 +6,31 @@ GetRequest is based off code by Chris Allick and Daniel Shiffman
 
 */
 
-String output, link, file, linegrab;
+String output, file, link, export;
 JSONObject geostuff;
 
+ArrayList<String>files = new ArrayList<String>();
+String mapling;
+ArrayList<PVector>PullBox = new ArrayList<PVector>();
 
-public void PullData(){
-    geostuff = new JSONObject();
-    println("requesting data...");
-    //request the geojson for the current tower
-    link = "https://vector.mapzen.com/osm/roads/" + getTileNumber(BoundingBox().get(4).x, BoundingBox().get(4).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
-    GetRequest get = new GetRequest(link);
-    println("data requested...");
-    get.send();
-    output = get.getContent();
-    JSONObject json = parseJSONObject(output);
-    linegrab = "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json";
-    saveJSONObject(json, "exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".json");
-    String[] list = split(output, "<ways>");
-    geostuff.setString("output", output);
-    println(list.length);
-    //saveStrings("exports/bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt", list);
-    file = "bounds" + BoundingBox().get(4).x +"lat" + BoundingBox().get(4).y + "lon" + "zoom" + map.getZoomLevel() + ".txt";
-    println("data received and exported");
-    pull = false;
-    
+ JSONArray masterexport = new JSONArray();
+ JSONObject exportjson;
+
+public void PullMap(){
+   geostuff = new JSONObject();
+   println("requesting map data...");
+   for(int i = 0; i<MapTiles().size(); i++){
+   link = "https://vector.mapzen.com/osm/all/" + MapTiles().get(i) +".json?api_key=vector-tiles-i5Sxwwo";
+   GetRequest get = new GetRequest(link);
+   println("data requested...");
+   get.send();
+   output = get.getContent();
+   masterexport.setJSONObject(i, parseJSONObject(output));
+   saveJSONArray(masterexport, "exports/exportedmap" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
+   mapling = "exports/exportedmap" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
+   println(int(float(i)/MapTiles().size()*100) + "% DONE");
+   }
+   pull = false;
 }
 
 //imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 

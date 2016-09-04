@@ -1,0 +1,2156 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 54455511,
+          "area": 3190,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.421486,
+              31.339113
+            ],
+            [
+              -92.421377,
+              31.339305
+            ],
+            [
+              -92.421441,
+              31.339432
+            ],
+            [
+              -92.421133,
+              31.339597
+            ],
+            [
+              -92.421056,
+              31.339377
+            ],
+            [
+              -92.421069,
+              31.339047
+            ],
+            [
+              -92.421172,
+              31.338893
+            ],
+            [
+              -92.421428,
+              31.338948
+            ],
+            [
+              -92.421486,
+              31.339113
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 54455511,
+          "area": 3190,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.421486,
+              31.339113
+            ],
+            [
+              -92.421377,
+              31.339305
+            ],
+            [
+              -92.421441,
+              31.339432
+            ],
+            [
+              -92.421133,
+              31.339597
+            ],
+            [
+              -92.421057,
+              31.339376
+            ],
+            [
+              -92.421069,
+              31.339046
+            ],
+            [
+              -92.421172,
+              31.338893
+            ],
+            [
+              -92.421429,
+              31.338948
+            ],
+            [
+              -92.421486,
+              31.339113
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 134095839,
+          "area": 4562,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.419898,
+              31.334586
+            ],
+            [
+              -92.419757,
+              31.334935
+            ],
+            [
+              -92.41887,
+              31.334534
+            ],
+            [
+              -92.419107,
+              31.334108
+            ],
+            [
+              -92.419213,
+              31.334152
+            ],
+            [
+              -92.419024,
+              31.334476
+            ],
+            [
+              -92.419114,
+              31.334511
+            ],
+            [
+              -92.419299,
+              31.334186
+            ],
+            [
+              -92.419419,
+              31.334235
+            ],
+            [
+              -92.419325,
+              31.334402
+            ],
+            [
+              -92.419687,
+              31.334549
+            ],
+            [
+              -92.41961,
+              31.334686
+            ],
+            [
+              -92.419701,
+              31.334723
+            ],
+            [
+              -92.4198,
+              31.334546
+            ],
+            [
+              -92.419898,
+              31.334586
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 285937387,
+          "area": 2010,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.417534,
+              31.338198
+            ],
+            [
+              -92.417468,
+              31.338271
+            ],
+            [
+              -92.417517,
+              31.338316
+            ],
+            [
+              -92.417257,
+              31.338569
+            ],
+            [
+              -92.417147,
+              31.338476
+            ],
+            [
+              -92.417204,
+              31.338417
+            ],
+            [
+              -92.417086,
+              31.338326
+            ],
+            [
+              -92.417196,
+              31.338229
+            ],
+            [
+              -92.417139,
+              31.338191
+            ],
+            [
+              -92.417363,
+              31.337982
+            ],
+            [
+              -92.417534,
+              31.338198
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095829,
+          "area": 1029,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.419594,
+              31.335118
+            ],
+            [
+              -92.419483,
+              31.335307
+            ],
+            [
+              -92.419182,
+              31.335186
+            ],
+            [
+              -92.419284,
+              31.334996
+            ],
+            [
+              -92.419594,
+              31.335118
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095844,
+          "area": 834,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.420013,
+              31.335032
+            ],
+            [
+              -92.419869,
+              31.335292
+            ],
+            [
+              -92.419689,
+              31.335219
+            ],
+            [
+              -92.419833,
+              31.334959
+            ],
+            [
+              -92.420013,
+              31.335032
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095842,
+          "area": 813,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.41971,
+              31.335014
+            ],
+            [
+              -92.419659,
+              31.335104
+            ],
+            [
+              -92.419156,
+              31.334897
+            ],
+            [
+              -92.419207,
+              31.334807
+            ],
+            [
+              -92.41971,
+              31.335014
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095836,
+          "area": 689,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.421268,
+              31.335849
+            ],
+            [
+              -92.421091,
+              31.335989
+            ],
+            [
+              -92.420954,
+              31.335822
+            ],
+            [
+              -92.420979,
+              31.335737
+            ],
+            [
+              -92.421069,
+              31.335699
+            ],
+            [
+              -92.421268,
+              31.335849
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095834,
+          "area": 559,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.420797,
+              31.335407
+            ],
+            [
+              -92.420545,
+              31.335672
+            ],
+            [
+              -92.420457,
+              31.335612
+            ],
+            [
+              -92.420709,
+              31.335346
+            ],
+            [
+              -92.420797,
+              31.335407
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095832,
+          "area": 476,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.420615,
+              31.335334
+            ],
+            [
+              -92.420529,
+              31.335428
+            ],
+            [
+              -92.420422,
+              31.335357
+            ],
+            [
+              -92.420364,
+              31.335422
+            ],
+            [
+              -92.420298,
+              31.335379
+            ],
+            [
+              -92.420443,
+              31.33522
+            ],
+            [
+              -92.420615,
+              31.335334
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095833,
+          "area": 387,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.421765,
+              31.33525
+            ],
+            [
+              -92.421694,
+              31.335332
+            ],
+            [
+              -92.421484,
+              31.335199
+            ],
+            [
+              -92.421556,
+              31.335117
+            ],
+            [
+              -92.421765,
+              31.33525
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095837,
+          "area": 327,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.421464,
+              31.334724
+            ],
+            [
+              -92.421307,
+              31.334885
+            ],
+            [
+              -92.421225,
+              31.334827
+            ],
+            [
+              -92.421382,
+              31.334666
+            ],
+            [
+              -92.421464,
+              31.334724
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095827,
+          "area": 245,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.420956,
+              31.334808
+            ],
+            [
+              -92.420884,
+              31.334883
+            ],
+            [
+              -92.42075,
+              31.334788
+            ],
+            [
+              -92.420823,
+              31.334713
+            ],
+            [
+              -92.420956,
+              31.334808
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 134095831,
+          "area": 244,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.421231,
+              31.335007
+            ],
+            [
+              -92.421144,
+              31.335099
+            ],
+            [
+              -92.421034,
+              31.335023
+            ],
+            [
+              -92.421121,
+              31.334931
+            ],
+            [
+              -92.421231,
+              31.335007
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 51512370,
+          "area": 387593,
+          "source": "openstreetmap.org",
+          "sort_key": 74,
+          "name": "Greenwood Memorial Park",
+          "min_zoom": 9,
+          "kind": "cemetery"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.424229,
+              31.339447
+            ],
+            [
+              -92.421125,
+              31.343304
+            ],
+            [
+              -92.420337,
+              31.342791
+            ],
+            [
+              -92.420176,
+              31.342214
+            ],
+            [
+              -92.420165,
+              31.341572
+            ],
+            [
+              -92.420273,
+              31.340912
+            ],
+            [
+              -92.419897,
+              31.340738
+            ],
+            [
+              -92.419865,
+              31.340436
+            ],
+            [
+              -92.419725,
+              31.340088
+            ],
+            [
+              -92.419468,
+              31.339923
+            ],
+            [
+              -92.418352,
+              31.340784
+            ],
+            [
+              -92.417977,
+              31.340766
+            ],
+            [
+              -92.417273,
+              31.340452
+            ],
+            [
+              -92.421685,
+              31.335726
+            ],
+            [
+              -92.422559,
+              31.334871
+            ],
+            [
+              -92.422962,
+              31.334871
+            ],
+            [
+              -92.424229,
+              31.339447
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 51512370,
+          "area": 387593,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 74,
+          "name": "Greenwood Memorial Park",
+          "min_zoom": 9,
+          "kind": "cemetery"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.421552,
+            31.338455
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.416992,
+            31.334871
+          ],
+          [
+            -92.427979,
+            31.334871
+          ],
+          [
+            -92.427979,
+            31.344254
+          ],
+          [
+            -92.416992,
+            31.344254
+          ],
+          [
+            -92.416992,
+            31.334871
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 13415752,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Louisiana Southern Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.425564,
+              31.344254
+            ],
+            [
+              -92.424229,
+              31.339447
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89183096,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.422952,
+                31.341044
+              ],
+              [
+                -92.422988,
+                31.341074
+              ]
+            ],
+            [
+              [
+                -92.41955,
+                31.337989
+              ],
+              [
+                -92.419578,
+                31.338011
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13415752,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "cemetery",
+          "sort_key": 380,
+          "operator": "Louisiana Southern Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.424229,
+              31.339447
+            ],
+            [
+              -92.422962,
+              31.334871
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427172,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Gibbon St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426784,
+              31.334871
+            ],
+            [
+              -92.425143,
+              31.336649
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13419759,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "John H King Service Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.416992,
+              31.339536
+            ],
+            [
+              -92.417783,
+              31.339593
+            ],
+            [
+              -92.417971,
+              31.33969
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13420050,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Wycoff St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427322,
+              31.338128
+            ],
+            [
+              -92.427979,
+              31.338134
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13419649,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Sills Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426006,
+              31.337439
+            ],
+            [
+              -92.426332,
+              31.337964
+            ],
+            [
+              -92.426825,
+              31.338408
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 107501651,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Donahue Ferry Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.420156,
+                31.337406
+              ],
+              [
+                -92.417971,
+                31.33969
+              ]
+            ],
+            [
+              [
+                -92.417273,
+                31.340452
+              ],
+              [
+                -92.416992,
+                31.340757
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426324,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lilly Scott Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.420156,
+              31.337406
+            ],
+            [
+              -92.419472,
+              31.33721
+            ],
+            [
+              -92.417404,
+              31.336154
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13418865,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Oakland St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.42388,
+              31.334871
+            ],
+            [
+              -92.423395,
+              31.33543
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422816,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Moriarity St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.42613,
+              31.337298
+            ],
+            [
+              -92.423395,
+              31.33543
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89493407,
+          "ref": "US 165 Business",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "Military Hwy.",
+          "sort_key": 377,
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.427979,
+                31.334894
+              ],
+              [
+                -92.427463,
+                31.335758
+              ],
+              [
+                -92.424344,
+                31.339372
+              ]
+            ],
+            [
+              [
+                -92.423945,
+                31.339868
+              ],
+              [
+                -92.421575,
+                31.342766
+              ]
+            ],
+            [
+              [
+                -92.421125,
+                31.343304
+              ],
+              [
+                -92.420331,
+                31.344254
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89493415,
+          "ref": "US 165 Business",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "Military Hwy.",
+          "sort_key": 443,
+          "is_bridge": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.424344,
+              31.339372
+            ],
+            [
+              -92.423945,
+              31.339868
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13424278,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lallah St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427396,
+              31.334871
+            ],
+            [
+              -92.427979,
+              31.335084
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427015,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Corrine St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.424814,
+              31.334871
+            ],
+            [
+              -92.426966,
+              31.336334
+            ],
+            [
+              -92.427979,
+              31.336681
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 88690742,
+          "ref": "LA 3100",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "Donahue Ferry Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.422362,
+              31.334986
+            ],
+            [
+              -92.421685,
+              31.335726
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89493407,
+          "ref": "US 165 Business",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "cemetery",
+          "name": "Military Hwy.",
+          "sort_key": 377,
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.421575,
+              31.342766
+            ],
+            [
+              -92.421125,
+              31.343304
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13429922,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hudson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426787,
+              31.337348
+            ],
+            [
+              -92.427979,
+              31.337363
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13418604,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Jewel St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.425278,
+              31.334871
+            ],
+            [
+              -92.42421,
+              31.336007
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13429346,
+          "ref": "LA 3100",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "Griffith St.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.421685,
+              31.335726
+            ],
+            [
+              -92.420506,
+              31.334871
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89493404,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lawrence Blvd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426473,
+              31.336903
+            ],
+            [
+              -92.427979,
+              31.339075
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89183092,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "cemetery",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.421642,
+                31.338907
+              ],
+              [
+                -92.421833,
+                31.338267
+              ],
+              [
+                -92.42201,
+                31.337942
+              ],
+              [
+                -92.422293,
+                31.337631
+              ],
+              [
+                -92.422447,
+                31.337558
+              ],
+              [
+                -92.422938,
+                31.337561
+              ],
+              [
+                -92.423179,
+                31.337704
+              ],
+              [
+                -92.42344,
+                31.338069
+              ],
+              [
+                -92.423483,
+                31.338429
+              ]
+            ],
+            [
+              [
+                -92.419578,
+                31.338011
+              ],
+              [
+                -92.419729,
+                31.338245
+              ]
+            ],
+            [
+              [
+                -92.419729,
+                31.338245
+              ],
+              [
+                -92.42034,
+                31.33872
+              ]
+            ],
+            [
+              [
+                -92.42034,
+                31.33872
+              ],
+              [
+                -92.421088,
+                31.338698
+              ]
+            ],
+            [
+              [
+                -92.421088,
+                31.338698
+              ],
+              [
+                -92.421416,
+                31.338773
+              ],
+              [
+                -92.421642,
+                31.338907
+              ]
+            ],
+            [
+              [
+                -92.421642,
+                31.338907
+              ],
+              [
+                -92.421999,
+                31.339407
+              ]
+            ],
+            [
+              [
+                -92.421999,
+                31.339407
+              ],
+              [
+                -92.421933,
+                31.339537
+              ]
+            ],
+            [
+              [
+                -92.421933,
+                31.339537
+              ],
+              [
+                -92.421877,
+                31.339977
+              ],
+              [
+                -92.422022,
+                31.340245
+              ]
+            ],
+            [
+              [
+                -92.422022,
+                31.340245
+              ],
+              [
+                -92.422542,
+                31.340699
+              ]
+            ],
+            [
+              [
+                -92.422542,
+                31.340699
+              ],
+              [
+                -92.422952,
+                31.341044
+              ]
+            ],
+            [
+              [
+                -92.421999,
+                31.339407
+              ],
+              [
+                -92.422161,
+                31.339313
+              ],
+              [
+                -92.42232,
+                31.339106
+              ],
+              [
+                -92.422427,
+                31.338502
+              ],
+              [
+                -92.422636,
+                31.338276
+              ],
+              [
+                -92.423075,
+                31.3382
+              ],
+              [
+                -92.423358,
+                31.338299
+              ],
+              [
+                -92.423483,
+                31.338429
+              ]
+            ],
+            [
+              [
+                -92.423483,
+                31.338429
+              ],
+              [
+                -92.42355,
+                31.338656
+              ],
+              [
+                -92.423407,
+                31.339238
+              ],
+              [
+                -92.423081,
+                31.339916
+              ],
+              [
+                -92.422542,
+                31.340699
+              ]
+            ],
+            [
+              [
+                -92.422542,
+                31.340699
+              ],
+              [
+                -92.421916,
+                31.341594
+              ],
+              [
+                -92.421518,
+                31.341963
+              ]
+            ],
+            [
+              [
+                -92.421518,
+                31.341963
+              ],
+              [
+                -92.421232,
+                31.342211
+              ],
+              [
+                -92.421107,
+                31.34241
+              ]
+            ],
+            [
+              [
+                -92.421107,
+                31.34241
+              ],
+              [
+                -92.420976,
+                31.342699
+              ],
+              [
+                -92.42086,
+                31.342797
+              ],
+              [
+                -92.420549,
+                31.342822
+              ],
+              [
+                -92.420343,
+                31.342713
+              ],
+              [
+                -92.420204,
+                31.342175
+              ],
+              [
+                -92.420203,
+                31.341426
+              ],
+              [
+                -92.42027,
+                31.341042
+              ],
+              [
+                -92.42051,
+                31.340599
+              ],
+              [
+                -92.420676,
+                31.340434
+              ],
+              [
+                -92.421269,
+                31.340176
+              ]
+            ],
+            [
+              [
+                -92.421269,
+                31.340176
+              ],
+              [
+                -92.421352,
+                31.340134
+              ]
+            ],
+            [
+              [
+                -92.421352,
+                31.340134
+              ],
+              [
+                -92.421694,
+                31.3401
+              ],
+              [
+                -92.422022,
+                31.340245
+              ]
+            ],
+            [
+              [
+                -92.421933,
+                31.339537
+              ],
+              [
+                -92.421665,
+                31.339874
+              ],
+              [
+                -92.421352,
+                31.340134
+              ]
+            ],
+            [
+              [
+                -92.421518,
+                31.341963
+              ],
+              [
+                -92.421318,
+                31.342025
+              ],
+              [
+                -92.421107,
+                31.341894
+              ]
+            ],
+            [
+              [
+                -92.421107,
+                31.341894
+              ],
+              [
+                -92.421023,
+                31.341613
+              ],
+              [
+                -92.420987,
+                31.341006
+              ],
+              [
+                -92.421117,
+                31.340385
+              ],
+              [
+                -92.421269,
+                31.340176
+              ]
+            ],
+            [
+              [
+                -92.421107,
+                31.34241
+              ],
+              [
+                -92.421107,
+                31.341894
+              ]
+            ],
+            [
+              [
+                -92.42034,
+                31.33872
+              ],
+              [
+                -92.420064,
+                31.339029
+              ]
+            ],
+            [
+              [
+                -92.420064,
+                31.339029
+              ],
+              [
+                -92.419675,
+                31.339778
+              ]
+            ],
+            [
+              [
+                -92.419675,
+                31.339778
+              ],
+              [
+                -92.419236,
+                31.340023
+              ],
+              [
+                -92.418816,
+                31.340453
+              ],
+              [
+                -92.418433,
+                31.340718
+              ],
+              [
+                -92.418069,
+                31.340729
+              ],
+              [
+                -92.417698,
+                31.34059
+              ],
+              [
+                -92.41768,
+                31.340422
+              ],
+              [
+                -92.417947,
+                31.340054
+              ],
+              [
+                -92.419042,
+                31.338824
+              ]
+            ],
+            [
+              [
+                -92.419042,
+                31.338824
+              ],
+              [
+                -92.41942,
+                31.338421
+              ],
+              [
+                -92.419729,
+                31.338245
+              ]
+            ],
+            [
+              [
+                -92.419729,
+                31.338245
+              ],
+              [
+                -92.42012,
+                31.337677
+              ],
+              [
+                -92.420799,
+                31.337003
+              ],
+              [
+                -92.421208,
+                31.336932
+              ],
+              [
+                -92.421461,
+                31.336951
+              ],
+              [
+                -92.421613,
+                31.337175
+              ],
+              [
+                -92.421603,
+                31.337423
+              ],
+              [
+                -92.421118,
+                31.338296
+              ],
+              [
+                -92.421088,
+                31.338698
+              ]
+            ],
+            [
+              [
+                -92.419042,
+                31.338824
+              ],
+              [
+                -92.419034,
+                31.338961
+              ],
+              [
+                -92.419116,
+                31.339092
+              ],
+              [
+                -92.419455,
+                31.339347
+              ],
+              [
+                -92.419623,
+                31.339344
+              ]
+            ],
+            [
+              [
+                -92.419623,
+                31.339344
+              ],
+              [
+                -92.420064,
+                31.339029
+              ]
+            ],
+            [
+              [
+                -92.419675,
+                31.339778
+              ],
+              [
+                -92.41973,
+                31.339507
+              ],
+              [
+                -92.419623,
+                31.339344
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 136341570,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Creed St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.421039,
+              31.334871
+            ],
+            [
+              -92.420826,
+              31.335097
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426386,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Myrtlewood Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.420929,
+                31.343538
+              ],
+              [
+                -92.420991,
+                31.344254
+              ]
+            ],
+            [
+              [
+                -92.422334,
+                31.344254
+              ],
+              [
+                -92.422136,
+                31.344081
+              ],
+              [
+                -92.421575,
+                31.342766
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13419963,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Monroe St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427939,
+              31.339017
+            ],
+            [
+              -92.427979,
+              31.33902
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13428967,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "Jefferson Hwy.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.424904,
+              31.338704
+            ],
+            [
+              -92.424972,
+              31.338846
+            ],
+            [
+              -92.424925,
+              31.33928
+            ],
+            [
+              -92.42505,
+              31.340049
+            ],
+            [
+              -92.425219,
+              31.340564
+            ],
+            [
+              -92.42545,
+              31.3409
+            ],
+            [
+              -92.426332,
+              31.341338
+            ],
+            [
+              -92.426913,
+              31.342014
+            ],
+            [
+              -92.427406,
+              31.342416
+            ],
+            [
+              -92.427979,
+              31.342745
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430840,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Jeansonne St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426913,
+              31.342014
+            ],
+            [
+              -92.426569,
+              31.342305
+            ],
+            [
+              -92.42597,
+              31.343661
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 107501651,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "cemetery",
+          "sort_key": 376,
+          "name": "Donahue Ferry Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.421685,
+                31.335726
+              ],
+              [
+                -92.420156,
+                31.337406
+              ]
+            ],
+            [
+              [
+                -92.417971,
+                31.33969
+              ],
+              [
+                -92.417273,
+                31.340452
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422122,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Robert St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.422795,
+              31.343398
+            ],
+            [
+              -92.422136,
+              31.344081
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 88690746,
+          "ref": "LA 3100",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 443,
+          "name": "Donahue Ferry Rd.",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.422468,
+              31.334871
+            ],
+            [
+              -92.422362,
+              31.334986
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

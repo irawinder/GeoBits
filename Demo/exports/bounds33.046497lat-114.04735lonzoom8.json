@@ -1,0 +1,6882 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 2,
+          "area": 110270986846208,
+          "source": "naturalearthdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -115.0339,
+              31.9522
+            ],
+            [
+              -115.0347,
+              31.9547
+            ],
+            [
+              -115.0352,
+              31.9661
+            ],
+            [
+              -115.0294,
+              31.9709
+            ],
+            [
+              -115.0211,
+              31.9656
+            ],
+            [
+              -115.0175,
+              31.9538
+            ],
+            [
+              -115.0172,
+              31.9522
+            ],
+            [
+              -115.0339,
+              31.9522
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 68,
+          "source": "naturalearthdata.com",
+          "sort_key": 205,
+          "boundary": "yes",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.0339,
+              31.9522
+            ],
+            [
+              -115.0347,
+              31.9547
+            ],
+            [
+              -115.0352,
+              31.9661
+            ],
+            [
+              -115.0294,
+              31.9709
+            ],
+            [
+              -115.0211,
+              31.9656
+            ],
+            [
+              -115.0175,
+              31.9538
+            ],
+            [
+              -115.0172,
+              31.9522
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [
+      {
+        "properties": {
+          "alt_name:left:vi": "Hoa Kì;Mỹ;Mĩ",
+          "name:right:tzl": "Mexico",
+          "name:right:szl": "Meksyk",
+          "name:right:pl": "Meksyk",
+          "name:right:ilo": "Méhiko",
+          "name:right:pt": "México",
+          "name:right:hif": "Mexico",
+          "name:right:simple": "Mexico",
+          "alt_name:right:vi": "Mê-hi-cô; Mễ Tây Cơ; Mễ",
+          "name:right:fiu-vro": "Mehhiko",
+          "name:right:oc": "Mexic",
+          "name:right:mzn": "مکزیک",
+          "name:left:kbd": "Америкэ Штат Зэгуэт",
+          "name:right:or": "ମେକ୍ସିକୋ",
+          "name:right:os": "Мексикæ",
+          "name:right:pa": "ਮੈਕਸੀਕੋ",
+          "name:left:pfl": "Verainischde Schdaade vun Ameriga",
+          "name:left:crh": "Amerika Qoşma Ştatları",
+          "name:right:als": "Mexiko",
+          "name:right:rm": "Mexico",
+          "name:left:dsb": "Zjadnośone staty Ameriki",
+          "name:left:new": "संयुक्त राज्य अमेरिका",
+          "name:right:ro": "Mexic",
+          "name:left:lez": "Америкадин Садхьанвай Штатар",
+          "name:right:ru": "Мексика",
+          "name:right:rw": "Megizike",
+          "name:left:war": "Estados Unidos",
+          "name:right:sc": "Mèssico",
+          "name:right:se": "Meksiko",
+          "name:left:zh-classical": "美利堅合眾國",
+          "name:left:tet": "Estadu Naklibur Sira Amérika Nian",
+          "name:left:pdc": "Vereenichde Schtaate vun Amerikaa",
+          "name:left:zh-yue": "即美利堅合眾國",
+          "name:left:nds": "Verenigten Staten vun Amerika",
+          "name:right:ang": "Mexico",
+          "admin_level": 2,
+          "name:right:qu": "Mishiku",
+          "name:right:cbk-zam": "México",
+          "name:right:tt": "Мексика",
+          "name:right:ltg": "Meksika",
+          "name:right:mwl": "México",
+          "name:right:tr": "Meksika",
+          "name:right:tk": "Meksika",
+          "name:right:tl": "Mehiko",
+          "name:right:tg": "Мексика",
+          "name:right:th": "ประเทศเม็กซิโก",
+          "name:right:ug": "مېكسىكا",
+          "name:left:zea": "Vereênigde Staeten",
+          "name:left:als": "Vereinigte Schtaate vo Amerika",
+          "name:right:tw": "Mexico",
+          "id:right": -114686,
+          "name:left:simple": "United States",
+          "name:right:su": "Méksiko",
+          "name:right:sr": "Мексико",
+          "name:right:ss": "IMekisikho",
+          "name:left:vec": "Stati Unìi de la Mèrica",
+          "name:right:sq": "Meksika",
+          "name:right:sn": "Mexico",
+          "name:right:so": "Meksiko",
+          "name:right:bpy": "মেক্সিকো",
+          "name:left:vep": "Amerikan Ühtenzoittud Valdkundad",
+          "name:right:sl": "Mehika",
+          "name:left:ang": "Geānlǣtan Rīcu American",
+          "name:right:sm": "Mexico",
+          "name:right:sk": "Mexiko",
+          "name:right:sh": "Meksiko",
+          "name:right:te": "మెక్సికో",
+          "name:right:ta": "மெக்சிக்கோ",
+          "name:left:jbo": ".iunaited.steits.",
+          "name:left:map-bms": "Amerika Serikat",
+          "name:left:sco": "Unitit States o Americae",
+          "name:right:sw": "Mexiko",
+          "name:left:scn": "Stati Uniti",
+          "name:right:sv": "Mexico",
+          "name:left:nap": "State Aunite d'Amereca",
+          "name:right:vi": "México",
+          "name:left:pih": "Yunitid Staits",
+          "name:right:vo": "Mäxikän",
+          "name:left:nah": "Tlacetilīlli Tlahtohcāyōtl Ixachitlān",
+          "name:right:krc": "Мексика",
+          "name:left:lij": "Stati Unïi d'America",
+          "name": "United States of America - Estados Unidos Mexicanos",
+          "name:left:ckb": "وڵاتە یەکگرتووەکان",
+          "name:right:ast": "Méxicu",
+          "name:right:ur": "میکسیکو",
+          "name:right:hak": "Me̍t-sî-kô",
+          "name:left:hif": "United States",
+          "name:right:uk": "Мексика",
+          "name:right:gan": "墨西哥",
+          "name:right:arc": "ܡܟܣܝܩܘ",
+          "name:right:gag": "Meksika",
+          "name:right:haw": "Mekiko",
+          "name:right:arz": "الميكسيك",
+          "name:left:be-tarask": "Злучаныя Штаты Амэрыкі",
+          "name:right:uz": "Meksika",
+          "name:right:crh": "Meksika",
+          "name:right:scn": "Mèssicu",
+          "name:right:sco": "Mexico",
+          "name:right:yi": "מעקסיקא",
+          "name:left:chy": "United States",
+          "name:left:chr": "ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ",
+          "name:left:bar": "Vaeinigtn Staatn vo Amerika",
+          "name:left:xal": "Америкин Ниицәтә Орн Нутгуд",
+          "name:right:wo": "Meksik",
+          "name:right:mrj": "Мексика",
+          "name:left:diq": "Dewletê Amerikayê Yewbiyayey",
+          "name:right:nrm": "Mexique",
+          "name:right:lmo": "Messich",
+          "name:left:lmo": "Stat Ünì d'America",
+          "name:right:zu": "IMekisiko",
+          "name:right:zh": "墨西哥",
+          "name:left:bcl": "Estados Unidos",
+          "name:right:yo": "Mẹ́ksíkò",
+          "name:left:ilo": "stados Unidos iti Amerika",
+          "name:left:koi": "Америкаись Ӧтлаасьӧм Штаттэз",
+          "name:right:chy": "Mé'šeeséve'ho'évenó",
+          "name:right:chr": "ᎺᏏᎪ",
+          "name:left:ceb": "Estados Unidos sa Amerika",
+          "name:left:myv": "Американь Вейтьсэндявкс Штаттнэ",
+          "name:left:mzn": "متحده ایالات آمریکا",
+          "name:left:ltg": "Amerikys Saškierstuos Vaļsteibys",
+          "name:left:cdo": "Mī-lé-giĕng Hăk-cé̤ṳng-guók",
+          "name:left:pcd": "États-Unis Anmérikes",
+          "name:right:lij": "Mescico",
+          "name:left:pag": "Estados Unidos",
+          "name:right:be-tarask": "Мэксыка",
+          "name:left:tpi": "Yunaitet Stet bilong Amerika",
+          "name:left:pam": "United States ning America",
+          "name:right:ckb": "مەکسیک",
+          "name:left:pap": "Estadonan Uni di Merka",
+          "id": -148838,
+          "name:right:sah": "Мексика",
+          "name:left:ace": "Amirika Carékat",
+          "name:left:krc": "Американы Бирлешген Штатлары",
+          "name:left:haw": "\u2018Amelika Hui Pū \u2018ia",
+          "name:right:nov": "Mexiko",
+          "osm_relation": true,
+          "name:left:gan": "美國",
+          "name:left:mwl": "Stados Ounidos de la América",
+          "name:left:hak": "Mî-li-kiên Ha̍p-chung-koet",
+          "sort_key": 262,
+          "name:left:gag": "Amerika Birleşik Devletläri",
+          "name:left:ext": "Estaus Uñíus d'América",
+          "name:right:eo": "Meksiko",
+          "name:left:ksh": "Vereenichde Staate van Amerika",
+          "name:right:en": "Mexico",
+          "name:right:el": "Μεξικό",
+          "name:left:jv": "Amérika Sarékat",
+          "name:left:wuu": "美国",
+          "name:left:bat-smg": "JAV",
+          "name:right:pih": "Meksikoe",
+          "name:right:eu": "Mexiko",
+          "name:left:oc": "Estats Units d'America",
+          "name:right:et": "Mehhiko",
+          "name:right:es": "México",
+          "name:left": "United States of America",
+          "name:left:ka": "ამერიკის შეერთებული შტატები",
+          "name:left:nl": "Verenigde Staten van Amerika",
+          "name:right:frp": "Mexique",
+          "name:left:nds-nl": "Verienigde Staoten van Amerika",
+          "name:right:dz": "མེཀ་སི་ཀོ",
+          "name:left:no": "Amerikas forente stater",
+          "name:left:nn": "USA",
+          "name:right:ee": "Mexico",
+          "name:right:frr": "Meksikoo",
+          "name:left:nv": "Wááshindoon Bikéyah Ałhidadiidzooígíí",
+          "name:left:my": "အမေရိကန်ပြည်ထောင်စု",
+          "name:right:fo": "Meksiko",
+          "name:left:iu": "ᐊᒥᐊᓕᑲ",
+          "name:right:fi": "Meksiko",
+          "name:left:na": "Eben Merika",
+          "name:left:ne": "संयुक्त राज्य अमेरिका",
+          "name:right:fr": "Mexique",
+          "name:left:ja": "アメリカ合衆国",
+          "name:left:mi": "Hononga-o-Amerika",
+          "name:left:ml": "അമേരിക്കന്\u200d ഐക്യനാടുകള്\u200d",
+          "name:left:stq": "Fereende Stoaten fon Amerikoa",
+          "name:left:mk": "Соединети Американски Држави",
+          "name:left:mn": "Америкийн Нэгдсэн Улс",
+          "name:left:rue": "Споєны Штаты Америцькы",
+          "name:left:ie": "Unit States de America",
+          "id:left": -148838,
+          "name:left:ig": "Njikota Obodo Amerika",
+          "name:left:mr": "अमेरिकेची संयुक्त संस्थाने",
+          "name:left:it": "Stati Uniti d'America",
+          "name:left:mt": "Stati Uniti tal-Amerika",
+          "name:left:is": "Bandaríki Norður-Ameríku",
+          "name:left:ms": "Amerika Syarikat",
+          "name:right:fa": "مکزیک",
+          "name:left:io": "Unionita Stati di Amerika",
+          "name:right:co": "Messicu",
+          "name:left:roa-tara": "Statère Aunìte d'Americhe",
+          "name:left:mg": "Etazonia",
+          "name:right:cs": "Mexiko",
+          "name:left:ps": "د امريکا متحده ايالات",
+          "name:left:mrj": "Америкын Ушымы Штатвлӓжӹ",
+          "name:left:li": "Vereinegde State van Amerika",
+          "name:right:roa-tara": "Messeche",
+          "name:left:lo": "ສະຫະລັດອາເມລິກາ",
+          "name:left:ln": "Lisangá lya Ameríka",
+          "name:left:pl": "Stany Zjednoczone Ameryki",
+          "name:right:ca": "Mèxic",
+          "name:right:ce": "Мексика",
+          "name:left:lv": "Amerikas Savienotās Valstis",
+          "name:left:pt": "Estados Unidos da América",
+          "name:left:lt": "Jungtinės Amerikos Valstijos",
+          "name:left:fur": "Stâts Unîts di Americhe",
+          "name:left:kw": "Statys Unys Amerika",
+          "name:left:pa": "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ",
+          "name:right:ceb": "Mehiko",
+          "name:right:diq": "Meksika",
+          "name:left:ky": "Америка Кошмо Штаттары",
+          "name:right:zh-classical": "墨西哥",
+          "name:left:la": "Civitates Foederatae Americae",
+          "name:right:lez": "Мексика",
+          "name:left:lb": "Vereenegt Staate vun Amerika",
+          "name:right:dv": "މެކްސިކޯ",
+          "name:left:lg": "Amereka",
+          "name:right:cv": "Мексика",
+          "name:left:srn": "Kondre Makandrameki",
+          "name:right:mhr": "Мексике",
+          "name:right:cdo": "Mĕ̤k-să̤-gŏ̤",
+          "name:left:or": "ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା",
+          "name:left:ki": "United States",
+          "name:right:cy": "Mexico",
+          "name:left:kl": "Naalagaaffeqatigiit",
+          "name:right:fur": "Messic",
+          "name:left:kk": "Америка Құрама Штаттары",
+          "name:left:kn": "ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+          "name:left:km": "សហរដ្ឋអាមេរិក",
+          "name:left:om": "USA",
+          "name:left:ko": "미국",
+          "name:right:da": "Mexico",
+          "name:left:ks": "संयुक्त राज्\u200dय अमेरिका",
+          "name:left:os": "Америкæйы Иугонд Штаттæ",
+          "name:right:de": "Mexiko",
+          "name:left:kv": "Америкаса Ӧтувтӧм Штатъяс",
+          "name:left:ku": "Dewletên Yekbûyî yên Amerîkayê",
+          "name:right:ar": "المكسيك",
+          "name:left:ga": "Stáit Aontaithe Mheiriceá",
+          "name:left:si": "අ'මෙරිකා\u200dවේ එක්සත් රාජ්\u200dයයන්",
+          "name:left:sh": "Sjedinjene Američke Države",
+          "name:left:sg": "ÂKödörö-ôko tî Amerîka",
+          "name:right:an": "Mexico",
+          "name:left:sm": "Iunaite Sitete o Amerika",
+          "name:left:sl": "Združene države Amerike",
+          "name:right:am": "ሜክሲኮ",
+          "name:left:sk": "Spojené štáty americké",
+          "name:left:fy": "Feriene Steaten fan Amearika",
+          "name:right:pms": "Méssich",
+          "name:left:sa": "संयुक्तानि राज्यानि",
+          "name:left:fiu-vro": "Ameeriga Ütisriigiq",
+          "name:right:new": "मेक्सिको",
+          "name:right:af": "Meksiko",
+          "name:left:se": "Amerihká ovttastuvvan stáhtat",
+          "name:left:sd": "آمريڪا",
+          "name:right:bar": "Mexiko",
+          "name:left:sc": "Istados Unidos de America",
+          "name:left:fr": "États-Unis d'Amérique",
+          "name:left:rw": "Leta Zunze Ubumwe z\u2019Amerika",
+          "name:left:fo": "Sambandsríkið Amerika",
+          "name:right:pnb": "میکسیکو",
+          "name:left:fi": "Amerikan yhdysvallat",
+          "name:left:rn": "Leta Zunze Ubumwe za Amerika",
+          "name:left:ff": "Dowlaaji Dentuɗi",
+          "name:right:zh-min-nan": "Be̍k-se-ko",
+          "name:left:ro": "Statele Unite ale Americii",
+          "name:left:ru": "Соединённые Штаты Америки",
+          "name:right:br": "Mec'hiko",
+          "name:right:bs": "Meksiko",
+          "name:left:fa": "ایالات متحده آمریکا",
+          "name:right:vep": "Meksik",
+          "name:right:bm": "Mɛkisiki",
+          "name:right:bn": "মেক্সিকো",
+          "name:left:rm": "Stadis Unids da l'America",
+          "name:right:bo": "མེག་སི་ཀོ།",
+          "name:right:bi": "Mexico",
+          "name:left:eu": "Ameriketako Estatu Batuak",
+          "name:right:xmf": "მექსიკა",
+          "name:right:be": "Мексіка",
+          "name:left:et": "Ameerika Ühendriigid",
+          "name:right:bg": "Мексико",
+          "name:left:es": "Estados Unidos de América",
+          "name:right:ace": "Meksiko",
+          "name:left:qu": "Hukllachasqa Amirika Suyukuna",
+          "name:right:ba": "Мексика",
+          "name:right:vec": "Mèsico",
+          "name:left:frr": "Feriind Stoote foon Ameerika",
+          "name:left:eo": "Unuiĝintaj Ŝtatoj de Ameriko",
+          "name:left:frp": "Ètats-Unis d\u2019Amèrica",
+          "name:right:bcl": "Mehiko",
+          "name:left:el": "Ηνωμένες Πολιτείες της Αμερικής",
+          "name:left:ee": "United States",
+          "name:right:ay": "Mïxiku",
+          "name:right:az": "Meksika",
+          "name:left:id": "Amerika Serikat",
+          "name:left:uk": "Сполучені Штати Америки",
+          "name:left:ia": "Statos Unite de America",
+          "name:right:jbo": "mexygu'e",
+          "name:left:ug": "ئامېرىكا قوشما شتاتلىرى",
+          "name:left:hu": "Amerikai Egyesült Államok",
+          "name:left:ht": "Etazini",
+          "name:left:hy": "Ամերիկայի Միացյալ Նահանգներ",
+          "name:right:bat-smg": "Meksėka",
+          "name:left:nrm": "Êtats Unnis d'Améthique",
+          "name:right:tpi": "Meksiko",
+          "name:left:hr": "Sjedinjene Američke Države",
+          "name:left:ty": "Fenua Marite",
+          "name:right:kbd": "Мексикэ",
+          "name:right:zh-yue": "墨西哥",
+          "name:left:tw": "USA",
+          "name:left:tt": "Америка Кушма Штатлары",
+          "name:left:he": "ארצות הברית",
+          "name:left:tr": "Amerika Birleşik Devletleri",
+          "name:left:ts": "United States",
+          "name:left:hi": "संयुक्त राज्य अमेरिका",
+          "name:left:tl": "Estados Unidos",
+          "name:left:to": "Puleʻanga Fakataha 'o 'Amelika",
+          "name:left:tn": "USA",
+          "name:left:ha": "kunkiyar taraiyar Amurika",
+          "name:left:th": "สหรัฐอเมริกา",
+          "name:left:tk": "Amerikanyň Birleşen Ştatlary",
+          "name:left:te": "అమెరికా సంయుక్త రాష్ట్రాలు",
+          "name:left:gv": "Steatyn Unnaneysit America",
+          "name:left:tg": "Иёлоти Муттаҳидаи Амрико",
+          "name:left:gu": "સંયુક્ત રાજ્ય અમેરિકા",
+          "name:left:ta": "அமெரிக்க ஐக்கிய நாடு",
+          "name:right:mdf": "Мексик",
+          "name:left:gl": "Estados Unidos de América",
+          "name:left:gn": "Tetã peteĩ reko Amérikagua",
+          "name:left:sw": "Muungano wa Madola ya Amerika",
+          "name:right:lad": "Meksiko",
+          "name:left:ss": "IMelika",
+          "name:left:gd": "Na Stàitean Aonaichte",
+          "name:left:su": "Amérika Sarikat",
+          "name:left:sv": "Amerikas Förenta Stater",
+          "name:left:so": "Mareykanka",
+          "name:left:tzl": "Estats Viensiçeschti d'America",
+          "name:left:sq": "Shtetet e Bashkuara të Amerikës",
+          "name:left:sr": "Сједињене Америчке Државе",
+          "name:left:bxr": "Американ Нэгэдэһэн Улас",
+          "name:left:be": "Злучаныя Штаты Амерыкі",
+          "name:right:mg": "Meksika",
+          "name:right:srn": "Meksikokondre",
+          "name:left:ba": "Америка Ҡушма Штаттары",
+          "name:right:ml": "മെക്സിക്കോ",
+          "name:right:pap": "Mexico",
+          "name:right:mn": "Мексик",
+          "name:left:bm": "Amerika ka Kelenyalen Jamanaw",
+          "name:right:nah": "Mēxihco",
+          "name:left:bg": "Съединени американски щати",
+          "name:right:mi": "Mehiko",
+          "name:left:bi": "Yunaeted Stet blong Amerika",
+          "name:right:mk": "Мексико",
+          "name:left:wa": "Estats Unis d' Amerike",
+          "name:left:br": "Stadoù-Unanet Amerika",
+          "name:right:mt": "Messiku",
+          "name:left:bs": "Sjedinjene Američke Države",
+          "name:right:nap": "Messico",
+          "name:right:pag": "Mexico",
+          "name:left:bn": "মার্কিন যুক্তরাষ্ট্র",
+          "name:right:hsb": "Mexiko",
+          "name:right:pam": "Mexico",
+          "name:left:bo": "ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།",
+          "name:right:ms": "Mexico",
+          "name:right:mr": "मेक्सिको",
+          "name:right:my": "မက္ကဆီကိုနိုင်ငံ",
+          "name:left:wo": "Diwaan-yu-Bennoo yu Aamerig",
+          "name:left:pms": "Stat Unì d'América",
+          "name:left:ur": "ریاستہائے متحدہ امریکہ",
+          "name:left:ab": "Америка Еиду Аштатқәа",
+          "name:right:ne": "मेक्सिको",
+          "name:right:xal": "Мексикудин Ниицәтә Орн Нутгуд",
+          "name:right:na": "Meketiko",
+          "name:right:no": "Mexico",
+          "name:left:uz": "Amerika Qoʻshma Shtatlari",
+          "name:right:dsb": "Mexiko",
+          "name:right:nn": "Mexico",
+          "name:right:nl": "Mexico",
+          "name:left:af": "Verenigde State van Amerika",
+          "name:left:as": "মাৰ্কিন যুক্তৰাষ্ট্ৰ",
+          "name:left:kab": "Iwunak Yedduklen",
+          "name:right:nv": "Méhigo",
+          "name:left:ar": "الولايات المتّحدة الأمريكيّة",
+          "name:left:vi": "Hoa Kỳ",
+          "name:left:am": "የተባበሩት የአሜሪካ ግዛቶች",
+          "name:left:an": "Estatos Unitos d'America",
+          "name:left:ay": "Istadus Unidus",
+          "name:left:az": "Amerika Birləşmiş Ştatları",
+          "name:left:kaa": "Amerika Qurama Shtatları",
+          "name:left:av": "Америкалъул Цолъарал Штатал",
+          "name:left:vo": "Lamerikän",
+          "name:left:da": "Amerikas Forenede Stater",
+          "name:right:rue": "Мексіко",
+          "name:left:eml": "Stat Unî",
+          "name:right:ka": "მექსიკა",
+          "name:left:de": "Vereinigte Staaten von Amerika",
+          "name:left:arc": "ܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܟܐ",
+          "name:left:sah": "Америка Холбоһуктаах Штаттара",
+          "old_name:left:vi": "Mỹ Lợi Kiên;Ma Ly Căn;Nhã Di Lý",
+          "name:right:kk": "Мексика",
+          "kind": "country",
+          "name:right:kl": "Mexico",
+          "name:left:cbk-zam": "Estados Unidos de America",
+          "name:right:km": "ម៉ិចស៊ិក",
+          "name:left:yi": "פאראייניקטע שטאטן פון אמעריקע",
+          "name:right:ko": "멕시코",
+          "name:right:kn": "ಮೆಕ್ಸಿಕೋ",
+          "name:left:dv": "އެމެރިކާ",
+          "name:right:ku": "Meksîk",
+          "name:left:pnb": "امریکہ",
+          "name:right:kw": "Meksiko",
+          "name:right:kv": "Мексика",
+          "name:left:dz": "ཡུ་ནའིཊེཊ་སི་ཊེས",
+          "name:right:ky": "Мексика",
+          "name:left:yo": "Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+          "name:right:la": "Mexicum",
+          "name:left:ca": "Estats Units d'Amèrica",
+          "name:right:lb": "Mexiko",
+          "name:left:ce": "Iамерка пачхьалк",
+          "name:right:li": "Mexico",
+          "name:left:szl": "Zjednoczůne Sztaty Ameriki",
+          "name:right:ln": "Mexiko",
+          "name:left:co": "Stati Uniti d'America",
+          "name:left:xh": "IYunayithedi Steyitsi",
+          "name:left:cu": "Амєрика́ньскꙑ Ѥдьнѥнꙑ́ Дрьжа́вꙑ",
+          "name:right:lv": "Meksika",
+          "name:right:nds": "Mexiko",
+          "name:left:cv": "Америкăри Пĕрлешӳллĕ Штатсем",
+          "name:left:cs": "Spojené státy americké",
+          "name:right:lt": "Meksika",
+          "name:left:cy": "Unol Daleithiau America",
+          "name:left:glk": "امریکا",
+          "name:left:nov": "Unionati States de Amerika",
+          "name:right:pdc": "Mexiko",
+          "name:left:mdf": "Америконь Аймакнень Соткссна",
+          "name:right:bxr": "Мексико",
+          "name:right:ik": "Mexiqo",
+          "name:right:id": "Meksiko",
+          "name:right:ia": "Mexico",
+          "name:right:it": "Messico",
+          "name:right:iu": "ᒦᒃᓰᖂ",
+          "name:left:xmf": "ამერიკაშ აკოართაფილი შტატეფი",
+          "name:right:is": "Mexíkó",
+          "name:left:mhr": "Америкысе Ушымо Штатвлак",
+          "name:right:io": "Mexikia",
+          "name:left:za": "Meijgoz",
+          "name:left:arz": "امريكا",
+          "name:left:min": "Amerika Sarikat",
+          "name:left:zh-min-nan": "America Ha̍p-chiòng-kok",
+          "name:right:rmy": "Mexiko",
+          "name:left:hsb": "Zjednoćene staty Ameriki",
+          "name:right:ja": "メキシコ",
+          "name:left:lad": "Estatos Unitos d'Amerika",
+          "name:left:csb": "Zjednóné Kraje Americzi",
+          "name:right:war": "Mehiko",
+          "name:left:zu": "IMelika",
+          "name:right:jv": "Mèksiko",
+          "name:right:pfl": "Mexiko",
+          "name:left:ast": "Estaos Xuníos d'América",
+          "name:left:vls": "Verênigde Stoaten van Amerika",
+          "name:left:zh": "美利坚合众国",
+          "name:right:gd": "Meagsago",
+          "name:left:lbe": "Американал ЦачӀунхьу Штатру",
+          "name:right:fy": "Meksiko",
+          "name:right:stq": "Mexiko",
+          "name:right:ga": "Meicsiceo",
+          "name:right:gu": "મેક્સિકો",
+          "name:right:gv": "Meksico",
+          "name:right:gl": "México",
+          "name:right:ext": "Méjicu",
+          "name:right:gn": "Méjiko",
+          "name:right:he": "מקסיקו",
+          "name:right:hi": "मेक्सिको",
+          "name:right:hu": "Mexikó",
+          "name:left:bpy": "তিলপারাষ্ট্র",
+          "name:right:ht": "Meksik",
+          "name:right:hy": "Մեքսիկա",
+          "name:left:udm": "Америкалэн Огазеяськем Штатъёсыз",
+          "name:right:nds-nl": "Mexico",
+          "name:right:hr": "Meksiko",
+          "name:right": "Estados Unidos Mexicanos"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.3125,
+              32.678
+            ],
+            [
+              -114.72,
+              32.7187
+            ],
+            [
+              -114.7652,
+              32.6431
+            ],
+            [
+              -114.7898,
+              32.6212
+            ],
+            [
+              -114.8105,
+              32.6223
+            ],
+            [
+              -114.8004,
+              32.5868
+            ],
+            [
+              -114.813,
+              32.5574
+            ],
+            [
+              -114.7915,
+              32.5564
+            ],
+            [
+              -114.8058,
+              32.5375
+            ],
+            [
+              -114.8033,
+              32.5271
+            ],
+            [
+              -114.8125,
+              32.5234
+            ],
+            [
+              -114.8136,
+              32.4941
+            ],
+            [
+              -113.9062,
+              32.2177
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "name:right:eo": "Arizono",
+          "name:right:ar": "أريزونا",
+          "name:left:be": "Каліфорнія",
+          "name:left:sh": "Kalifornija",
+          "name:right:el": "Αριζόνα",
+          "name:left:sl": "Kalifornija",
+          "name:left:sk": "Kalifornia",
+          "name:left:fy": "Kalifornje",
+          "name:left:oc": "Califòrnia",
+          "name:right:szl": "Arizůna",
+          "name:right:yi": "אריזאנע",
+          "name:left:bg": "Калифорния",
+          "name:left": "California",
+          "name:left:ka": "კალიფორნია",
+          "name:left:fr": "Californie",
+          "name:left:br": "Kalifornia",
+          "name:left:nl": "Californië",
+          "name:left:fo": "Kalifornia",
+          "name:left:bn": "ক্যালিফোর্নিয়া",
+          "name:left:fi": "Kalifornia",
+          "name:left:ru": "Калифорния",
+          "id:right": -162018,
+          "name:left:nv": "Akééháshį́į́ Hahoodzo",
+          "name:left:fa": "کالیفرنیا",
+          "name:left:iu": "ᑳᓖᐴᕐᓃᐊ",
+          "name:left:eu": "Kalifornia",
+          "name:left:uz": "Kaliforniya",
+          "name:right:ja": "アリゾナ州",
+          "name:right:be": "Арызона",
+          "name:left:af": "Kalifornië",
+          "name:right:bg": "Аризона",
+          "name:left:ja": "カリフォルニア州",
+          "name:left:mi": "Karapōnia",
+          "name:right:nv": "Hoozdoh Hahoodzo",
+          "name:left:eo": "Kalifornio",
+          "name:left:ml": "കാലിഫോര്\u200dണിയ",
+          "name:left:ar": "كاليفورنيا",
+          "name:left:mn": "Калифорни",
+          "name:left:vi": "Ca Li",
+          "id:left": -165475,
+          "name:left:el": "Καλιφόρνια",
+          "name:left:mr": "कॅलिफोर्निया",
+          "name:left:zh": "加利福尼亚州",
+          "name:left:is": "Kalifornía",
+          "name:left:az": "Kaliforniya",
+          "name:right:fa": "آریزونا",
+          "name:left:da": "Californien",
+          "name:right:ka": "არიზონა",
+          "name:left:de": "Kalifornien",
+          "name:left:uk": "Каліфорнія",
+          "name:left:hu": "Kalifornia",
+          "name:left:ht": "Kalifòni",
+          "name:left:mg": "Kalifornia",
+          "kind": "state",
+          "name:left:hy": "Կալիֆորնիա",
+          "name:right:ko": "애리조나",
+          "name:left:yi": "קאליפארניע",
+          "id": -165475,
+          "name:right:ru": "Аризона",
+          "name:right:kn": "ಆರಿಜೋನ",
+          "name:left:hr": "Kalifornija",
+          "name:left:pl": "Kalifornia",
+          "name": "California - Arizona",
+          "name:left:he": "קליפורניה",
+          "name:left:tr": "Kaliforniya",
+          "name:left:pt": "Califórnia",
+          "name:left:hi": "कैलिफ़ोर्निया",
+          "name:left:lt": "Kalifornija",
+          "name:left:kw": "Kaliforni",
+          "name:left:haw": "Kaleponi",
+          "name:right:he": "אריזונה",
+          "name:left:ca": "Califòrnia",
+          "name:left:tl": "Kaliporniya",
+          "osm_relation": true,
+          "name:right:hi": "एरीजोना",
+          "name:left:th": "รัฐแคลิฟอร์เนีย",
+          "name:right:uk": "Аризона",
+          "name:left:szl": "Kaliforńijo",
+          "name:right:zh": "亞利桑那州",
+          "name:left:ta": "కాలిఫోర్నియా",
+          "name:right:haw": "\u2018Alikona",
+          "admin_level": 4,
+          "name:right:qu": "Arizona suyu",
+          "name:left:hak": "Kâ-li-fuk-nì-â",
+          "name:right:hy": "Արիզոնա",
+          "name:left:cv": "Калифорни",
+          "name:left:kn": "ಕ್ಯಾಲಿಫೊರ್ನಿಯ",
+          "name:left:cs": "Kalifornie",
+          "sort_key": 256,
+          "name:left:cy": "Califfornia",
+          "name:left:gd": "Calafòrnia",
+          "name:left:ko": "캘리포니아",
+          "name:left:sv": "Kalifornien",
+          "name:right": "Arizona",
+          "name:left:tzl": "Californica",
+          "name:left:os": "Калифорни",
+          "name:left:sr": "Калифорнија"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.72,
+              32.7187
+            ],
+            [
+              -114.7017,
+              32.7455
+            ],
+            [
+              -114.6781,
+              32.7357
+            ],
+            [
+              -114.6163,
+              32.7286
+            ],
+            [
+              -114.6151,
+              32.7345
+            ],
+            [
+              -114.5817,
+              32.7352
+            ],
+            [
+              -114.5816,
+              32.7425
+            ],
+            [
+              -114.5645,
+              32.7424
+            ],
+            [
+              -114.5645,
+              32.7497
+            ],
+            [
+              -114.539,
+              32.7499
+            ],
+            [
+              -114.539,
+              32.757
+            ],
+            [
+              -114.5268,
+              32.7572
+            ],
+            [
+              -114.5314,
+              32.7923
+            ],
+            [
+              -114.5114,
+              32.8159
+            ],
+            [
+              -114.4692,
+              32.8444
+            ],
+            [
+              -114.4636,
+              32.8958
+            ],
+            [
+              -114.4634,
+              32.911
+            ],
+            [
+              -114.4811,
+              32.935
+            ],
+            [
+              -114.4685,
+              32.971
+            ],
+            [
+              -114.4928,
+              32.9716
+            ],
+            [
+              -114.5017,
+              33.009
+            ],
+            [
+              -114.5168,
+              33.028
+            ],
+            [
+              -114.5737,
+              33.0366
+            ],
+            [
+              -114.5896,
+              33.0263
+            ],
+            [
+              -114.6165,
+              33.027
+            ],
+            [
+              -114.6451,
+              33.049
+            ],
+            [
+              -114.66,
+              33.0326
+            ],
+            [
+              -114.6708,
+              33.0382
+            ],
+            [
+              -114.6888,
+              33.084
+            ],
+            [
+              -114.7079,
+              33.0923
+            ],
+            [
+              -114.6887,
+              33.1376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "name:left:be": "Каліфорнія",
+          "name:left:sh": "Kalifornija",
+          "name:left:sl": "Kalifornija",
+          "name:left:sk": "Kalifornia",
+          "name:left:fy": "Kalifornje",
+          "name:left:oc": "Califòrnia",
+          "name:right:pl": "Kalifornia Dolna",
+          "name:left:bg": "Калифорния",
+          "name:left": "California",
+          "name:left:ka": "კალიფორნია",
+          "name:left:fr": "Californie",
+          "name:left:br": "Kalifornia",
+          "name:left:nl": "Californië",
+          "name:left:fo": "Kalifornia",
+          "name:left:bn": "ক্যালিফোর্নিয়া",
+          "name:left:fi": "Kalifornia",
+          "id:right": -2589601,
+          "name:left:ru": "Калифорния",
+          "name:left:nv": "Akééháshį́į́ Hahoodzo",
+          "name:left:fa": "کالیفرنیا",
+          "name:left:iu": "ᑳᓖᐴᕐᓃᐊ",
+          "name:left:eu": "Kalifornia",
+          "name:left:uz": "Kaliforniya",
+          "name:left:af": "Kalifornië",
+          "name:left:ja": "カリフォルニア州",
+          "name:left:mi": "Karapōnia",
+          "name:left:ml": "കാലിഫോര്\u200dണിയ",
+          "name:left:eo": "Kalifornio",
+          "name:left:ar": "كاليفورنيا",
+          "name:left:mn": "Калифорни",
+          "name:left:vi": "Ca Li",
+          "id:left": -165475,
+          "name:left:el": "Καλιφόρνια",
+          "name:left:mr": "कॅलिफोर्निया",
+          "name:left:zh": "加利福尼亚州",
+          "name:left:az": "Kaliforniya",
+          "name:left:is": "Kalifornía",
+          "name:left:da": "Californien",
+          "name:left:de": "Kalifornien",
+          "name:left:uk": "Каліфорнія",
+          "name:left:hu": "Kalifornia",
+          "name:left:ht": "Kalifòni",
+          "name:left:mg": "Kalifornia",
+          "name:left:hy": "Կալիֆորնիա",
+          "kind": "state",
+          "name:right:ru": "Нижняя Калифорния",
+          "id": -165475,
+          "name:left:yi": "קאליפארניע",
+          "name:left:hr": "Kalifornija",
+          "name": "California - Baja California",
+          "name:left:pl": "Kalifornia",
+          "official_name:right": "Estado de Baja California Norte",
+          "name:left:he": "קליפורניה",
+          "name:left:tr": "Kaliforniya",
+          "name:left:pt": "Califórnia",
+          "name:left:lt": "Kalifornija",
+          "name:left:hi": "कैलिफ़ोर्निया",
+          "name:left:kw": "Kaliforni",
+          "name:left:tl": "Kaliporniya",
+          "name:left:ca": "Califòrnia",
+          "name:left:haw": "Kaleponi",
+          "osm_relation": true,
+          "name:left:th": "รัฐแคลิฟอร์เนีย",
+          "name:left:szl": "Kaliforńijo",
+          "name:right:uk": "Баха-Каліфорнія",
+          "name:left:ta": "కాలిఫోర్నియా",
+          "admin_level": 4,
+          "name:left:hak": "Kâ-li-fuk-nì-â",
+          "name:left:cv": "Калифорни",
+          "name:left:kn": "ಕ್ಯಾಲಿಫೊರ್ನಿಯ",
+          "name:left:cs": "Kalifornie",
+          "sort_key": 256,
+          "name:left:cy": "Califfornia",
+          "name:left:gd": "Calafòrnia",
+          "name:left:ko": "캘리포니아",
+          "name:left:sv": "Kalifornien",
+          "name:left:os": "Калифорни",
+          "name:right": "Baja California",
+          "name:left:tzl": "Californica",
+          "name:right:de": "Niederkalifornien",
+          "name:left:sr": "Калифорнија"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.3125,
+              32.678
+            ],
+            [
+              -114.72,
+              32.7187
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "name:right:eo": "Arizono",
+          "name:right:ar": "أريزونا",
+          "name:right:el": "Αριζόνα",
+          "name:right:ka": "არიზონა",
+          "name:left:uk": "Сонора",
+          "name:right:szl": "Arizůna",
+          "name:right:yi": "אריזאנע",
+          "name:left": "Sonora",
+          "kind": "state",
+          "name:right:ru": "Аризона",
+          "id": -1673426,
+          "name:right:ko": "애리조나",
+          "name:right:kn": "ಆರಿಜೋನ",
+          "name": "Sonora - Arizona",
+          "id:right": -162018,
+          "name:left:ru": "Сонора",
+          "name:right:he": "אריזונה",
+          "osm_relation": true,
+          "name:right:hi": "एरीजोना",
+          "name:right:uk": "Аризона",
+          "name:right:zh": "亞利桑那州",
+          "name:right:ja": "アリゾナ州",
+          "name:right:be": "Арызона",
+          "name:right:bg": "Аризона",
+          "name:right:haw": "\u2018Alikona",
+          "name:right:nv": "Hoozdoh Hahoodzo",
+          "name:right:qu": "Arizona suyu",
+          "admin_level": 4,
+          "name:right:hy": "Արիզոնա",
+          "id:left": -1673426,
+          "sort_key": 256,
+          "name:right:fa": "آریزونا",
+          "name:right": "Arizona"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.9062,
+              32.2177
+            ],
+            [
+              -114.8136,
+              32.4941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "osm_relation": true,
+          "name:left:uk": "Сонора",
+          "name:right:uk": "Баха-Каліфорнія",
+          "name:right:pl": "Kalifornia Dolna",
+          "name:left": "Sonora",
+          "kind": "state",
+          "id": -1673426,
+          "name:right:ru": "Нижняя Калифорния",
+          "admin_level": 4,
+          "id:left": -1673426,
+          "name": "Sonora - Baja California",
+          "sort_key": 256,
+          "official_name:right": "Estado de Baja California Norte",
+          "name:right": "Baja California",
+          "id:right": -2589601,
+          "name:left:ru": "Сонора",
+          "name:right:de": "Niederkalifornien"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.8136,
+              32.4941
+            ],
+            [
+              -114.8167,
+              32.4823
+            ],
+            [
+              -114.8483,
+              32.4734
+            ],
+            [
+              -114.8815,
+              32.4922
+            ],
+            [
+              -114.9069,
+              32.4821
+            ],
+            [
+              -114.9351,
+              32.4818
+            ],
+            [
+              -114.9319,
+              32.4397
+            ],
+            [
+              -114.9615,
+              32.4117
+            ],
+            [
+              -114.9545,
+              32.3934
+            ],
+            [
+              -114.9685,
+              32.3907
+            ],
+            [
+              -114.9666,
+              32.3388
+            ],
+            [
+              -115.0364,
+              32.2778
+            ],
+            [
+              -115.053,
+              32.2452
+            ],
+            [
+              -114.9753,
+              32.178
+            ],
+            [
+              -114.9897,
+              32.1464
+            ],
+            [
+              -114.957,
+              32.0386
+            ],
+            [
+              -114.9674,
+              31.9969
+            ],
+            [
+              -114.9663,
+              31.9522
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "name:left:be": "Арызона",
+          "name:left:uk": "Аризона",
+          "name:right:pl": "Kalifornia Dolna",
+          "name:left:bg": "Аризона",
+          "name:left": "Arizona",
+          "name:left:ka": "არიზონა",
+          "name:left:hy": "Արիզոնա",
+          "kind": "state",
+          "name:right:ru": "Нижняя Калифорния",
+          "id": -162018,
+          "name:left:yi": "אריזאנע",
+          "name": "Arizona - Baja California",
+          "official_name:right": "Estado de Baja California Norte",
+          "name:left:he": "אריזונה",
+          "name:left:ru": "Аризона",
+          "id:right": -2589601,
+          "name:left:hi": "एरीजोना",
+          "name:left:nv": "Hoozdoh Hahoodzo",
+          "name:left:haw": "\u2018Alikona",
+          "name:left:fa": "آریزونا",
+          "osm_relation": true,
+          "name:right:uk": "Баха-Каліфорнія",
+          "name:left:szl": "Arizůna",
+          "name:left:ja": "アリゾナ州",
+          "name:left:qu": "Arizona suyu",
+          "name:left:eo": "Arizono",
+          "admin_level": 4,
+          "name:left:ar": "أريزونا",
+          "name:left:kn": "ಆರಿಜೋನ",
+          "id:left": -162018,
+          "name:left:el": "Αριζόνα",
+          "sort_key": 256,
+          "name:left:zh": "亞利桑那州",
+          "name:left:ko": "애리조나",
+          "name:right": "Baja California",
+          "name:right:de": "Niederkalifornien"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.72,
+              32.7187
+            ],
+            [
+              -114.7652,
+              32.6431
+            ],
+            [
+              -114.7898,
+              32.6212
+            ],
+            [
+              -114.8105,
+              32.6223
+            ],
+            [
+              -114.8004,
+              32.5868
+            ],
+            [
+              -114.813,
+              32.5574
+            ],
+            [
+              -114.7915,
+              32.5564
+            ],
+            [
+              -114.8058,
+              32.5375
+            ],
+            [
+              -114.8033,
+              32.5271
+            ],
+            [
+              -114.8125,
+              32.5234
+            ],
+            [
+              -114.8136,
+              32.4941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "osm_relation": true,
+          "name:left:uk": "Сонора",
+          "name:right:uk": "Баха-Каліфорнія",
+          "name:right:pl": "Kalifornia Dolna",
+          "name:left": "Sonora",
+          "kind": "state",
+          "id": -1673426,
+          "name:right:ru": "Нижняя Калифорния",
+          "admin_level": 4,
+          "id:left": -1673426,
+          "name": "Sonora - Baja California",
+          "sort_key": 256,
+          "official_name:right": "Estado de Baja California Norte",
+          "name:right": "Baja California",
+          "id:right": -2589601,
+          "name:left:ru": "Сонора",
+          "name:right:de": "Niederkalifornien"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.9666,
+              31.9625
+            ],
+            [
+              -114.9663,
+              31.9522
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 376503016,
+          "admin_level": 4,
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.9667,
+              31.9654
+            ],
+            [
+              -114.9666,
+              31.9629
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 376503016,
+          "admin_level": 4,
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.967,
+              31.9787
+            ],
+            [
+              -114.9667,
+              31.9654
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": -5839513,
+          "osm_relation": true,
+          "area": 4856869888,
+          "source": "openstreetmap.org",
+          "protect_class": "4",
+          "name": "Cabeza Prieta National Wildlife Refuge",
+          "sort_key": 17,
+          "min_zoom": 1.1673,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.9614,
+              32.235
+            ],
+            [
+              -113.9613,
+              32.4186
+            ],
+            [
+              -113.9062,
+              32.4186
+            ],
+            [
+              -113.9062,
+              32.218
+            ],
+            [
+              -113.9614,
+              32.235
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -2466030,
+          "osm_relation": true,
+          "area": 3848859904,
+          "source": "openstreetmap.org",
+          "protect_class": "4",
+          "name": "Kofa National Wildlife Refuge",
+          "sort_key": 17,
+          "min_zoom": 1.3351,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.9062,
+                33.0299
+              ],
+              [
+                -113.9591,
+                33.0299
+              ],
+              [
+                -113.9591,
+                32.942
+              ],
+              [
+                -114.2344,
+                32.9421
+              ],
+              [
+                -114.2345,
+                33.1376
+              ],
+              [
+                -113.9062,
+                33.1376
+              ],
+              [
+                -113.9062,
+                33.0299
+              ]
+            ],
+            [
+              [
+                -114.1812,
+                33.0575
+              ],
+              [
+                -114.1764,
+                33.0512
+              ],
+              [
+                -114.1699,
+                33.0551
+              ],
+              [
+                -114.1788,
+                33.0634
+              ],
+              [
+                -114.1812,
+                33.0575
+              ]
+            ],
+            [
+              [
+                -114.1781,
+                33.0462
+              ],
+              [
+                -114.1746,
+                33.0389
+              ],
+              [
+                -114.1739,
+                33.0391
+              ],
+              [
+                -114.1742,
+                33.0431
+              ],
+              [
+                -114.1768,
+                33.0478
+              ],
+              [
+                -114.1781,
+                33.0462
+              ]
+            ],
+            [
+              [
+                -114.1723,
+                33.0119
+              ],
+              [
+                -114.169,
+                33.001
+              ],
+              [
+                -114.1648,
+                33.0011
+              ],
+              [
+                -114.1685,
+                33.0133
+              ],
+              [
+                -114.1723,
+                33.0119
+              ]
+            ],
+            [
+              [
+                -114.1752,
+                33.0007
+              ],
+              [
+                -114.1728,
+                32.989
+              ],
+              [
+                -114.1707,
+                32.989
+              ],
+              [
+                -114.1728,
+                33.0001
+              ],
+              [
+                -114.1752,
+                33.0007
+              ]
+            ],
+            [
+              [
+                -114.1728,
+                33.0304
+              ],
+              [
+                -114.1702,
+                33.0263
+              ],
+              [
+                -114.1639,
+                33.0236
+              ],
+              [
+                -114.1689,
+                33.0313
+              ],
+              [
+                -114.1728,
+                33.0304
+              ]
+            ],
+            [
+              [
+                -114.1681,
+                32.9914
+              ],
+              [
+                -114.1663,
+                32.991
+              ],
+              [
+                -114.1649,
+                32.9949
+              ],
+              [
+                -114.1668,
+                32.9953
+              ],
+              [
+                -114.1681,
+                32.9914
+              ]
+            ],
+            [
+              [
+                -114.157,
+                32.9881
+              ],
+              [
+                -114.1558,
+                32.9876
+              ],
+              [
+                -114.155,
+                32.9892
+              ],
+              [
+                -114.1562,
+                32.9897
+              ],
+              [
+                -114.157,
+                32.9881
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5837937,
+          "osm_relation": true,
+          "area": 1101590016,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Kofa Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 2.2375,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.1945,
+              32.9421
+            ],
+            [
+              -114.1766,
+              32.9651
+            ],
+            [
+              -114.1141,
+              32.9858
+            ],
+            [
+              -114.1033,
+              32.9795
+            ],
+            [
+              -114.1003,
+              32.9797
+            ],
+            [
+              -114.0882,
+              32.9887
+            ],
+            [
+              -114.0762,
+              33.0047
+            ],
+            [
+              -114.0812,
+              33.0203
+            ],
+            [
+              -114.0852,
+              33.0239
+            ],
+            [
+              -114.0855,
+              33.0294
+            ],
+            [
+              -114.0868,
+              33.032
+            ],
+            [
+              -114.0884,
+              33.0335
+            ],
+            [
+              -114.0974,
+              33.0347
+            ],
+            [
+              -114.0873,
+              33.0317
+            ],
+            [
+              -114.0858,
+              33.0237
+            ],
+            [
+              -114.0768,
+              33.0047
+            ],
+            [
+              -114.1006,
+              32.9803
+            ],
+            [
+              -114.1138,
+              32.9863
+            ],
+            [
+              -114.1139,
+              33.001
+            ],
+            [
+              -114.1658,
+              33.0015
+            ],
+            [
+              -114.1673,
+              33.0173
+            ],
+            [
+              -114.1456,
+              33.0381
+            ],
+            [
+              -114.1569,
+              33.0445
+            ],
+            [
+              -114.1656,
+              33.0663
+            ],
+            [
+              -114.1746,
+              33.0616
+            ],
+            [
+              -114.1818,
+              33.0875
+            ],
+            [
+              -114.1654,
+              33.132
+            ],
+            [
+              -114.1585,
+              33.1376
+            ],
+            [
+              -114.1059,
+              33.1376
+            ],
+            [
+              -114.0953,
+              33.1269
+            ],
+            [
+              -114.1058,
+              33.1169
+            ],
+            [
+              -114.1088,
+              33.1119
+            ],
+            [
+              -114.0947,
+              33.127
+            ],
+            [
+              -114.1051,
+              33.1376
+            ],
+            [
+              -114.0321,
+              33.1376
+            ],
+            [
+              -114.0507,
+              33.0965
+            ],
+            [
+              -114.0509,
+              33.0885
+            ],
+            [
+              -114.0743,
+              33.0596
+            ],
+            [
+              -114.075,
+              33.0566
+            ],
+            [
+              -114.0503,
+              33.0882
+            ],
+            [
+              -114.0304,
+              33.1376
+            ],
+            [
+              -113.9611,
+              33.1376
+            ],
+            [
+              -113.9586,
+              33.1334
+            ],
+            [
+              -113.9588,
+              33.0641
+            ],
+            [
+              -113.9634,
+              33.0632
+            ],
+            [
+              -113.9667,
+              33.0659
+            ],
+            [
+              -113.9831,
+              33.0658
+            ],
+            [
+              -113.9962,
+              33.0594
+            ],
+            [
+              -114.0174,
+              33.0437
+            ],
+            [
+              -114.0173,
+              33.0427
+            ],
+            [
+              -113.9828,
+              33.0653
+            ],
+            [
+              -113.9633,
+              33.0627
+            ],
+            [
+              -113.9581,
+              33.0641
+            ],
+            [
+              -113.958,
+              33.1335
+            ],
+            [
+              -113.9603,
+              33.1376
+            ],
+            [
+              -113.9062,
+              33.1376
+            ],
+            [
+              -113.9062,
+              33.0299
+            ],
+            [
+              -113.9591,
+              33.0299
+            ],
+            [
+              -113.9591,
+              32.942
+            ],
+            [
+              -114.1945,
+              32.9421
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5839675,
+          "osm_relation": true,
+          "area": 738019008,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Cabeza Prieta Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 2.5265,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.9614,
+              32.2822
+            ],
+            [
+              -113.9613,
+              32.4186
+            ],
+            [
+              -113.9062,
+              32.4186
+            ],
+            [
+              -113.9062,
+              32.2627
+            ],
+            [
+              -113.9614,
+              32.2822
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5839675,
+          "osm_relation": true,
+          "area": 713603008,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Cabeza Prieta Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 2.5507,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.9614,
+              32.235
+            ],
+            [
+              -113.9614,
+              32.2816
+            ],
+            [
+              -113.9062,
+              32.2621
+            ],
+            [
+              -113.9062,
+              32.218
+            ],
+            [
+              -113.9614,
+              32.235
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152892,
+          "osm_relation": true,
+          "area": 223556992,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Little Picacho Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.388,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.6274,
+              32.8984
+            ],
+            [
+              -114.6192,
+              32.9239
+            ],
+            [
+              -114.6265,
+              32.9451
+            ],
+            [
+              -114.6223,
+              32.967
+            ],
+            [
+              -114.6138,
+              32.967
+            ],
+            [
+              -114.6085,
+              33.008
+            ],
+            [
+              -114.5735,
+              33.008
+            ],
+            [
+              -114.5735,
+              33.0226
+            ],
+            [
+              -114.539,
+              33.0227
+            ],
+            [
+              -114.539,
+              33.008
+            ],
+            [
+              -114.5216,
+              33.008
+            ],
+            [
+              -114.5218,
+              32.9935
+            ],
+            [
+              -114.5103,
+              32.9934
+            ],
+            [
+              -114.5134,
+              32.9781
+            ],
+            [
+              -114.4976,
+              32.9696
+            ],
+            [
+              -114.5119,
+              32.9633
+            ],
+            [
+              -114.5161,
+              32.9479
+            ],
+            [
+              -114.5063,
+              32.9341
+            ],
+            [
+              -114.5174,
+              32.9271
+            ],
+            [
+              -114.5213,
+              32.9059
+            ],
+            [
+              -114.572,
+              32.9038
+            ],
+            [
+              -114.5425,
+              32.8817
+            ],
+            [
+              -114.5259,
+              32.8476
+            ],
+            [
+              -114.5734,
+              32.8477
+            ],
+            [
+              -114.6113,
+              32.864
+            ],
+            [
+              -114.6274,
+              32.8984
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152892,
+          "osm_relation": true,
+          "area": 223556992,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Little Picacho Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.388,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.5653,
+            32.9354
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5837937,
+          "osm_relation": true,
+          "area": 215810000,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Kofa Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.4134,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.1593,
+              33.1376
+            ],
+            [
+              -114.1661,
+              33.132
+            ],
+            [
+              -114.1824,
+              33.0876
+            ],
+            [
+              -114.1765,
+              33.08
+            ],
+            [
+              -114.2037,
+              33.0705
+            ],
+            [
+              -114.2345,
+              33.0431
+            ],
+            [
+              -114.2345,
+              33.1376
+            ],
+            [
+              -114.1593,
+              33.1376
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152842,
+          "osm_relation": true,
+          "area": 190572992,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Indian Pass Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.5031,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.8585,
+              33.0981
+            ],
+            [
+              -114.8538,
+              33.1098
+            ],
+            [
+              -114.8372,
+              33.107
+            ],
+            [
+              -114.8465,
+              33.1331
+            ],
+            [
+              -114.8293,
+              33.133
+            ],
+            [
+              -114.8293,
+              33.1258
+            ],
+            [
+              -114.7905,
+              33.1331
+            ],
+            [
+              -114.7905,
+              33.1257
+            ],
+            [
+              -114.7562,
+              33.1186
+            ],
+            [
+              -114.7562,
+              33.1258
+            ],
+            [
+              -114.7219,
+              33.1331
+            ],
+            [
+              -114.7218,
+              33.1376
+            ],
+            [
+              -114.7047,
+              33.1376
+            ],
+            [
+              -114.7048,
+              33.1258
+            ],
+            [
+              -114.7219,
+              33.1258
+            ],
+            [
+              -114.7219,
+              33.0896
+            ],
+            [
+              -114.7131,
+              33.0664
+            ],
+            [
+              -114.696,
+              33.0665
+            ],
+            [
+              -114.6956,
+              33.0406
+            ],
+            [
+              -114.709,
+              33.0432
+            ],
+            [
+              -114.7303,
+              33.0307
+            ],
+            [
+              -114.7489,
+              33.0301
+            ],
+            [
+              -114.7549,
+              33.0362
+            ],
+            [
+              -114.7581,
+              33.03
+            ],
+            [
+              -114.7757,
+              33.0295
+            ],
+            [
+              -114.7692,
+              33.025
+            ],
+            [
+              -114.777,
+              33.0121
+            ],
+            [
+              -114.8119,
+              33.0121
+            ],
+            [
+              -114.8177,
+              33.0325
+            ],
+            [
+              -114.8118,
+              33.0637
+            ],
+            [
+              -114.8342,
+              33.0701
+            ],
+            [
+              -114.8585,
+              33.0981
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152842,
+          "osm_relation": true,
+          "area": 190572992,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Indian Pass Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.5031,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.778,
+            33.08
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833230,
+          "osm_relation": true,
+          "area": 179556000,
+          "source": "openstreetmap.org",
+          "protect_class": "4",
+          "name": "Imperial National Wildlife Refuge",
+          "sort_key": 17,
+          "min_zoom": 3.5461,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -114.7219,
+                33.1258
+              ],
+              [
+                -114.7048,
+                33.1258
+              ],
+              [
+                -114.7046,
+                33.1376
+              ],
+              [
+                -114.6623,
+                33.1376
+              ],
+              [
+                -114.6623,
+                33.1288
+              ],
+              [
+                -114.68,
+                33.1288
+              ],
+              [
+                -114.6798,
+                33.0852
+              ],
+              [
+                -114.6626,
+                33.0854
+              ],
+              [
+                -114.6626,
+                33.0709
+              ],
+              [
+                -114.628,
+                33.0709
+              ],
+              [
+                -114.628,
+                33.0564
+              ],
+              [
+                -114.5934,
+                33.0566
+              ],
+              [
+                -114.5933,
+                33.0421
+              ],
+              [
+                -114.4912,
+                33.0424
+              ],
+              [
+                -114.4912,
+                33.0279
+              ],
+              [
+                -114.474,
+                33.0279
+              ],
+              [
+                -114.474,
+                33.0134
+              ],
+              [
+                -114.4572,
+                33.0134
+              ],
+              [
+                -114.4573,
+                32.9989
+              ],
+              [
+                -114.4812,
+                32.9988
+              ],
+              [
+                -114.4739,
+                32.9749
+              ],
+              [
+                -114.4918,
+                32.9705
+              ],
+              [
+                -114.4961,
+                32.9825
+              ],
+              [
+                -114.5065,
+                32.9825
+              ],
+              [
+                -114.5066,
+                32.9934
+              ],
+              [
+                -114.5218,
+                32.9935
+              ],
+              [
+                -114.5216,
+                33.008
+              ],
+              [
+                -114.539,
+                33.008
+              ],
+              [
+                -114.539,
+                33.0227
+              ],
+              [
+                -114.5735,
+                33.0226
+              ],
+              [
+                -114.5735,
+                33.008
+              ],
+              [
+                -114.5907,
+                33.008
+              ],
+              [
+                -114.5911,
+                33.0263
+              ],
+              [
+                -114.623,
+                33.0286
+              ],
+              [
+                -114.6447,
+                33.0488
+              ],
+              [
+                -114.6584,
+                33.0335
+              ],
+              [
+                -114.6662,
+                33.0351
+              ],
+              [
+                -114.6858,
+                33.0702
+              ],
+              [
+                -114.7131,
+                33.0664
+              ],
+              [
+                -114.7047,
+                33.0884
+              ],
+              [
+                -114.7219,
+                33.0896
+              ],
+              [
+                -114.7219,
+                33.1258
+              ]
+            ],
+            [
+              [
+                -114.6517,
+                33.0493
+              ],
+              [
+                -114.6497,
+                33.0482
+              ],
+              [
+                -114.6492,
+                33.0489
+              ],
+              [
+                -114.6511,
+                33.05
+              ],
+              [
+                -114.6517,
+                33.0493
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833230,
+          "osm_relation": true,
+          "area": 179556000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "4",
+          "name": "Imperial National Wildlife Refuge",
+          "sort_key": 17,
+          "min_zoom": 3.5461,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.6923,
+            33.0869
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152825,
+          "osm_relation": true,
+          "area": 151994000,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "North Algodones Dunes Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.6663,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -115.2634,
+              33.0648
+            ],
+            [
+              -115.2322,
+              33.1012
+            ],
+            [
+              -115.0748,
+              32.9988
+            ],
+            [
+              -115.1858,
+              32.9742
+            ],
+            [
+              -115.2634,
+              33.0648
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152825,
+          "osm_relation": true,
+          "area": 151994000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "North Algodones Dunes Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.6663,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1884,
+            33.0385
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3076,
+          "area": 113452808,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.5956,
+              32.7307
+            ],
+            [
+              -114.585,
+              32.7261
+            ],
+            [
+              -114.5489,
+              32.7333
+            ],
+            [
+              -114.5405,
+              32.7261
+            ],
+            [
+              -114.5676,
+              32.7124
+            ],
+            [
+              -114.5803,
+              32.6773
+            ],
+            [
+              -114.5944,
+              32.6642
+            ],
+            [
+              -114.6405,
+              32.6705
+            ],
+            [
+              -114.6517,
+              32.6816
+            ],
+            [
+              -114.6716,
+              32.6858
+            ],
+            [
+              -114.6849,
+              32.7372
+            ],
+            [
+              -114.6436,
+              32.7498
+            ],
+            [
+              -114.6139,
+              32.7439
+            ],
+            [
+              -114.5956,
+              32.7307
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833231,
+          "osm_relation": true,
+          "area": 81125504,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Trigo Mountain Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.1192,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.6801,
+              33.0997
+            ],
+            [
+              -114.68,
+              33.1288
+            ],
+            [
+              -114.6623,
+              33.1288
+            ],
+            [
+              -114.6623,
+              33.1376
+            ],
+            [
+              -114.6122,
+              33.1376
+            ],
+            [
+              -114.6263,
+              33.1016
+            ],
+            [
+              -114.6498,
+              33.0709
+            ],
+            [
+              -114.6626,
+              33.0709
+            ],
+            [
+              -114.6626,
+              33.0854
+            ],
+            [
+              -114.6798,
+              33.0852
+            ],
+            [
+              -114.6801,
+              33.0997
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 3080,
+          "area": 71801688,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.7849,
+              32.5039
+            ],
+            [
+              -114.7515,
+              32.5039
+            ],
+            [
+              -114.7294,
+              32.4705
+            ],
+            [
+              -114.742,
+              32.4527
+            ],
+            [
+              -114.7675,
+              32.4434
+            ],
+            [
+              -114.7935,
+              32.4448
+            ],
+            [
+              -114.8182,
+              32.4705
+            ],
+            [
+              -114.8256,
+              32.4846
+            ],
+            [
+              -114.8007,
+              32.5483
+            ],
+            [
+              -114.7849,
+              32.5039
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834795,
+          "osm_relation": true,
+          "area": 52474600,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Imperial Refuge Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4334,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.7036,
+              33.0998
+            ],
+            [
+              -114.6929,
+              33.1034
+            ],
+            [
+              -114.6929,
+              33.1251
+            ],
+            [
+              -114.6866,
+              33.1376
+            ],
+            [
+              -114.6623,
+              33.1376
+            ],
+            [
+              -114.6623,
+              33.1288
+            ],
+            [
+              -114.68,
+              33.1288
+            ],
+            [
+              -114.6798,
+              33.0852
+            ],
+            [
+              -114.6626,
+              33.0854
+            ],
+            [
+              -114.6626,
+              33.0709
+            ],
+            [
+              -114.628,
+              33.0709
+            ],
+            [
+              -114.628,
+              33.0564
+            ],
+            [
+              -114.5934,
+              33.0566
+            ],
+            [
+              -114.5933,
+              33.0421
+            ],
+            [
+              -114.5246,
+              33.0423
+            ],
+            [
+              -114.5207,
+              33.0351
+            ],
+            [
+              -114.5803,
+              33.0385
+            ],
+            [
+              -114.617,
+              33.0329
+            ],
+            [
+              -114.6278,
+              33.0367
+            ],
+            [
+              -114.6302,
+              33.0564
+            ],
+            [
+              -114.6409,
+              33.0619
+            ],
+            [
+              -114.6518,
+              33.0618
+            ],
+            [
+              -114.6539,
+              33.0491
+            ],
+            [
+              -114.6647,
+              33.0455
+            ],
+            [
+              -114.6648,
+              33.0599
+            ],
+            [
+              -114.6799,
+              33.0816
+            ],
+            [
+              -114.7036,
+              33.0998
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834795,
+          "osm_relation": true,
+          "area": 52474600,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Imperial Refuge Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4334,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.6865,
+            33.1106
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152867,
+          "osm_relation": true,
+          "area": 50986900,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Picacho Peak Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4542,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.7916,
+              32.9976
+            ],
+            [
+              -114.7789,
+              33.0028
+            ],
+            [
+              -114.7701,
+              33.0248
+            ],
+            [
+              -114.7474,
+              33.0233
+            ],
+            [
+              -114.7088,
+              33.0427
+            ],
+            [
+              -114.6784,
+              33.0372
+            ],
+            [
+              -114.6883,
+              33.0103
+            ],
+            [
+              -114.72,
+              32.9966
+            ],
+            [
+              -114.7366,
+              32.9743
+            ],
+            [
+              -114.7454,
+              32.9758
+            ],
+            [
+              -114.7459,
+              32.9925
+            ],
+            [
+              -114.7536,
+              32.9976
+            ],
+            [
+              -114.7916,
+              32.9976
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -6152867,
+          "osm_relation": true,
+          "area": 50986900,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Picacho Peak Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4542,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.7377,
+            33.0083
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833300,
+          "osm_relation": true,
+          "area": 44243200,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Muggins Mountain Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.5565,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.2961,
+              32.7435
+            ],
+            [
+              -114.2857,
+              32.762
+            ],
+            [
+              -114.2092,
+              32.7652
+            ],
+            [
+              -114.2094,
+              32.7476
+            ],
+            [
+              -114.2247,
+              32.7414
+            ],
+            [
+              -114.2264,
+              32.7303
+            ],
+            [
+              -114.2503,
+              32.7072
+            ],
+            [
+              -114.2735,
+              32.729
+            ],
+            [
+              -114.2536,
+              32.7382
+            ],
+            [
+              -114.2789,
+              32.7289
+            ],
+            [
+              -114.2875,
+              32.7435
+            ],
+            [
+              -114.2961,
+              32.7435
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833300,
+          "osm_relation": true,
+          "area": 44243200,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Muggins Mountain Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.5565,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.2453,
+            32.7373
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834752,
+          "osm_relation": true,
+          "area": 37128100,
+          "source": "openstreetmap.org",
+          "protect_class": "5",
+          "name": "Picacho State Recreational Area",
+          "sort_key": 17,
+          "min_zoom": 4.683,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.696,
+              33.0701
+            ],
+            [
+              -114.6858,
+              33.0702
+            ],
+            [
+              -114.6748,
+              33.0585
+            ],
+            [
+              -114.6736,
+              33.0428
+            ],
+            [
+              -114.662,
+              33.0329
+            ],
+            [
+              -114.6452,
+              33.0489
+            ],
+            [
+              -114.623,
+              33.0286
+            ],
+            [
+              -114.5911,
+              33.0263
+            ],
+            [
+              -114.5907,
+              33.008
+            ],
+            [
+              -114.6257,
+              33.008
+            ],
+            [
+              -114.6258,
+              33.0226
+            ],
+            [
+              -114.6609,
+              33.0226
+            ],
+            [
+              -114.6609,
+              33.008
+            ],
+            [
+              -114.6956,
+              33.0081
+            ],
+            [
+              -114.6784,
+              33.0226
+            ],
+            [
+              -114.6784,
+              33.0372
+            ],
+            [
+              -114.6956,
+              33.0371
+            ],
+            [
+              -114.696,
+              33.0701
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834752,
+          "osm_relation": true,
+          "area": 37128100,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "5",
+          "name": "Picacho State Recreational Area",
+          "sort_key": 17,
+          "min_zoom": 4.683,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.6835,
+            33.0392
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834795,
+          "osm_relation": true,
+          "area": 19607900,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Imperial Refuge Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 5.1435,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.7219,
+              33.1258
+            ],
+            [
+              -114.7048,
+              33.1258
+            ],
+            [
+              -114.7046,
+              33.1376
+            ],
+            [
+              -114.6993,
+              33.1376
+            ],
+            [
+              -114.7015,
+              33.1277
+            ],
+            [
+              -114.711,
+              33.1215
+            ],
+            [
+              -114.7156,
+              33.0987
+            ],
+            [
+              -114.7091,
+              33.0841
+            ],
+            [
+              -114.6979,
+              33.0852
+            ],
+            [
+              -114.6904,
+              33.0766
+            ],
+            [
+              -114.696,
+              33.0665
+            ],
+            [
+              -114.7131,
+              33.0664
+            ],
+            [
+              -114.7175,
+              33.0751
+            ],
+            [
+              -114.7219,
+              33.1258
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5834795,
+          "osm_relation": true,
+          "area": 17984800,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Imperial Refuge Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 5.2059,
+          "operator": "US Fish & Wildlife Service",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -114.5907,
+              33.0226
+            ],
+            [
+              -114.5775,
+              33.0333
+            ],
+            [
+              -114.5291,
+              33.0303
+            ],
+            [
+              -114.5094,
+              32.9942
+            ],
+            [
+              -114.5218,
+              32.9935
+            ],
+            [
+              -114.5216,
+              33.008
+            ],
+            [
+              -114.539,
+              33.008
+            ],
+            [
+              -114.539,
+              33.0227
+            ],
+            [
+              -114.5735,
+              33.0226
+            ],
+            [
+              -114.5735,
+              33.008
+            ],
+            [
+              -114.5907,
+              33.008
+            ],
+            [
+              -114.5907,
+              33.0226
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 7003,
+        "source": "naturalearthdata.com",
+        "sort_key": 10,
+        "min_zoom": 0,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -115.0172,
+            31.9522
+          ],
+          [
+            -115.0175,
+            31.9538
+          ],
+          [
+            -115.0211,
+            31.9656
+          ],
+          [
+            -115.0294,
+            31.9709
+          ],
+          [
+            -115.0352,
+            31.9661
+          ],
+          [
+            -115.0347,
+            31.9547
+          ],
+          [
+            -115.0339,
+            31.9522
+          ],
+          [
+            -115.3125,
+            31.9522
+          ],
+          [
+            -115.3125,
+            33.1376
+          ],
+          [
+            -113.9062,
+            33.1376
+          ],
+          [
+            -113.9062,
+            31.9522
+          ],
+          [
+            -115.0172,
+            31.9522
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "id": 4887,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 6,
+          "name": "Yuma",
+          "kind": "Populated place",
+          "population": 92489
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.6236,
+            32.6853
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 333132844,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "San Luis Rio Colorado",
+          "kind": "city",
+          "population": 178380
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.7575,
+            32.4727
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 150981517,
+          "name:ru": "Юма",
+          "name:uk": "Юма",
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Yuma",
+          "kind": "city",
+          "population": 91923
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.6244,
+            32.7253
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 150933734,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "San Luis",
+          "kind": "town",
+          "population": 22634
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.7822,
+            32.487
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852255515,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Estación Coahuila",
+          "kind": "town",
+          "population": 12095
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9978,
+            32.1966
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 150967494,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Somerton",
+          "kind": "town",
+          "population": 10806
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.7097,
+            32.5964
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852200321,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Hermosillo",
+          "kind": "town",
+          "population": 7387
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9238,
+            32.5121
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 150937083,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Wellton",
+          "kind": "town",
+          "population": 1891
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.1469,
+            32.6728
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852251943,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ciudad Guadalupe Victoria",
+          "kind": "town",
+          "population": 34
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1025,
+            32.2869
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3850619958,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ciudad Morelos (Cuervos)",
+          "kind": "town",
+          "population": 21
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.8563,
+            32.6322
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3853834031,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Alberto Oviero Mota",
+          "kind": "town",
+          "population": 11
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1671,
+            32.2323
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2144938820,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Poblado Los Algodones",
+          "kind": "town",
+          "population": 8
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.7346,
+            32.7144
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852244853,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ciudad Estación Delta",
+          "kind": "town",
+          "population": 7
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.19,
+            32.3552
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3850613957,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Poblado Benito Juárez (Tecolotes)",
+          "kind": "town",
+          "population": 5
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9948,
+            32.5684
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2921311494,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Poblado Monterrey (Batáquez)",
+          "kind": "town",
+          "population": 5
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.0661,
+            32.5523
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3853833388,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Michoacan De Ocampo",
+          "kind": "town",
+          "population": 4
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.3084,
+            32.4674
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852280329,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Nuevo León",
+          "kind": "town",
+          "population": 4
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.189,
+            32.4124
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3850620257,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Poblado Paredones",
+          "kind": "town",
+          "population": 3
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9275,
+            32.607
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852255571,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Queretaro (Hechicera)",
+          "kind": "town",
+          "population": 3
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1455,
+            32.5501
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3852267264,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ejido Sinaloa",
+          "kind": "town",
+          "population": 2
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.2711,
+            32.5484
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2047358283,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Poblado El Indiviso",
+          "kind": "town",
+          "population": 2
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9847,
+            32.0249
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4032140473,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Ingeniero Luis B. Sánchez",
+          "kind": "town"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.9933,
+            32.1981
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [
+      {
+        "properties": {
+          "id": -297142,
+          "colour": "#005480",
+          "ref": "1-2",
+          "osm_relation": true,
+          "route_name": "Sunset Limited",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "network": "Amtrak Intercity",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.2903,
+              33.1376
+            ],
+            [
+              -115.0541,
+              32.9866
+            ],
+            [
+              -114.7558,
+              32.7505
+            ],
+            [
+              -114.7216,
+              32.7451
+            ],
+            [
+              -114.6846,
+              32.7563
+            ],
+            [
+              -114.6327,
+              32.7442
+            ],
+            [
+              -114.6156,
+              32.73
+            ],
+            [
+              -114.6116,
+              32.6976
+            ],
+            [
+              -114.6025,
+              32.6892
+            ],
+            [
+              -114.5366,
+              32.6742
+            ],
+            [
+              -114.4672,
+              32.683
+            ],
+            [
+              -114.431,
+              32.7056
+            ],
+            [
+              -114.4209,
+              32.7229
+            ],
+            [
+              -114.4223,
+              32.7467
+            ],
+            [
+              -114.4071,
+              32.7585
+            ],
+            [
+              -114.386,
+              32.7543
+            ],
+            [
+              -114.3747,
+              32.7596
+            ],
+            [
+              -114.3542,
+              32.7478
+            ],
+            [
+              -114.3492,
+              32.7203
+            ],
+            [
+              -114.2915,
+              32.6738
+            ],
+            [
+              -114.2202,
+              32.6587
+            ],
+            [
+              -114.0644,
+              32.6759
+            ],
+            [
+              -113.9062,
+              32.7032
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -2804346,
+          "osm_relation": true,
+          "sort_key": 275,
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.5831,
+                32.6617
+              ],
+              [
+                -114.585,
+                32.6617
+              ]
+            ],
+            [
+              [
+                -114.5814,
+                32.6699
+              ],
+              [
+                -114.5783,
+                32.6828
+              ]
+            ],
+            [
+              [
+                -114.5813,
+                32.6671
+              ],
+              [
+                -114.5813,
+                32.6694
+              ]
+            ],
+            [
+              [
+                -114.5812,
+                32.6633
+              ],
+              [
+                -114.5813,
+                32.6667
+              ]
+            ],
+            [
+              [
+                -114.5813,
+                32.6631
+              ],
+              [
+                -114.5812,
+                32.6633
+              ]
+            ],
+            [
+              [
+                -114.5812,
+                32.6633
+              ],
+              [
+                -114.5812,
+                32.6628
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -2795760,
+          "colour": "#005480",
+          "ref": "21-22; 421-422",
+          "osm_relation": true,
+          "route_name": "Texas Eagle",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.2903,
+                33.1376
+              ],
+              [
+                -115.0541,
+                32.9866
+              ],
+              [
+                -114.7558,
+                32.7505
+              ],
+              [
+                -114.7216,
+                32.7451
+              ],
+              [
+                -114.6846,
+                32.7563
+              ],
+              [
+                -114.6327,
+                32.7442
+              ],
+              [
+                -114.6156,
+                32.73
+              ],
+              [
+                -114.6116,
+                32.6976
+              ],
+              [
+                -114.6025,
+                32.6892
+              ],
+              [
+                -114.5366,
+                32.6742
+              ],
+              [
+                -114.4672,
+                32.683
+              ],
+              [
+                -114.431,
+                32.7056
+              ],
+              [
+                -114.4209,
+                32.7229
+              ],
+              [
+                -114.4223,
+                32.7467
+              ],
+              [
+                -114.4071,
+                32.7585
+              ],
+              [
+                -114.386,
+                32.7543
+              ],
+              [
+                -114.3747,
+                32.7596
+              ],
+              [
+                -114.3542,
+                32.7478
+              ],
+              [
+                -114.3492,
+                32.7203
+              ],
+              [
+                -114.2915,
+                32.6738
+              ],
+              [
+                -114.2202,
+                32.6587
+              ],
+              [
+                -114.0644,
+                32.6759
+              ],
+              [
+                -113.9062,
+                32.7032
+              ]
+            ],
+            [
+              [
+                -114.6157,
+                32.7231
+              ],
+              [
+                -114.6154,
+                32.7231
+              ],
+              [
+                -114.6154,
+                32.7229
+              ],
+              [
+                -114.6156,
+                32.7229
+              ],
+              [
+                -114.6157,
+                32.7231
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 60925534,
+          "ref": "MEX 2",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.8079,
+              32.4914
+            ],
+            [
+              -114.7854,
+              32.4847
+            ],
+            [
+              -114.8079,
+              32.4915
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 16956252,
+          "ref": "US 95 Truck",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7814,
+              32.4864
+            ],
+            [
+              -114.7827,
+              32.4921
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 153631644,
+          "ref": "MEX 2",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7309,
+                32.4683
+              ],
+              [
+                -114.7047,
+                32.4603
+              ]
+            ],
+            [
+              [
+                -114.7047,
+                32.4603
+              ],
+              [
+                -114.7139,
+                32.4633
+              ],
+              [
+                -114.7308,
+                32.4684
+              ]
+            ],
+            [
+              [
+                -114.7047,
+                32.4603
+              ],
+              [
+                -114.6978,
+                32.4581
+              ]
+            ],
+            [
+              [
+                -114.6978,
+                32.4581
+              ],
+              [
+                -114.6849,
+                32.4541
+              ]
+            ],
+            [
+              [
+                -114.6849,
+                32.4541
+              ],
+              [
+                -114.4361,
+                32.3786
+              ],
+              [
+                -114.4098,
+                32.3562
+              ],
+              [
+                -114.3482,
+                32.3518
+              ],
+              [
+                -114.1315,
+                32.2854
+              ],
+              [
+                -114.0879,
+                32.2514
+              ],
+              [
+                -114.0425,
+                32.2376
+              ],
+              [
+                -113.9568,
+                32.1766
+              ],
+              [
+                -113.9302,
+                32.1484
+              ],
+              [
+                -113.9062,
+                32.1383
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 337490720,
+          "ref": "US 95",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "old_name": "Ocean-to-Ocean Highway",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.4409,
+              32.7007
+            ],
+            [
+              -114.4283,
+              32.7119
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54374438,
+          "ref": "BC 1",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.2506,
+                32.6272
+              ],
+              [
+                -115.3125,
+                32.6432
+              ]
+            ],
+            [
+              [
+                -115.2157,
+                32.4884
+              ],
+              [
+                -115.2163,
+                32.5857
+              ],
+              [
+                -115.2734,
+                32.614
+              ],
+              [
+                -115.3125,
+                32.6141
+              ]
+            ],
+            [
+              [
+                -115.2085,
+                32.4674
+              ],
+              [
+                -115.2157,
+                32.4884
+              ]
+            ],
+            [
+              [
+                -115.2085,
+                32.4674
+              ],
+              [
+                -115.1922,
+                32.4588
+              ],
+              [
+                -115.1926,
+                32.4191
+              ]
+            ],
+            [
+              [
+                -114.9944,
+                32.1956
+              ],
+              [
+                -115.0237,
+                32.1794
+              ],
+              [
+                -115.0261,
+                32.1662
+              ],
+              [
+                -115.1666,
+                32.1694
+              ],
+              [
+                -115.1584,
+                32.2013
+              ],
+              [
+                -115.1673,
+                32.2073
+              ],
+              [
+                -115.1674,
+                32.2561
+              ],
+              [
+                -115.1897,
+                32.2591
+              ],
+              [
+                -115.1893,
+                32.3344
+              ],
+              [
+                -115.1781,
+                32.344
+              ],
+              [
+                -115.1961,
+                32.3665
+              ],
+              [
+                -115.1901,
+                32.3736
+              ],
+              [
+                -115.1947,
+                32.4191
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 313997160,
+          "ref": "MEX 2",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8209,
+                32.4953
+              ],
+              [
+                -114.8195,
+                32.4949
+              ]
+            ],
+            [
+              [
+                -114.8195,
+                32.4949
+              ],
+              [
+                -114.8209,
+                32.4954
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 313039769,
+          "ref": "MEX 2D",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.3125,
+                32.5494
+              ],
+              [
+                -115.3059,
+                32.5512
+              ]
+            ],
+            [
+              [
+                -115.3059,
+                32.5512
+              ],
+              [
+                -115.2957,
+                32.5543
+              ]
+            ],
+            [
+              [
+                -115.2957,
+                32.5544
+              ],
+              [
+                -115.3059,
+                32.5512
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 31622456,
+          "ref": "SON 005",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8053,
+                32.4521
+              ],
+              [
+                -114.8038,
+                32.4558
+              ]
+            ],
+            [
+              [
+                -114.8053,
+                32.4521
+              ],
+              [
+                -114.8062,
+                32.4505
+              ],
+              [
+                -114.8136,
+                32.4417
+              ],
+              [
+                -114.8059,
+                32.4507
+              ],
+              [
+                -114.8053,
+                32.4521
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 10354701,
+          "ref": "CA 78",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.3125,
+              32.9735
+            ],
+            [
+              -115.1927,
+              32.9689
+            ],
+            [
+              -115.1109,
+              32.9932
+            ],
+            [
+              -115.0768,
+              32.9943
+            ],
+            [
+              -115.0422,
+              33.0146
+            ],
+            [
+              -114.9927,
+              33.016
+            ],
+            [
+              -114.9557,
+              33.0419
+            ],
+            [
+              -114.9459,
+              33.0758
+            ],
+            [
+              -114.9029,
+              33.0922
+            ],
+            [
+              -114.8803,
+              33.1376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 10356476,
+          "ref": "CA 186",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7284,
+                32.7182
+              ],
+              [
+                -114.717,
+                32.7316
+              ],
+              [
+                -114.7203,
+                32.7432
+              ]
+            ],
+            [
+              [
+                -114.7203,
+                32.7432
+              ],
+              [
+                -114.7197,
+                32.7442
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 232409121,
+          "ref": "SON 197",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.6935,
+                32.4519
+              ],
+              [
+                -114.7015,
+                32.4343
+              ],
+              [
+                -114.7124,
+                32.4298
+              ],
+              [
+                -114.7317,
+                32.3848
+              ],
+              [
+                -114.7577,
+                32.3817
+              ]
+            ],
+            [
+              [
+                -114.6935,
+                32.4519
+              ],
+              [
+                -114.6917,
+                32.4563
+              ]
+            ],
+            [
+              [
+                -114.6918,
+                32.4564
+              ],
+              [
+                -114.6935,
+                32.4519
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 137884431,
+          "ref": "US 95",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7866,
+                32.5069
+              ],
+              [
+                -114.7823,
+                32.487
+              ]
+            ],
+            [
+              [
+                -114.7812,
+                32.487
+              ],
+              [
+                -114.7823,
+                32.487
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 313040649,
+          "ref": "BC 1;BC 2",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.1947,
+              32.4191
+            ],
+            [
+              -115.1926,
+              32.4191
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131637216,
+          "ref": "I 8 Business",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.5864,
+                32.6695
+              ],
+              [
+                -114.5792,
+                32.6697
+              ]
+            ],
+            [
+              [
+                -114.5792,
+                32.6697
+              ],
+              [
+                -114.5862,
+                32.6697
+              ]
+            ],
+            [
+              [
+                -114.5792,
+                32.6697
+              ],
+              [
+                -114.5251,
+                32.6701
+              ]
+            ],
+            [
+              [
+                -114.5176,
+                32.6701
+              ],
+              [
+                -114.5251,
+                32.6701
+              ]
+            ],
+            [
+              [
+                -114.5176,
+                32.6701
+              ],
+              [
+                -114.4956,
+                32.6703
+              ]
+            ],
+            [
+              [
+                -114.4956,
+                32.6703
+              ],
+              [
+                -114.4867,
+                32.6703
+              ],
+              [
+                -114.4956,
+                32.6703
+              ]
+            ],
+            [
+              [
+                -114.4956,
+                32.6703
+              ],
+              [
+                -114.4956,
+                32.6703
+              ]
+            ],
+            [
+              [
+                -114.485,
+                32.6736
+              ],
+              [
+                -114.4956,
+                32.6703
+              ]
+            ],
+            [
+              [
+                -114.4956,
+                32.6703
+              ],
+              [
+                -114.4956,
+                32.6703
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52300324,
+          "ref": "MEX 2",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.3125,
+                32.5628
+              ],
+              [
+                -115.2761,
+                32.553
+              ],
+              [
+                -115.0262,
+                32.5562
+              ],
+              [
+                -114.9179,
+                32.5242
+              ]
+            ],
+            [
+              [
+                -114.9179,
+                32.5243
+              ],
+              [
+                -115.0248,
+                32.556
+              ],
+              [
+                -115.0264,
+                32.5563
+              ],
+              [
+                -115.2763,
+                32.5532
+              ],
+              [
+                -115.3125,
+                32.5629
+              ]
+            ],
+            [
+              [
+                -114.9179,
+                32.5242
+              ],
+              [
+                -114.8582,
+                32.5065
+              ],
+              [
+                -114.8484,
+                32.5052
+              ]
+            ],
+            [
+              [
+                -114.8484,
+                32.5052
+              ],
+              [
+                -114.8492,
+                32.5057
+              ],
+              [
+                -114.8504,
+                32.506
+              ],
+              [
+                -114.8577,
+                32.5064
+              ],
+              [
+                -114.9179,
+                32.5243
+              ]
+            ],
+            [
+              [
+                -114.8484,
+                32.5052
+              ],
+              [
+                -114.8476,
+                32.5046
+              ]
+            ],
+            [
+              [
+                -114.8475,
+                32.5046
+              ],
+              [
+                -114.8484,
+                32.5052
+              ]
+            ],
+            [
+              [
+                -114.8476,
+                32.5046
+              ],
+              [
+                -114.8436,
+                32.5022
+              ]
+            ],
+            [
+              [
+                -114.8436,
+                32.5023
+              ],
+              [
+                -114.8475,
+                32.5046
+              ]
+            ],
+            [
+              [
+                -114.8436,
+                32.5022
+              ],
+              [
+                -114.8209,
+                32.4953
+              ]
+            ],
+            [
+              [
+                -114.8209,
+                32.4954
+              ],
+              [
+                -114.8436,
+                32.5023
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 32838789,
+          "ref": "BC 2",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.3125,
+                32.4753
+              ],
+              [
+                -115.2587,
+                32.4201
+              ],
+              [
+                -115.1947,
+                32.4191
+              ]
+            ],
+            [
+              [
+                -115.1926,
+                32.4191
+              ],
+              [
+                -115.0494,
+                32.4184
+              ],
+              [
+                -115.0257,
+                32.4307
+              ],
+              [
+                -114.9888,
+                32.4259
+              ],
+              [
+                -114.9851,
+                32.4365
+              ],
+              [
+                -114.9706,
+                32.4353
+              ],
+              [
+                -114.9342,
+                32.4852
+              ],
+              [
+                -114.8446,
+                32.5031
+              ]
+            ],
+            [
+              [
+                -114.8437,
+                32.504
+              ],
+              [
+                -114.8352,
+                32.5235
+              ],
+              [
+                -114.8288,
+                32.6133
+              ],
+              [
+                -114.802,
+                32.6335
+              ],
+              [
+                -114.7755,
+                32.6418
+              ],
+              [
+                -114.7354,
+                32.6948
+              ],
+              [
+                -114.734,
+                32.7156
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 62214270,
+          "ref": "MEX 2",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "motor_vehicle": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7854,
+              32.4847
+            ],
+            [
+              -114.7347,
+              32.4695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29159643,
+          "ref": "I 8",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "network": "US:I",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.6788,
+                32.7404
+              ],
+              [
+                -114.6182,
+                32.7289
+              ],
+              [
+                -114.6059,
+                32.6958
+              ],
+              [
+                -114.5776,
+                32.6882
+              ]
+            ],
+            [
+              [
+                -114.6176,
+                32.7286
+              ],
+              [
+                -114.6242,
+                32.7317
+              ],
+              [
+                -114.6262,
+                32.7324
+              ],
+              [
+                -114.6485,
+                32.737
+              ],
+              [
+                -114.6785,
+                32.7406
+              ]
+            ],
+            [
+              [
+                -114.5775,
+                32.6885
+              ],
+              [
+                -114.6057,
+                32.696
+              ],
+              [
+                -114.613,
+                32.7216
+              ],
+              [
+                -114.6161,
+                32.727
+              ],
+              [
+                -114.6176,
+                32.7286
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54376926,
+          "ref": "BC 8",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8553,
+                32.666
+              ],
+              [
+                -114.94,
+                32.6627
+              ],
+              [
+                -114.9865,
+                32.6454
+              ],
+              [
+                -114.988,
+                32.6253
+              ],
+              [
+                -115.0127,
+                32.6146
+              ],
+              [
+                -115.2745,
+                32.6141
+              ]
+            ],
+            [
+              [
+                -114.8521,
+                32.666
+              ],
+              [
+                -114.8553,
+                32.666
+              ]
+            ],
+            [
+              [
+                -114.8521,
+                32.666
+              ],
+              [
+                -114.8119,
+                32.6658
+              ],
+              [
+                -114.7592,
+                32.6824
+              ],
+              [
+                -114.7339,
+                32.7135
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 153677391,
+          "ref": "MEX 5",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.2118,
+              31.9522
+            ],
+            [
+              -115.267,
+              32.1203
+            ],
+            [
+              -115.3125,
+              32.176
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 388571837,
+          "ref": "US 95",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.6503,
+                32.6804
+              ],
+              [
+                -114.6504,
+                32.6985
+              ],
+              [
+                -114.6182,
+                32.6985
+              ]
+            ],
+            [
+              [
+                -114.5964,
+                32.6986
+              ],
+              [
+                -114.6182,
+                32.6985
+              ]
+            ],
+            [
+              [
+                -114.5964,
+                32.6986
+              ],
+              [
+                -114.575,
+                32.6988
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29121941,
+          "ref": "I 8",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "network": "US:I",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -115.3125,
+                32.7729
+              ],
+              [
+                -115.2845,
+                32.7727
+              ],
+              [
+                -115.079,
+                32.7077
+              ],
+              [
+                -114.9276,
+                32.711
+              ],
+              [
+                -114.9206,
+                32.7147
+              ],
+              [
+                -114.908,
+                32.7294
+              ],
+              [
+                -114.8406,
+                32.7605
+              ],
+              [
+                -114.758,
+                32.7469
+              ],
+              [
+                -114.7172,
+                32.743
+              ],
+              [
+                -114.7119,
+                32.7431
+              ],
+              [
+                -114.6976,
+                32.7471
+              ],
+              [
+                -114.6788,
+                32.7404
+              ]
+            ],
+            [
+              [
+                -114.6785,
+                32.7406
+              ],
+              [
+                -114.6971,
+                32.7473
+              ],
+              [
+                -114.7012,
+                32.7472
+              ],
+              [
+                -114.7159,
+                32.7431
+              ],
+              [
+                -114.7405,
+                32.747
+              ],
+              [
+                -114.7582,
+                32.7472
+              ],
+              [
+                -114.8317,
+                32.7598
+              ],
+              [
+                -114.8405,
+                32.7607
+              ],
+              [
+                -114.8432,
+                32.7603
+              ],
+              [
+                -114.8548,
+                32.7572
+              ],
+              [
+                -114.8773,
+                32.746
+              ],
+              [
+                -114.8852,
+                32.7404
+              ],
+              [
+                -114.9075,
+                32.7299
+              ],
+              [
+                -114.9108,
+                32.7273
+              ],
+              [
+                -114.9205,
+                32.7151
+              ],
+              [
+                -114.9284,
+                32.7111
+              ],
+              [
+                -115.0793,
+                32.7081
+              ],
+              [
+                -115.2844,
+                32.7729
+              ],
+              [
+                -115.289,
+                32.7734
+              ],
+              [
+                -115.3125,
+                32.7734
+              ]
+            ],
+            [
+              [
+                -114.5776,
+                32.6882
+              ],
+              [
+                -114.5412,
+                32.6764
+              ],
+              [
+                -114.5338,
+                32.676
+              ],
+              [
+                -114.5084,
+                32.6787
+              ],
+              [
+                -114.4836,
+                32.6711
+              ],
+              [
+                -114.4781,
+                32.6703
+              ]
+            ],
+            [
+              [
+                -113.9062,
+                32.7009
+              ],
+              [
+                -114.0997,
+                32.672
+              ],
+              [
+                -114.1998,
+                32.6489
+              ],
+              [
+                -114.3066,
+                32.6737
+              ],
+              [
+                -114.3142,
+                32.6693
+              ]
+            ],
+            [
+              [
+                -114.3142,
+                32.6693
+              ],
+              [
+                -114.3191,
+                32.6604
+              ],
+              [
+                -114.3333,
+                32.6599
+              ]
+            ],
+            [
+              [
+                -114.3333,
+                32.6599
+              ],
+              [
+                -114.4133,
+                32.6706
+              ],
+              [
+                -114.4797,
+                32.6707
+              ],
+              [
+                -114.505,
+                32.6784
+              ],
+              [
+                -114.509,
+                32.6791
+              ],
+              [
+                -114.5397,
+                32.6765
+              ],
+              [
+                -114.5648,
+                32.6853
+              ],
+              [
+                -114.5775,
+                32.6885
+              ]
+            ],
+            [
+              [
+                -114.4781,
+                32.6703
+              ],
+              [
+                -114.4776,
+                32.6703
+              ],
+              [
+                -114.4633,
+                32.6704
+              ],
+              [
+                -114.4139,
+                32.6704
+              ],
+              [
+                -114.3765,
+                32.661
+              ],
+              [
+                -114.3438,
+                32.6579
+              ],
+              [
+                -114.3333,
+                32.6599
+              ]
+            ],
+            [
+              [
+                -114.3333,
+                32.6599
+              ],
+              [
+                -114.3142,
+                32.6693
+              ]
+            ],
+            [
+              [
+                -114.3142,
+                32.6693
+              ],
+              [
+                -114.3059,
+                32.6723
+              ],
+              [
+                -114.2121,
+                32.6493
+              ],
+              [
+                -114.2057,
+                32.6485
+              ],
+              [
+                -114.1995,
+                32.6486
+              ],
+              [
+                -114.1927,
+                32.6497
+              ],
+              [
+                -114.0989,
+                32.6718
+              ],
+              [
+                -114.0445,
+                32.6768
+              ],
+              [
+                -113.9062,
+                32.7001
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 37902493,
+          "ref": "US 95",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7866,
+              32.5069
+            ],
+            [
+              -114.7847,
+              32.5642
+            ],
+            [
+              -114.7704,
+              32.5695
+            ],
+            [
+              -114.7676,
+              32.5951
+            ],
+            [
+              -114.6709,
+              32.5967
+            ],
+            [
+              -114.6508,
+              32.6111
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 231884462,
+          "ref": "SON 022",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8977,
+                32.3859
+              ],
+              [
+                -114.8922,
+                32.3827
+              ]
+            ],
+            [
+              [
+                -114.8919,
+                32.3826
+              ],
+              [
+                -114.8824,
+                32.3758
+              ],
+              [
+                -114.7633,
+                32.3815
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 31622456,
+          "ref": "SON 005",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.8038,
+              32.4558
+            ],
+            [
+              -114.7987,
+              32.4682
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 181751105,
+          "ref": "CA 115",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -115.2856,
+              32.772
+            ],
+            [
+              -115.3125,
+              32.7913
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 60925569,
+          "ref": "MEX 2",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7308,
+              32.4684
+            ],
+            [
+              -114.7309,
+              32.4683
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 256675786,
+          "ref": "I 8 Business",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.6245,
+                32.6744
+              ],
+              [
+                -114.6246,
+                32.7325
+              ]
+            ],
+            [
+              [
+                -114.6245,
+                32.6744
+              ],
+              [
+                -114.6244,
+                32.6723
+              ],
+              [
+                -114.6237,
+                32.671
+              ],
+              [
+                -114.6226,
+                32.6702
+              ],
+              [
+                -114.6205,
+                32.6695
+              ],
+              [
+                -114.6137,
+                32.6693
+              ],
+              [
+                -114.5864,
+                32.6695
+              ]
+            ],
+            [
+              [
+                -114.5862,
+                32.6697
+              ],
+              [
+                -114.6245,
+                32.6744
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 232410205,
+          "ref": "SON 197",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7605,
+              32.3792
+            ],
+            [
+              -114.7619,
+              31.9769
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119074976,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7039,
+                32.4947
+              ],
+              [
+                -114.7456,
+                32.4945
+              ]
+            ],
+            [
+              [
+                -114.7006,
+                32.4948
+              ],
+              [
+                -114.7039,
+                32.4947
+              ]
+            ],
+            [
+              [
+                -114.7039,
+                32.4947
+              ],
+              [
+                -114.7006,
+                32.4947
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 313040132,
+          "ref": "SON 34",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.9936,
+                32.1964
+              ],
+              [
+                -114.9944,
+                32.1956
+              ]
+            ],
+            [
+              [
+                -114.9936,
+                32.1964
+              ],
+              [
+                -114.9934,
+                32.2015
+              ]
+            ],
+            [
+              [
+                -114.97,
+                32.2016
+              ],
+              [
+                -114.9934,
+                32.2015
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 337470926,
+          "ref": "AZ 195",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.5215,
+                32.679
+              ],
+              [
+                -114.5217,
+                32.6179
+              ],
+              [
+                -114.5463,
+                32.5941
+              ],
+              [
+                -114.562,
+                32.5584
+              ],
+              [
+                -114.561,
+                32.4993
+              ],
+              [
+                -114.7006,
+                32.4948
+              ]
+            ],
+            [
+              [
+                -114.7006,
+                32.4947
+              ],
+              [
+                -114.6631,
+                32.4945
+              ],
+              [
+                -114.6537,
+                32.496
+              ],
+              [
+                -114.6387,
+                32.4951
+              ],
+              [
+                -114.5703,
+                32.4951
+              ],
+              [
+                -114.5654,
+                32.496
+              ],
+              [
+                -114.5612,
+                32.4987
+              ],
+              [
+                -114.5588,
+                32.502
+              ],
+              [
+                -114.5581,
+                32.5058
+              ],
+              [
+                -114.5617,
+                32.5584
+              ],
+              [
+                -114.5459,
+                32.5942
+              ],
+              [
+                -114.5266,
+                32.6098
+              ],
+              [
+                -114.5238,
+                32.6132
+              ],
+              [
+                -114.5216,
+                32.6174
+              ],
+              [
+                -114.5199,
+                32.6266
+              ],
+              [
+                -114.5213,
+                32.6701
+              ]
+            ],
+            [
+              [
+                -114.5214,
+                32.6755
+              ],
+              [
+                -114.5214,
+                32.6789
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 132965631,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "old_name": "Ocean-to-Ocean Highway",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.5213,
+              32.6701
+            ],
+            [
+              -114.5214,
+              32.6755
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 37891685,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7567,
+                32.4943
+              ],
+              [
+                -114.7798,
+                32.4942
+              ]
+            ],
+            [
+              [
+                -114.7798,
+                32.4942
+              ],
+              [
+                -114.7836,
+                32.4941
+              ]
+            ],
+            [
+              [
+                -114.7825,
+                32.487
+              ],
+              [
+                -114.783,
+                32.4839
+              ]
+            ],
+            [
+              [
+                -114.7821,
+                32.4867
+              ],
+              [
+                -114.7821,
+                32.487
+              ]
+            ],
+            [
+              [
+                -114.7821,
+                32.4855
+              ],
+              [
+                -114.7821,
+                32.4867
+              ]
+            ],
+            [
+              [
+                -114.7491,
+                32.475
+              ],
+              [
+                -114.7621,
+                32.4789
+              ]
+            ],
+            [
+              [
+                -114.7621,
+                32.4789
+              ],
+              [
+                -114.7808,
+                32.4845
+              ]
+            ],
+            [
+              [
+                -114.7808,
+                32.4845
+              ],
+              [
+                -114.7821,
+                32.4855
+              ]
+            ],
+            [
+              [
+                -114.7809,
+                32.4921
+              ],
+              [
+                -114.7798,
+                32.4942
+              ]
+            ],
+            [
+              [
+                -114.7808,
+                32.4845
+              ],
+              [
+                -114.7808,
+                32.4846
+              ]
+            ],
+            [
+              [
+                -114.7808,
+                32.4846
+              ],
+              [
+                -114.7801,
+                32.487
+              ]
+            ],
+            [
+              [
+                -114.7621,
+                32.4789
+              ],
+              [
+                -114.7808,
+                32.4846
+              ]
+            ],
+            [
+              [
+                -114.7456,
+                32.4945
+              ],
+              [
+                -114.7567,
+                32.4943
+              ]
+            ],
+            [
+              [
+                -114.7823,
+                32.4869
+              ],
+              [
+                -114.7823,
+                32.487
+              ],
+              [
+                -114.7823,
+                32.487
+              ],
+              [
+                -114.7824,
+                32.487
+              ],
+              [
+                -114.7823,
+                32.4869
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 232406186,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8922,
+                32.3827
+              ],
+              [
+                -114.8919,
+                32.3826
+              ]
+            ],
+            [
+              [
+                -114.8053,
+                32.4521
+              ],
+              [
+                -114.7984,
+                32.4501
+              ]
+            ],
+            [
+              [
+                -114.7775,
+                32.4439
+              ],
+              [
+                -114.7635,
+                32.4398
+              ],
+              [
+                -114.7611,
+                32.4457
+              ]
+            ],
+            [
+              [
+                -114.7635,
+                32.4398
+              ],
+              [
+                -114.7422,
+                32.4336
+              ]
+            ],
+            [
+              [
+                -114.734,
+                32.7156
+              ],
+              [
+                -114.7276,
+                32.7189
+              ]
+            ],
+            [
+              [
+                -114.7284,
+                32.7182
+              ],
+              [
+                -114.7287,
+                32.718
+              ]
+            ],
+            [
+              [
+                -114.5215,
+                32.6862
+              ],
+              [
+                -114.5215,
+                32.679
+              ]
+            ],
+            [
+              [
+                -114.5215,
+                32.6992
+              ],
+              [
+                -114.5215,
+                32.6862
+              ]
+            ],
+            [
+              [
+                -114.5214,
+                32.6789
+              ],
+              [
+                -114.5215,
+                32.6862
+              ]
+            ],
+            [
+              [
+                -114.7605,
+                32.3829
+              ],
+              [
+                -114.7622,
+                32.3816
+              ],
+              [
+                -114.7608,
+                32.3802
+              ],
+              [
+                -114.759,
+                32.3815
+              ],
+              [
+                -114.7605,
+                32.3829
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 68252068,
+          "ref": "SON 003",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8226,
+                32.4622
+              ],
+              [
+                -114.8214,
+                32.4638
+              ]
+            ],
+            [
+              [
+                -114.8226,
+                32.4622
+              ],
+              [
+                -114.8746,
+                32.42
+              ],
+              [
+                -114.9706,
+                32.2969
+              ],
+              [
+                -114.974,
+                32.1902
+              ],
+              [
+                -114.9558,
+                32.1633
+              ],
+              [
+                -114.9101,
+                32.1267
+              ],
+              [
+                -114.7631,
+                31.9782
+              ]
+            ],
+            [
+              [
+                -114.8098,
+                32.4667
+              ],
+              [
+                -114.8214,
+                32.4638
+              ]
+            ],
+            [
+              [
+                -114.7631,
+                31.9782
+              ],
+              [
+                -114.7606,
+                31.9756
+              ]
+            ],
+            [
+              [
+                -114.7606,
+                31.9756
+              ],
+              [
+                -114.7382,
+                31.9522
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 31622643,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.7984,
+                32.4501
+              ],
+              [
+                -114.7888,
+                32.4473
+              ]
+            ],
+            [
+              [
+                -114.7888,
+                32.4473
+              ],
+              [
+                -114.7775,
+                32.4439
+              ]
+            ],
+            [
+              [
+                -114.7801,
+                32.4683
+              ],
+              [
+                -114.7888,
+                32.4473
+              ]
+            ],
+            [
+              [
+                -114.7808,
+                32.4845
+              ],
+              [
+                -114.7812,
+                32.4834
+              ]
+            ],
+            [
+              [
+                -114.7801,
+                32.4683
+              ],
+              [
+                -114.7743,
+                32.4825
+              ]
+            ],
+            [
+              [
+                -114.7744,
+                32.4826
+              ],
+              [
+                -114.7801,
+                32.4683
+              ]
+            ],
+            [
+              [
+                -114.7611,
+                32.4457
+              ],
+              [
+                -114.7491,
+                32.475
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 16956314,
+          "ref": "US 95",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.6508,
+                32.6111
+              ],
+              [
+                -114.6503,
+                32.6804
+              ]
+            ],
+            [
+              [
+                -114.575,
+                32.6988
+              ],
+              [
+                -114.4409,
+                32.7007
+              ]
+            ],
+            [
+              [
+                -114.4283,
+                32.7119
+              ],
+              [
+                -114.4208,
+                32.7535
+              ],
+              [
+                -114.3841,
+                32.7782
+              ],
+              [
+                -114.3783,
+                32.8208
+              ],
+              [
+                -114.3567,
+                32.8654
+              ],
+              [
+                -114.2923,
+                32.9639
+              ],
+              [
+                -114.2852,
+                33.0091
+              ],
+              [
+                -114.2981,
+                33.0999
+              ],
+              [
+                -114.2867,
+                33.1376
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 91371286,
+          "ref": "SON 003",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -114.7812,
+              32.4834
+            ],
+            [
+              -114.7868,
+              32.4698
+            ],
+            [
+              -114.8098,
+              32.4667
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 218898440,
+          "ref": "MEX 2",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -114.8195,
+                32.4949
+              ],
+              [
+                -114.8098,
+                32.4919
+              ]
+            ],
+            [
+              [
+                -114.8098,
+                32.4919
+              ],
+              [
+                -114.8088,
+                32.4916
+              ],
+              [
+                -114.8079,
+                32.4914
+              ],
+              [
+                -114.809,
+                32.4916
+              ],
+              [
+                -114.8098,
+                32.4919
+              ]
+            ],
+            [
+              [
+                -114.8098,
+                32.4919
+              ],
+              [
+                -114.8098,
+                32.4919
+              ]
+            ],
+            [
+              [
+                -114.8096,
+                32.492
+              ],
+              [
+                -114.8086,
+                32.4918
+              ],
+              [
+                -114.8079,
+                32.4915
+              ],
+              [
+                -114.8087,
+                32.4917
+              ],
+              [
+                -114.8096,
+                32.492
+              ]
+            ],
+            [
+              [
+                -114.8096,
+                32.492
+              ],
+              [
+                -114.8195,
+                32.4949
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

@@ -1,0 +1,1178 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 89928358,
+          "area": 20043,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.455889,
+              31.407965
+            ],
+            [
+              -92.45585,
+              31.408142
+            ],
+            [
+              -92.455626,
+              31.408455
+            ],
+            [
+              -92.455703,
+              31.408934
+            ],
+            [
+              -92.455613,
+              31.409291
+            ],
+            [
+              -92.455524,
+              31.409401
+            ],
+            [
+              -92.455325,
+              31.409467
+            ],
+            [
+              -92.454747,
+              31.409225
+            ],
+            [
+              -92.454587,
+              31.409016
+            ],
+            [
+              -92.45485,
+              31.408664
+            ],
+            [
+              -92.454831,
+              31.408505
+            ],
+            [
+              -92.45451,
+              31.408032
+            ],
+            [
+              -92.454613,
+              31.407784
+            ],
+            [
+              -92.454792,
+              31.407729
+            ],
+            [
+              -92.454799,
+              31.407971
+            ],
+            [
+              -92.455081,
+              31.40807
+            ],
+            [
+              -92.455151,
+              31.408224
+            ],
+            [
+              -92.455325,
+              31.40818
+            ],
+            [
+              -92.455754,
+              31.407867
+            ],
+            [
+              -92.455889,
+              31.407965
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 89929301,
+          "area": 3754,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.460871,
+              31.407464
+            ],
+            [
+              -92.460628,
+              31.40769
+            ],
+            [
+              -92.460583,
+              31.407998
+            ],
+            [
+              -92.460423,
+              31.408047
+            ],
+            [
+              -92.460307,
+              31.407992
+            ],
+            [
+              -92.460134,
+              31.407701
+            ],
+            [
+              -92.46023,
+              31.407602
+            ],
+            [
+              -92.460769,
+              31.407365
+            ],
+            [
+              -92.460871,
+              31.407464
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 89931515,
+          "area": 2119,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.452426,
+              31.40972
+            ],
+            [
+              -92.452279,
+              31.409912
+            ],
+            [
+              -92.452236,
+              31.409912
+            ],
+            [
+              -92.451926,
+              31.409731
+            ],
+            [
+              -92.452041,
+              31.409484
+            ],
+            [
+              -92.452163,
+              31.409468
+            ],
+            [
+              -92.452413,
+              31.409627
+            ],
+            [
+              -92.452426,
+              31.40972
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 89909405,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.454927,
+              31.409313
+            ],
+            [
+              -92.454598,
+              31.409912
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89928358,
+          "area": 20043,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.455889,
+              31.407966
+            ],
+            [
+              -92.45585,
+              31.408141
+            ],
+            [
+              -92.455626,
+              31.408455
+            ],
+            [
+              -92.455703,
+              31.408934
+            ],
+            [
+              -92.455613,
+              31.409291
+            ],
+            [
+              -92.455523,
+              31.409401
+            ],
+            [
+              -92.455324,
+              31.409468
+            ],
+            [
+              -92.454747,
+              31.409225
+            ],
+            [
+              -92.454588,
+              31.409016
+            ],
+            [
+              -92.45485,
+              31.408664
+            ],
+            [
+              -92.454831,
+              31.408504
+            ],
+            [
+              -92.45451,
+              31.408032
+            ],
+            [
+              -92.454612,
+              31.407785
+            ],
+            [
+              -92.454792,
+              31.407729
+            ],
+            [
+              -92.454799,
+              31.407972
+            ],
+            [
+              -92.455081,
+              31.40807
+            ],
+            [
+              -92.455151,
+              31.408225
+            ],
+            [
+              -92.455324,
+              31.40818
+            ],
+            [
+              -92.455754,
+              31.407866
+            ],
+            [
+              -92.455889,
+              31.407966
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89929301,
+          "area": 3754,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.460871,
+              31.407465
+            ],
+            [
+              -92.460628,
+              31.40769
+            ],
+            [
+              -92.460583,
+              31.407997
+            ],
+            [
+              -92.460422,
+              31.408047
+            ],
+            [
+              -92.460308,
+              31.407993
+            ],
+            [
+              -92.460134,
+              31.4077
+            ],
+            [
+              -92.46023,
+              31.407602
+            ],
+            [
+              -92.460769,
+              31.407365
+            ],
+            [
+              -92.460871,
+              31.407465
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89931515,
+          "area": 2119,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.452426,
+                31.409721
+              ],
+              [
+                -92.452279,
+                31.409912
+              ]
+            ],
+            [
+              [
+                -92.452236,
+                31.409912
+              ],
+              [
+                -92.451925,
+                31.409731
+              ],
+              [
+                -92.452041,
+                31.409484
+              ],
+              [
+                -92.452163,
+                31.409468
+              ],
+              [
+                -92.452414,
+                31.409627
+              ],
+              [
+                -92.452426,
+                31.409721
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.449951,
+            31.400535
+          ],
+          [
+            -92.460937,
+            31.400535
+          ],
+          [
+            -92.460937,
+            31.409912
+          ],
+          [
+            -92.449951,
+            31.409912
+          ],
+          [
+            -92.449951,
+            31.400535
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 13415199,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.454214,
+                31.401059
+              ],
+              [
+                -92.452881,
+                31.400991
+              ]
+            ],
+            [
+              [
+                -92.452881,
+                31.400991
+              ],
+              [
+                -92.451953,
+                31.400943
+              ]
+            ],
+            [
+              [
+                -92.452881,
+                31.400535
+              ],
+              [
+                -92.452881,
+                31.400991
+              ]
+            ],
+            [
+              [
+                -92.450846,
+                31.400535
+              ],
+              [
+                -92.450733,
+                31.401361
+              ],
+              [
+                -92.450214,
+                31.402688
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430549,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Pentecostal Wy.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.460937,
+              31.402958
+            ],
+            [
+              -92.457465,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13421248,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Elizabeth Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.449951,
+              31.408041
+            ],
+            [
+              -92.450138,
+              31.407979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427879,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hagan Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.451641,
+              31.403257
+            ],
+            [
+              -92.451563,
+              31.403691
+            ],
+            [
+              -92.451578,
+              31.404072
+            ],
+            [
+              -92.451292,
+              31.404958
+            ],
+            [
+              -92.451259,
+              31.405348
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 88688177,
+          "ref": "LA 3225",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "name": "Shreveport Hwy.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.460937,
+              31.409662
+            ],
+            [
+              -92.457028,
+              31.406961
+            ],
+            [
+              -92.456468,
+              31.406664
+            ],
+            [
+              -92.454631,
+              31.406123
+            ],
+            [
+              -92.451014,
+              31.405278
+            ],
+            [
+              -92.450208,
+              31.404967
+            ],
+            [
+              -92.449951,
+              31.404801
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13431192,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Kiwanis Camp Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.459978,
+                31.403527
+              ],
+              [
+                -92.458685,
+                31.405905
+              ],
+              [
+                -92.458638,
+                31.408079
+              ]
+            ],
+            [
+              [
+                -92.460103,
+                31.400535
+              ],
+              [
+                -92.460084,
+                31.400806
+              ],
+              [
+                -92.45984,
+                31.401306
+              ],
+              [
+                -92.459595,
+                31.401741
+              ],
+              [
+                -92.459292,
+                31.401823
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427912,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Bonnie Loop",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.453438,
+              31.404979
+            ],
+            [
+              -92.453838,
+              31.404979
+            ],
+            [
+              -92.453873,
+              31.403259
+            ],
+            [
+              -92.453838,
+              31.403079
+            ],
+            [
+              -92.453324,
+              31.403057
+            ],
+            [
+              -92.453134,
+              31.403114
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13425281,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hooper Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.45891,
+              31.409912
+            ],
+            [
+              -92.45889,
+              31.408252
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422782,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Austin Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.460937,
+              31.404201
+            ],
+            [
+              -92.455723,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13423686,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Nell",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.453134,
+              31.403114
+            ],
+            [
+              -92.453038,
+              31.403179
+            ],
+            [
+              -92.452988,
+              31.403583
+            ],
+            [
+              -92.452943,
+              31.404735
+            ],
+            [
+              -92.453038,
+              31.404979
+            ],
+            [
+              -92.453438,
+              31.404979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430637,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Gum St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.458685,
+              31.405905
+            ],
+            [
+              -92.45604,
+              31.40517
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426683,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Nell St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.453637,
+              31.403061
+            ],
+            [
+              -92.453704,
+              31.401033
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13420252,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Bankston St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.451889,
+              31.405505
+            ],
+            [
+              -92.451738,
+              31.408879
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13423933,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Bonnie St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.453145,
+              31.405789
+            ],
+            [
+              -92.453438,
+              31.404979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13423109,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Birkland Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.450138,
+              31.406579
+            ],
+            [
+              -92.449951,
+              31.406645
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13424314,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Martha St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.4529,
+              31.401535
+            ],
+            [
+              -92.45274,
+              31.402837
+            ],
+            [
+              -92.452583,
+              31.403029
+            ],
+            [
+              -92.45234,
+              31.403157
+            ],
+            [
+              -92.451641,
+              31.403257
+            ],
+            [
+              -92.451151,
+              31.403023
+            ],
+            [
+              -92.450978,
+              31.402799
+            ],
+            [
+              -92.4508,
+              31.402216
+            ],
+            [
+              -92.450733,
+              31.401361
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13417086,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.453134,
+              31.403114
+            ],
+            [
+              -92.453172,
+              31.403159
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51706596,
+          "ref": "US 71;US 167",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "name": "Pineville Expwy.",
+          "sort_key": 381,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.460937,
+                31.403472
+              ],
+              [
+                -92.456789,
+                31.400535
+              ]
+            ],
+            [
+              [
+                -92.456332,
+                31.400535
+              ],
+              [
+                -92.460937,
+                31.403829
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427876,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Edwards Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.454631,
+              31.406123
+            ],
+            [
+              -92.454638,
+              31.402779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430177,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lindell St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.451641,
+              31.403257
+            ],
+            [
+              -92.451953,
+              31.400943
+            ],
+            [
+              -92.451963,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13419792,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Donna Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.450208,
+              31.404967
+            ],
+            [
+              -92.450138,
+              31.407979
+            ],
+            [
+              -92.450696,
+              31.408106
+            ],
+            [
+              -92.450666,
+              31.409912
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

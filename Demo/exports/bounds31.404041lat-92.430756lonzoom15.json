@@ -1,0 +1,599 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 89904461,
+          "source": "openstreetmap.org",
+          "name": "Flagon Bayou",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.430394,
+              31.409912
+            ],
+            [
+              -92.430289,
+              31.409792
+            ],
+            [
+              -92.429859,
+              31.408962
+            ],
+            [
+              -92.430052,
+              31.408296
+            ],
+            [
+              -92.430013,
+              31.408142
+            ],
+            [
+              -92.429609,
+              31.407933
+            ],
+            [
+              -92.429449,
+              31.407493
+            ],
+            [
+              -92.429295,
+              31.407339
+            ],
+            [
+              -92.428526,
+              31.407015
+            ],
+            [
+              -92.427993,
+              31.406492
+            ],
+            [
+              -92.427979,
+              31.406486
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89909959,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.438055,
+              31.40162
+            ],
+            [
+              -92.438222,
+              31.402016
+            ],
+            [
+              -92.438331,
+              31.403
+            ],
+            [
+              -92.438613,
+              31.403913
+            ],
+            [
+              -92.438664,
+              31.404381
+            ],
+            [
+              -92.438638,
+              31.404931
+            ],
+            [
+              -92.438452,
+              31.405662
+            ],
+            [
+              -92.438324,
+              31.40586
+            ],
+            [
+              -92.437927,
+              31.406069
+            ],
+            [
+              -92.437337,
+              31.406146
+            ],
+            [
+              -92.436202,
+              31.406174
+            ],
+            [
+              -92.435958,
+              31.406245
+            ],
+            [
+              -92.435477,
+              31.406548
+            ],
+            [
+              -92.434348,
+              31.406377
+            ],
+            [
+              -92.433342,
+              31.405932
+            ],
+            [
+              -92.432675,
+              31.405904
+            ],
+            [
+              -92.432457,
+              31.405987
+            ],
+            [
+              -92.432328,
+              31.406124
+            ],
+            [
+              -92.43213,
+              31.406124
+            ],
+            [
+              -92.431931,
+              31.406025
+            ],
+            [
+              -92.431706,
+              31.405854
+            ],
+            [
+              -92.431001,
+              31.404799
+            ],
+            [
+              -92.430629,
+              31.404485
+            ],
+            [
+              -92.430155,
+              31.404287
+            ],
+            [
+              -92.429943,
+              31.4041
+            ],
+            [
+              -92.429757,
+              31.403594
+            ],
+            [
+              -92.429071,
+              31.402351
+            ],
+            [
+              -92.428891,
+              31.402252
+            ],
+            [
+              -92.428712,
+              31.402252
+            ],
+            [
+              -92.42859,
+              31.402334
+            ],
+            [
+              -92.428417,
+              31.402725
+            ],
+            [
+              -92.428321,
+              31.402829
+            ],
+            [
+              -92.427981,
+              31.402967
+            ],
+            [
+              -92.427979,
+              31.402972
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [{
+      "properties": {
+        "id": -132224,
+        "admin_level": 8,
+        "id:left": -132224,
+        "sort_key": 252,
+        "name": "Ball",
+        "name:left": "Ball",
+        "id:right": 34234077,
+        "osm_relation:left": true,
+        "kind": "municipality"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.430389,
+            31.409912
+          ],
+          [
+            -92.430289,
+            31.409792
+          ],
+          [
+            -92.429859,
+            31.408962
+          ],
+          [
+            -92.430052,
+            31.408296
+          ],
+          [
+            -92.430013,
+            31.408142
+          ],
+          [
+            -92.429609,
+            31.407933
+          ],
+          [
+            -92.429449,
+            31.407493
+          ],
+          [
+            -92.429295,
+            31.407339
+          ],
+          [
+            -92.428526,
+            31.407015
+          ],
+          [
+            -92.427993,
+            31.406492
+          ],
+          [
+            -92.427979,
+            31.406487
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.427979,
+            31.400535
+          ],
+          [
+            -92.438965,
+            31.400535
+          ],
+          [
+            -92.438965,
+            31.409912
+          ],
+          [
+            -92.427979,
+            31.409912
+          ],
+          [
+            -92.427979,
+            31.400535
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 13417612,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.435337,
+                31.403079
+              ],
+              [
+                -92.434662,
+                31.403072
+              ],
+              [
+                -92.434494,
+                31.40319
+              ],
+              [
+                -92.434037,
+                31.404079
+              ]
+            ],
+            [
+              [
+                -92.432139,
+                31.403185
+              ],
+              [
+                -92.432136,
+                31.402711
+              ],
+              [
+                -92.432076,
+                31.402542
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13415752,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Louisiana Southern Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.438965,
+              31.407178
+            ],
+            [
+              -92.433707,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13425665,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Obanion Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.434362,
+              31.409816
+            ],
+            [
+              -92.437088,
+              31.409843
+            ],
+            [
+              -92.437673,
+              31.409912
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13425231,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Gilly Williams Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.438198,
+              31.409912
+            ],
+            [
+              -92.43811,
+              31.409782
+            ],
+            [
+              -92.437942,
+              31.409301
+            ],
+            [
+              -92.437759,
+              31.408291
+            ],
+            [
+              -92.437713,
+              31.406822
+            ],
+            [
+              -92.437561,
+              31.406181
+            ],
+            [
+              -92.437237,
+              31.405379
+            ],
+            [
+              -92.435337,
+              31.403079
+            ],
+            [
+              -92.433378,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422944,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lanier Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.431443,
+              31.403522
+            ],
+            [
+              -92.431632,
+              31.402679
+            ],
+            [
+              -92.432076,
+              31.402542
+            ],
+            [
+              -92.432117,
+              31.402452
+            ],
+            [
+              -92.43194,
+              31.401084
+            ],
+            [
+              -92.431986,
+              31.400535
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422836,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Dillard Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.437737,
+              31.407679
+            ],
+            [
+              -92.433437,
+              31.406779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422819,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Oaklane Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.435385,
+              31.400535
+            ],
+            [
+              -92.435398,
+              31.401246
+            ],
+            [
+              -92.435471,
+              31.401385
+            ],
+            [
+              -92.435618,
+              31.40145
+            ],
+            [
+              -92.438965,
+              31.401469
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

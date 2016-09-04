@@ -1,0 +1,287 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 1,
+          "area": 574532003823616,
+          "source": "naturalearthdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -45,
+                21.943
+              ],
+              [
+                -67.5,
+                21.943
+              ],
+              [
+                -67.5,
+                40.98
+              ],
+              [
+                -45,
+                40.98
+              ],
+              [
+                -45,
+                21.943
+              ]
+            ],
+            [
+              [
+                -64.771,
+                32.308
+              ],
+              [
+                -64.863,
+                32.274
+              ],
+              [
+                -64.845,
+                32.262
+              ],
+              [
+                -64.82,
+                32.26
+              ],
+              [
+                -64.73,
+                32.293
+              ],
+              [
+                -64.668,
+                32.382
+              ],
+              [
+                -64.695,
+                32.387
+              ],
+              [
+                -64.771,
+                32.308
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1025,
+          "source": "naturalearthdata.com",
+          "sort_key": 205,
+          "boundary": "yes",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -64.771,
+              32.308
+            ],
+            [
+              -64.863,
+              32.274
+            ],
+            [
+              -64.845,
+              32.262
+            ],
+            [
+              -64.82,
+              32.26
+            ],
+            [
+              -64.73,
+              32.293
+            ],
+            [
+              -64.668,
+              32.382
+            ],
+            [
+              -64.695,
+              32.387
+            ],
+            [
+              -64.771,
+              32.308
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 305639165,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Sargasso Sea",
+          "kind": "sea"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60,
+            30
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "name:ga": "Beirmiúda",
+          "name:gd": "Bearmùda",
+          "name:ka": "ბერმუდა",
+          "name:or": "ବରମୁଡା",
+          "name:zu": "i-Bermuda",
+          "name:chr": "ᏆᏊᏓ",
+          "name:ta": "பெர்முடா",
+          "name:km": "ប៊ឺមុយដា",
+          "name:sg": "Beremûda",
+          "name:ko": "버뮤다",
+          "name:kn": "ಬರ್ಮುಡಾ",
+          "name:gu": "બર્મુડા",
+          "name:sk": "Bermudy",
+          "name:gv": "Ny Bermioodee",
+          "name:ks": "بٔرمیوڈا",
+          "name:si": "බර්මියුඩා",
+          "name:so": "Bermuuda",
+          "name:sl": "Bermudi",
+          "name:gl": "Bermudas",
+          "name:sr": "Бермуди",
+          "name:cy": "Bermwda",
+          "name:fa": "برمودا",
+          "name:eo": "Bermudo",
+          "name:ru": "Бермуды",
+          "name:ff": "Bermudaa",
+          "name:ja": "バミューダ",
+          "name:es": "Bermudas",
+          "name:am": "ቤርሙዳ",
+          "name:ak": "Bɛmuda",
+          "name:el": "Βερμούδες",
+          "name:fr": "Bermudes",
+          "name:ee": "Bermuda nutome",
+          "name:rm": "Bermudas",
+          "name:rn": "Berimuda",
+          "name:dz": "བར་མུ་ཌ",
+          "name:ne": "बर्मुडा",
+          "name:ig": "Bemuda",
+          "name:bo": "བར་མུ་ཌ།",
+          "scalerank": 0,
+          "name:bn": "বারমুডা",
+          "name:bm": "Bermudi",
+          "name:bg": "Бермуда",
+          "name:mk": "Бермуди",
+          "name:ml": "ബർമുഡ",
+          "name:mg": "Bermioda",
+          "kind": "country",
+          "name:be": "Бярмуды",
+          "id": 433483519,
+          "name:mr": "बर्मुडा",
+          "name:uk": "Бермудські острови",
+          "name:mn": "Бермудын Арал",
+          "name:is": "Bermúda",
+          "name": "Bermuda",
+          "name:ur": "برمودا",
+          "name:ar": "برمودا",
+          "name:my": "ဘာမူဒါ",
+          "population": 66163,
+          "name:ast": "Les Bermudes",
+          "name:cs": "Bermudy",
+          "name:he": "ברמודה",
+          "name:ha": "Barmuda",
+          "name:yo": "Orílẹ́ède Bémúdà",
+          "name:lg": "Beremuda",
+          "name:ti": "ቤርሙዳ",
+          "name:ca": "Bermudes",
+          "name:te": "బర్మయుడా",
+          "source": "openstreetmap.org",
+          "name:lo": "ເບີມູດາ",
+          "name:zh": "百慕大",
+          "name:pl": "Bermudy",
+          "name:th": "เบอร์มิวดา",
+          "name:ksh": "de Bermudas",
+          "name:to": "Pēmuta",
+          "name:lv": "Bermudu salas",
+          "name:hi": "बरमूडा"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64.76,
+            32.302
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 7124,
+          "labelrank": 0,
+          "source": "naturalearthdata.com",
+          "scalerank": 3,
+          "name": "Hamilton",
+          "kind": "Admin-0 region capital",
+          "population": 52320
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64.784,
+            32.294
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

@@ -1,0 +1,2879 @@
+{
+  "water": {
+    "features": [{
+      "properties": {
+        "id": 309980666,
+        "source": "openstreetmap.org",
+        "sort_key": 200,
+        "kind": "drain"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.25490472,
+            33.59631896
+          ],
+          [
+            -112.25490766,
+            33.5957068
+          ],
+          [
+            -112.25496138,
+            33.59559726
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 230588046,
+          "area": 2129,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25760108,
+              33.5924949
+            ],
+            [
+              -112.25759407,
+              33.59251271
+            ],
+            [
+              -112.25751089,
+              33.59272388
+            ],
+            [
+              -112.25694648,
+              33.59256958
+            ],
+            [
+              -112.25703667,
+              33.59234068
+            ],
+            [
+              -112.25760108,
+              33.5924949
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056536,
+          "area": 1941,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25751323,
+              33.59417509
+            ],
+            [
+              -112.25751314,
+              33.59423615
+            ],
+            [
+              -112.25537649,
+              33.59423428
+            ],
+            [
+              -112.25537658,
+              33.59417322
+            ],
+            [
+              -112.25751323,
+              33.59417509
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056534,
+          "area": 1726,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25645582,
+              33.59384249
+            ],
+            [
+              -112.2564551,
+              33.59395712
+            ],
+            [
+              -112.25544315,
+              33.59395331
+            ],
+            [
+              -112.25544369,
+              33.59383867
+            ],
+            [
+              -112.25645582,
+              33.59384249
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056526,
+          "area": 1725,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25646229,
+              33.59400868
+            ],
+            [
+              -112.25646202,
+              33.59412541
+            ],
+            [
+              -112.2554683,
+              33.59412339
+            ],
+            [
+              -112.25546857,
+              33.59400681
+            ],
+            [
+              -112.25646229,
+              33.59400868
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056538,
+          "area": 1672,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25854548,
+              33.59470936
+            ],
+            [
+              -112.25820655,
+              33.59473016
+            ],
+            [
+              -112.25817726,
+              33.5944004
+            ],
+            [
+              -112.25851628,
+              33.5943796
+            ],
+            [
+              -112.25854548,
+              33.59470936
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588066,
+          "area": 1602,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25571983,
+              33.59223659
+            ],
+            [
+              -112.25567617,
+              33.59232511
+            ],
+            [
+              -112.2554551,
+              33.59225986
+            ],
+            [
+              -112.25545743,
+              33.59198037
+            ],
+            [
+              -112.25541009,
+              33.59197932
+            ],
+            [
+              -112.25541404,
+              33.59186648
+            ],
+            [
+              -112.25565362,
+              33.59187232
+            ],
+            [
+              -112.25565012,
+              33.59197319
+            ],
+            [
+              -112.25571094,
+              33.59197349
+            ],
+            [
+              -112.25571983,
+              33.59223659
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056530,
+          "area": 1527,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25741477,
+              33.5940107
+            ],
+            [
+              -112.25741441,
+              33.59412541
+            ],
+            [
+              -112.25651942,
+              33.59412339
+            ],
+            [
+              -112.25651969,
+              33.59400868
+            ],
+            [
+              -112.25741477,
+              33.5940107
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056532,
+          "area": 1477,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25741252,
+              33.59384428
+            ],
+            [
+              -112.25741208,
+              33.59395518
+            ],
+            [
+              -112.25651708,
+              33.59395331
+            ],
+            [
+              -112.25651744,
+              33.59384241
+            ],
+            [
+              -112.25741252,
+              33.59384428
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588037,
+          "area": 1383,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25641602,
+              33.59220636
+            ],
+            [
+              -112.25630131,
+              33.59246362
+            ],
+            [
+              -112.25598357,
+              33.59236522
+            ],
+            [
+              -112.25609829,
+              33.59210811
+            ],
+            [
+              -112.25641602,
+              33.59220636
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056528,
+          "area": 1209,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25685225,
+              33.59378509
+            ],
+            [
+              -112.25538799,
+              33.59378891
+            ],
+            [
+              -112.25538781,
+              33.59373339
+            ],
+            [
+              -112.25685189,
+              33.59372957
+            ],
+            [
+              -112.25685225,
+              33.59378509
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056527,
+          "area": 1131,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25743211,
+              33.59584516
+            ],
+            [
+              -112.25703496,
+              33.59586042
+            ],
+            [
+              -112.25702436,
+              33.59566939
+            ],
+            [
+              -112.25742151,
+              33.59565413
+            ],
+            [
+              -112.25743211,
+              33.59584516
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056531,
+          "area": 992,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25666791,
+              33.59585279
+            ],
+            [
+              -112.25625711,
+              33.59587187
+            ],
+            [
+              -112.25624624,
+              33.5957101
+            ],
+            [
+              -112.25665704,
+              33.59569101
+            ],
+            [
+              -112.25666791,
+              33.59585279
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 307234100,
+          "area": 731,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25778308,
+              33.59256681
+            ],
+            [
+              -112.25768606,
+              33.59280147
+            ],
+            [
+              -112.25749733,
+              33.59274737
+            ],
+            [
+              -112.25751089,
+              33.59272388
+            ],
+            [
+              -112.25759407,
+              33.59251271
+            ],
+            [
+              -112.25778308,
+              33.59256681
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056535,
+          "area": 575,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25750846,
+              33.59377941
+            ],
+            [
+              -112.2568774,
+              33.59378128
+            ],
+            [
+              -112.25687713,
+              33.59372007
+            ],
+            [
+              -112.2575082,
+              33.5937182
+            ],
+            [
+              -112.25750846,
+              33.59377941
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588047,
+          "area": 398,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25646741,
+              33.59206605
+            ],
+            [
+              -112.25627822,
+              33.59207039
+            ],
+            [
+              -112.25627346,
+              33.59192896
+            ],
+            [
+              -112.25646283,
+              33.5919247
+            ],
+            [
+              -112.25646741,
+              33.59206605
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588015,
+          "area": 324,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25763594,
+              33.59221189
+            ],
+            [
+              -112.25758033,
+              33.59236522
+            ],
+            [
+              -112.25745007,
+              33.59233237
+            ],
+            [
+              -112.25750568,
+              33.59217919
+            ],
+            [
+              -112.25763594,
+              33.59221189
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 309056537,
+          "area": 305,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25757512,
+              33.59373159
+            ],
+            [
+              -112.25757512,
+              33.59422665
+            ],
+            [
+              -112.25753371,
+              33.59422665
+            ],
+            [
+              -112.25753371,
+              33.59373159
+            ],
+            [
+              -112.25757512,
+              33.59373159
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588064,
+          "area": 269,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25784255,
+              33.59227842
+            ],
+            [
+              -112.25781263,
+              33.59235302
+            ],
+            [
+              -112.25779045,
+              33.5924087
+            ],
+            [
+              -112.25769109,
+              33.59238108
+            ],
+            [
+              -112.25771732,
+              33.59232661
+            ],
+            [
+              -112.25766684,
+              33.59231247
+            ],
+            [
+              -112.25769666,
+              33.59223786
+            ],
+            [
+              -112.25784255,
+              33.59227842
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588052,
+          "area": 236,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25698663,
+              33.5920136
+            ],
+            [
+              -112.25683212,
+              33.59202228
+            ],
+            [
+              -112.25682377,
+              33.59191991
+            ],
+            [
+              -112.25697828,
+              33.59191115
+            ],
+            [
+              -112.25698663,
+              33.5920136
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588053,
+          "area": 221,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25826691,
+              33.59198037
+            ],
+            [
+              -112.25825101,
+              33.59211738
+            ],
+            [
+              -112.25814348,
+              33.5921087
+            ],
+            [
+              -112.25815947,
+              33.59197169
+            ],
+            [
+              -112.25826691,
+              33.59198037
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588039,
+          "area": 216,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.257744,
+              33.59187815
+            ],
+            [
+              -112.25773367,
+              33.5919785
+            ],
+            [
+              -112.25759012,
+              33.59196817
+            ],
+            [
+              -112.25760036,
+              33.5918679
+            ],
+            [
+              -112.257744,
+              33.59187815
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588045,
+          "area": 215,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25673672,
+              33.59203126
+            ],
+            [
+              -112.25659784,
+              33.59203417
+            ],
+            [
+              -112.2565947,
+              33.59193001
+            ],
+            [
+              -112.25673358,
+              33.59192709
+            ],
+            [
+              -112.25673672,
+              33.59203126
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588028,
+          "area": 210,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25822164,
+              33.59239582
+            ],
+            [
+              -112.25818624,
+              33.59247065
+            ],
+            [
+              -112.25802302,
+              33.59241715
+            ],
+            [
+              -112.25805841,
+              33.59234232
+            ],
+            [
+              -112.25822164,
+              33.59239582
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588022,
+          "area": 209,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25803344,
+              33.59232968
+            ],
+            [
+              -112.25799868,
+              33.59240997
+            ],
+            [
+              -112.25784417,
+              33.59236372
+            ],
+            [
+              -112.25787893,
+              33.59228336
+            ],
+            [
+              -112.25803344,
+              33.59232968
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588020,
+          "area": 169,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25839968,
+              33.59244618
+            ],
+            [
+              -112.25837058,
+              33.59251346
+            ],
+            [
+              -112.25822128,
+              33.59246871
+            ],
+            [
+              -112.25825038,
+              33.59240129
+            ],
+            [
+              -112.25839968,
+              33.59244618
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588017,
+          "area": 128,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25830608,
+              33.59189828
+            ],
+            [
+              -112.2581257,
+              33.59190449
+            ],
+            [
+              -112.25812327,
+              33.59185668
+            ],
+            [
+              -112.25830383,
+              33.59185062
+            ],
+            [
+              -112.25830608,
+              33.59189828
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 230588061,
+          "area": 128,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.2569905,
+              33.59205191
+            ],
+            [
+              -112.25696974,
+              33.59221818
+            ],
+            [
+              -112.25691836,
+              33.59221369
+            ],
+            [
+              -112.25693929,
+              33.59204749
+            ],
+            [
+              -112.2569905,
+              33.59205191
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 42283898,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25506442,
+            33.59538939
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 42389992,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25520213,
+            33.59267232
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1746313947,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25407385,
+            33.59276309
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1746313948,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25519315,
+            33.59290421
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2390684614,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.2550814,
+            33.59263266
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2390684619,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25508023,
+            33.59287271
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2390684647,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25519126,
+            33.59538228
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3153294521,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25519961,
+            33.59249078
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3153294523,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25508526,
+            33.59245868
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3153315392,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25532358,
+            33.595222
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3153315402,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25483283,
+            33.59564649
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3153315403,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25483014,
+            33.5952226
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3348403484,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25528451,
+            33.59219221
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3460813841,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25530166,
+            33.5946278
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3460813842,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25528594,
+            33.59378532
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3460813843,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25527624,
+            33.59188811
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3460813846,
+          "min_zoom": 18,
+          "kind": "power_pole"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25527516,
+            33.59311949
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 122896555,
+          "area": 221564,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25830078,
+              33.59626799
+            ],
+            [
+              -112.25827375,
+              33.59631896
+            ],
+            [
+              -112.25513035,
+              33.59631896
+            ],
+            [
+              -112.25512739,
+              33.59538699
+            ],
+            [
+              -112.2551388,
+              33.59522372
+            ],
+            [
+              -112.25513017,
+              33.59359989
+            ],
+            [
+              -112.2551308,
+              33.59306891
+            ],
+            [
+              -112.25539697,
+              33.59311171
+            ],
+            [
+              -112.25830078,
+              33.59393098
+            ],
+            [
+              -112.25830078,
+              33.59626799
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 122896553,
+          "area": 122627,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.2551308,
+              33.59306891
+            ],
+            [
+              -112.25513017,
+              33.59359989
+            ],
+            [
+              -112.25512739,
+              33.59538699
+            ],
+            [
+              -112.25506433,
+              33.59538939
+            ],
+            [
+              -112.25493713,
+              33.59538969
+            ],
+            [
+              -112.25478513,
+              33.59539006
+            ],
+            [
+              -112.25280762,
+              33.5953951
+            ],
+            [
+              -112.25280762,
+              33.59236929
+            ],
+            [
+              -112.254955,
+              33.5930098
+            ],
+            [
+              -112.2551308,
+              33.59306891
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.25280762,
+            33.59174327
+          ],
+          [
+            -112.25830078,
+            33.59174327
+          ],
+          [
+            -112.25830078,
+            33.59631896
+          ],
+          [
+            -112.25280762,
+            33.59631896
+          ],
+          [
+            -112.25280762,
+            33.59174327
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 122896548,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 360,
+          "name": "92nd Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25789092,
+              33.59631896
+            ],
+            [
+              -112.25782494,
+              33.59526069
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971346,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 377,
+          "name": "W Cactus Rd.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25512739,
+              33.595387
+            ],
+            [
+              -112.25512748,
+              33.59538699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971346,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Cactus Rd.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25506442,
+              33.59538939
+            ],
+            [
+              -112.25512739,
+              33.595387
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577791,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 443,
+          "name": "Phoenix Subdivision",
+          "is_bridge": "yes",
+          "operator": "BNSF",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25676493,
+              33.59336336
+            ],
+            [
+              -112.25688144,
+              33.59339397
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971344,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25519467,
+              33.59340676
+            ],
+            [
+              -112.25519368,
+              33.59307902
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971344,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25519368,
+              33.59307902
+            ],
+            [
+              -112.25519315,
+              33.59290421
+            ],
+            [
+              -112.25520213,
+              33.59267232
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971316,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25519961,
+              33.59249078
+            ],
+            [
+              -112.25508526,
+              33.59245868
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577792,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Phoenix Subdivision",
+          "operator": "BNSF",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25688144,
+              33.59339397
+            ],
+            [
+              -112.25830078,
+              33.59379894
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971345,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25508274,
+              33.59196062
+            ],
+            [
+              -112.25508203,
+              33.59233439
+            ],
+            [
+              -112.25508526,
+              33.59245868
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5625870,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mobile Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25740497,
+              33.59174327
+            ],
+            [
+              -112.25743301,
+              33.59197498
+            ],
+            [
+              -112.25749499,
+              33.59200035
+            ],
+            [
+              -112.25830078,
+              33.59222965
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 162813542,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 380,
+          "name": "Phoenix Subdivision",
+          "operator": "BNSF",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2540413,
+              33.59273726
+            ],
+            [
+              -112.25407385,
+              33.59276309
+            ],
+            [
+              -112.2541379,
+              33.5928656
+            ],
+            [
+              -112.25419961,
+              33.59295951
+            ],
+            [
+              -112.25426132,
+              33.59308238
+            ],
+            [
+              -112.25428809,
+              33.5931807
+            ],
+            [
+              -112.25431226,
+              33.59326997
+            ],
+            [
+              -112.2543234,
+              33.59339307
+            ],
+            [
+              -112.25432843,
+              33.59352469
+            ],
+            [
+              -112.25433112,
+              33.59375486
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 162813542,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Phoenix Subdivision",
+          "operator": "BNSF",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25355381,
+              33.59242366
+            ],
+            [
+              -112.25372314,
+              33.5925145
+            ],
+            [
+              -112.25384289,
+              33.5925835
+            ],
+            [
+              -112.25395293,
+              33.59266386
+            ],
+            [
+              -112.25403603,
+              33.59273308
+            ],
+            [
+              -112.2540413,
+              33.59273726
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 23811335,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 360,
+          "name": "W Cactus Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25512739,
+              33.59538699
+            ],
+            [
+              -112.25519126,
+              33.59538228
+            ],
+            [
+              -112.25529924,
+              33.59537959
+            ],
+            [
+              -112.25782494,
+              33.59526069
+            ],
+            [
+              -112.25830078,
+              33.59523877
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309980665,
+          "is_link": "yes",
+          "highway": "motorway_link",
+          "source": "openstreetmap.org",
+          "sort_key": 375,
+          "oneway": "yes",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25506442,
+              33.59538939
+            ],
+            [
+              -112.25506397,
+              33.59607802
+            ],
+            [
+              -112.2550612,
+              33.59631896
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309980664,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513026,
+              33.59359989
+            ],
+            [
+              -112.25513547,
+              33.59458058
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971328,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2574119,
+              33.59312526
+            ],
+            [
+              -112.25676978,
+              33.59293482
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971318,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25421919,
+              33.59237749
+            ],
+            [
+              -112.25444719,
+              33.59244499
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309980667,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25520213,
+              33.59267232
+            ],
+            [
+              -112.25519961,
+              33.59249078
+            ],
+            [
+              -112.25519908,
+              33.59239919
+            ],
+            [
+              -112.25520132,
+              33.5922749
+            ],
+            [
+              -112.25519809,
+              33.59195388
+            ],
+            [
+              -112.25513242,
+              33.5917686
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971343,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513026,
+              33.59359989
+            ],
+            [
+              -112.25519476,
+              33.59344896
+            ],
+            [
+              -112.25519467,
+              33.59340676
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 431444360,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25660718,
+              33.5928888
+            ],
+            [
+              -112.25532125,
+              33.59252498
+            ],
+            [
+              -112.25519961,
+              33.59249078
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 317070604,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25676969,
+              33.59293482
+            ],
+            [
+              -112.25683329,
+              33.59274932
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5592261,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Scotland Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513242,
+              33.5917686
+            ],
+            [
+              -112.25582186,
+              33.59174327
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 329017518,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25520213,
+              33.59267232
+            ],
+            [
+              -112.25533526,
+              33.59271056
+            ],
+            [
+              -112.25630894,
+              33.59299079
+            ],
+            [
+              -112.25680984,
+              33.59313977
+            ],
+            [
+              -112.25732997,
+              33.59328457
+            ],
+            [
+              -112.25754,
+              33.59334218
+            ],
+            [
+              -112.2579216,
+              33.59343377
+            ],
+            [
+              -112.25829692,
+              33.59351392
+            ],
+            [
+              -112.25830078,
+              33.59351474
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309978927,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Grand Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25520132,
+              33.5922749
+            ],
+            [
+              -112.25683329,
+              33.59274932
+            ],
+            [
+              -112.25830078,
+              33.59316791
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 347794413,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Phoenix Subdivision",
+          "operator": "BNSF",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25280762,
+              33.59220644
+            ],
+            [
+              -112.25355381,
+              33.59242366
+            ],
+            [
+              -112.25508023,
+              33.59287271
+            ],
+            [
+              -112.25519315,
+              33.59290421
+            ],
+            [
+              -112.25676493,
+              33.59336336
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577793,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25649294,
+              33.59174327
+            ],
+            [
+              -112.25651951,
+              33.59204308
+            ],
+            [
+              -112.25653352,
+              33.59209172
+            ],
+            [
+              -112.25659649,
+              33.59213258
+            ],
+            [
+              -112.25708922,
+              33.59226682
+            ],
+            [
+              -112.25830078,
+              33.59261663
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230586870,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "N 91st Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513242,
+              33.5917686
+            ],
+            [
+              -112.25513244,
+              33.59174327
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971326,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2550814,
+              33.59263266
+            ],
+            [
+              -112.25520213,
+              33.59267232
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437370721,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Cactus Rd.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25280762,
+              33.59539511
+            ],
+            [
+              -112.25385008,
+              33.59539246
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 350496633,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25512761,
+              33.59524862
+            ],
+            [
+              -112.25506433,
+              33.59538939
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 350496633,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2551388,
+              33.59522372
+            ],
+            [
+              -112.25512761,
+              33.59524862
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309981780,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25280762,
+              33.59199737
+            ],
+            [
+              -112.25303773,
+              33.59205969
+            ],
+            [
+              -112.25329168,
+              33.59211985
+            ],
+            [
+              -112.25421919,
+              33.59237749
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 329017520,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25508526,
+              33.59245868
+            ],
+            [
+              -112.25495303,
+              33.5924197
+            ],
+            [
+              -112.25456352,
+              33.59230506
+            ],
+            [
+              -112.25391682,
+              33.59213302
+            ],
+            [
+              -112.2528852,
+              33.59187471
+            ],
+            [
+              -112.25280762,
+              33.59185406
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971325,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25676978,
+              33.59293482
+            ],
+            [
+              -112.25660718,
+              33.5928888
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 350496634,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25519126,
+              33.59538228
+            ],
+            [
+              -112.2551388,
+              33.59522372
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577790,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25508009,
+              33.59305186
+            ],
+            [
+              -112.25507978,
+              33.59344649
+            ],
+            [
+              -112.25513018,
+              33.59359962
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577790,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513018,
+              33.59359962
+            ],
+            [
+              -112.25513026,
+              33.59359989
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577790,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25508526,
+              33.59245868
+            ],
+            [
+              -112.2550814,
+              33.59263266
+            ],
+            [
+              -112.25508023,
+              33.59287271
+            ],
+            [
+              -112.25508009,
+              33.59305186
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 230577796,
+          "is_link": "yes",
+          "highway": "motorway_link",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 375,
+          "oneway": "yes",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25519983,
+              33.59631896
+            ],
+            [
+              -112.25519126,
+              33.59538228
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971340,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513547,
+              33.59458058
+            ],
+            [
+              -112.25513601,
+              33.59467951
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971341,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513242,
+              33.5917686
+            ],
+            [
+              -112.25508274,
+              33.59196062
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971342,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 379,
+          "name": "N 91st Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25513601,
+              33.59467951
+            ],
+            [
+              -112.25513889,
+              33.59522372
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436971347,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Cactus Rd.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25385008,
+              33.59539246
+            ],
+            [
+              -112.25478522,
+              33.59539006
+            ],
+            [
+              -112.25493722,
+              33.59538969
+            ],
+            [
+              -112.25506442,
+              33.59538939
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 309978930,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25830078,
+              33.59334256
+            ],
+            [
+              -112.25814214,
+              33.59331106
+            ],
+            [
+              -112.2578818,
+              33.59325538
+            ],
+            [
+              -112.25771876,
+              33.5932164
+            ],
+            [
+              -112.2574119,
+              33.59312526
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 329017517,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "name": "Grand Ave.",
+          "sort_key": 379,
+          "oneway": "yes",
+          "network": "US:US",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25444719,
+              33.59244499
+            ],
+            [
+              -112.25495833,
+              33.59259629
+            ],
+            [
+              -112.2550814,
+              33.59263266
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

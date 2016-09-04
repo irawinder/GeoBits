@@ -1,0 +1,1964 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [{
+      "properties": {
+        "id": 389788552,
+        "area": 1892,
+        "source": "openstreetmap.org",
+        "landuse_kind": "retail",
+        "sort_key": 475,
+        "min_zoom": 13,
+        "kind": "building"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.23892367,
+            33.5970268
+          ],
+          [
+            -112.23892178,
+            33.59712827
+          ],
+          [
+            -112.23828128,
+            33.59711981
+          ],
+          [
+            -112.23828488,
+            33.59693095
+          ],
+          [
+            -112.23826655,
+            33.59691307
+          ],
+          [
+            -112.23833437,
+            33.59686466
+          ],
+          [
+            -112.23850613,
+            33.5968794
+          ],
+          [
+            -112.23892367,
+            33.5970268
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [{
+      "properties": {
+        "id": 3928042256,
+        "name": "Safeway",
+        "min_zoom": 17,
+        "kind": "supermarket"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.23968652,
+          33.59665979
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 414610817,
+          "area": 465249,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Cobblestone Place",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23966238,
+              33.60089441
+            ],
+            [
+              -112.23965984,
+              33.6006131
+            ],
+            [
+              -112.23835944,
+              33.60061557
+            ],
+            [
+              -112.237714,
+              33.60061677
+            ],
+            [
+              -112.23773071,
+              33.5998333
+            ],
+            [
+              -112.23774301,
+              33.59910639
+            ],
+            [
+              -112.23774697,
+              33.59864017
+            ],
+            [
+              -112.23839717,
+              33.5986499
+            ],
+            [
+              -112.2389004,
+              33.5986285
+            ],
+            [
+              -112.23926736,
+              33.59856819
+            ],
+            [
+              -112.23973458,
+              33.59847391
+            ],
+            [
+              -112.24007738,
+              33.59839168
+            ],
+            [
+              -112.24036007,
+              33.59838225
+            ],
+            [
+              -112.24064978,
+              33.59838046
+            ],
+            [
+              -112.24125749,
+              33.59842827
+            ],
+            [
+              -112.24167063,
+              33.59843276
+            ],
+            [
+              -112.24155223,
+              33.59808281
+            ],
+            [
+              -112.24149833,
+              33.59785968
+            ],
+            [
+              -112.24147479,
+              33.5976388
+            ],
+            [
+              -112.24149249,
+              33.5974777
+            ],
+            [
+              -112.24152312,
+              33.59730575
+            ],
+            [
+              -112.24157415,
+              33.59702508
+            ],
+            [
+              -112.24159867,
+              33.59683405
+            ],
+            [
+              -112.24159714,
+              33.59638952
+            ],
+            [
+              -112.24159822,
+              33.59631896
+            ],
+            [
+              -112.24182129,
+              33.59631896
+            ],
+            [
+              -112.24182129,
+              33.60089441
+            ],
+            [
+              -112.23966238,
+              33.60089441
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 389829835,
+          "area": 100091,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23778308,
+              33.5968128
+            ],
+            [
+              -112.23777122,
+              33.59730179
+            ],
+            [
+              -112.2377687,
+              33.59744141
+            ],
+            [
+              -112.23775784,
+              33.5980436
+            ],
+            [
+              -112.23632812,
+              33.59806697
+            ],
+            [
+              -112.23632812,
+              33.59687065
+            ],
+            [
+              -112.23666027,
+              33.5968672
+            ],
+            [
+              -112.23684622,
+              33.5968366
+            ],
+            [
+              -112.23707682,
+              33.5968128
+            ],
+            [
+              -112.23778308,
+              33.5968128
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 372855676,
+          "area": 94195,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Cactus Point Crossing",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.24167063,
+              33.59843276
+            ],
+            [
+              -112.24125749,
+              33.59842827
+            ],
+            [
+              -112.24064978,
+              33.59838046
+            ],
+            [
+              -112.24036007,
+              33.59838225
+            ],
+            [
+              -112.24007738,
+              33.59839168
+            ],
+            [
+              -112.23973458,
+              33.59847391
+            ],
+            [
+              -112.23926736,
+              33.59856819
+            ],
+            [
+              -112.2389004,
+              33.5986285
+            ],
+            [
+              -112.23839717,
+              33.5986499
+            ],
+            [
+              -112.23774697,
+              33.59864017
+            ],
+            [
+              -112.23775784,
+              33.5980436
+            ],
+            [
+              -112.2377687,
+              33.59744141
+            ],
+            [
+              -112.24043769,
+              33.59743295
+            ],
+            [
+              -112.240433,
+              33.59631896
+            ],
+            [
+              -112.24159822,
+              33.59631896
+            ],
+            [
+              -112.24159714,
+              33.59638952
+            ],
+            [
+              -112.24159867,
+              33.59683405
+            ],
+            [
+              -112.24157415,
+              33.59702508
+            ],
+            [
+              -112.24152312,
+              33.59730575
+            ],
+            [
+              -112.24149249,
+              33.5974777
+            ],
+            [
+              -112.24147479,
+              33.5976388
+            ],
+            [
+              -112.24149833,
+              33.59785968
+            ],
+            [
+              -112.24155223,
+              33.59808281
+            ],
+            [
+              -112.24167063,
+              33.59843276
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 372855676,
+          "area": 94195,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 20,
+          "name": "Cactus Point Crossing",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.2409926,
+            33.59716542
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122836590,
+          "area": 77664,
+          "source": "openstreetmap.org",
+          "sort_key": 42,
+          "min_zoom": 9.13352,
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.24043769,
+              33.59743295
+            ],
+            [
+              -112.2377687,
+              33.59744141
+            ],
+            [
+              -112.23777122,
+              33.59730179
+            ],
+            [
+              -112.23778308,
+              33.5968128
+            ],
+            [
+              -112.23778371,
+              33.59677928
+            ],
+            [
+              -112.2377833,
+              33.59631896
+            ],
+            [
+              -112.240433,
+              33.59631896
+            ],
+            [
+              -112.24043769,
+              33.59743295
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 303956090,
+          "area": 51015,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "name": "Windrose Park",
+          "min_zoom": 9.43669,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23770792,
+              33.60089441
+            ],
+            [
+              -112.23771283,
+              33.60069316
+            ],
+            [
+              -112.237714,
+              33.60061677
+            ],
+            [
+              -112.23835944,
+              33.60061557
+            ],
+            [
+              -112.23965984,
+              33.6006131
+            ],
+            [
+              -112.23966238,
+              33.60089441
+            ],
+            [
+              -112.23770792,
+              33.60089441
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 121988047,
+          "religion": "christian",
+          "area": 41622,
+          "source": "openstreetmap.org",
+          "sort_key": 73,
+          "min_zoom": 9.58346,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23771283,
+              33.60069316
+            ],
+            [
+              -112.23770792,
+              33.60089441
+            ],
+            [
+              -112.23646819,
+              33.60089441
+            ],
+            [
+              -112.23646148,
+              33.60070872
+            ],
+            [
+              -112.23771283,
+              33.60069316
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 121988044,
+          "area": 25441,
+          "source": "openstreetmap.org",
+          "sort_key": 41,
+          "min_zoom": 9.93856,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23778362,
+              33.59677928
+            ],
+            [
+              -112.23778299,
+              33.5968128
+            ],
+            [
+              -112.23707682,
+              33.5968128
+            ],
+            [
+              -112.23684622,
+              33.5968366
+            ],
+            [
+              -112.23666027,
+              33.5968672
+            ],
+            [
+              -112.23632812,
+              33.59687065
+            ],
+            [
+              -112.23632812,
+              33.59631896
+            ],
+            [
+              -112.23778321,
+              33.59631896
+            ],
+            [
+              -112.23778362,
+              33.59677928
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 122836583,
+          "area": 1836,
+          "source": "openstreetmap.org",
+          "sort_key": 95,
+          "sport": "tennis",
+          "min_zoom": 11.8348,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.23904648,
+              33.60089441
+            ],
+            [
+              -112.23904539,
+              33.60076349
+            ],
+            [
+              -112.23942762,
+              33.60076117
+            ],
+            [
+              -112.23942874,
+              33.60089441
+            ],
+            [
+              -112.23904648,
+              33.60089441
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.23632812,
+            33.59631896
+          ],
+          [
+            -112.24182129,
+            33.59631896
+          ],
+          [
+            -112.24182129,
+            33.60089441
+          ],
+          [
+            -112.23632812,
+            33.60089441
+          ],
+          [
+            -112.23632812,
+            33.59631896
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 121986558,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Charter Oak Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23632812,
+              33.59687065
+            ],
+            [
+              -112.23666027,
+              33.5968672
+            ],
+            [
+              -112.23684622,
+              33.5968366
+            ],
+            [
+              -112.23707682,
+              33.5968128
+            ],
+            [
+              -112.23778299,
+              33.5968128
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5664851,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Windrose Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.237714,
+              33.60061677
+            ],
+            [
+              -112.23835935,
+              33.60061557
+            ],
+            [
+              -112.23965975,
+              33.6006131
+            ],
+            [
+              -112.24163308,
+              33.60059492
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5664851,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Windrose Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23771391,
+              33.60061677
+            ],
+            [
+              -112.237714,
+              33.60061677
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5654898,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 83rd Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23937247,
+              33.59916416
+            ],
+            [
+              -112.23934839,
+              33.5988389
+            ],
+            [
+              -112.23926736,
+              33.59856819
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5630998,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 84th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2405242,
+              33.59685635
+            ],
+            [
+              -112.24053013,
+              33.59761455
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823301,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Larkspur Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23774301,
+              33.59910639
+            ],
+            [
+              -112.23711967,
+              33.59912286
+            ],
+            [
+              -112.23632812,
+              33.59913953
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823031,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 358,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23945001,
+              33.59631896
+            ],
+            [
+              -112.23910639,
+              33.59700585
+            ],
+            [
+              -112.23895601,
+              33.5973065
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823032,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 358,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23910639,
+              33.59700585
+            ],
+            [
+              -112.23856201,
+              33.59679051
+            ],
+            [
+              -112.2384896,
+              33.59677936
+            ],
+            [
+              -112.23778371,
+              33.59677928
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823032,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23778371,
+              33.59677928
+            ],
+            [
+              -112.23778362,
+              33.59677928
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823033,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 358,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23895601,
+              33.5973065
+            ],
+            [
+              -112.23777122,
+              33.59730179
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281823033,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23777122,
+              33.59730179
+            ],
+            [
+              -112.23777113,
+              33.59730179
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 121986550,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "N 82nd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23707673,
+              33.59681281
+            ],
+            [
+              -112.23707673,
+              33.5968128
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 121986550,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 82nd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23705751,
+              33.59763281
+            ],
+            [
+              -112.23707673,
+              33.59681281
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 121986556,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Bloomfield Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23705751,
+              33.59763281
+            ],
+            [
+              -112.23632812,
+              33.59764954
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663717,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Corrine Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24182129,
+              33.60013834
+            ],
+            [
+              -112.24179289,
+              33.60015436
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5635159,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 84th Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24179289,
+              33.60015436
+            ],
+            [
+              -112.2416824,
+              33.6002571
+            ],
+            [
+              -112.24163838,
+              33.60042687
+            ],
+            [
+              -112.24163308,
+              33.60059492
+            ],
+            [
+              -112.24163169,
+              33.60089441
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676031,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Columbine Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24167063,
+              33.59843276
+            ],
+            [
+              -112.24125749,
+              33.59842827
+            ],
+            [
+              -112.24064978,
+              33.59838046
+            ],
+            [
+              -112.24036007,
+              33.59838225
+            ],
+            [
+              -112.24007738,
+              33.59839168
+            ],
+            [
+              -112.23973458,
+              33.59847391
+            ],
+            [
+              -112.23926736,
+              33.59856819
+            ],
+            [
+              -112.2389004,
+              33.5986285
+            ],
+            [
+              -112.23839717,
+              33.5986499
+            ],
+            [
+              -112.23774697,
+              33.59864017
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676031,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Columbine Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24182129,
+              33.59840897
+            ],
+            [
+              -112.24167063,
+              33.59843276
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5654905,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 360,
+          "name": "N 83rd Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23965984,
+              33.6006131
+            ],
+            [
+              -112.23966238,
+              33.60089441
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676858,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Bloomfield Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24147479,
+              33.5976388
+            ],
+            [
+              -112.24113694,
+              33.59764635
+            ],
+            [
+              -112.24053013,
+              33.59761455
+            ],
+            [
+              -112.2400763,
+              33.59762712
+            ],
+            [
+              -112.2395833,
+              33.59771025
+            ],
+            [
+              -112.2392511,
+              33.59780206
+            ],
+            [
+              -112.23840462,
+              33.59781778
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676858,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Bloomfield Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24182129,
+              33.59761412
+            ],
+            [
+              -112.24147479,
+              33.5976388
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663725,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Corrine Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23632812,
+              33.59987244
+            ],
+            [
+              -112.2369904,
+              33.59986241
+            ],
+            [
+              -112.23773071,
+              33.5998333
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5684524,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 82nd Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2369904,
+              33.59986241
+            ],
+            [
+              -112.23700011,
+              33.60028919
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122831954,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Corrine Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24179289,
+              33.60015436
+            ],
+            [
+              -112.24163955,
+              33.6000033
+            ],
+            [
+              -112.24150659,
+              33.59990999
+            ],
+            [
+              -112.24129738,
+              33.5998743
+            ],
+            [
+              -112.24095117,
+              33.59987236
+            ],
+            [
+              -112.2383624,
+              33.59991261
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5590135,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 85th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24159822,
+              33.59631896
+            ],
+            [
+              -112.24159714,
+              33.59638952
+            ],
+            [
+              -112.24159867,
+              33.59683405
+            ],
+            [
+              -112.24157415,
+              33.59702508
+            ],
+            [
+              -112.24152312,
+              33.59730575
+            ],
+            [
+              -112.24149249,
+              33.5974777
+            ],
+            [
+              -112.24147479,
+              33.5976388
+            ],
+            [
+              -112.24149833,
+              33.59785968
+            ],
+            [
+              -112.24155223,
+              33.59808281
+            ],
+            [
+              -112.24167063,
+              33.59843276
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5590135,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 85th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24167063,
+              33.59843276
+            ],
+            [
+              -112.24174168,
+              33.59871567
+            ],
+            [
+              -112.24182129,
+              33.59895692
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5645428,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 83rd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23835935,
+              33.60061557
+            ],
+            [
+              -112.2383624,
+              33.59991261
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676090,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Columbine Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23709461,
+              33.59841076
+            ],
+            [
+              -112.23632812,
+              33.5984237
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "place_of_worship",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23771283,
+              33.60069316
+            ],
+            [
+              -112.23770792,
+              33.60089441
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23777122,
+              33.59730179
+            ],
+            [
+              -112.2377687,
+              33.59744141
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.237714,
+              33.60061677
+            ],
+            [
+              -112.23771283,
+              33.60069316
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.23777868,
+                33.59699388
+              ],
+              [
+                -112.23777122,
+                33.59730179
+              ]
+            ],
+            [
+              [
+                -112.2377687,
+                33.59744141
+              ],
+              [
+                -112.23775784,
+                33.5980436
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23775784,
+              33.5980436
+            ],
+            [
+              -112.23774697,
+              33.59864017
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320655,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23774697,
+              33.59864017
+            ],
+            [
+              -112.23774301,
+              33.59910639
+            ],
+            [
+              -112.23773071,
+              33.5998333
+            ],
+            [
+              -112.237714,
+              33.60061677
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320660,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2377833,
+              33.59631896
+            ],
+            [
+              -112.23778371,
+              33.59677928
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5684521,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 82nd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23709461,
+              33.59841076
+            ],
+            [
+              -112.23711967,
+              33.59912286
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5645403,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 83rd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23839717,
+              33.5986499
+            ],
+            [
+              -112.23840462,
+              33.59781778
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5645403,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 83rd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23841199,
+              33.59909158
+            ],
+            [
+              -112.23842034,
+              33.59871409
+            ],
+            [
+              -112.23839717,
+              33.5986499
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5670852,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Larkspur Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24182129,
+              33.59907655
+            ],
+            [
+              -112.24165338,
+              33.59914276
+            ],
+            [
+              -112.24141883,
+              33.5991581
+            ],
+            [
+              -112.24034292,
+              33.59916872
+            ],
+            [
+              -112.23988181,
+              33.59917665
+            ],
+            [
+              -112.23937247,
+              33.59916416
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672786,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Charter Oak Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24159867,
+              33.59683405
+            ],
+            [
+              -112.2405242,
+              33.59685635
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672786,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Charter Oak Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24182129,
+              33.59683171
+            ],
+            [
+              -112.24159867,
+              33.59683405
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320663,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23778371,
+              33.59677928
+            ],
+            [
+              -112.23778308,
+              33.5968128
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437320663,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "N 83rd Ave.",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23778308,
+              33.5968128
+            ],
+            [
+              -112.23777868,
+              33.59699388
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

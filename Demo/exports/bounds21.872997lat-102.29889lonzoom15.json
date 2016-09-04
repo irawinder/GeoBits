@@ -1,0 +1,7851 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 420317056,
+          "area": 96,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Fuente a Manuel M. Ponce",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295983,
+              21.880785
+            ],
+            [
+              -102.295905,
+              21.880805
+            ],
+            [
+              -102.295845,
+              21.880762
+            ],
+            [
+              -102.295847,
+              21.88062
+            ],
+            [
+              -102.295917,
+              21.880608
+            ],
+            [
+              -102.295867,
+              21.880748
+            ],
+            [
+              -102.295983,
+              21.880785
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317056,
+          "area": 96,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Fuente a Manuel M. Ponce",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295838,
+            21.880712
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317056,
+          "area": 96,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295983,
+              21.880786
+            ],
+            [
+              -102.295906,
+              21.880805
+            ],
+            [
+              -102.295845,
+              21.880762
+            ],
+            [
+              -102.295847,
+              21.88062
+            ],
+            [
+              -102.295918,
+              21.880608
+            ],
+            [
+              -102.295867,
+              21.880748
+            ],
+            [
+              -102.295983,
+              21.880786
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 113484994,
+          "area": 11513,
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304029,
+              21.878987
+            ],
+            [
+              -102.303231,
+              21.879115
+            ],
+            [
+              -102.303054,
+              21.878154
+            ],
+            [
+              -102.303802,
+              21.877834
+            ],
+            [
+              -102.304029,
+              21.878987
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 131485539,
+          "area": 9815,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.298241,
+              21.877465
+            ],
+            [
+              -102.298119,
+              21.877513
+            ],
+            [
+              -102.298206,
+              21.877787
+            ],
+            [
+              -102.297929,
+              21.877836
+            ],
+            [
+              -102.297758,
+              21.877647
+            ],
+            [
+              -102.297537,
+              21.877126
+            ],
+            [
+              -102.297459,
+              21.877158
+            ],
+            [
+              -102.297316,
+              21.876543
+            ],
+            [
+              -102.297669,
+              21.876397
+            ],
+            [
+              -102.297688,
+              21.876455
+            ],
+            [
+              -102.297814,
+              21.876402
+            ],
+            [
+              -102.298241,
+              21.877465
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317019,
+          "height": 8,
+          "addr_street": "Plaza Principal",
+          "area": 4115,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Palacio del Gobierno de Aguascalientes",
+          "volume": 32920,
+          "min_zoom": 13,
+          "addr_housenumber": "sn",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296301,
+              21.880039
+            ],
+            [
+              -102.295885,
+              21.88019
+            ],
+            [
+              -102.295606,
+              21.879558
+            ],
+            [
+              -102.296086,
+              21.879414
+            ],
+            [
+              -102.296301,
+              21.880039
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317019,
+          "height": 8,
+          "addr_street": "Plaza Principal",
+          "area": 4115,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Palacio del Gobierno de Aguascalientes",
+          "volume": 32920,
+          "min_zoom": 13,
+          "addr_housenumber": "sn",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295955,
+            21.879754
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317025,
+          "height": 8,
+          "addr_street": "Plaza Principal",
+          "area": 4068,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Palacio Municipal",
+          "volume": 32544,
+          "min_zoom": 13,
+          "addr_housenumber": "sn",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295885,
+              21.88019
+            ],
+            [
+              -102.295448,
+              21.880345
+            ],
+            [
+              -102.295225,
+              21.87968
+            ],
+            [
+              -102.295606,
+              21.879558
+            ],
+            [
+              -102.295885,
+              21.88019
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317025,
+          "height": 8,
+          "addr_street": "Plaza Principal",
+          "area": 4068,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Palacio Municipal",
+          "volume": 32544,
+          "min_zoom": 13,
+          "addr_housenumber": "sn",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295571,
+            21.879951
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 418583779,
+          "area": 3309,
+          "source": "openstreetmap.org",
+          "landuse_kind": "place_of_worship",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.297531,
+              21.880595
+            ],
+            [
+              -102.296722,
+              21.880919
+            ],
+            [
+              -102.296629,
+              21.880617
+            ],
+            [
+              -102.297446,
+              21.880352
+            ],
+            [
+              -102.297531,
+              21.880595
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317078,
+          "addr_street": "José María Chavez",
+          "area": 2313,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "120",
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295997,
+              21.879093
+            ],
+            [
+              -102.295983,
+              21.879132
+            ],
+            [
+              -102.295182,
+              21.879406
+            ],
+            [
+              -102.295143,
+              21.879289
+            ],
+            [
+              -102.295573,
+              21.879142
+            ],
+            [
+              -102.295505,
+              21.878979
+            ],
+            [
+              -102.295908,
+              21.878855
+            ],
+            [
+              -102.295997,
+              21.879093
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845533,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 1884,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Desarrollo Urbano",
+          "volume": 15072,
+          "min_zoom": 13,
+          "addr_housenumber": "103",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295174,
+              21.879602
+            ],
+            [
+              -102.294729,
+              21.879889
+            ],
+            [
+              -102.294569,
+              21.879589
+            ],
+            [
+              -102.295125,
+              21.879434
+            ],
+            [
+              -102.295174,
+              21.879602
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845533,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 1884,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Desarrollo Urbano",
+          "volume": 15072,
+          "min_zoom": 13,
+          "addr_housenumber": "103",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294846,
+            21.879668
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845537,
+          "addr_street": "Calle Francisco G. Hornedo",
+          "area": 1440,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294656,
+              21.879556
+            ],
+            [
+              -102.294359,
+              21.879715
+            ],
+            [
+              -102.294207,
+              21.879425
+            ],
+            [
+              -102.294547,
+              21.879296
+            ],
+            [
+              -102.294656,
+              21.879556
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845532,
+          "height": 8,
+          "addr_street": "Calle Cristobal Colon",
+          "area": 1059,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Planeación y Proyectos",
+          "volume": 8472,
+          "min_zoom": 14,
+          "addr_housenumber": "130",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295125,
+              21.879434
+            ],
+            [
+              -102.294671,
+              21.879593
+            ],
+            [
+              -102.294605,
+              21.879435
+            ],
+            [
+              -102.295083,
+              21.879286
+            ],
+            [
+              -102.295125,
+              21.879434
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845532,
+          "height": 8,
+          "addr_street": "Calle Cristobal Colon",
+          "area": 1059,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Planeación y Proyectos",
+          "volume": 8472,
+          "min_zoom": 14,
+          "addr_housenumber": "130",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.29479,
+            21.879495
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 418583781,
+          "height": 8,
+          "area": 1047,
+          "source": "openstreetmap.org",
+          "landuse_kind": "place_of_worship",
+          "sort_key": 475,
+          "volume": 8376,
+          "min_zoom": 14,
+          "kind": "church"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.297391,
+              21.880593
+            ],
+            [
+              -102.297229,
+              21.880716
+            ],
+            [
+              -102.297198,
+              21.880649
+            ],
+            [
+              -102.29685,
+              21.880766
+            ],
+            [
+              -102.296816,
+              21.880672
+            ],
+            [
+              -102.297159,
+              21.880552
+            ],
+            [
+              -102.297122,
+              21.880457
+            ],
+            [
+              -102.297228,
+              21.880423
+            ],
+            [
+              -102.297391,
+              21.880593
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845528,
+          "height": 14,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 971,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Edificio Administrativo",
+          "volume": 13594,
+          "min_zoom": 14,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.29488,
+              21.88064
+            ],
+            [
+              -102.294701,
+              21.880708
+            ],
+            [
+              -102.294567,
+              21.880359
+            ],
+            [
+              -102.294754,
+              21.880291
+            ],
+            [
+              -102.29488,
+              21.88064
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845528,
+          "height": 14,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 971,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Edificio Administrativo",
+          "volume": 13594,
+          "min_zoom": 14,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294725,
+            21.880499
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317102,
+          "height": 11,
+          "addr_street": "Benito Juarez",
+          "area": 954,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Poder Legislativo",
+          "volume": 10494,
+          "min_zoom": 14,
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295584,
+              21.880864
+            ],
+            [
+              -102.295155,
+              21.88097
+            ],
+            [
+              -102.295111,
+              21.880824
+            ],
+            [
+              -102.295543,
+              21.8807
+            ],
+            [
+              -102.295584,
+              21.880864
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317102,
+          "height": 11,
+          "addr_street": "Benito Juarez",
+          "area": 954,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Poder Legislativo",
+          "volume": 10494,
+          "min_zoom": 14,
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295348,
+            21.880844
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845530,
+          "height": 14,
+          "addr_street": "Calle Cristobal Colon",
+          "area": 842,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Gestión Urbanística y Ordenamiento Territorial",
+          "volume": 11788,
+          "min_zoom": 14,
+          "addr_housenumber": "110",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295365,
+              21.88023
+            ],
+            [
+              -102.295139,
+              21.880295
+            ],
+            [
+              -102.295037,
+              21.880074
+            ],
+            [
+              -102.295289,
+              21.879981
+            ],
+            [
+              -102.295365,
+              21.88023
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845530,
+          "height": 14,
+          "addr_street": "Calle Cristobal Colon",
+          "area": 842,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Gestión Urbanística y Ordenamiento Territorial",
+          "volume": 11788,
+          "min_zoom": 14,
+          "addr_housenumber": "110",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295207,
+            21.880152
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845534,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 726,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "IMPLAN",
+          "volume": 5808,
+          "min_zoom": 14,
+          "addr_housenumber": "103-A",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294729,
+              21.879889
+            ],
+            [
+              -102.294593,
+              21.879956
+            ],
+            [
+              -102.294501,
+              21.879766
+            ],
+            [
+              -102.294424,
+              21.879791
+            ],
+            [
+              -102.294384,
+              21.879706
+            ],
+            [
+              -102.294569,
+              21.879589
+            ],
+            [
+              -102.294729,
+              21.879889
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845534,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 726,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "IMPLAN",
+          "volume": 5808,
+          "min_zoom": 14,
+          "addr_housenumber": "103-A",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294584,
+            21.879778
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317105,
+          "height": 11,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 719,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "volume": 7909,
+          "min_zoom": 14,
+          "addr_housenumber": "110",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294827,
+              21.881032
+            ],
+            [
+              -102.294676,
+              21.881083
+            ],
+            [
+              -102.294558,
+              21.880763
+            ],
+            [
+              -102.294701,
+              21.880708
+            ],
+            [
+              -102.294827,
+              21.881032
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845529,
+          "height": 11,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 653,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "La Plaza",
+          "volume": 7183,
+          "min_zoom": 14,
+          "addr_housenumber": "102",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295411,
+              21.88038
+            ],
+            [
+              -102.295221,
+              21.880509
+            ],
+            [
+              -102.295139,
+              21.880295
+            ],
+            [
+              -102.295364,
+              21.880226
+            ],
+            [
+              -102.295411,
+              21.88038
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845529,
+          "height": 11,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 653,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "La Plaza",
+          "volume": 7183,
+          "min_zoom": 14,
+          "addr_housenumber": "102",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295277,
+            21.880337
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845527,
+          "height": 26,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 447,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Secretaria de Finanzas Municipales",
+          "volume": 11622,
+          "min_zoom": 14,
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294701,
+              21.880708
+            ],
+            [
+              -102.294614,
+              21.880742
+            ],
+            [
+              -102.294489,
+              21.880401
+            ],
+            [
+              -102.294567,
+              21.880359
+            ],
+            [
+              -102.294701,
+              21.880708
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845527,
+          "height": 26,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 447,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Secretaria de Finanzas Municipales",
+          "volume": 11622,
+          "min_zoom": 14,
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294594,
+            21.880554
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317103,
+          "height": 11,
+          "addr_street": "José María Morelos y Pavón",
+          "area": 351,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "volume": 3861,
+          "min_zoom": 14,
+          "addr_housenumber": "112",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294727,
+              21.881209
+            ],
+            [
+              -102.294545,
+              21.881256
+            ],
+            [
+              -102.294506,
+              21.881117
+            ],
+            [
+              -102.294693,
+              21.88108
+            ],
+            [
+              -102.294727,
+              21.881209
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845535,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 321,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Dirección de Cultura",
+          "volume": 2568,
+          "min_zoom": 14,
+          "addr_housenumber": "131",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294593,
+              21.879956
+            ],
+            [
+              -102.294492,
+              21.880008
+            ],
+            [
+              -102.294424,
+              21.879791
+            ],
+            [
+              -102.294501,
+              21.879766
+            ],
+            [
+              -102.294593,
+              21.879956
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845535,
+          "height": 8,
+          "addr_street": "Calle Antonio Acevedo E.",
+          "area": 321,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Dirección de Cultura",
+          "volume": 2568,
+          "min_zoom": 14,
+          "addr_housenumber": "131",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.29451,
+            21.879915
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317107,
+          "height": 14,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 298,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Castilla",
+          "volume": 4172,
+          "min_zoom": 14,
+          "addr_housenumber": "114",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295017,
+              21.880765
+            ],
+            [
+              -102.294886,
+              21.880806
+            ],
+            [
+              -102.29484,
+              21.880655
+            ],
+            [
+              -102.294969,
+              21.880605
+            ],
+            [
+              -102.295017,
+              21.880765
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317107,
+          "height": 14,
+          "addr_street": "Calle Juan de Montoro",
+          "area": 298,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Castilla",
+          "volume": 4172,
+          "min_zoom": 14,
+          "addr_housenumber": "114",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294929,
+            21.88071
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317104,
+          "height": 11,
+          "addr_street": "Jose Maria Morelos y Pavon",
+          "area": 209,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "volume": 2299,
+          "min_zoom": 14,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.2947,
+              21.881346
+            ],
+            [
+              -102.294579,
+              21.881378
+            ],
+            [
+              -102.294545,
+              21.881256
+            ],
+            [
+              -102.294663,
+              21.881226
+            ],
+            [
+              -102.2947,
+              21.881346
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317084,
+          "height": 14,
+          "addr_street": "Calle Francisco G. Hornedo",
+          "area": 180,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 475,
+          "name": "Dirección General de Gobernación",
+          "volume": 2520,
+          "min_zoom": 14,
+          "addr_housenumber": "104",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295573,
+              21.879142
+            ],
+            [
+              -102.295497,
+              21.879168
+            ],
+            [
+              -102.295437,
+              21.879001
+            ],
+            [
+              -102.295505,
+              21.878979
+            ],
+            [
+              -102.295573,
+              21.879142
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317084,
+          "height": 14,
+          "addr_street": "Calle Francisco G. Hornedo",
+          "area": 180,
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Dirección General de Gobernación",
+          "volume": 2520,
+          "min_zoom": 14,
+          "addr_housenumber": "104",
+          "kind": "public"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295514,
+            21.879099
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "religion": "christian",
+          "id": 418583779,
+          "area": 3309,
+          "min_zoom": 13.2697,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.297022,
+            21.880645
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1341448286,
+          "name": "Hospital Miguel Hidalgo",
+          "min_zoom": 14,
+          "kind": "hospital"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296676,
+            21.875483
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802267385,
+          "name": "Antonio Torres Reyes",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802267855,
+          "name": "Centro de Ciencias Empresariales",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802268957,
+          "name": "Centro de Ciencias de la Ingenieria",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802268997,
+          "name": "Club de Leones, 2",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.299456,
+            21.873172
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802269013,
+          "name": "Colegio Boston de Aguascalientes",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296655,
+            21.871909
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802269026,
+          "name": "Colegio Entorno, A.C.",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802269365,
+          "name": "Colegio Mano Amiga Aguascalientes",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.302299,
+            21.875445
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802269395,
+          "name": "Colegio Portugal",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.302926,
+            21.878311
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802270068,
+          "name": "Dr. Jesus Diaz de Leon",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.298644,
+            21.876433
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802270562,
+          "name": "Escuela de Contaduria Y Administracion de la U. Bonaterra",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802270563,
+          "name": "Escuela de Derecho de la Universidad Bonaterra",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802270565,
+          "name": "Escuela de Ingenieria de la Universidad Bonaterra",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802272393,
+          "name": "Ignacio Allende",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.30248,
+            21.872558
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802273457,
+          "name": "Instituto Latinoamericano Miguel de Cervantes, A.C.",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.300733,
+            21.880071
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802273480,
+          "name": "Instituto Tecnologico de Estudios Superiores de Monterrey CAMpus Aguascalientes",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802274470,
+          "name": "Jesus Reyes Heroles",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802274525,
+          "name": "Jose Maria Morelos",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.302461,
+            21.872684
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802275630,
+          "name": "Patria",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802276438,
+          "name": "Secundaria Tecnica, 37, Juan Jacobo Rosseau",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802276440,
+          "name": "Secundaria Tecnica, 38, Mario Aguilera Dorantes",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802276443,
+          "name": "Secundaria Tecnica, 5, Genaro Reyna Soto",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.300813,
+            21.876143
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802277027,
+          "name": "Unidad de Servicios de Apoyo a la Educacion Regular, 1",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.29921,
+            21.872988
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802277286,
+          "name": "Universidad la Concordia CAMpus Centro",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296111,
+            21.880833
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3802277311,
+          "name": "Vicente Villegas",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.298471,
+            21.881653
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4210212610,
+          "name": "Instituto Técnico en Electrónica y Mecánica",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294725,
+            21.88168
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4210212611,
+          "name": "Centro Universitario de Alternativas Medicas",
+          "min_zoom": 15,
+          "kind": "university"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294765,
+            21.881816
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4210212621,
+          "name": "Centro INJUVA",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.294955,
+            21.881536
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 319516445,
+          "area": 117828000,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.293701,
+              21.871695
+            ],
+            [
+              -102.304687,
+              21.871695
+            ],
+            [
+              -102.304687,
+              21.88189
+            ],
+            [
+              -102.293701,
+              21.88189
+            ],
+            [
+              -102.293701,
+              21.871695
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222415528,
+          "area": 165729,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304687,
+              21.876135
+            ],
+            [
+              -102.301584,
+              21.876968
+            ],
+            [
+              -102.301426,
+              21.876934
+            ],
+            [
+              -102.301254,
+              21.876793
+            ],
+            [
+              -102.301109,
+              21.876081
+            ],
+            [
+              -102.304687,
+              21.874761
+            ],
+            [
+              -102.304687,
+              21.876135
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222578248,
+          "area": 87827,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9.04481,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304687,
+              21.87978
+            ],
+            [
+              -102.302426,
+              21.880207
+            ],
+            [
+              -102.302252,
+              21.879279
+            ],
+            [
+              -102.303218,
+              21.879135
+            ],
+            [
+              -102.303027,
+              21.878101
+            ],
+            [
+              -102.302467,
+              21.876884
+            ],
+            [
+              -102.303757,
+              21.876511
+            ],
+            [
+              -102.303837,
+              21.876832
+            ],
+            [
+              -102.304631,
+              21.876845
+            ],
+            [
+              -102.304687,
+              21.877303
+            ],
+            [
+              -102.304687,
+              21.87978
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222416042,
+          "area": 24200,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9.97463,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304687,
+              21.876761
+            ],
+            [
+              -102.303822,
+              21.876765
+            ],
+            [
+              -102.303735,
+              21.876387
+            ],
+            [
+              -102.304687,
+              21.876135
+            ],
+            [
+              -102.304687,
+              21.876761
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294904,
+          "area": 23059,
+          "source": "openstreetmap.org",
+          "sort_key": 41,
+          "name": "ExpoPlaza",
+          "min_zoom": 10.0095,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304687,
+              21.876749
+            ],
+            [
+              -102.303814,
+              21.876743
+            ],
+            [
+              -102.303739,
+              21.876411
+            ],
+            [
+              -102.304687,
+              21.876149
+            ],
+            [
+              -102.304687,
+              21.876749
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 135884744,
+          "area": 19215,
+          "source": "openstreetmap.org",
+          "sort_key": 41,
+          "min_zoom": 10.141,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.298311,
+              21.877774
+            ],
+            [
+              -102.297539,
+              21.87796
+            ],
+            [
+              -102.297119,
+              21.876437
+            ],
+            [
+              -102.297417,
+              21.876339
+            ],
+            [
+              -102.297321,
+              21.875983
+            ],
+            [
+              -102.297746,
+              21.875866
+            ],
+            [
+              -102.297847,
+              21.876153
+            ],
+            [
+              -102.298172,
+              21.876043
+            ],
+            [
+              -102.298212,
+              21.876138
+            ],
+            [
+              -102.297797,
+              21.876271
+            ],
+            [
+              -102.298311,
+              21.877774
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 34348266,
+          "area": 17679,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 10.2011,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304205,
+              21.879848
+            ],
+            [
+              -102.302569,
+              21.880126
+            ],
+            [
+              -102.302443,
+              21.879328
+            ],
+            [
+              -102.304083,
+              21.87907
+            ],
+            [
+              -102.304205,
+              21.879848
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105605751,
+          "area": 16199,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 10.2642,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.304687,
+              21.875673
+            ],
+            [
+              -102.304562,
+              21.875708
+            ],
+            [
+              -102.304484,
+              21.875295
+            ],
+            [
+              -102.304165,
+              21.875368
+            ],
+            [
+              -102.304046,
+              21.874995
+            ],
+            [
+              -102.304687,
+              21.874771
+            ],
+            [
+              -102.304687,
+              21.875673
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 34334600,
+          "area": 12386,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 10.4578,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296735,
+              21.88095
+            ],
+            [
+              -102.2962,
+              21.88113
+            ],
+            [
+              -102.295675,
+              21.881189
+            ],
+            [
+              -102.295474,
+              21.880424
+            ],
+            [
+              -102.296469,
+              21.880102
+            ],
+            [
+              -102.296735,
+              21.88095
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294903,
+          "area": 6057,
+          "source": "openstreetmap.org",
+          "sort_key": 41,
+          "name": "Plaza Patria",
+          "min_zoom": 10.9738,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.297114,
+              21.879243
+            ],
+            [
+              -102.296864,
+              21.879323
+            ],
+            [
+              -102.2969,
+              21.879431
+            ],
+            [
+              -102.296306,
+              21.879555
+            ],
+            [
+              -102.296131,
+              21.878983
+            ],
+            [
+              -102.296496,
+              21.878881
+            ],
+            [
+              -102.296449,
+              21.878706
+            ],
+            [
+              -102.296651,
+              21.878659
+            ],
+            [
+              -102.296795,
+              21.879144
+            ],
+            [
+              -102.297066,
+              21.879071
+            ],
+            [
+              -102.297114,
+              21.879243
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294903,
+          "area": 6057,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 41,
+          "name": "Plaza Patria",
+          "min_zoom": 10.9738,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.296476,
+            21.879108
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 418583784,
+          "area": 5908,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "name": "Plaza de la Pratia",
+          "min_zoom": 10.9918,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296351,
+              21.881086
+            ],
+            [
+              -102.295675,
+              21.881189
+            ],
+            [
+              -102.295485,
+              21.880467
+            ],
+            [
+              -102.296032,
+              21.880286
+            ],
+            [
+              -102.296112,
+              21.880529
+            ],
+            [
+              -102.295892,
+              21.880619
+            ],
+            [
+              -102.295852,
+              21.880721
+            ],
+            [
+              -102.295983,
+              21.880785
+            ],
+            [
+              -102.296202,
+              21.880739
+            ],
+            [
+              -102.296351,
+              21.881086
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 418583784,
+          "area": 5908,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 24,
+          "name": "Plaza de la Pratia",
+          "min_zoom": 10.9918,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295706,
+            21.88073
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 105043731,
+          "area": 4819,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 11.1387,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.302789,
+              21.880802
+            ],
+            [
+              -102.302778,
+              21.880895
+            ],
+            [
+              -102.302584,
+              21.881076
+            ],
+            [
+              -102.302084,
+              21.881022
+            ],
+            [
+              -102.302058,
+              21.880688
+            ],
+            [
+              -102.302208,
+              21.880683
+            ],
+            [
+              -102.302437,
+              21.880524
+            ],
+            [
+              -102.302426,
+              21.880219
+            ],
+            [
+              -102.302571,
+              21.880207
+            ],
+            [
+              -102.30262,
+              21.880546
+            ],
+            [
+              -102.302789,
+              21.880802
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317031,
+          "surface": "asphalt",
+          "area": 2956,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.4914,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296108,
+              21.879379
+            ],
+            [
+              -102.29522,
+              21.879653
+            ],
+            [
+              -102.295172,
+              21.879439
+            ],
+            [
+              -102.296035,
+              21.87913
+            ],
+            [
+              -102.296108,
+              21.879379
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317063,
+          "surface": "asphalt",
+          "area": 2239,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.6918,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295099,
+              21.880556
+            ],
+            [
+              -102.29488,
+              21.88064
+            ],
+            [
+              -102.294581,
+              21.879961
+            ],
+            [
+              -102.294778,
+              21.879865
+            ],
+            [
+              -102.295099,
+              21.880556
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420835398,
+          "area": 1834,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.8357,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294073,
+              21.880004
+            ],
+            [
+              -102.29372,
+              21.880105
+            ],
+            [
+              -102.293746,
+              21.880194
+            ],
+            [
+              -102.293701,
+              21.880208
+            ],
+            [
+              -102.293701,
+              21.880014
+            ],
+            [
+              -102.293961,
+              21.879954
+            ],
+            [
+              -102.294073,
+              21.880004
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420835408,
+          "area": 1794,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.8514,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.293759,
+              21.880872
+            ],
+            [
+              -102.293701,
+              21.88089
+            ],
+            [
+              -102.293701,
+              21.880702
+            ],
+            [
+              -102.293759,
+              21.880872
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105489721,
+          "area": 1718,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 11.8826,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294614,
+              21.880742
+            ],
+            [
+              -102.294422,
+              21.880815
+            ],
+            [
+              -102.294224,
+              21.880145
+            ],
+            [
+              -102.294369,
+              21.880074
+            ],
+            [
+              -102.294614,
+              21.880742
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317040,
+          "area": 1170,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "name": "Plaza de la Republica",
+          "min_zoom": 12.1597,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296108,
+              21.879379
+            ],
+            [
+              -102.295786,
+              21.879478
+            ],
+            [
+              -102.295697,
+              21.87925
+            ],
+            [
+              -102.296035,
+              21.87913
+            ],
+            [
+              -102.296108,
+              21.879379
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317040,
+          "area": 1170,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 24,
+          "name": "Plaza de la Republica",
+          "min_zoom": 12.1597,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295897,
+            21.87929
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317093,
+          "area": 1133,
+          "source": "openstreetmap.org",
+          "sort_key": 91,
+          "min_zoom": 12.1829,
+          "kind": "garden"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296095,
+              21.880479
+            ],
+            [
+              -102.29575,
+              21.880579
+            ],
+            [
+              -102.295546,
+              21.880447
+            ],
+            [
+              -102.296032,
+              21.880286
+            ],
+            [
+              -102.296095,
+              21.880479
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222416044,
+          "area": 1118,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 12.1928,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.303757,
+              21.876511
+            ],
+            [
+              -102.303194,
+              21.876678
+            ],
+            [
+              -102.303148,
+              21.876528
+            ],
+            [
+              -102.303735,
+              21.876387
+            ],
+            [
+              -102.303757,
+              21.876511
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317095,
+          "area": 1088,
+          "source": "openstreetmap.org",
+          "sort_key": 91,
+          "min_zoom": 12.212,
+          "kind": "garden"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296304,
+              21.880976
+            ],
+            [
+              -102.295807,
+              21.8811
+            ],
+            [
+              -102.29589,
+              21.88088
+            ],
+            [
+              -102.29623,
+              21.880804
+            ],
+            [
+              -102.296304,
+              21.880976
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317106,
+          "surface": "asphalt",
+          "area": 634,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 12.6017,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294938,
+              21.88101
+            ],
+            [
+              -102.294827,
+              21.881032
+            ],
+            [
+              -102.294701,
+              21.880708
+            ],
+            [
+              -102.29484,
+              21.880655
+            ],
+            [
+              -102.294938,
+              21.88101
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845536,
+          "surface": "asphalt",
+          "area": 580,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 12.6664,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294432,
+              21.87982
+            ],
+            [
+              -102.294427,
+              21.879875
+            ],
+            [
+              -102.294234,
+              21.879947
+            ],
+            [
+              -102.294116,
+              21.879809
+            ],
+            [
+              -102.294384,
+              21.879706
+            ],
+            [
+              -102.294432,
+              21.87982
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845531,
+          "area": 494,
+          "source": "openstreetmap.org",
+          "sort_key": 42,
+          "name": "Mercado de Comida",
+          "min_zoom": 12.7821,
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295225,
+              21.879772
+            ],
+            [
+              -102.295017,
+              21.879863
+            ],
+            [
+              -102.294937,
+              21.87978
+            ],
+            [
+              -102.295174,
+              21.879602
+            ],
+            [
+              -102.295225,
+              21.879772
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420845531,
+          "area": 494,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 42,
+          "name": "Mercado de Comida",
+          "min_zoom": 12.7821,
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.295133,
+            21.87968
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 421205730,
+          "area": 401,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 12.9323,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.294011,
+              21.881251
+            ],
+            [
+              -102.293826,
+              21.881271
+            ],
+            [
+              -102.29375,
+              21.881084
+            ],
+            [
+              -102.29381,
+              21.881066
+            ],
+            [
+              -102.293843,
+              21.881138
+            ],
+            [
+              -102.293954,
+              21.881107
+            ],
+            [
+              -102.294011,
+              21.881251
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317100,
+          "area": 305,
+          "source": "openstreetmap.org",
+          "sort_key": 91,
+          "min_zoom": 13.1304,
+          "kind": "garden"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.296086,
+              21.879414
+            ],
+            [
+              -102.295606,
+              21.879558
+            ],
+            [
+              -102.295225,
+              21.87968
+            ],
+            [
+              -102.29522,
+              21.879653
+            ],
+            [
+              -102.296086,
+              21.879414
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317099,
+          "area": 213,
+          "source": "openstreetmap.org",
+          "sort_key": 91,
+          "min_zoom": 13.3883,
+          "kind": "garden"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295641,
+              21.879265
+            ],
+            [
+              -102.295418,
+              21.879324
+            ],
+            [
+              -102.295432,
+              21.879369
+            ],
+            [
+              -102.295191,
+              21.879433
+            ],
+            [
+              -102.295374,
+              21.879313
+            ],
+            [
+              -102.295641,
+              21.879265
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317101,
+          "area": 80,
+          "source": "openstreetmap.org",
+          "sort_key": 91,
+          "min_zoom": 14.0947,
+          "kind": "garden"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.295988,
+              21.879147
+            ],
+            [
+              -102.295697,
+              21.87925
+            ],
+            [
+              -102.295634,
+              21.879253
+            ],
+            [
+              -102.295983,
+              21.879132
+            ],
+            [
+              -102.295988,
+              21.879147
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 265170,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -102.293701,
+            21.871695
+          ],
+          [
+            -102.304687,
+            21.871695
+          ],
+          [
+            -102.304687,
+            21.88189
+          ],
+          [
+            -102.293701,
+            21.88189
+          ],
+          [
+            -102.293701,
+            21.871695
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [{
+      "properties": {
+        "id": 85883579,
+        "area": 5825923,
+        "source": "whosonfirst.mapzen.com",
+        "max_zoom": 18,
+        "name": "Zona Centro",
+        "min_zoom": 13,
+        "kind": "neighbourhood",
+        "kind_tile_rank": 1
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.297582,
+          21.881524
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 66933086,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Monroy",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.877503
+            ],
+            [
+              -102.304678,
+              21.877436
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933085,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Manuel M. Ponce",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30226,
+              21.879322
+            ],
+            [
+              -102.301994,
+              21.879366
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199687,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Vicencio",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299605,
+              21.872169
+            ],
+            [
+              -102.298166,
+              21.87261
+            ],
+            [
+              -102.297688,
+              21.87268
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657763,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 300,
+          "name": "Boulevard Jose Ma. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296009,
+              21.878785
+            ],
+            [
+              -102.296114,
+              21.879101
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 221688298,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Calle Eduardo J. Correa",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302016,
+              21.879988
+            ],
+            [
+              -102.301934,
+              21.878539
+            ],
+            [
+              -102.301747,
+              21.877589
+            ],
+            [
+              -102.301264,
+              21.877055
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199691,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Ignacio T. Chavez",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295045,
+              21.875608
+            ],
+            [
+              -102.299474,
+              21.8744
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146296,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Peatonal Venustiano Carranza",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297645,
+              21.880503
+            ],
+            [
+              -102.302376,
+              21.87994
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 221684832,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Cristobal Colon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.295225,
+                21.879772
+              ],
+              [
+                -102.295426,
+                21.88043
+              ]
+            ],
+            [
+              [
+                -102.293701,
+                21.874438
+              ],
+              [
+                -102.294592,
+                21.877304
+              ],
+              [
+                -102.295174,
+                21.879602
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657744,
+          "ref": "MEX 70",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 300,
+          "name": "Licenciado Adolfo Lopez Mateos",
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303753,
+              21.876475
+            ],
+            [
+              -102.303755,
+              21.876474
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872728,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Azaleas",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.874417
+            ],
+            [
+              -102.30381,
+              21.872516
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 221688299,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Jose F. Elizondo",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30151,
+              21.880046
+            ],
+            [
+              -102.301425,
+              21.880751
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 25080550,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 300,
+          "name": "Boulevard Jose Ma. Chavez",
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296361,
+              21.880137
+            ],
+            [
+              -102.296525,
+              21.881024
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146311,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 354,
+          "name": "Arturo J. Parni",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304275,
+              21.879858
+            ],
+            [
+              -102.304129,
+              21.879011
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 103039317,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Paseo de la cruz",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294015,
+              21.871695
+            ],
+            [
+              -102.293701,
+              21.871868
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199641,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Valparaiso",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30407,
+                21.872262
+              ],
+              [
+                -102.301547,
+                21.871807
+              ]
+            ],
+            [
+              [
+                -102.301445,
+                21.871785
+              ],
+              [
+                -102.300905,
+                21.871695
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068752,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Republica de Nicaragua",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30317,
+              21.872073
+            ],
+            [
+              -102.303246,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199654,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.297621,
+                21.877943
+              ],
+              [
+                -102.297187,
+                21.876457
+              ],
+              [
+                -102.297513,
+                21.876334
+              ]
+            ],
+            [
+              [
+                -102.297513,
+                21.876334
+              ],
+              [
+                -102.298063,
+                21.876143
+              ]
+            ],
+            [
+              [
+                -102.297513,
+                21.876334
+              ],
+              [
+                -102.29741,
+                21.876007
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119369797,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Boulevard Jose Ma. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295057,
+              21.873228
+            ],
+            [
+              -102.294955,
+              21.874808
+            ],
+            [
+              -102.294993,
+              21.875317
+            ],
+            [
+              -102.295107,
+              21.875919
+            ],
+            [
+              -102.295887,
+              21.878383
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321522,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 377,
+          "name": "Calle Juan de Montoro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.29484,
+              21.880655
+            ],
+            [
+              -102.294701,
+              21.880708
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657755,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Arce",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.298008,
+              21.878993
+            ],
+            [
+              -102.297882,
+              21.878459
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657766,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "J. Correa",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.302046,
+                21.881367
+              ],
+              [
+                -102.303022,
+                21.881394
+              ]
+            ],
+            [
+              [
+                -102.303018,
+                21.881843
+              ],
+              [
+                -102.303022,
+                21.881394
+              ]
+            ],
+            [
+              [
+                -102.303022,
+                21.881394
+              ],
+              [
+                -102.303011,
+                21.88076
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317053,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 354,
+          "name": "José María Chavez",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296035,
+              21.87913
+            ],
+            [
+              -102.296108,
+              21.879379
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933085,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 360,
+          "name": "Manuel M. Ponce",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.87883
+            ],
+            [
+              -102.30424,
+              21.878989
+            ],
+            [
+              -102.30226,
+              21.879322
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119369784,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Galeana Sur",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296985,
+              21.87399
+            ],
+            [
+              -102.29713,
+              21.873691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419139317,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Av. Francisco I. Madero",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295681,
+              21.881256
+            ],
+            [
+              -102.294624,
+              21.881538
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 190458747,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Plaza Principal",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296456,
+              21.88008
+            ],
+            [
+              -102.295426,
+              21.88043
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67292048,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 360,
+          "name": "Jesus F. Contreras",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302336,
+              21.87931
+            ],
+            [
+              -102.302455,
+              21.879929
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 169858313,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Calle General Guadalupe Victoria",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297588,
+              21.88189
+            ],
+            [
+              -102.297001,
+              21.88089
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 192722040,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Profr. A. Topete del Valle",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.302561,
+                21.87709
+              ],
+              [
+                -102.302986,
+                21.878157
+              ]
+            ],
+            [
+              [
+                -102.301625,
+                21.877091
+              ],
+              [
+                -102.301712,
+                21.87712
+              ],
+              [
+                -102.30245,
+                21.87692
+              ],
+              [
+                -102.30251,
+                21.876978
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 190451958,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300408,
+              21.87333
+            ],
+            [
+              -102.300603,
+              21.872539
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199674,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Heroes de Chapultepec",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.293701,
+              21.878485
+            ],
+            [
+              -102.296848,
+              21.877578
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419139315,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "5 de Mayo",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296979,
+              21.88189
+            ],
+            [
+              -102.296589,
+              21.881225
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199657,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Cor. Valente Arteaga",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296461,
+              21.871695
+            ],
+            [
+              -102.296455,
+              21.872142
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199647,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Cristo Negro",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295428,
+              21.874697
+            ],
+            [
+              -102.295412,
+              21.874352
+            ],
+            [
+              -102.296097,
+              21.874208
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119369794,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Galeana Sur",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.29713,
+              21.873691
+            ],
+            [
+              -102.297688,
+              21.87268
+            ],
+            [
+              -102.297766,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657773,
+          "ref": "MEX 70",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Licenciado Adolfo Lopez Mateos",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.293701,
+                21.878995
+              ],
+              [
+                -102.2995,
+                21.877672
+              ],
+              [
+                -102.302927,
+                21.876702
+              ]
+            ],
+            [
+              [
+                -102.30291,
+                21.876631
+              ],
+              [
+                -102.298974,
+                21.877696
+              ],
+              [
+                -102.293701,
+                21.878884
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146329,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 354,
+          "name": "Andador de la Feria",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30424,
+                21.878989
+              ],
+              [
+                -102.303712,
+                21.876583
+              ]
+            ],
+            [
+              [
+                -102.303712,
+                21.876583
+              ],
+              [
+                -102.303646,
+                21.876343
+              ],
+              [
+                -102.304687,
+                21.876045
+              ]
+            ],
+            [
+              [
+                -102.302517,
+                21.876994
+              ],
+              [
+                -102.302678,
+                21.876875
+              ],
+              [
+                -102.303712,
+                21.876583
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 180575254,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Avenida Ayuntamiento",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30052,
+                21.873942
+              ],
+              [
+                -102.300069,
+                21.874211
+              ],
+              [
+                -102.299575,
+                21.874311
+              ],
+              [
+                -102.297913,
+                21.87419
+              ],
+              [
+                -102.29763,
+                21.874104
+              ],
+              [
+                -102.296862,
+                21.873695
+              ],
+              [
+                -102.294952,
+                21.872907
+              ],
+              [
+                -102.294665,
+                21.87261
+              ],
+              [
+                -102.294105,
+                21.871695
+              ]
+            ],
+            [
+              [
+                -102.293909,
+                21.871695
+              ],
+              [
+                -102.29426,
+                21.872193
+              ],
+              [
+                -102.294613,
+                21.872833
+              ],
+              [
+                -102.294776,
+                21.872984
+              ],
+              [
+                -102.296855,
+                21.873802
+              ],
+              [
+                -102.297613,
+                21.874199
+              ],
+              [
+                -102.29792,
+                21.874292
+              ],
+              [
+                -102.299474,
+                21.8744
+              ],
+              [
+                -102.299868,
+                21.874361
+              ],
+              [
+                -102.300487,
+                21.87414
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66984932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Libertad",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301057,
+              21.88077
+            ],
+            [
+              -102.300866,
+              21.88189
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321495,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Antonio Acevedo E.",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.294778,
+                21.879865
+              ],
+              [
+                -102.294937,
+                21.87978
+              ]
+            ],
+            [
+              [
+                -102.294369,
+                21.880074
+              ],
+              [
+                -102.294581,
+                21.879961
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657776,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Riviera",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303848,
+              21.881802
+            ],
+            [
+              -102.304687,
+              21.881827
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068737,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Bahia",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30188,
+                21.872325
+              ],
+              [
+                -102.301378,
+                21.872224
+              ]
+            ],
+            [
+              [
+                -102.301261,
+                21.872191
+              ],
+              [
+                -102.299532,
+                21.871901
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872719,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Maravillas",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301227,
+              21.873591
+            ],
+            [
+              -102.302132,
+              21.875645
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74559424,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Granjenito",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294242,
+              21.873254
+            ],
+            [
+              -102.293701,
+              21.87219
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146294,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Moctezuma",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295562,
+              21.881283
+            ],
+            [
+              -102.296149,
+              21.881194
+            ],
+            [
+              -102.297001,
+              21.88089
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146324,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Calle Jose F. Elizondo",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30113,
+              21.877086
+            ],
+            [
+              -102.301431,
+              21.878688
+            ],
+            [
+              -102.30151,
+              21.880046
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199673,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "J. Asuncion Torres",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299343,
+              21.873718
+            ],
+            [
+              -102.300408,
+              21.87333
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 178161778,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Moctezuma",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297001,
+              21.88089
+            ],
+            [
+              -102.297662,
+              21.880601
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220048617,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Nieto Principal",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297391,
+              21.879796
+            ],
+            [
+              -102.296456,
+              21.88008
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 221684832,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 377,
+          "name": "Calle Cristobal Colon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295174,
+              21.879602
+            ],
+            [
+              -102.295225,
+              21.879772
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068747,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Republica del Salvador",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304287,
+              21.872195
+            ],
+            [
+              -102.30435,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66751902,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Jesus F. Contreras",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303235,
+              21.880055
+            ],
+            [
+              -102.304687,
+              21.879798
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199645,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Pimentel",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296749,
+              21.874437
+            ],
+            [
+              -102.293701,
+              21.875106
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068746,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Sao Paulo",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302908,
+              21.872097
+            ],
+            [
+              -102.301923,
+              21.872518
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 169238528,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Jose Maria Morelos y Pavon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294722,
+              21.88189
+            ],
+            [
+              -102.294624,
+              21.881538
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657756,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Calle Rayon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297123,
+              21.878536
+            ],
+            [
+              -102.296009,
+              21.878785
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657767,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Tesoro",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300598,
+              21.878073
+            ],
+            [
+              -102.299572,
+              21.878317
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933092,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Galeana Norte",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297662,
+              21.880601
+            ],
+            [
+              -102.297939,
+              21.881476
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321522,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 377,
+          "name": "Calle Juan de Montoro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294614,
+              21.880742
+            ],
+            [
+              -102.294422,
+              21.880815
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657762,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Talamantes",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.880539
+            ],
+            [
+              -102.303938,
+              21.880682
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657785,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Insurgentes",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297244,
+              21.8791
+            ],
+            [
+              -102.298691,
+              21.878892
+            ],
+            [
+              -102.299289,
+              21.878709
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119369789,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Alba",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295057,
+              21.873228
+            ],
+            [
+              -102.294866,
+              21.873163
+            ],
+            [
+              -102.293701,
+              21.873294
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220048618,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.304006,
+                21.875012
+              ],
+              [
+                -102.303991,
+                21.874972
+              ]
+            ],
+            [
+              [
+                -102.303082,
+                21.875303
+              ],
+              [
+                -102.303097,
+                21.875348
+              ]
+            ],
+            [
+              [
+                -102.301855,
+                21.875745
+              ],
+              [
+                -102.301872,
+                21.875799
+              ]
+            ],
+            [
+              [
+                -102.297569,
+                21.880291
+              ],
+              [
+                -102.29662,
+                21.880587
+              ]
+            ],
+            [
+              [
+                -102.296683,
+                21.880968
+              ],
+              [
+                -102.296696,
+                21.881019
+              ]
+            ],
+            [
+              [
+                -102.296456,
+                21.88008
+              ],
+              [
+                -102.296462,
+                21.880104
+              ]
+            ],
+            [
+              [
+                -102.29557,
+                21.880791
+              ],
+              [
+                -102.295566,
+                21.880792
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66881215,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle 5 de Mayo",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296589,
+              21.881225
+            ],
+            [
+              -102.296979,
+              21.88189
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 105189425,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Allende Ote.",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302043,
+              21.880685
+            ],
+            [
+              -102.301057,
+              21.88077
+            ],
+            [
+              -102.299977,
+              21.880958
+            ],
+            [
+              -102.297751,
+              21.88189
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199659,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Republica de Chile",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299509,
+              21.872014
+            ],
+            [
+              -102.299574,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933099,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 354,
+          "name": "Benito Juarez",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295485,
+              21.880467
+            ],
+            [
+              -102.295487,
+              21.880474
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317090,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.304403,
+                21.876126
+              ],
+              [
+                -102.304006,
+                21.875012
+              ]
+            ],
+            [
+              [
+                -102.301426,
+                21.876934
+              ],
+              [
+                -102.302172,
+                21.87673
+              ]
+            ],
+            [
+              [
+                -102.302172,
+                21.87673
+              ],
+              [
+                -102.303438,
+                21.876397
+              ]
+            ],
+            [
+              [
+                -102.303438,
+                21.876397
+              ],
+              [
+                -102.303646,
+                21.876343
+              ]
+            ],
+            [
+              [
+                -102.303097,
+                21.875348
+              ],
+              [
+                -102.303438,
+                21.876397
+              ]
+            ],
+            [
+              [
+                -102.301872,
+                21.875799
+              ],
+              [
+                -102.302172,
+                21.87673
+              ]
+            ],
+            [
+              [
+                -102.296462,
+                21.880104
+              ],
+              [
+                -102.296592,
+                21.880596
+              ]
+            ],
+            [
+              [
+                -102.296592,
+                21.880596
+              ],
+              [
+                -102.296683,
+                21.880968
+              ]
+            ],
+            [
+              [
+                -102.29662,
+                21.880587
+              ],
+              [
+                -102.296592,
+                21.880596
+              ]
+            ],
+            [
+              [
+                -102.296215,
+                21.880769
+              ],
+              [
+                -102.295852,
+                21.880837
+              ]
+            ],
+            [
+              [
+                -102.295852,
+                21.880837
+              ],
+              [
+                -102.295793,
+                21.880741
+              ]
+            ],
+            [
+              [
+                -102.295793,
+                21.880741
+              ],
+              [
+                -102.295795,
+                21.880626
+              ]
+            ],
+            [
+              [
+                -102.295795,
+                21.880626
+              ],
+              [
+                -102.296103,
+                21.880502
+              ]
+            ],
+            [
+              [
+                -102.295852,
+                21.880837
+              ],
+              [
+                -102.295675,
+                21.881189
+              ]
+            ],
+            [
+              [
+                -102.295485,
+                21.880467
+              ],
+              [
+                -102.295795,
+                21.880626
+              ]
+            ],
+            [
+              [
+                -102.295793,
+                21.880741
+              ],
+              [
+                -102.29557,
+                21.880791
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199688,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Quito",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.301708,
+                21.872753
+              ],
+              [
+                -102.3012,
+                21.872644
+              ]
+            ],
+            [
+              [
+                -102.301086,
+                21.872623
+              ],
+              [
+                -102.299758,
+                21.872401
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657745,
+          "ref": "MEX 70",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 300,
+          "name": "Licenciado Adolfo Lopez Mateos",
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30375,
+                21.876475
+              ],
+              [
+                -102.303753,
+                21.876475
+              ]
+            ],
+            [
+              [
+                -102.303738,
+                21.876399
+              ],
+              [
+                -102.303737,
+                21.876399
+              ]
+            ],
+            [
+              [
+                -102.302927,
+                21.876702
+              ],
+              [
+                -102.30318,
+                21.876632
+              ]
+            ],
+            [
+              [
+                -102.303158,
+                21.876561
+              ],
+              [
+                -102.30291,
+                21.876631
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317076,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.296094,
+                21.879331
+              ],
+              [
+                -102.295535,
+                21.879503
+              ]
+            ],
+            [
+              [
+                -102.296048,
+                21.879174
+              ],
+              [
+                -102.295474,
+                21.879346
+              ],
+              [
+                -102.295491,
+                21.879391
+              ]
+            ],
+            [
+              [
+                -102.295491,
+                21.879391
+              ],
+              [
+                -102.295535,
+                21.879503
+              ]
+            ],
+            [
+              [
+                -102.295535,
+                21.879503
+              ],
+              [
+                -102.29521,
+                21.879607
+              ]
+            ],
+            [
+              [
+                -102.295491,
+                21.879391
+              ],
+              [
+                -102.295185,
+                21.879498
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66703674,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Galeana Norte",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297662,
+              21.880601
+            ],
+            [
+              -102.297391,
+              21.879796
+            ],
+            [
+              -102.297018,
+              21.878127
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146296,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 376,
+          "name": "Peatonal Venustiano Carranza",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302376,
+              21.87994
+            ],
+            [
+              -102.302455,
+              21.879929
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317053,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "José María Chavez",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.296108,
+                21.879379
+              ],
+              [
+                -102.296327,
+                21.880124
+              ]
+            ],
+            [
+              [
+                -102.295922,
+                21.878814
+              ],
+              [
+                -102.295985,
+                21.879
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872689,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Claveles",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304287,
+              21.872195
+            ],
+            [
+              -102.304687,
+              21.873046
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 219734816,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Jose Ma. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295887,
+              21.878383
+            ],
+            [
+              -102.29592,
+              21.878498
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146295,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Antonio Arias Bernal",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303755,
+              21.879969
+            ],
+            [
+              -102.303961,
+              21.880951
+            ],
+            [
+              -102.303822,
+              21.88189
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70724311,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 360,
+          "name": "Rayon",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303828,
+              21.876791
+            ],
+            [
+              -102.303755,
+              21.876791
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 377,
+          "name": "Calle Dr. Jesus Diaz de Leon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294136,
+              21.879868
+            ],
+            [
+              -102.294116,
+              21.879809
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74559435,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Profra Vicenta Trujillo",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295107,
+              21.875919
+            ],
+            [
+              -102.293701,
+              21.876085
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657751,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Pocitos",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300846,
+              21.878844
+            ],
+            [
+              -102.300373,
+              21.877444
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74559434,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Ayuntamiento",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294459,
+              21.872602
+            ],
+            [
+              -102.294541,
+              21.872894
+            ],
+            [
+              -102.294866,
+              21.873163
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068758,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Coquimbo",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301456,
+              21.873294
+            ],
+            [
+              -102.302097,
+              21.871919
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294908,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Nieto Principal",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.304687,
+                21.877431
+              ],
+              [
+                -102.304673,
+                21.877439
+              ]
+            ],
+            [
+              [
+                -102.303034,
+                21.878137
+              ],
+              [
+                -102.301431,
+                21.878688
+              ],
+              [
+                -102.297391,
+                21.879796
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199686,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Candelario Rivas",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299007,
+              21.875994
+            ],
+            [
+              -102.299915,
+              21.875782
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146311,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Arturo J. Parni",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30428,
+              21.879886
+            ],
+            [
+              -102.304275,
+              21.879858
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70724311,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Rayon",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.876793
+            ],
+            [
+              -102.303828,
+              21.876791
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872731,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Los Laureles",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.874719
+            ],
+            [
+              -102.301066,
+              21.876
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Carmelias",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302961,
+              21.872046
+            ],
+            [
+              -102.302908,
+              21.872097
+            ],
+            [
+              -102.303145,
+              21.872605
+            ],
+            [
+              -102.303281,
+              21.872725
+            ],
+            [
+              -102.304221,
+              21.874888
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 377,
+          "name": "Calle Dr. Jesus Diaz de Leon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294422,
+              21.880815
+            ],
+            [
+              -102.294224,
+              21.880145
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933097,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Calle del Codo",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297939,
+              21.881476
+            ],
+            [
+              -102.297488,
+              21.88167
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321495,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 360,
+          "name": "Calle Antonio Acevedo E.",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294224,
+              21.880145
+            ],
+            [
+              -102.294369,
+              21.880074
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872683,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Rosas",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30257,
+              21.875486
+            ],
+            [
+              -102.301668,
+              21.873409
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199655,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Republica de Uruguay",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300771,
+              21.871695
+            ],
+            [
+              -102.300603,
+              21.872539
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199689,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Calle José Maria Chávez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295113,
+              21.871695
+            ],
+            [
+              -102.295075,
+              21.872908
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199661,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.300448,
+                21.88189
+              ],
+              [
+                -102.300479,
+                21.881587
+              ]
+            ],
+            [
+              [
+                -102.300479,
+                21.881587
+              ],
+              [
+                -102.300652,
+                21.881596
+              ],
+              [
+                -102.300652,
+                21.881211
+              ],
+              [
+                -102.300253,
+                21.881288
+              ],
+              [
+                -102.300258,
+                21.881529
+              ],
+              [
+                -102.300479,
+                21.881587
+              ]
+            ],
+            [
+              [
+                -102.298843,
+                21.875498
+              ],
+              [
+                -102.299437,
+                21.875322
+              ]
+            ],
+            [
+              [
+                -102.298683,
+                21.874975
+              ],
+              [
+                -102.299177,
+                21.874822
+              ],
+              [
+                -102.299239,
+                21.874954
+              ]
+            ],
+            [
+              [
+                -102.299028,
+                21.874264
+              ],
+              [
+                -102.298537,
+                21.873146
+              ]
+            ],
+            [
+              [
+                -102.298685,
+                21.873089
+              ],
+              [
+                -102.298542,
+                21.872739
+              ]
+            ],
+            [
+              [
+                -102.297634,
+                21.877987
+              ],
+              [
+                -102.297621,
+                21.877943
+              ]
+            ],
+            [
+              [
+                -102.296461,
+                21.875882
+              ],
+              [
+                -102.296147,
+                21.875964
+              ],
+              [
+                -102.295969,
+                21.875392
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321522,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Juan de Montoro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.295426,
+                21.88043
+              ],
+              [
+                -102.29484,
+                21.880655
+              ]
+            ],
+            [
+              [
+                -102.294701,
+                21.880708
+              ],
+              [
+                -102.294614,
+                21.880742
+              ]
+            ],
+            [
+              [
+                -102.294422,
+                21.880815
+              ],
+              [
+                -102.293701,
+                21.881066
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419139314,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "José María Morelos y Pavón",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294722,
+              21.88189
+            ],
+            [
+              -102.294624,
+              21.881538
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146316,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Eduardo J. Correa",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302006,
+              21.88189
+            ],
+            [
+              -102.302016,
+              21.879988
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199644,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Anahuac",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297739,
+              21.872128
+            ],
+            [
+              -102.297216,
+              21.872184
+            ],
+            [
+              -102.295083,
+              21.872104
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71183293,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Avenida Francisco l. Madero",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.293701,
+              21.881757
+            ],
+            [
+              -102.295562,
+              21.881283
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74068745,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Bogota",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304687,
+              21.871926
+            ],
+            [
+              -102.303461,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 25080550,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 300,
+          "name": "Boulevard Jose Ma. Chavez",
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.296525,
+                21.881024
+              ],
+              [
+                -102.296589,
+                21.881225
+              ]
+            ],
+            [
+              [
+                -102.296114,
+                21.879101
+              ],
+              [
+                -102.296361,
+                21.880137
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 25080552,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Jose Ma. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295075,
+              21.872908
+            ],
+            [
+              -102.295252,
+              21.872106
+            ],
+            [
+              -102.29527,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70735425,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Avenida Las Americas",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.300724,
+                21.873563
+              ],
+              [
+                -102.301606,
+                21.871695
+              ]
+            ],
+            [
+              [
+                -102.301488,
+                21.871695
+              ],
+              [
+                -102.30065,
+                21.873548
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74559426,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Del Sol",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.293701,
+              21.877576
+            ],
+            [
+              -102.294592,
+              21.877304
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321495,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 360,
+          "name": "Calle Antonio Acevedo E.",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294581,
+              21.879961
+            ],
+            [
+              -102.294778,
+              21.879865
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 315833858,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Mariano Matamoros Norte",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299977,
+              21.880958
+            ],
+            [
+              -102.2995,
+              21.877672
+            ],
+            [
+              -102.29858,
+              21.874654
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872703,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dalias",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301827,
+              21.872467
+            ],
+            [
+              -102.301923,
+              21.872518
+            ],
+            [
+              -102.303137,
+              21.875283
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 204398333,
+          "highway": "path",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "foot": "yes",
+          "sort_key": 404,
+          "is_bridge": "yes",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301137,
+              21.875892
+            ],
+            [
+              -102.300858,
+              21.875931
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199640,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Vicencio",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300532,
+              21.87357
+            ],
+            [
+              -102.299509,
+              21.872014
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872680,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Calle Jose F. Elizondo",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.301264,
+                21.877055
+              ],
+              [
+                -102.300723,
+                21.873963
+              ]
+            ],
+            [
+              [
+                -102.300605,
+                21.873977
+              ],
+              [
+                -102.30113,
+                21.877086
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 192722040,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 360,
+          "name": "Profr. A. Topete del Valle",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30251,
+              21.876978
+            ],
+            [
+              -102.302561,
+              21.87709
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 420317047,
+          "highway": "steps",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "foot": "yes",
+          "name": "José María Chavez",
+          "horse": "yes",
+          "sort_key": 354,
+          "motor_vehicle": "no",
+          "incline": "up",
+          "kind": "path",
+          "bicycle": "yes"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295985,
+              21.879
+            ],
+            [
+              -102.296035,
+              21.87913
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872672,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Tulipanes",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.303658,
+              21.875094
+            ],
+            [
+              -102.302712,
+              21.872953
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Lanceros de Aguascalientes",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300331,
+              21.873358
+            ],
+            [
+              -102.299359,
+              21.872258
+            ],
+            [
+              -102.298997,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Dr. Jesus Diaz de Leon",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.294624,
+                21.881538
+              ],
+              [
+                -102.294422,
+                21.880815
+              ]
+            ],
+            [
+              [
+                -102.294224,
+                21.880145
+              ],
+              [
+                -102.294136,
+                21.879868
+              ]
+            ],
+            [
+              [
+                -102.294116,
+                21.879809
+              ],
+              [
+                -102.293701,
+                21.8787
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74559446,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Belaunzaran",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294993,
+              21.875317
+            ],
+            [
+              -102.294464,
+              21.873237
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657788,
+          "is_link": "yes",
+          "highway": "primary_link",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 355,
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301506,
+              21.877321
+            ],
+            [
+              -102.301545,
+              21.877115
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 169858320,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Avenida Ignacio T. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.300862,
+                21.873712
+              ],
+              [
+                -102.30381,
+                21.872516
+              ],
+              [
+                -102.304687,
+                21.872269
+              ]
+            ],
+            [
+              [
+                -102.304687,
+                21.87211
+              ],
+              [
+                -102.304287,
+                21.872195
+              ],
+              [
+                -102.303145,
+                21.872605
+              ],
+              [
+                -102.300785,
+                21.873597
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66751902,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 376,
+          "name": "Jesus F. Contreras",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.302455,
+              21.879929
+            ],
+            [
+              -102.302492,
+              21.880177
+            ],
+            [
+              -102.303235,
+              21.880055
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933099,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Benito Juarez",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.295487,
+                21.880474
+              ],
+              [
+                -102.295833,
+                21.88189
+              ]
+            ],
+            [
+              [
+                -102.295426,
+                21.88043
+              ],
+              [
+                -102.295485,
+                21.880467
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 204544807,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Gral. Vicente Guerrero Norte",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.299021,
+                21.87779
+              ],
+              [
+                -102.299442,
+                21.879228
+              ],
+              [
+                -102.299599,
+                21.880297
+              ]
+            ],
+            [
+              [
+                -102.297791,
+                21.874899
+              ],
+              [
+                -102.298638,
+                21.877156
+              ],
+              [
+                -102.298974,
+                21.877696
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872698,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Jazmines",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301595,
+              21.875839
+            ],
+            [
+              -102.301113,
+              21.874916
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 74199683,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N. Ortiz G.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.299794,
+                21.87269
+              ],
+              [
+                -102.299024,
+                21.872976
+              ]
+            ],
+            [
+              [
+                -102.299024,
+                21.872976
+              ],
+              [
+                -102.297863,
+                21.873382
+              ]
+            ],
+            [
+              [
+                -102.299024,
+                21.872976
+              ],
+              [
+                -102.299343,
+                21.873718
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66703672,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Galeana Sur",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.297018,
+              21.878127
+            ],
+            [
+              -102.296279,
+              21.875309
+            ],
+            [
+              -102.296985,
+              21.87399
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146318,
+          "highway": "pedestrian",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 354,
+          "name": "Andador de la Feria",
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301679,
+              21.877458
+            ],
+            [
+              -102.301746,
+              21.877235
+            ],
+            [
+              -102.302517,
+              21.876994
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321517,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Francisco G. Hornedo",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.296009,
+              21.878785
+            ],
+            [
+              -102.293701,
+              21.879612
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146328,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Jose Ma. Chavez",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.295075,
+              21.872908
+            ],
+            [
+              -102.295057,
+              21.873228
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872729,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "De Las Orquideas",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300908,
+              21.874972
+            ],
+            [
+              -102.304687,
+              21.873589
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 224054711,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Boulevard Jose Ma. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.29592,
+              21.878498
+            ],
+            [
+              -102.296009,
+              21.878785
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 103039290,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Paseo de la cruz",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.293701,
+              21.872013
+            ],
+            [
+              -102.294247,
+              21.871695
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294910,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.30158,
+                21.876976
+              ],
+              [
+                -102.301204,
+                21.876787
+              ]
+            ],
+            [
+              [
+                -102.300605,
+                21.873977
+              ],
+              [
+                -102.300799,
+                21.873917
+              ],
+              [
+                -102.300863,
+                21.873812
+              ],
+              [
+                -102.30083,
+                21.873644
+              ],
+              [
+                -102.30065,
+                21.873548
+              ],
+              [
+                -102.300473,
+                21.87361
+              ],
+              [
+                -102.300404,
+                21.873759
+              ],
+              [
+                -102.300483,
+                21.873925
+              ],
+              [
+                -102.300605,
+                21.873977
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 66933111,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Rayon",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.301679,
+              21.877458
+            ],
+            [
+              -102.301248,
+              21.877534
+            ],
+            [
+              -102.300509,
+              21.877841
+            ],
+            [
+              -102.29958,
+              21.878069
+            ],
+            [
+              -102.297882,
+              21.878459
+            ],
+            [
+              -102.297123,
+              21.878536
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 70657745,
+          "ref": "MEX 70",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 300,
+          "name": "Licenciado Adolfo Lopez Mateos",
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -102.304687,
+                21.876132
+              ],
+              [
+                -102.304514,
+                21.876181
+              ]
+            ],
+            [
+              [
+                -102.303755,
+                21.876474
+              ],
+              [
+                -102.304687,
+                21.876218
+              ]
+            ],
+            [
+              [
+                -102.304514,
+                21.876181
+              ],
+              [
+                -102.303738,
+                21.876399
+              ]
+            ],
+            [
+              [
+                -102.30318,
+                21.876632
+              ],
+              [
+                -102.30375,
+                21.876475
+              ]
+            ],
+            [
+              [
+                -102.303737,
+                21.876399
+              ],
+              [
+                -102.303158,
+                21.876561
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 215854999,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.300663,
+              21.874179
+            ],
+            [
+              -102.300487,
+              21.87414
+            ],
+            [
+              -102.30059,
+              21.873974
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 71321495,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Calle Antonio Acevedo E.",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.294937,
+              21.87978
+            ],
+            [
+              -102.295174,
+              21.879602
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 105294908,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "attraction",
+          "sort_key": 360,
+          "name": "Calle Nieto Principal",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.304673,
+              21.877439
+            ],
+            [
+              -102.303034,
+              21.878137
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 67146304,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Aracon",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.299683,
+              21.88189
+            ],
+            [
+              -102.299733,
+              21.881067
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

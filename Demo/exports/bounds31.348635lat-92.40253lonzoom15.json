@@ -1,0 +1,1650 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 54455211,
+          "area": 4524,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.406006,
+              31.35265
+            ],
+            [
+              -92.405954,
+              31.35275
+            ],
+            [
+              -92.405922,
+              31.353008
+            ],
+            [
+              -92.405832,
+              31.353019
+            ],
+            [
+              -92.405493,
+              31.352645
+            ],
+            [
+              -92.405493,
+              31.352491
+            ],
+            [
+              -92.405916,
+              31.352238
+            ],
+            [
+              -92.406006,
+              31.352218
+            ],
+            [
+              -92.406006,
+              31.35265
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 54454875,
+          "area": 3334,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.400975,
+              31.350466
+            ],
+            [
+              -92.400879,
+              31.350515
+            ],
+            [
+              -92.40054,
+              31.35051
+            ],
+            [
+              -92.400392,
+              31.350422
+            ],
+            [
+              -92.400476,
+              31.350081
+            ],
+            [
+              -92.400655,
+              31.34991
+            ],
+            [
+              -92.400969,
+              31.350345
+            ],
+            [
+              -92.400975,
+              31.350466
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 54055082,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.349949
+            ],
+            [
+              -92.405219,
+              31.349406
+            ],
+            [
+              -92.404027,
+              31.349048
+            ],
+            [
+              -92.40354,
+              31.348789
+            ],
+            [
+              -92.403149,
+              31.348387
+            ],
+            [
+              -92.403027,
+              31.348145
+            ],
+            [
+              -92.402976,
+              31.347502
+            ],
+            [
+              -92.402579,
+              31.346715
+            ],
+            [
+              -92.402567,
+              31.346396
+            ],
+            [
+              -92.40281,
+              31.345555
+            ],
+            [
+              -92.402804,
+              31.344493
+            ],
+            [
+              -92.402847,
+              31.344254
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54055438,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.402933,
+              31.353637
+            ],
+            [
+              -92.402961,
+              31.353574
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54378905,
+          "source": "openstreetmap.org",
+          "name": "Bayou Maria",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.402984,
+              31.353637
+            ],
+            [
+              -92.402961,
+              31.353574
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54379444,
+          "source": "openstreetmap.org",
+          "name": "Bayou Maria",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.402961,
+              31.353574
+            ],
+            [
+              -92.402667,
+              31.352804
+            ],
+            [
+              -92.40216,
+              31.352303
+            ],
+            [
+              -92.401821,
+              31.351852
+            ],
+            [
+              -92.401283,
+              31.3515
+            ],
+            [
+              -92.400533,
+              31.351307
+            ],
+            [
+              -92.4002,
+              31.351285
+            ],
+            [
+              -92.399347,
+              31.350966
+            ],
+            [
+              -92.398777,
+              31.350828
+            ],
+            [
+              -92.397335,
+              31.350877
+            ],
+            [
+              -92.396579,
+              31.351053
+            ],
+            [
+              -92.396278,
+              31.350998
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54379444,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Bayou Maria",
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.4002,
+            31.351285
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54383990,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.396457,
+              31.353637
+            ],
+            [
+              -92.39645,
+              31.353622
+            ],
+            [
+              -92.396501,
+              31.353088
+            ],
+            [
+              -92.39661,
+              31.352841
+            ],
+            [
+              -92.396591,
+              31.351966
+            ],
+            [
+              -92.396521,
+              31.351405
+            ],
+            [
+              -92.396278,
+              31.350998
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54397147,
+          "source": "openstreetmap.org",
+          "name": "Bayou Maria",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.396278,
+                31.350998
+              ],
+              [
+                -92.395868,
+                31.350574
+              ],
+              [
+                -92.395567,
+                31.350118
+              ],
+              [
+                -92.39502,
+                31.349493
+              ]
+            ],
+            [
+              [
+                -92.39502,
+                31.34839
+              ],
+              [
+                -92.395068,
+                31.348132
+              ],
+              [
+                -92.39502,
+                31.347426
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54455211,
+          "area": 4524,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.352649
+            ],
+            [
+              -92.405954,
+              31.35275
+            ],
+            [
+              -92.405923,
+              31.353008
+            ],
+            [
+              -92.405833,
+              31.353019
+            ],
+            [
+              -92.405493,
+              31.352645
+            ],
+            [
+              -92.405493,
+              31.352492
+            ],
+            [
+              -92.405916,
+              31.352238
+            ],
+            [
+              -92.406006,
+              31.352218
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 54454875,
+          "area": 3334,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.400975,
+              31.350466
+            ],
+            [
+              -92.40088,
+              31.350515
+            ],
+            [
+              -92.400539,
+              31.350509
+            ],
+            [
+              -92.400392,
+              31.350421
+            ],
+            [
+              -92.400475,
+              31.350081
+            ],
+            [
+              -92.400655,
+              31.34991
+            ],
+            [
+              -92.40097,
+              31.350345
+            ],
+            [
+              -92.400975,
+              31.350466
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.399453,
+              31.346027
+            ],
+            [
+              -92.399453,
+              31.346319
+            ],
+            [
+              -92.399154,
+              31.34631
+            ],
+            [
+              -92.399154,
+              31.34601
+            ],
+            [
+              -92.399453,
+              31.346027
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.39943,
+              31.347445
+            ],
+            [
+              -92.399224,
+              31.347453
+            ],
+            [
+              -92.399261,
+              31.347748
+            ],
+            [
+              -92.398961,
+              31.34775
+            ],
+            [
+              -92.39898,
+              31.346845
+            ],
+            [
+              -92.399304,
+              31.346849
+            ],
+            [
+              -92.39943,
+              31.347445
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "admin_level": 8,
+          "id:left": -132237,
+          "sort_key": 252,
+          "name": "Pineville",
+          "name:left": "Pineville",
+          "id:right": 34259651,
+          "osm_relation:left": true,
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.404977,
+              31.345847
+            ],
+            [
+              -92.40496,
+              31.346222
+            ],
+            [
+              -92.403004,
+              31.346396
+            ],
+            [
+              -92.403009,
+              31.345728
+            ],
+            [
+              -92.403599,
+              31.345354
+            ],
+            [
+              -92.403722,
+              31.345414
+            ],
+            [
+              -92.403833,
+              31.345324
+            ],
+            [
+              -92.404528,
+              31.345453
+            ],
+            [
+              -92.40451,
+              31.345713
+            ],
+            [
+              -92.404935,
+              31.34573
+            ],
+            [
+              -92.404977,
+              31.345847
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.399829,
+                31.353637
+              ],
+              [
+                -92.400217,
+                31.353006
+              ],
+              [
+                -92.400628,
+                31.352479
+              ],
+              [
+                -92.401577,
+                31.351598
+              ],
+              [
+                -92.401645,
+                31.351642
+              ],
+              [
+                -92.401775,
+                31.351486
+              ],
+              [
+                -92.404536,
+                31.350181
+              ],
+              [
+                -92.405036,
+                31.350481
+              ],
+              [
+                -92.405178,
+                31.350655
+              ],
+              [
+                -92.405539,
+                31.350706
+              ],
+              [
+                -92.40539,
+                31.351297
+              ],
+              [
+                -92.406006,
+                31.351318
+              ]
+            ],
+            [
+              [
+                -92.39502,
+                31.348435
+              ],
+              [
+                -92.395068,
+                31.348132
+              ],
+              [
+                -92.39502,
+                31.347337
+              ]
+            ],
+            [
+              [
+                -92.39502,
+                31.347293
+              ],
+              [
+                -92.395445,
+                31.347288
+              ],
+              [
+                -92.395595,
+                31.347402
+              ],
+              [
+                -92.395549,
+                31.347456
+              ],
+              [
+                -92.395621,
+                31.347532
+              ],
+              [
+                -92.395704,
+                31.347447
+              ],
+              [
+                -92.395945,
+                31.347573
+              ],
+              [
+                -92.396028,
+                31.34797
+              ],
+              [
+                -92.396532,
+                31.347971
+              ],
+              [
+                -92.396439,
+                31.348692
+              ],
+              [
+                -92.396223,
+                31.348666
+              ],
+              [
+                -92.395991,
+                31.34911
+              ],
+              [
+                -92.397042,
+                31.34943
+              ],
+              [
+                -92.397144,
+                31.349081
+              ],
+              [
+                -92.397586,
+                31.349228
+              ],
+              [
+                -92.397578,
+                31.35056
+              ],
+              [
+                -92.398358,
+                31.35056
+              ],
+              [
+                -92.398384,
+                31.351142
+              ],
+              [
+                -92.399322,
+                31.351177
+              ],
+              [
+                -92.399276,
+                31.352732
+              ],
+              [
+                -92.399996,
+                31.352739
+              ],
+              [
+                -92.399468,
+                31.353637
+              ]
+            ],
+            [
+              [
+                -92.398779,
+                31.353619
+              ],
+              [
+                -92.398758,
+                31.353478
+              ],
+              [
+                -92.398627,
+                31.353469
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.405177,
+              31.349013
+            ],
+            [
+              -92.405174,
+              31.349208
+            ],
+            [
+              -92.404325,
+              31.3489
+            ],
+            [
+              -92.404107,
+              31.348987
+            ],
+            [
+              -92.403952,
+              31.348901
+            ],
+            [
+              -92.404119,
+              31.348699
+            ],
+            [
+              -92.404814,
+              31.348578
+            ],
+            [
+              -92.40517,
+              31.348414
+            ],
+            [
+              -92.405177,
+              31.349013
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "admin_level": 8,
+          "id:left": -132237,
+          "sort_key": 252,
+          "name": "Pineville",
+          "name:left": "Pineville",
+          "id:right": 34259627,
+          "osm_relation:left": true,
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.396749,
+              31.348298
+            ],
+            [
+              -92.396737,
+              31.348469
+            ],
+            [
+              -92.39653,
+              31.348456
+            ],
+            [
+              -92.396525,
+              31.348286
+            ],
+            [
+              -92.396749,
+              31.348298
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.349294
+            ],
+            [
+              -92.405618,
+              31.349454
+            ],
+            [
+              -92.405606,
+              31.348153
+            ],
+            [
+              -92.40517,
+              31.348414
+            ],
+            [
+              -92.405172,
+              31.346804
+            ],
+            [
+              -92.405511,
+              31.346878
+            ],
+            [
+              -92.405467,
+              31.346365
+            ],
+            [
+              -92.405736,
+              31.346281
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "osm_relation": true,
+          "admin_level": 8,
+          "sort_key": 252,
+          "name": "Pineville",
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.405736,
+                31.346281
+              ],
+              [
+                -92.406006,
+                31.346141
+              ]
+            ],
+            [
+              [
+                -92.398782,
+                31.353637
+              ],
+              [
+                -92.398779,
+                31.353619
+              ]
+            ],
+            [
+              [
+                -92.398627,
+                31.353469
+              ],
+              [
+                -92.398628,
+                31.353637
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "admin_level": 8,
+          "id:left": -132237,
+          "sort_key": 252,
+          "name": "Pineville",
+          "name:left": "Pineville",
+          "id:right": 34234149,
+          "osm_relation:left": true,
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.398779,
+                31.353619
+              ],
+              [
+                -92.398782,
+                31.353637
+              ]
+            ],
+            [
+              [
+                -92.398628,
+                31.353637
+              ],
+              [
+                -92.398627,
+                31.353469
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -132237,
+          "admin_level": 8,
+          "id:left": -132237,
+          "sort_key": 252,
+          "name": "Pineville",
+          "name:left": "Pineville",
+          "id:right": 34248454,
+          "osm_relation:left": true,
+          "kind": "municipality"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.346141
+            ],
+            [
+              -92.405736,
+              31.346281
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [{
+      "properties": {
+        "id": 358374803,
+        "name": "Saint Michaels Episcopal Day School",
+        "min_zoom": 15,
+        "kind": "school"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.400163,
+          31.344478
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.39502,
+            31.344254
+          ],
+          [
+            -92.406006,
+            31.344254
+          ],
+          [
+            -92.406006,
+            31.353637
+          ],
+          [
+            -92.39502,
+            31.353637
+          ],
+          [
+            -92.39502,
+            31.344254
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 399093042,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.400941,
+                31.344812
+              ],
+              [
+                -92.402637,
+                31.344794
+              ],
+              [
+                -92.403224,
+                31.344555
+              ]
+            ],
+            [
+              [
+                -92.403224,
+                31.344555
+              ],
+              [
+                -92.405199,
+                31.344587
+              ],
+              [
+                -92.405433,
+                31.344725
+              ],
+              [
+                -92.406006,
+                31.345244
+              ]
+            ],
+            [
+              [
+                -92.403224,
+                31.344555
+              ],
+              [
+                -92.403214,
+                31.344254
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13418342,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Iris Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.405234,
+              31.349803
+            ],
+            [
+              -92.405185,
+              31.345624
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13429809,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Willis Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.398476,
+              31.348186
+            ],
+            [
+              -92.39845,
+              31.350246
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13418778,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Ron Mar Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.40258,
+              31.349146
+            ],
+            [
+              -92.399944,
+              31.349158
+            ],
+            [
+              -92.399763,
+              31.34922
+            ],
+            [
+              -92.399686,
+              31.349352
+            ],
+            [
+              -92.399643,
+              31.349997
+            ],
+            [
+              -92.399678,
+              31.350385
+            ],
+            [
+              -92.399867,
+              31.350561
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13425626,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Ivy Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.402086,
+              31.347962
+            ],
+            [
+              -92.399515,
+              31.347923
+            ],
+            [
+              -92.39912,
+              31.347945
+            ],
+            [
+              -92.398476,
+              31.348186
+            ],
+            [
+              -92.396605,
+              31.348165
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13419871,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Walker Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.399014,
+              31.353509
+            ],
+            [
+              -92.396877,
+              31.353457
+            ],
+            [
+              -92.396154,
+              31.353612
+            ],
+            [
+              -92.395182,
+              31.353598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13431241,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Tamagin Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.401205,
+              31.349132
+            ],
+            [
+              -92.401746,
+              31.350224
+            ],
+            [
+              -92.401926,
+              31.350759
+            ],
+            [
+              -92.402285,
+              31.351125
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427064,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Donahue Ferry Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.349474
+            ],
+            [
+              -92.40336,
+              31.350561
+            ],
+            [
+              -92.402285,
+              31.351125
+            ],
+            [
+              -92.401598,
+              31.351597
+            ],
+            [
+              -92.400944,
+              31.352184
+            ],
+            [
+              -92.400348,
+              31.352873
+            ],
+            [
+              -92.399874,
+              31.353637
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13431067,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Agnes Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.401143,
+              31.345572
+            ],
+            [
+              -92.397605,
+              31.345569
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 88823720,
+          "ref": "LA 3144",
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "Edgewood Dr.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.406006,
+              31.351341
+            ],
+            [
+              -92.405256,
+              31.351294
+            ],
+            [
+              -92.404048,
+              31.350942
+            ],
+            [
+              -92.403538,
+              31.350693
+            ],
+            [
+              -92.403081,
+              31.350241
+            ],
+            [
+              -92.4029,
+              31.349958
+            ],
+            [
+              -92.402086,
+              31.347962
+            ],
+            [
+              -92.400643,
+              31.344254
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430879,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Walker Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.399014,
+              31.353509
+            ],
+            [
+              -92.399009,
+              31.353637
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427354,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Anna Ln; Margaret Blvd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.401583,
+              31.346698
+            ],
+            [
+              -92.397618,
+              31.346698
+            ],
+            [
+              -92.397429,
+              31.34686
+            ],
+            [
+              -92.397429,
+              31.34749
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426131,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Leonard Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.400647,
+                31.352504
+              ],
+              [
+                -92.399127,
+                31.35249
+              ],
+              [
+                -92.398771,
+                31.352273
+              ]
+            ],
+            [
+              [
+                -92.398771,
+                31.352273
+              ],
+              [
+                -92.398535,
+                31.351681
+              ]
+            ],
+            [
+              [
+                -92.395199,
+                31.352201
+              ],
+              [
+                -92.398771,
+                31.352273
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13422931,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Dejean Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.405189,
+              31.349462
+            ],
+            [
+              -92.404458,
+              31.349204
+            ],
+            [
+              -92.40409,
+              31.349011
+            ],
+            [
+              -92.403951,
+              31.348838
+            ],
+            [
+              -92.40393,
+              31.348472
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

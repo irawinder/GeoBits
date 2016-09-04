@@ -1,0 +1,6951 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 314053328,
+          "area": 99926,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98797,
+              33.54957
+            ],
+            [
+              -112.98564,
+              33.55135
+            ],
+            [
+              -112.98343,
+              33.55148
+            ],
+            [
+              -112.9858,
+              33.54932
+            ],
+            [
+              -112.98797,
+              33.54957
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053330,
+          "area": 97107,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98736,
+              33.5476
+            ],
+            [
+              -112.98489,
+              33.54832
+            ],
+            [
+              -112.98272,
+              33.54961
+            ],
+            [
+              -112.98455,
+              33.54698
+            ],
+            [
+              -112.98736,
+              33.5476
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053325,
+          "area": 95431,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98857,
+              33.55257
+            ],
+            [
+              -112.98443,
+              33.55556
+            ],
+            [
+              -112.98356,
+              33.55444
+            ],
+            [
+              -112.98737,
+              33.55214
+            ],
+            [
+              -112.98857,
+              33.55257
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053336,
+          "area": 91907,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98694,
+              33.54626
+            ],
+            [
+              -112.98433,
+              33.54695
+            ],
+            [
+              -112.9822,
+              33.54831
+            ],
+            [
+              -112.98395,
+              33.54578
+            ],
+            [
+              -112.98694,
+              33.54626
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053329,
+          "area": 91832,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98503,
+              33.55883
+            ],
+            [
+              -112.98069,
+              33.55994
+            ],
+            [
+              -112.98055,
+              33.55969
+            ],
+            [
+              -112.9839,
+              33.55772
+            ],
+            [
+              -112.98503,
+              33.55883
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053333,
+          "area": 88585,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98191,
+              33.56428
+            ],
+            [
+              -112.97708,
+              33.56456
+            ],
+            [
+              -112.97625,
+              33.56442
+            ],
+            [
+              -112.97851,
+              33.56321
+            ],
+            [
+              -112.98191,
+              33.56428
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053322,
+          "area": 87638,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98857,
+              33.55442
+            ],
+            [
+              -112.98529,
+              33.5567
+            ],
+            [
+              -112.98452,
+              33.55567
+            ],
+            [
+              -112.98833,
+              33.55296
+            ],
+            [
+              -112.98857,
+              33.55442
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053332,
+          "area": 87407,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98131,
+              33.56317
+            ],
+            [
+              -112.97639,
+              33.56361
+            ],
+            [
+              -112.97628,
+              33.56279
+            ],
+            [
+              -112.98056,
+              33.56193
+            ],
+            [
+              -112.98131,
+              33.56317
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053334,
+          "area": 85039,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98684,
+              33.54519
+            ],
+            [
+              -112.98188,
+              33.54706
+            ],
+            [
+              -112.98114,
+              33.54616
+            ],
+            [
+              -112.98301,
+              33.54476
+            ],
+            [
+              -112.98684,
+              33.54519
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053320,
+          "area": 83236,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98604,
+              33.56183
+            ],
+            [
+              -112.98217,
+              33.56289
+            ],
+            [
+              -112.98162,
+              33.5618
+            ],
+            [
+              -112.98519,
+              33.56056
+            ],
+            [
+              -112.98604,
+              33.56183
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053323,
+          "area": 79629,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98783,
+              33.54875
+            ],
+            [
+              -112.98578,
+              33.54922
+            ],
+            [
+              -112.98308,
+              33.55061
+            ],
+            [
+              -112.98497,
+              33.54842
+            ],
+            [
+              -112.98783,
+              33.54875
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053331,
+          "area": 76390,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98755,
+              33.5627
+            ],
+            [
+              -112.98275,
+              33.56402
+            ],
+            [
+              -112.9823,
+              33.56316
+            ],
+            [
+              -112.98674,
+              33.56198
+            ],
+            [
+              -112.98755,
+              33.5627
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053339,
+          "area": 69912,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98513,
+              33.56046
+            ],
+            [
+              -112.98157,
+              33.56169
+            ],
+            [
+              -112.98093,
+              33.56044
+            ],
+            [
+              -112.98442,
+              33.55956
+            ],
+            [
+              -112.98513,
+              33.56046
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053327,
+          "area": 68496,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.97995,
+              33.56049
+            ],
+            [
+              -112.97799,
+              33.56064
+            ],
+            [
+              -112.97627,
+              33.56124
+            ],
+            [
+              -112.97711,
+              33.55943
+            ],
+            [
+              -112.97995,
+              33.56049
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053341,
+          "area": 66432,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98856,
+              33.55643
+            ],
+            [
+              -112.98609,
+              33.55774
+            ],
+            [
+              -112.98541,
+              33.55688
+            ],
+            [
+              -112.98853,
+              33.5547
+            ],
+            [
+              -112.98856,
+              33.55643
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053335,
+          "area": 62325,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.9806,
+              33.5617
+            ],
+            [
+              -112.97809,
+              33.56169
+            ],
+            [
+              -112.97629,
+              33.56239
+            ],
+            [
+              -112.97789,
+              33.56076
+            ],
+            [
+              -112.9806,
+              33.5617
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053324,
+          "area": 55886,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98857,
+              33.55819
+            ],
+            [
+              -112.98647,
+              33.55926
+            ],
+            [
+              -112.98611,
+              33.55919
+            ],
+            [
+              -112.98856,
+              33.55663
+            ],
+            [
+              -112.98857,
+              33.55819
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053326,
+          "area": 53902,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.9862,
+              33.55255
+            ],
+            [
+              -112.98365,
+              33.55414
+            ],
+            [
+              -112.98327,
+              33.55416
+            ],
+            [
+              -112.98344,
+              33.5526
+            ],
+            [
+              -112.9862,
+              33.55255
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 28686655,
+          "source": "openstreetmap.org",
+          "name": "Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.02033,
+              33.43337
+            ],
+            [
+              -113.01785,
+              33.43222
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28801477,
+          "source": "openstreetmap.org",
+          "name": "Central Arizona Project Canal",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.20312,
+              33.58686
+            ],
+            [
+              -113.1894,
+              33.58827
+            ],
+            [
+              -113.15938,
+              33.58593
+            ],
+            [
+              -113.14796,
+              33.57849
+            ],
+            [
+              -113.13383,
+              33.57342
+            ],
+            [
+              -113.12519,
+              33.57227
+            ],
+            [
+              -113.11356,
+              33.56699
+            ],
+            [
+              -113.11179,
+              33.56197
+            ],
+            [
+              -113.10175,
+              33.55554
+            ],
+            [
+              -113.09633,
+              33.5465
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28801506,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.18912,
+              33.58827
+            ],
+            [
+              -113.18228,
+              33.57967
+            ],
+            [
+              -113.16463,
+              33.54335
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28801638,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Central Arizona Project Canal",
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09633,
+              33.5465
+            ],
+            [
+              -113.08982,
+              33.54122
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28801639,
+          "source": "openstreetmap.org",
+          "name": "Central Arizona Project Canal",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08982,
+              33.54122
+            ],
+            [
+              -113.07046,
+              33.53319
+            ],
+            [
+              -113.06303,
+              33.53298
+            ],
+            [
+              -113.05694,
+              33.53716
+            ],
+            [
+              -113.05578,
+              33.5416
+            ],
+            [
+              -113.04977,
+              33.5416
+            ],
+            [
+              -113.01922,
+              33.55176
+            ],
+            [
+              -113.01321,
+              33.55616
+            ],
+            [
+              -112.95192,
+              33.57568
+            ],
+            [
+              -112.93617,
+              33.58283
+            ],
+            [
+              -112.92708,
+              33.58337
+            ],
+            [
+              -112.91699,
+              33.58723
+            ],
+            [
+              -112.90721,
+              33.59449
+            ],
+            [
+              -112.89111,
+              33.59402
+            ],
+            [
+              -112.8779,
+              33.59713
+            ],
+            [
+              -112.8715,
+              33.59416
+            ],
+            [
+              -112.8609,
+              33.59835
+            ],
+            [
+              -112.85249,
+              33.59559
+            ],
+            [
+              -112.85156,
+              33.59582
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433835,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "is_tunnel": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09728,
+              33.54881
+            ],
+            [
+              -113.09876,
+              33.54838
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433836,
+          "source": "openstreetmap.org",
+          "name": "Harquahala Diversion Channel",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09694,
+              33.54976
+            ],
+            [
+              -113.09728,
+              33.54881
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433837,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09876,
+              33.54838
+            ],
+            [
+              -113.11126,
+              33.54013
+            ],
+            [
+              -113.12228,
+              33.52876
+            ],
+            [
+              -113.10713,
+              33.52391
+            ],
+            [
+              -113.09894,
+              33.51631
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433851,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "intermittent": "yes",
+          "is_tunnel": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07252,
+              33.46665
+            ],
+            [
+              -113.07275,
+              33.46658
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433855,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09894,
+              33.51631
+            ],
+            [
+              -113.08701,
+              33.50014
+            ],
+            [
+              -113.06627,
+              33.48036
+            ],
+            [
+              -113.06616,
+              33.47155
+            ],
+            [
+              -113.07252,
+              33.46665
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433856,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16263,
+              33.5367
+            ],
+            [
+              -113.16249,
+              33.5367
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433858,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.17134,
+              33.55713
+            ],
+            [
+              -113.19113,
+              33.55235
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433859,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07275,
+              33.46658
+            ],
+            [
+              -113.07482,
+              33.46447
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 195433861,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Harquahala Diversion Channel",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07482,
+              33.46447
+            ],
+            [
+              -113.08781,
+              33.45537
+            ],
+            [
+              -113.09698,
+              33.44525
+            ],
+            [
+              -113.09792,
+              33.43144
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205969324,
+          "source": "openstreetmap.org",
+          "name": "Dead Horse Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07737,
+              33.72332
+            ],
+            [
+              -113.07809,
+              33.72434
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616821,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.20298,
+              33.53699
+            ],
+            [
+              -113.1979,
+              33.53699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616823,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19025,
+              33.53698
+            ],
+            [
+              -113.18761,
+              33.53714
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616824,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09339,
+              33.50792
+            ],
+            [
+              -113.093,
+              33.47931
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616825,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16383,
+              33.53864
+            ],
+            [
+              -113.16264,
+              33.53592
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616827,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.14413,
+              33.5289
+            ],
+            [
+              -113.13164,
+              33.52309
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616828,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.18746,
+              33.53714
+            ],
+            [
+              -113.17872,
+              33.53714
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616830,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19113,
+              33.55235
+            ],
+            [
+              -113.19133,
+              33.55199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616832,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19669,
+              33.53699
+            ],
+            [
+              -113.19649,
+              33.53699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616834,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.18761,
+              33.53714
+            ],
+            [
+              -113.18746,
+              33.53714
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616835,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.13164,
+              33.52309
+            ],
+            [
+              -113.13083,
+              33.5231
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616837,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.14504,
+              33.52935
+            ],
+            [
+              -113.14413,
+              33.5289
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616838,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.20312,
+              33.53698
+            ],
+            [
+              -113.20298,
+              33.53699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616839,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.1979,
+              33.53699
+            ],
+            [
+              -113.19764,
+              33.53699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616840,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19052,
+              33.53698
+            ],
+            [
+              -113.19025,
+              33.53698
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616841,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16463,
+              33.54335
+            ],
+            [
+              -113.16444,
+              33.54293
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616842,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16249,
+              33.5367
+            ],
+            [
+              -113.16172,
+              33.53669
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616843,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16329,
+              33.54039
+            ],
+            [
+              -113.16383,
+              33.53864
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616844,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09365,
+              33.50835
+            ],
+            [
+              -113.09339,
+              33.50792
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616847,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19133,
+              33.55199
+            ],
+            [
+              -113.20312,
+              33.54812
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616848,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19764,
+              33.53699
+            ],
+            [
+              -113.19669,
+              33.53699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616849,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16172,
+              33.53669
+            ],
+            [
+              -113.14504,
+              33.52935
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616851,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.13083,
+              33.5231
+            ],
+            [
+              -113.12715,
+              33.52305
+            ],
+            [
+              -113.12264,
+              33.5193
+            ],
+            [
+              -113.11148,
+              33.51588
+            ],
+            [
+              -113.10267,
+              33.51567
+            ],
+            [
+              -113.09365,
+              33.50835
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616852,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.16444,
+              33.54293
+            ],
+            [
+              -113.16329,
+              33.54039
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229616853,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.19649,
+              33.53699
+            ],
+            [
+              -113.19052,
+              33.53698
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314198082,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.00131,
+              33.43486
+            ],
+            [
+              -112.99193,
+              33.43144
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236188,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.093,
+              33.47885
+            ],
+            [
+              -113.09302,
+              33.46482
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236190,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09214,
+              33.50066
+            ],
+            [
+              -113.08805,
+              33.49372
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236192,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08792,
+              33.49353
+            ],
+            [
+              -113.07555,
+              33.47927
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236204,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08841,
+              33.4753
+            ],
+            [
+              -113.08829,
+              33.4753
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236206,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08805,
+              33.49372
+            ],
+            [
+              -113.08792,
+              33.49353
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236207,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09235,
+              33.50067
+            ],
+            [
+              -113.09214,
+              33.50066
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236209,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09238,
+              33.50067
+            ],
+            [
+              -113.09235,
+              33.50067
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236212,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.093,
+              33.47931
+            ],
+            [
+              -113.093,
+              33.47885
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236214,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07977,
+              33.46484
+            ],
+            [
+              -113.07988,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236219,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08408,
+              33.47535
+            ],
+            [
+              -113.08409,
+              33.47526
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236222,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09332,
+              33.46445
+            ],
+            [
+              -113.09702,
+              33.46444
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236224,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07549,
+              33.47209
+            ],
+            [
+              -113.07557,
+              33.47208
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236226,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07988,
+              33.46484
+            ],
+            [
+              -113.08403,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236227,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08403,
+              33.46484
+            ],
+            [
+              -113.08414,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236229,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09298,
+              33.47524
+            ],
+            [
+              -113.08841,
+              33.4753
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236233,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07555,
+              33.47927
+            ],
+            [
+              -113.07547,
+              33.47898
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236235,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08414,
+              33.46484
+            ],
+            [
+              -113.08837,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236237,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "is_tunnel": "yes",
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.09302,
+              33.46482
+            ],
+            [
+              -113.09332,
+              33.46445
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236239,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08829,
+              33.4753
+            ],
+            [
+              -113.07967,
+              33.47541
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236248,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07557,
+              33.47208
+            ],
+            [
+              -113.07977,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236249,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.07547,
+              33.47898
+            ],
+            [
+              -113.07549,
+              33.47209
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 334236251,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.08409,
+              33.47526
+            ],
+            [
+              -113.08415,
+              33.46484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053328,
+          "area": 99926,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98797,
+              33.54957
+            ],
+            [
+              -112.98564,
+              33.55135
+            ],
+            [
+              -112.98343,
+              33.55148
+            ],
+            [
+              -112.9858,
+              33.54932
+            ],
+            [
+              -112.98797,
+              33.54957
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053330,
+          "area": 97107,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98736,
+              33.5476
+            ],
+            [
+              -112.98489,
+              33.54832
+            ],
+            [
+              -112.98272,
+              33.54961
+            ],
+            [
+              -112.98455,
+              33.54698
+            ],
+            [
+              -112.98736,
+              33.5476
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053325,
+          "area": 95431,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98857,
+              33.55257
+            ],
+            [
+              -112.98443,
+              33.55556
+            ],
+            [
+              -112.98356,
+              33.55444
+            ],
+            [
+              -112.98737,
+              33.55214
+            ],
+            [
+              -112.98857,
+              33.55257
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053336,
+          "area": 91907,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98694,
+              33.54626
+            ],
+            [
+              -112.98433,
+              33.54695
+            ],
+            [
+              -112.9822,
+              33.54831
+            ],
+            [
+              -112.98395,
+              33.54578
+            ],
+            [
+              -112.98694,
+              33.54626
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053329,
+          "area": 91832,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98503,
+              33.55883
+            ],
+            [
+              -112.98069,
+              33.55994
+            ],
+            [
+              -112.98055,
+              33.55969
+            ],
+            [
+              -112.9839,
+              33.55772
+            ],
+            [
+              -112.98503,
+              33.55883
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053333,
+          "area": 88585,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98191,
+              33.56428
+            ],
+            [
+              -112.97708,
+              33.56456
+            ],
+            [
+              -112.97625,
+              33.56442
+            ],
+            [
+              -112.97851,
+              33.56321
+            ],
+            [
+              -112.98191,
+              33.56428
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053322,
+          "area": 87638,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98857,
+              33.55442
+            ],
+            [
+              -112.98529,
+              33.5567
+            ],
+            [
+              -112.98452,
+              33.55567
+            ],
+            [
+              -112.98833,
+              33.55296
+            ],
+            [
+              -112.98857,
+              33.55442
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053332,
+          "area": 87407,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98131,
+              33.56317
+            ],
+            [
+              -112.97843,
+              33.56307
+            ],
+            [
+              -112.97628,
+              33.56354
+            ],
+            [
+              -112.97807,
+              33.56181
+            ],
+            [
+              -112.98131,
+              33.56317
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053334,
+          "area": 85039,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98684,
+              33.54519
+            ],
+            [
+              -112.98188,
+              33.54706
+            ],
+            [
+              -112.98114,
+              33.54616
+            ],
+            [
+              -112.98301,
+              33.54476
+            ],
+            [
+              -112.98684,
+              33.54519
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053320,
+          "area": 83236,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98604,
+              33.56183
+            ],
+            [
+              -112.98217,
+              33.56289
+            ],
+            [
+              -112.98162,
+              33.5618
+            ],
+            [
+              -112.98519,
+              33.56056
+            ],
+            [
+              -112.98604,
+              33.56183
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053323,
+          "area": 79629,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98783,
+              33.54875
+            ],
+            [
+              -112.98578,
+              33.54922
+            ],
+            [
+              -112.98308,
+              33.55061
+            ],
+            [
+              -112.98497,
+              33.54842
+            ],
+            [
+              -112.98783,
+              33.54875
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053331,
+          "area": 76390,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98755,
+              33.5627
+            ],
+            [
+              -112.98275,
+              33.56402
+            ],
+            [
+              -112.9823,
+              33.56316
+            ],
+            [
+              -112.98674,
+              33.56198
+            ],
+            [
+              -112.98755,
+              33.5627
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053339,
+          "area": 69912,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98513,
+              33.56046
+            ],
+            [
+              -112.98157,
+              33.56169
+            ],
+            [
+              -112.98093,
+              33.56044
+            ],
+            [
+              -112.98442,
+              33.55956
+            ],
+            [
+              -112.98513,
+              33.56046
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053327,
+          "area": 68496,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.97995,
+              33.56049
+            ],
+            [
+              -112.97799,
+              33.56064
+            ],
+            [
+              -112.97627,
+              33.56124
+            ],
+            [
+              -112.97711,
+              33.55943
+            ],
+            [
+              -112.97995,
+              33.56049
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053341,
+          "area": 66432,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98856,
+              33.55643
+            ],
+            [
+              -112.98609,
+              33.55774
+            ],
+            [
+              -112.98541,
+              33.55688
+            ],
+            [
+              -112.98853,
+              33.5547
+            ],
+            [
+              -112.98856,
+              33.55643
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053335,
+          "area": 62325,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.9806,
+              33.5617
+            ],
+            [
+              -112.97809,
+              33.56169
+            ],
+            [
+              -112.97629,
+              33.56239
+            ],
+            [
+              -112.97789,
+              33.56076
+            ],
+            [
+              -112.9806,
+              33.5617
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053324,
+          "area": 55886,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.98857,
+              33.55819
+            ],
+            [
+              -112.98648,
+              33.55926
+            ],
+            [
+              -112.98611,
+              33.55919
+            ],
+            [
+              -112.98856,
+              33.55663
+            ],
+            [
+              -112.98857,
+              33.55819
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053326,
+          "area": 53902,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.9862,
+              33.55255
+            ],
+            [
+              -112.98365,
+              33.55414
+            ],
+            [
+              -112.98326,
+              33.55416
+            ],
+            [
+              -112.98344,
+              33.5526
+            ],
+            [
+              -112.9862,
+              33.55255
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [{
+      "properties": {
+        "id": 33007329,
+        "admin_level": 8,
+        "id:left": 33007329,
+        "sort_key": 252,
+        "name": "Buckeye",
+        "osm_relation:right": true,
+        "id:right": -110795,
+        "kind": "municipality"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.85156,
+            33.66734
+          ],
+          [
+            -112.85819,
+            33.66725
+          ],
+          [
+            -112.85824,
+            33.66512
+          ],
+          [
+            -112.85728,
+            33.62428
+          ],
+          [
+            -112.85156,
+            33.62427
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": -5833514,
+          "osm_relation": true,
+          "area": 184092000,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Hummingbird Springs Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.52807,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.17163,
+              33.66759
+            ],
+            [
+              -113.1662,
+              33.6742
+            ],
+            [
+              -113.16165,
+              33.69292
+            ],
+            [
+              -113.15301,
+              33.69663
+            ],
+            [
+              -113.15186,
+              33.69995
+            ],
+            [
+              -113.15546,
+              33.70897
+            ],
+            [
+              -113.14865,
+              33.71782
+            ],
+            [
+              -113.15199,
+              33.7223
+            ],
+            [
+              -113.14695,
+              33.72434
+            ],
+            [
+              -113.12536,
+              33.72434
+            ],
+            [
+              -113.11257,
+              33.71887
+            ],
+            [
+              -113.10653,
+              33.72434
+            ],
+            [
+              -113.09299,
+              33.72434
+            ],
+            [
+              -113.09257,
+              33.72425
+            ],
+            [
+              -113.08558,
+              33.7154
+            ],
+            [
+              -113.0854,
+              33.70991
+            ],
+            [
+              -113.09202,
+              33.70277
+            ],
+            [
+              -113.0898,
+              33.69898
+            ],
+            [
+              -113.09278,
+              33.69284
+            ],
+            [
+              -113.09186,
+              33.68997
+            ],
+            [
+              -113.0936,
+              33.69182
+            ],
+            [
+              -113.09399,
+              33.6907
+            ],
+            [
+              -113.09205,
+              33.68957
+            ],
+            [
+              -113.0891,
+              33.69013
+            ],
+            [
+              -113.08456,
+              33.69911
+            ],
+            [
+              -113.07995,
+              33.70154
+            ],
+            [
+              -113.08344,
+              33.70749
+            ],
+            [
+              -113.08287,
+              33.71124
+            ],
+            [
+              -113.0513,
+              33.71133
+            ],
+            [
+              -113.04569,
+              33.70194
+            ],
+            [
+              -113.03079,
+              33.69266
+            ],
+            [
+              -113.02632,
+              33.69242
+            ],
+            [
+              -113.0193,
+              33.6838
+            ],
+            [
+              -113.01985,
+              33.67915
+            ],
+            [
+              -113.01635,
+              33.67481
+            ],
+            [
+              -113.01616,
+              33.66836
+            ],
+            [
+              -113.00632,
+              33.65798
+            ],
+            [
+              -113.00627,
+              33.64995
+            ],
+            [
+              -113.01073,
+              33.64996
+            ],
+            [
+              -113.01497,
+              33.64611
+            ],
+            [
+              -113.02073,
+              33.65057
+            ],
+            [
+              -113.02651,
+              33.64628
+            ],
+            [
+              -113.01406,
+              33.6294
+            ],
+            [
+              -113.02353,
+              33.6101
+            ],
+            [
+              -113.05757,
+              33.58104
+            ],
+            [
+              -113.06403,
+              33.59536
+            ],
+            [
+              -113.0587,
+              33.59945
+            ],
+            [
+              -113.06188,
+              33.59901
+            ],
+            [
+              -113.06441,
+              33.59592
+            ],
+            [
+              -113.06801,
+              33.60295
+            ],
+            [
+              -113.065,
+              33.60343
+            ],
+            [
+              -113.06275,
+              33.60703
+            ],
+            [
+              -113.06477,
+              33.62044
+            ],
+            [
+              -113.06776,
+              33.6311
+            ],
+            [
+              -113.06342,
+              33.60709
+            ],
+            [
+              -113.0654,
+              33.60386
+            ],
+            [
+              -113.06837,
+              33.60331
+            ],
+            [
+              -113.07922,
+              33.61584
+            ],
+            [
+              -113.09219,
+              33.62224
+            ],
+            [
+              -113.09558,
+              33.62774
+            ],
+            [
+              -113.10397,
+              33.63011
+            ],
+            [
+              -113.1017,
+              33.64361
+            ],
+            [
+              -113.09921,
+              33.64489
+            ],
+            [
+              -113.09315,
+              33.6574
+            ],
+            [
+              -113.09606,
+              33.65514
+            ],
+            [
+              -113.09979,
+              33.64497
+            ],
+            [
+              -113.11054,
+              33.64311
+            ],
+            [
+              -113.11551,
+              33.64534
+            ],
+            [
+              -113.12208,
+              33.65399
+            ],
+            [
+              -113.13193,
+              33.65759
+            ],
+            [
+              -113.13762,
+              33.66187
+            ],
+            [
+              -113.15953,
+              33.66772
+            ],
+            [
+              -113.17163,
+              33.66759
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833514,
+          "osm_relation": true,
+          "area": 184092000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Hummingbird Springs Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.52807,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.05102,
+            33.65364
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833511,
+          "osm_relation": true,
+          "area": 122593000,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Big Horn Mountains Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.82135,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.20312,
+              33.65691
+            ],
+            [
+              -113.19798,
+              33.65916
+            ],
+            [
+              -113.19835,
+              33.66755
+            ],
+            [
+              -113.17836,
+              33.66847
+            ],
+            [
+              -113.16477,
+              33.66647
+            ],
+            [
+              -113.16008,
+              33.66741
+            ],
+            [
+              -113.15548,
+              33.66569
+            ],
+            [
+              -113.14886,
+              33.6603
+            ],
+            [
+              -113.14726,
+              33.65399
+            ],
+            [
+              -113.15194,
+              33.64843
+            ],
+            [
+              -113.15346,
+              33.64033
+            ],
+            [
+              -113.14416,
+              33.63865
+            ],
+            [
+              -113.13819,
+              33.64489
+            ],
+            [
+              -113.13826,
+              33.64282
+            ],
+            [
+              -113.13382,
+              33.64058
+            ],
+            [
+              -113.13016,
+              33.63236
+            ],
+            [
+              -113.12144,
+              33.63506
+            ],
+            [
+              -113.12378,
+              33.62907
+            ],
+            [
+              -113.12044,
+              33.62971
+            ],
+            [
+              -113.11838,
+              33.63336
+            ],
+            [
+              -113.11163,
+              33.63165
+            ],
+            [
+              -113.11549,
+              33.62853
+            ],
+            [
+              -113.11082,
+              33.63169
+            ],
+            [
+              -113.096,
+              33.62734
+            ],
+            [
+              -113.09256,
+              33.6218
+            ],
+            [
+              -113.08471,
+              33.61616
+            ],
+            [
+              -113.07958,
+              33.61554
+            ],
+            [
+              -113.07433,
+              33.60762
+            ],
+            [
+              -113.06693,
+              33.6016
+            ],
+            [
+              -113.05788,
+              33.58072
+            ],
+            [
+              -113.0662,
+              33.57354
+            ],
+            [
+              -113.09287,
+              33.57356
+            ],
+            [
+              -113.09274,
+              33.56628
+            ],
+            [
+              -113.10802,
+              33.56614
+            ],
+            [
+              -113.10807,
+              33.56822
+            ],
+            [
+              -113.11433,
+              33.56963
+            ],
+            [
+              -113.11596,
+              33.57322
+            ],
+            [
+              -113.12128,
+              33.5748
+            ],
+            [
+              -113.12321,
+              33.57777
+            ],
+            [
+              -113.13198,
+              33.5776
+            ],
+            [
+              -113.132,
+              33.57919
+            ],
+            [
+              -113.13826,
+              33.57922
+            ],
+            [
+              -113.1382,
+              33.58076
+            ],
+            [
+              -113.14461,
+              33.58064
+            ],
+            [
+              -113.14464,
+              33.5828
+            ],
+            [
+              -113.15023,
+              33.58278
+            ],
+            [
+              -113.15178,
+              33.59059
+            ],
+            [
+              -113.15887,
+              33.59059
+            ],
+            [
+              -113.16203,
+              33.59526
+            ],
+            [
+              -113.17047,
+              33.59528
+            ],
+            [
+              -113.17037,
+              33.60245
+            ],
+            [
+              -113.17949,
+              33.60239
+            ],
+            [
+              -113.17943,
+              33.59531
+            ],
+            [
+              -113.18924,
+              33.5953
+            ],
+            [
+              -113.20312,
+              33.62295
+            ],
+            [
+              -113.20312,
+              33.65691
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833511,
+          "osm_relation": true,
+          "area": 122593000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Big Horn Mountains Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.82135,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.14298,
+            33.61734
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267538,
+          "area": 9932110,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16195,
+              33.51901
+            ],
+            [
+              -113.16194,
+              33.52124
+            ],
+            [
+              -113.15826,
+              33.52101
+            ],
+            [
+              -113.16193,
+              33.52624
+            ],
+            [
+              -113.16106,
+              33.53661
+            ],
+            [
+              -113.1449,
+              33.5292
+            ],
+            [
+              -113.14483,
+              33.49355
+            ],
+            [
+              -113.16194,
+              33.49371
+            ],
+            [
+              -113.16195,
+              33.51901
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992764,
+          "area": 8805160,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.898,
+              33.52586
+            ],
+            [
+              -112.898,
+              33.53003
+            ],
+            [
+              -112.88503,
+              33.5299
+            ],
+            [
+              -112.88503,
+              33.536
+            ],
+            [
+              -112.88112,
+              33.53716
+            ],
+            [
+              -112.88504,
+              33.53715
+            ],
+            [
+              -112.8851,
+              33.5445
+            ],
+            [
+              -112.877,
+              33.54451
+            ],
+            [
+              -112.87643,
+              33.53717
+            ],
+            [
+              -112.86787,
+              33.53712
+            ],
+            [
+              -112.86795,
+              33.52287
+            ],
+            [
+              -112.87149,
+              33.52281
+            ],
+            [
+              -112.87149,
+              33.52602
+            ],
+            [
+              -112.87342,
+              33.52606
+            ],
+            [
+              -112.87617,
+              33.52269
+            ],
+            [
+              -112.88502,
+              33.52267
+            ],
+            [
+              -112.88502,
+              33.51547
+            ],
+            [
+              -112.87693,
+              33.51548
+            ],
+            [
+              -112.87637,
+              33.50828
+            ],
+            [
+              -112.89373,
+              33.50851
+            ],
+            [
+              -112.89358,
+              33.51557
+            ],
+            [
+              -112.89623,
+              33.51685
+            ],
+            [
+              -112.898,
+              33.52586
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887925,
+          "area": 6926450,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.14462,
+              33.49342
+            ],
+            [
+              -113.12767,
+              33.49304
+            ],
+            [
+              -113.12753,
+              33.46776
+            ],
+            [
+              -113.13589,
+              33.46774
+            ],
+            [
+              -113.12776,
+              33.46762
+            ],
+            [
+              -113.1278,
+              33.46515
+            ],
+            [
+              -113.14404,
+              33.46515
+            ],
+            [
+              -113.14462,
+              33.49342
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338484092,
+          "area": 5425280,
+          "source": "openstreetmap.org",
+          "sort_key": 38,
+          "min_zoom": 9,
+          "kind": "farmland"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.14455,
+              33.43144
+            ],
+            [
+              -113.14454,
+              33.4354
+            ],
+            [
+              -113.13242,
+              33.43509
+            ],
+            [
+              -113.13124,
+              33.43198
+            ],
+            [
+              -113.1312,
+              33.43545
+            ],
+            [
+              -113.12733,
+              33.43543
+            ],
+            [
+              -113.12733,
+              33.43144
+            ],
+            [
+              -113.14455,
+              33.43144
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267523,
+          "area": 5386510,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.18849,
+              33.52299
+            ],
+            [
+              -113.1878,
+              33.53708
+            ],
+            [
+              -113.16294,
+              33.53712
+            ],
+            [
+              -113.16272,
+              33.52296
+            ],
+            [
+              -113.18849,
+              33.52299
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338071508,
+          "area": 5286050,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16177,
+              33.48875
+            ],
+            [
+              -113.16109,
+              33.49324
+            ],
+            [
+              -113.14485,
+              33.49342
+            ],
+            [
+              -113.145,
+              33.47185
+            ],
+            [
+              -113.16149,
+              33.47193
+            ],
+            [
+              -113.16177,
+              33.48875
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570339,
+          "area": 3980360,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.93665,
+              33.47187
+            ],
+            [
+              -112.93544,
+              33.47891
+            ],
+            [
+              -112.9211,
+              33.47915
+            ],
+            [
+              -112.91466,
+              33.46485
+            ],
+            [
+              -112.93451,
+              33.46494
+            ],
+            [
+              -112.93661,
+              33.46613
+            ],
+            [
+              -112.93665,
+              33.47187
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992807,
+          "area": 3975760,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90713,
+              33.53376
+            ],
+            [
+              -112.90567,
+              33.54229
+            ],
+            [
+              -112.90235,
+              33.5444
+            ],
+            [
+              -112.89358,
+              33.54442
+            ],
+            [
+              -112.89342,
+              33.53968
+            ],
+            [
+              -112.8969,
+              33.53715
+            ],
+            [
+              -112.89988,
+              33.53002
+            ],
+            [
+              -112.89823,
+              33.53002
+            ],
+            [
+              -112.89422,
+              33.50848
+            ],
+            [
+              -112.89806,
+              33.50847
+            ],
+            [
+              -112.89807,
+              33.51161
+            ],
+            [
+              -112.90045,
+              33.51159
+            ],
+            [
+              -112.90044,
+              33.50895
+            ],
+            [
+              -112.90238,
+              33.50899
+            ],
+            [
+              -112.90234,
+              33.53114
+            ],
+            [
+              -112.90646,
+              33.53011
+            ],
+            [
+              -112.90713,
+              33.53376
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267534,
+          "area": 3633210,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11015,
+              33.48996
+            ],
+            [
+              -113.10936,
+              33.49366
+            ],
+            [
+              -113.0928,
+              33.49361
+            ],
+            [
+              -113.09306,
+              33.47919
+            ],
+            [
+              -113.10902,
+              33.47916
+            ],
+            [
+              -113.11015,
+              33.48996
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267526,
+          "area": 3576830,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.12722,
+              33.4938
+            ],
+            [
+              -113.12705,
+              33.50801
+            ],
+            [
+              -113.11106,
+              33.50815
+            ],
+            [
+              -113.11014,
+              33.49383
+            ],
+            [
+              -113.12722,
+              33.4938
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267518,
+          "area": 3508050,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.12722,
+              33.48785
+            ],
+            [
+              -113.12706,
+              33.49361
+            ],
+            [
+              -113.1113,
+              33.4936
+            ],
+            [
+              -113.11032,
+              33.48099
+            ],
+            [
+              -113.11233,
+              33.48095
+            ],
+            [
+              -113.1124,
+              33.47924
+            ],
+            [
+              -113.12719,
+              33.47933
+            ],
+            [
+              -113.12722,
+              33.48785
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992821,
+          "area": 3480110,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89432,
+              33.50611
+            ],
+            [
+              -112.89417,
+              33.50817
+            ],
+            [
+              -112.88167,
+              33.50809
+            ],
+            [
+              -112.88176,
+              33.49372
+            ],
+            [
+              -112.87645,
+              33.49372
+            ],
+            [
+              -112.87648,
+              33.48853
+            ],
+            [
+              -112.89003,
+              33.48997
+            ],
+            [
+              -112.89145,
+              33.49738
+            ],
+            [
+              -112.89339,
+              33.49372
+            ],
+            [
+              -112.89432,
+              33.50611
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887941,
+          "area": 3457750,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.10981,
+              33.46477
+            ],
+            [
+              -113.10974,
+              33.47863
+            ],
+            [
+              -113.0931,
+              33.47861
+            ],
+            [
+              -113.09306,
+              33.46477
+            ],
+            [
+              -113.10981,
+              33.46477
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338535361,
+          "area": 3297520,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.20312,
+              33.43538
+            ],
+            [
+              -113.19661,
+              33.43538
+            ],
+            [
+              -113.19665,
+              33.43144
+            ],
+            [
+              -113.20312,
+              33.43144
+            ],
+            [
+              -113.20312,
+              33.43538
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338071503,
+          "area": 3251400,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16197,
+              33.45039
+            ],
+            [
+              -113.16164,
+              33.46435
+            ],
+            [
+              -113.1447,
+              33.46437
+            ],
+            [
+              -113.14472,
+              33.45753
+            ],
+            [
+              -113.14904,
+              33.4573
+            ],
+            [
+              -113.14903,
+              33.45379
+            ],
+            [
+              -113.14545,
+              33.4538
+            ],
+            [
+              -113.14543,
+              33.4504
+            ],
+            [
+              -113.16197,
+              33.45039
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053299,
+          "area": 3116640,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "name": "Tonopah Desert Recharge Station",
+          "min_zoom": 9,
+          "operator": "Central Arizona Project",
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.98895,
+              33.56416
+            ],
+            [
+              -112.976,
+              33.56617
+            ],
+            [
+              -112.97598,
+              33.55905
+            ],
+            [
+              -112.98031,
+              33.55904
+            ],
+            [
+              -112.98031,
+              33.54453
+            ],
+            [
+              -112.98889,
+              33.54454
+            ],
+            [
+              -112.98895,
+              33.56416
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 314053299,
+          "area": 3116640,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 21,
+          "name": "Tonopah Desert Recharge Station",
+          "min_zoom": 9,
+          "operator": "Central Arizona Project",
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.98461,
+            33.55408
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570338,
+          "area": 2969420,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.93695,
+              33.46455
+            ],
+            [
+              -112.91478,
+              33.46456
+            ],
+            [
+              -112.91158,
+              33.45027
+            ],
+            [
+              -112.91675,
+              33.45029
+            ],
+            [
+              -112.92092,
+              33.45269
+            ],
+            [
+              -112.92813,
+              33.45803
+            ],
+            [
+              -112.92815,
+              33.46087
+            ],
+            [
+              -112.93695,
+              33.46095
+            ],
+            [
+              -112.93695,
+              33.46455
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887940,
+          "area": 2953050,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.10995,
+              33.4643
+            ],
+            [
+              -113.09289,
+              33.46438
+            ],
+            [
+              -113.09291,
+              33.45463
+            ],
+            [
+              -113.10159,
+              33.45469
+            ],
+            [
+              -113.10332,
+              33.45019
+            ],
+            [
+              -113.1099,
+              33.45026
+            ],
+            [
+              -113.10995,
+              33.4643
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267515,
+          "area": 2940240,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.14458,
+              33.4941
+            ],
+            [
+              -113.14456,
+              33.49841
+            ],
+            [
+              -113.13999,
+              33.49843
+            ],
+            [
+              -113.14,
+              33.50805
+            ],
+            [
+              -113.12738,
+              33.50805
+            ],
+            [
+              -113.12743,
+              33.4938
+            ],
+            [
+              -113.14458,
+              33.4941
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338071505,
+          "area": 2646960,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.14454,
+              33.45748
+            ],
+            [
+              -113.13588,
+              33.45746
+            ],
+            [
+              -113.13593,
+              33.46408
+            ],
+            [
+              -113.12767,
+              33.464
+            ],
+            [
+              -113.12768,
+              33.45011
+            ],
+            [
+              -113.14453,
+              33.45014
+            ],
+            [
+              -113.14454,
+              33.45748
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992823,
+          "area": 2210870,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.8977,
+              33.53029
+            ],
+            [
+              -112.89691,
+              33.535
+            ],
+            [
+              -112.89053,
+              33.54461
+            ],
+            [
+              -112.88509,
+              33.54636
+            ],
+            [
+              -112.88504,
+              33.53715
+            ],
+            [
+              -112.88112,
+              33.53716
+            ],
+            [
+              -112.88503,
+              33.536
+            ],
+            [
+              -112.88503,
+              33.5299
+            ],
+            [
+              -112.8977,
+              33.53029
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887936,
+          "area": 2106190,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.09275,
+              33.47904
+            ],
+            [
+              -113.07553,
+              33.47907
+            ],
+            [
+              -113.07561,
+              33.47193
+            ],
+            [
+              -113.079,
+              33.46484
+            ],
+            [
+              -113.08411,
+              33.46484
+            ],
+            [
+              -113.08403,
+              33.47529
+            ],
+            [
+              -113.09265,
+              33.47521
+            ],
+            [
+              -113.09275,
+              33.47904
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570235,
+          "area": 2006780,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.91406,
+              33.46432
+            ],
+            [
+              -112.90237,
+              33.46456
+            ],
+            [
+              -112.9024,
+              33.45017
+            ],
+            [
+              -112.9097,
+              33.45055
+            ],
+            [
+              -112.91406,
+              33.46432
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156994058,
+          "area": 1984790,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.95424,
+              33.49666
+            ],
+            [
+              -112.94999,
+              33.49721
+            ],
+            [
+              -112.94996,
+              33.49181
+            ],
+            [
+              -112.94545,
+              33.49371
+            ],
+            [
+              -112.94566,
+              33.47941
+            ],
+            [
+              -112.95402,
+              33.47958
+            ],
+            [
+              -112.95424,
+              33.49666
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338484089,
+          "area": 1794770,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.12722,
+              33.43569
+            ],
+            [
+              -113.12721,
+              33.44265
+            ],
+            [
+              -113.11459,
+              33.4427
+            ],
+            [
+              -113.11452,
+              33.43562
+            ],
+            [
+              -113.12305,
+              33.43551
+            ],
+            [
+              -113.12307,
+              33.43144
+            ],
+            [
+              -113.1272,
+              33.43144
+            ],
+            [
+              -113.12722,
+              33.43569
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338484090,
+          "area": 1781610,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.14451,
+              33.43574
+            ],
+            [
+              -113.14451,
+              33.44231
+            ],
+            [
+              -113.12737,
+              33.44279
+            ],
+            [
+              -113.12737,
+              33.43572
+            ],
+            [
+              -113.14451,
+              33.43574
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887935,
+          "area": 1661060,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11828,
+              33.45746
+            ],
+            [
+              -113.11822,
+              33.46425
+            ],
+            [
+              -113.1102,
+              33.46427
+            ],
+            [
+              -113.11027,
+              33.45031
+            ],
+            [
+              -113.11814,
+              33.45032
+            ],
+            [
+              -113.11828,
+              33.45746
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156569937,
+          "area": 1572130,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.91127,
+              33.48053
+            ],
+            [
+              -112.91117,
+              33.49111
+            ],
+            [
+              -112.90284,
+              33.48925
+            ],
+            [
+              -112.90238,
+              33.48714
+            ],
+            [
+              -112.90189,
+              33.48907
+            ],
+            [
+              -112.89736,
+              33.48805
+            ],
+            [
+              -112.89759,
+              33.48636
+            ],
+            [
+              -112.90237,
+              33.4864
+            ],
+            [
+              -112.90223,
+              33.47944
+            ],
+            [
+              -112.91127,
+              33.48053
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 337887937,
+          "area": 1331190,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.09269,
+              33.46481
+            ],
+            [
+              -113.09265,
+              33.47521
+            ],
+            [
+              -113.08403,
+              33.47529
+            ],
+            [
+              -113.08411,
+              33.46484
+            ],
+            [
+              -113.09269,
+              33.46481
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338482402,
+          "area": 1307510,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1143,
+              33.43144
+            ],
+            [
+              -113.11424,
+              33.44272
+            ],
+            [
+              -113.11011,
+              33.44286
+            ],
+            [
+              -113.11013,
+              33.43144
+            ],
+            [
+              -113.1143,
+              33.43144
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570229,
+          "area": 1273320,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.91629,
+              33.47188
+            ],
+            [
+              -112.90237,
+              33.47189
+            ],
+            [
+              -112.90237,
+              33.46491
+            ],
+            [
+              -112.91352,
+              33.46491
+            ],
+            [
+              -112.91629,
+              33.47188
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992782,
+          "area": 934190,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.9145,
+              33.49423
+            ],
+            [
+              -112.91407,
+              33.50092
+            ],
+            [
+              -112.90298,
+              33.50093
+            ],
+            [
+              -112.90292,
+              33.49753
+            ],
+            [
+              -112.90614,
+              33.49741
+            ],
+            [
+              -112.90626,
+              33.49458
+            ],
+            [
+              -112.91109,
+              33.49462
+            ],
+            [
+              -112.91175,
+              33.49743
+            ],
+            [
+              -112.91171,
+              33.49421
+            ],
+            [
+              -112.9145,
+              33.49423
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992803,
+          "area": 815229,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90238,
+              33.50465
+            ],
+            [
+              -112.90234,
+              33.50813
+            ],
+            [
+              -112.89477,
+              33.50816
+            ],
+            [
+              -112.8947,
+              33.50098
+            ],
+            [
+              -112.90237,
+              33.50093
+            ],
+            [
+              -112.90238,
+              33.50465
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338484093,
+          "area": 806722,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11823,
+              33.44373
+            ],
+            [
+              -113.11815,
+              33.44991
+            ],
+            [
+              -113.11136,
+              33.44984
+            ],
+            [
+              -113.11011,
+              33.443
+            ],
+            [
+              -113.11823,
+              33.44373
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570236,
+          "area": 725772,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90237,
+              33.47208
+            ],
+            [
+              -112.90224,
+              33.47908
+            ],
+            [
+              -112.89521,
+              33.47845
+            ],
+            [
+              -112.89531,
+              33.47215
+            ],
+            [
+              -112.90237,
+              33.47208
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570231,
+          "area": 697709,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.88964,
+              33.46835
+            ],
+            [
+              -112.88958,
+              33.47192
+            ],
+            [
+              -112.87642,
+              33.47152
+            ],
+            [
+              -112.87649,
+              33.46835
+            ],
+            [
+              -112.88964,
+              33.46835
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156575681,
+          "area": 608048,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.91109,
+              33.4937
+            ],
+            [
+              -112.89842,
+              33.49371
+            ],
+            [
+              -112.8974,
+              33.48897
+            ],
+            [
+              -112.90189,
+              33.4901
+            ],
+            [
+              -112.90237,
+              33.4925
+            ],
+            [
+              -112.90282,
+              33.49026
+            ],
+            [
+              -112.91107,
+              33.49208
+            ],
+            [
+              -112.91109,
+              33.4937
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570230,
+          "area": 533797,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89494,
+              33.46478
+            ],
+            [
+              -112.8949,
+              33.47193
+            ],
+            [
+              -112.88998,
+              33.47192
+            ],
+            [
+              -112.88992,
+              33.46476
+            ],
+            [
+              -112.89494,
+              33.46478
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992795,
+          "area": 454569,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.88186,
+              33.54509
+            ],
+            [
+              -112.88006,
+              33.55168
+            ],
+            [
+              -112.87649,
+              33.55172
+            ],
+            [
+              -112.87645,
+              33.54352
+            ],
+            [
+              -112.88186,
+              33.54509
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 91182230,
+          "area": 424336,
+          "source": "openstreetmap.org",
+          "sort_key": 87,
+          "min_zoom": 9,
+          "kind": "generator"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11724,
+              33.47612
+            ],
+            [
+              -113.11597,
+              33.47815
+            ],
+            [
+              -113.11029,
+              33.479
+            ],
+            [
+              -113.11026,
+              33.47379
+            ],
+            [
+              -113.1172,
+              33.47371
+            ],
+            [
+              -113.11724,
+              33.47612
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992822,
+          "area": 398192,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90747,
+              33.50814
+            ],
+            [
+              -112.90275,
+              33.50815
+            ],
+            [
+              -112.90275,
+              33.50142
+            ],
+            [
+              -112.90417,
+              33.50445
+            ],
+            [
+              -112.90746,
+              33.50177
+            ],
+            [
+              -112.90747,
+              33.50814
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536849,
+          "area": 389882,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.17055,
+              33.47069
+            ],
+            [
+              -113.16625,
+              33.47072
+            ],
+            [
+              -113.16625,
+              33.46458
+            ],
+            [
+              -113.17052,
+              33.46457
+            ],
+            [
+              -113.17055,
+              33.47069
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570233,
+          "area": 362662,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89465,
+              33.47891
+            ],
+            [
+              -112.88817,
+              33.47918
+            ],
+            [
+              -112.88825,
+              33.47538
+            ],
+            [
+              -112.89454,
+              33.47532
+            ],
+            [
+              -112.89465,
+              33.47891
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570232,
+          "area": 356412,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90946,
+              33.44306
+            ],
+            [
+              -112.90939,
+              33.44575
+            ],
+            [
+              -112.90675,
+              33.44504
+            ],
+            [
+              -112.90675,
+              33.44287
+            ],
+            [
+              -112.90249,
+              33.44286
+            ],
+            [
+              -112.90295,
+              33.43951
+            ],
+            [
+              -112.90621,
+              33.43936
+            ],
+            [
+              -112.90946,
+              33.44306
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156994068,
+          "area": 354011,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.87647,
+              33.49008
+            ],
+            [
+              -112.87645,
+              33.49372
+            ],
+            [
+              -112.86989,
+              33.49371
+            ],
+            [
+              -112.86989,
+              33.49009
+            ],
+            [
+              -112.87647,
+              33.49008
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156575685,
+          "area": 258171,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89777,
+              33.49338
+            ],
+            [
+              -112.89375,
+              33.49372
+            ],
+            [
+              -112.89376,
+              33.48829
+            ],
+            [
+              -112.89672,
+              33.48893
+            ],
+            [
+              -112.89777,
+              33.49338
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338537536,
+          "area": 186183,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16198,
+              33.44267
+            ],
+            [
+              -113.16197,
+              33.44558
+            ],
+            [
+              -113.1576,
+              33.44556
+            ],
+            [
+              -113.15765,
+              33.44269
+            ],
+            [
+              -113.16198,
+              33.44267
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570228,
+          "area": 170840,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90955,
+              33.44638
+            ],
+            [
+              -112.90939,
+              33.45015
+            ],
+            [
+              -112.90668,
+              33.45016
+            ],
+            [
+              -112.90671,
+              33.44589
+            ],
+            [
+              -112.90955,
+              33.44638
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267535,
+          "area": 158247,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16194,
+              33.52124
+            ],
+            [
+              -113.16193,
+              33.52624
+            ],
+            [
+              -113.16051,
+              33.52623
+            ],
+            [
+              -113.16055,
+              33.52264
+            ],
+            [
+              -113.15828,
+              33.52264
+            ],
+            [
+              -113.15826,
+              33.52101
+            ],
+            [
+              -113.16194,
+              33.52124
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992830,
+          "area": 120292,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90045,
+              33.51159
+            ],
+            [
+              -112.89807,
+              33.51161
+            ],
+            [
+              -112.89805,
+              33.50821
+            ],
+            [
+              -112.90044,
+              33.5082
+            ],
+            [
+              -112.90045,
+              33.51159
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570612,
+          "area": 84049,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.07653,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.90237,
+              33.4647
+            ],
+            [
+              -112.90237,
+              33.467
+            ],
+            [
+              -112.90047,
+              33.46699
+            ],
+            [
+              -112.89938,
+              33.4647
+            ],
+            [
+              -112.90237,
+              33.4647
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536834,
+          "area": 79261,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.11884,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.0894,
+              33.46007
+            ],
+            [
+              -113.08841,
+              33.46278
+            ],
+            [
+              -113.08723,
+              33.46277
+            ],
+            [
+              -113.0878,
+              33.45921
+            ],
+            [
+              -113.0894,
+              33.46007
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992792,
+          "area": 66431,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.24621,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89358,
+              33.5446
+            ],
+            [
+              -112.8917,
+              33.5446
+            ],
+            [
+              -112.8919,
+              33.54217
+            ],
+            [
+              -112.89352,
+              33.54223
+            ],
+            [
+              -112.89358,
+              33.5446
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267530,
+          "area": 63570,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.27797,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11235,
+              33.4809
+            ],
+            [
+              -113.1101,
+              33.48097
+            ],
+            [
+              -113.11009,
+              33.47906
+            ],
+            [
+              -113.11232,
+              33.47906
+            ],
+            [
+              -113.11235,
+              33.4809
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 158267532,
+          "area": 62761,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.28721,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1113,
+              33.49365
+            ],
+            [
+              -113.10936,
+              33.49366
+            ],
+            [
+              -113.11015,
+              33.49068
+            ],
+            [
+              -113.11128,
+              33.49069
+            ],
+            [
+              -113.1113,
+              33.49365
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570234,
+          "area": 61960,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9.29648,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89698,
+              33.48799
+            ],
+            [
+              -112.89372,
+              33.48724
+            ],
+            [
+              -112.89374,
+              33.48632
+            ],
+            [
+              -112.89698,
+              33.48636
+            ],
+            [
+              -112.89698,
+              33.48799
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992828,
+          "area": 60259,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.31656,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.89279,
+              33.49737
+            ],
+            [
+              -112.89145,
+              33.49738
+            ],
+            [
+              -112.89141,
+              33.49372
+            ],
+            [
+              -112.89278,
+              33.49518
+            ],
+            [
+              -112.89279,
+              33.49737
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536841,
+          "area": 57565,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.34955,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.10139,
+              33.50454
+            ],
+            [
+              -113.09924,
+              33.50454
+            ],
+            [
+              -113.09925,
+              33.50273
+            ],
+            [
+              -113.10139,
+              33.50273
+            ],
+            [
+              -113.10139,
+              33.50454
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536845,
+          "area": 54467,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.38945,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.09269,
+              33.46464
+            ],
+            [
+              -113.09086,
+              33.46372
+            ],
+            [
+              -113.09154,
+              33.46166
+            ],
+            [
+              -113.09264,
+              33.46167
+            ],
+            [
+              -113.09269,
+              33.46464
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 91182233,
+          "area": 54202,
+          "source": "openstreetmap.org",
+          "sort_key": 69,
+          "min_zoom": 9.39296,
+          "kind": "substation"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1148,
+              33.47808
+            ],
+            [
+              -113.11216,
+              33.47809
+            ],
+            [
+              -113.11211,
+              33.47672
+            ],
+            [
+              -113.11476,
+              33.4767
+            ],
+            [
+              -113.1148,
+              33.47808
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338537539,
+          "area": 52941,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.40996,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.13598,
+              33.43509
+            ],
+            [
+              -113.13168,
+              33.43555
+            ],
+            [
+              -113.13171,
+              33.43285
+            ],
+            [
+              -113.13242,
+              33.43509
+            ],
+            [
+              -113.13598,
+              33.43509
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536847,
+          "area": 46748,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.49969,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16625,
+              33.47083
+            ],
+            [
+              -113.16624,
+              33.4718
+            ],
+            [
+              -113.16302,
+              33.4718
+            ],
+            [
+              -113.16303,
+              33.47081
+            ],
+            [
+              -113.16625,
+              33.47083
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156994066,
+          "area": 44311,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.53831,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.94999,
+              33.49371
+            ],
+            [
+              -112.94775,
+              33.49371
+            ],
+            [
+              -112.94778,
+              33.49264
+            ],
+            [
+              -112.94996,
+              33.49181
+            ],
+            [
+              -112.94999,
+              33.49371
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992827,
+          "area": 38066,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.6479,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.88509,
+              33.54695
+            ],
+            [
+              -112.88507,
+              33.55054
+            ],
+            [
+              -112.88434,
+              33.55056
+            ],
+            [
+              -112.88439,
+              33.54696
+            ],
+            [
+              -112.88509,
+              33.54695
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156992816,
+          "area": 31627,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.78156,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.87693,
+              33.5119
+            ],
+            [
+              -112.87693,
+              33.51548
+            ],
+            [
+              -112.87633,
+              33.51549
+            ],
+            [
+              -112.87635,
+              33.5119
+            ],
+            [
+              -112.87693,
+              33.5119
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536839,
+          "area": 31338,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.78819,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16521,
+              33.46645
+            ],
+            [
+              -113.16407,
+              33.46645
+            ],
+            [
+              -113.16407,
+              33.46458
+            ],
+            [
+              -113.16519,
+              33.46458
+            ],
+            [
+              -113.16521,
+              33.46645
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536851,
+          "area": 29352,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.83541,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.08626,
+              33.46277
+            ],
+            [
+              -113.08619,
+              33.46371
+            ],
+            [
+              -113.08412,
+              33.46372
+            ],
+            [
+              -113.08414,
+              33.46277
+            ],
+            [
+              -113.08626,
+              33.46277
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536829,
+          "area": 28979,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.84464,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.10141,
+              33.50544
+            ],
+            [
+              -113.09925,
+              33.50544
+            ],
+            [
+              -113.09924,
+              33.50454
+            ],
+            [
+              -113.10139,
+              33.50454
+            ],
+            [
+              -113.10141,
+              33.50544
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536830,
+          "area": 28657,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.85271,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.08575,
+              33.4619
+            ],
+            [
+              -113.08471,
+              33.46189
+            ],
+            [
+              -113.08468,
+              33.46005
+            ],
+            [
+              -113.08575,
+              33.46006
+            ],
+            [
+              -113.08575,
+              33.4619
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536837,
+          "area": 25823,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.92781,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.11136,
+              33.44984
+            ],
+            [
+              -113.11008,
+              33.44985
+            ],
+            [
+              -113.11008,
+              33.44848
+            ],
+            [
+              -113.11134,
+              33.44848
+            ],
+            [
+              -113.11136,
+              33.44984
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 156570622,
+          "area": 25416,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.93926,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.93695,
+              33.46455
+            ],
+            [
+              -112.9369,
+              33.46602
+            ],
+            [
+              -112.93394,
+              33.46455
+            ],
+            [
+              -112.93695,
+              33.46455
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536838,
+          "area": 25131,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.94742,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.17055,
+              33.47069
+            ],
+            [
+              -113.17039,
+              33.47184
+            ],
+            [
+              -113.16908,
+              33.47184
+            ],
+            [
+              -113.16905,
+              33.4707
+            ],
+            [
+              -113.17055,
+              33.47069
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 338536840,
+          "area": 24501,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9.96574,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.16845,
+              33.46384
+            ],
+            [
+              -113.16845,
+              33.46458
+            ],
+            [
+              -113.16625,
+              33.46458
+            ],
+            [
+              -113.16623,
+              33.46382
+            ],
+            [
+              -113.16845,
+              33.46384
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.85156,
+            33.43144
+          ],
+          [
+            -113.20312,
+            33.43144
+          ],
+          [
+            -113.20312,
+            33.72434
+          ],
+          [
+            -112.85156,
+            33.72434
+          ],
+          [
+            -112.85156,
+            33.43144
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 314082263,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "farm",
+          "sort_key": 377,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.93695,
+                33.46095
+              ],
+              [
+                -112.93695,
+                33.46455
+              ]
+            ],
+            [
+              [
+                -112.89842,
+                33.49371
+              ],
+              [
+                -112.91109,
+                33.4937
+              ]
+            ],
+            [
+              [
+                -112.89375,
+                33.49372
+              ],
+              [
+                -112.89775,
+                33.49371
+              ]
+            ],
+            [
+              [
+                -112.89214,
+                33.49372
+              ],
+              [
+                -112.89339,
+                33.49372
+              ]
+            ],
+            [
+              [
+                -112.87645,
+                33.49372
+              ],
+              [
+                -112.89141,
+                33.49372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 157408108,
+          "ref": "I 10",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "network": "US:I",
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.85156,
+              33.47847
+            ],
+            [
+              -112.95215,
+              33.50087
+            ],
+            [
+              -113.10836,
+              33.52741
+            ],
+            [
+              -113.17058,
+              33.54139
+            ],
+            [
+              -113.20312,
+              33.54646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314082263,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "farmyard",
+          "sort_key": 377,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.93695,
+                33.46455
+              ],
+              [
+                -112.9369,
+                33.46602
+              ]
+            ],
+            [
+              [
+                -112.89141,
+                33.49372
+              ],
+              [
+                -112.89214,
+                33.49372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5603791,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.86772,
+                33.48156
+              ],
+              [
+                -112.86771,
+                33.43144
+              ]
+            ],
+            [
+              [
+                -112.8799,
+                33.43144
+              ],
+              [
+                -112.90127,
+                33.44379
+              ],
+              [
+                -112.91826,
+                33.44848
+              ],
+              [
+                -112.93494,
+                33.45582
+              ],
+              [
+                -112.93695,
+                33.46095
+              ]
+            ],
+            [
+              [
+                -112.9369,
+                33.46602
+              ],
+              [
+                -112.93694,
+                33.4998
+              ],
+              [
+                -112.93305,
+                33.49708
+              ],
+              [
+                -112.91109,
+                33.4937
+              ]
+            ],
+            [
+              [
+                -112.89775,
+                33.49371
+              ],
+              [
+                -112.89842,
+                33.49371
+              ]
+            ],
+            [
+              [
+                -112.89339,
+                33.49372
+              ],
+              [
+                -112.89375,
+                33.49372
+              ]
+            ],
+            [
+              [
+                -112.86774,
+                33.49371
+              ],
+              [
+                -112.86989,
+                33.49371
+              ]
+            ],
+            [
+              [
+                -112.85156,
+                33.49374
+              ],
+              [
+                -112.86774,
+                33.49371
+              ]
+            ],
+            [
+              [
+                -112.86774,
+                33.49371
+              ],
+              [
+                -112.86772,
+                33.48226
+              ]
+            ],
+            [
+              [
+                -112.86772,
+                33.48156
+              ],
+              [
+                -112.86772,
+                33.48226
+              ]
+            ],
+            [
+              [
+                -112.85156,
+                33.68866
+              ],
+              [
+                -112.8599,
+                33.6988
+              ],
+              [
+                -112.88093,
+                33.71796
+              ],
+              [
+                -112.87808,
+                33.72434
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109277019,
+          "ref": "I 10",
+          "highway": "motorway",
+          "source": "openstreetmap.org",
+          "sort_key": 381,
+          "kind": "highway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.20312,
+              33.54592
+            ],
+            [
+              -113.17279,
+              33.54124
+            ],
+            [
+              -113.1095,
+              33.52706
+            ],
+            [
+              -112.94809,
+              33.49965
+            ],
+            [
+              -112.85156,
+              33.47817
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 314082263,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 377,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.86989,
+              33.49371
+            ],
+            [
+              -112.87645,
+              33.49372
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

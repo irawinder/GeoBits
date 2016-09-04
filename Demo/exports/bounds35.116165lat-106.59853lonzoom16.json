@@ -1,0 +1,1679 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 206943692,
+          "area": 755,
+          "min_zoom": 17,
+          "kind": "playground"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59946255,
+            35.11932157
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 357592766,
+          "religion": "christian",
+          "name": "Carlisle Plaza United Methodist Church",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59626113,
+            35.11726698
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2170346462,
+          "capacity": 5,
+          "min_zoom": 17,
+          "kind": "bicycle_parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59932511,
+            35.1191565
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2247443061,
+          "min_zoom": 17,
+          "kind": "drinking_water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59957304,
+            35.11932411
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3551998437,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59523957,
+            35.11936489
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3551998446,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.5952481,
+            35.1166862
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 376300960,
+          "area": 62190,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Wellingon Apartments",
+          "min_zoom": 9.2938,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.59528979,
+              35.11658251
+            ],
+            [
+              -106.59527344,
+              35.11942161
+            ],
+            [
+              -106.59484863,
+              35.11941454
+            ],
+            [
+              -106.59484863,
+              35.11658113
+            ],
+            [
+              -106.59528979,
+              35.11658251
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 376300956,
+          "area": 35047,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "The Arbors Apartments",
+          "min_zoom": 9.70749,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.59484863,
+              35.1195542
+            ],
+            [
+              -106.59528556,
+              35.11955218
+            ],
+            [
+              -106.59528833,
+              35.11990857
+            ],
+            [
+              -106.59484863,
+              35.11990857
+            ],
+            [
+              -106.59484863,
+              35.1195542
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 174860212,
+          "area": 33764,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "name": "Grisham Park",
+          "min_zoom": 9.73441,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.59819732,
+              35.11990857
+            ],
+            [
+              -106.59812092,
+              35.11987997
+            ],
+            [
+              -106.59808274,
+              35.11985866
+            ],
+            [
+              -106.59806917,
+              35.11983456
+            ],
+            [
+              -106.59807798,
+              35.11980098
+            ],
+            [
+              -106.59825234,
+              35.1195092
+            ],
+            [
+              -106.5982925,
+              35.11945879
+            ],
+            [
+              -106.59836229,
+              35.11939729
+            ],
+            [
+              -106.59931379,
+              35.11880998
+            ],
+            [
+              -106.59937353,
+              35.11880719
+            ],
+            [
+              -106.59941575,
+              35.11881439
+            ],
+            [
+              -106.60003801,
+              35.11947922
+            ],
+            [
+              -106.60012721,
+              35.11964961
+            ],
+            [
+              -106.60017213,
+              35.11983456
+            ],
+            [
+              -106.60017988,
+              35.11990857
+            ],
+            [
+              -106.59819732,
+              35.11990857
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 174860212,
+          "area": 33764,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 24,
+          "name": "Grisham Park",
+          "min_zoom": 9.73441,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.5991344,
+            35.1197253
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 376303846,
+          "area": 13588,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.391,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.5950803,
+              35.11990857
+            ],
+            [
+              -106.5950803,
+              35.11967827
+            ],
+            [
+              -106.59514058,
+              35.11967496
+            ],
+            [
+              -106.59521837,
+              35.11954777
+            ],
+            [
+              -106.5952817,
+              35.1195488
+            ],
+            [
+              -106.59528223,
+              35.11990857
+            ],
+            [
+              -106.5950803,
+              35.11990857
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 206943697,
+          "area": 823,
+          "source": "openstreetmap.org",
+          "sort_key": 95,
+          "sport": "parcours",
+          "min_zoom": 12.4136,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.59849884,
+              35.11990857
+            ],
+            [
+              -106.59816889,
+              35.11978827
+            ],
+            [
+              -106.59827615,
+              35.11959311
+            ],
+            [
+              -106.59840218,
+              35.1194812
+            ],
+            [
+              -106.59846928,
+              35.1195294
+            ],
+            [
+              -106.59836472,
+              35.11964352
+            ],
+            [
+              -106.59829223,
+              35.11978386
+            ],
+            [
+              -106.59861948,
+              35.11990458
+            ],
+            [
+              -106.59862217,
+              35.11990857
+            ],
+            [
+              -106.59849884,
+              35.11990857
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 206943697,
+          "area": 823,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 95,
+          "sport": "parcours",
+          "min_zoom": 12.4136,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.59826917,
+            35.11971369
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206943692,
+          "area": 755,
+          "source": "openstreetmap.org",
+          "sort_key": 94,
+          "min_zoom": 12.4757,
+          "kind": "playground"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.5996052,
+              35.11936599
+            ],
+            [
+              -106.59959182,
+              35.11940986
+            ],
+            [
+              -106.5995743,
+              35.11942742
+            ],
+            [
+              -106.59955148,
+              35.11943836
+            ],
+            [
+              -106.59951798,
+              35.11944498
+            ],
+            [
+              -106.59946839,
+              35.11944167
+            ],
+            [
+              -106.59942824,
+              35.11941757
+            ],
+            [
+              -106.59932619,
+              35.11930456
+            ],
+            [
+              -106.5993128,
+              35.11927282
+            ],
+            [
+              -106.59931819,
+              35.11924196
+            ],
+            [
+              -106.59933562,
+              35.11921022
+            ],
+            [
+              -106.59936383,
+              35.11919265
+            ],
+            [
+              -106.59940937,
+              35.1191795
+            ],
+            [
+              -106.59944836,
+              35.11918611
+            ],
+            [
+              -106.59948052,
+              35.1192047
+            ],
+            [
+              -106.59959856,
+              35.11933858
+            ],
+            [
+              -106.5996052,
+              35.11936599
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 265171,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -106.59484863,
+            35.11541531
+          ],
+          [
+            -106.6003418,
+            35.11541531
+          ],
+          [
+            -106.6003418,
+            35.11990857
+          ],
+          [
+            -106.59484863,
+            35.11990857
+          ],
+          [
+            -106.59484863,
+            35.11541531
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 14420963,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hoyle Rd. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59675979,
+              35.11733797
+            ],
+            [
+              -106.59761481,
+              35.11766701
+            ],
+            [
+              -106.59852291,
+              35.11804499
+            ],
+            [
+              -106.59875486,
+              35.11815895
+            ],
+            [
+              -106.59905382,
+              35.11837498
+            ],
+            [
+              -106.59937182,
+              35.11873797
+            ],
+            [
+              -106.60017923,
+              35.11957165
+            ],
+            [
+              -106.60022841,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14422987,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Bel Air Ct. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.6003418,
+              35.1156182
+            ],
+            [
+              -106.6002369,
+              35.11575688
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14416872,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Shepard Rd. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59802914,
+              35.11990857
+            ],
+            [
+              -106.5979709,
+              35.11988702
+            ],
+            [
+              -106.59743191,
+              35.11969399
+            ],
+            [
+              -106.59689292,
+              35.11954395
+            ],
+            [
+              -106.59653243,
+              35.11949156
+            ],
+            [
+              -106.59630192,
+              35.11947929
+            ],
+            [
+              -106.59578754,
+              35.11947988
+            ],
+            [
+              -106.59523921,
+              35.11948186
+            ],
+            [
+              -106.59484863,
+              35.11948325
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299613,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59484863,
+              35.11843867
+            ],
+            [
+              -106.59524254,
+              35.11844089
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299605,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59484863,
+              35.11862304
+            ],
+            [
+              -106.59524191,
+              35.11862297
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14417772,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "bicycle_network": "lcn",
+          "sort_key": 360,
+          "name": "Montclaire Dr. NE",
+          "is_bicycle_related": true,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59578682,
+              35.11650352
+            ],
+            [
+              -106.59579078,
+              35.11767289
+            ],
+            [
+              -106.5957853,
+              35.11849167
+            ],
+            [
+              -106.595787,
+              35.11867992
+            ],
+            [
+              -106.59578754,
+              35.11947988
+            ],
+            [
+              -106.59578572,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14420969,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Tiley Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59937182,
+              35.11873797
+            ],
+            [
+              -106.59820581,
+              35.11945402
+            ],
+            [
+              -106.5979709,
+              35.11988702
+            ],
+            [
+              -106.59795886,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 213569296,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59752015,
+              35.11541531
+            ],
+            [
+              -106.59752048,
+              35.11650668
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206943691,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59647925,
+              35.11650367
+            ],
+            [
+              -106.59647266,
+              35.11541531
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14412864,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Sierra Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59806273,
+              35.11541531
+            ],
+            [
+              -106.59806091,
+              35.11651058
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14422877,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Veranda Rd. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.6003418,
+              35.11947765
+            ],
+            [
+              -106.60017923,
+              35.11957165
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14412863,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Sierra Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59875001,
+              35.11651477
+            ],
+            [
+              -106.59873294,
+              35.11769699
+            ],
+            [
+              -106.59868695,
+              35.11781096
+            ],
+            [
+              -106.59852291,
+              35.11804499
+            ],
+            [
+              -106.59826689,
+              35.11840702
+            ],
+            [
+              -106.5970609,
+              35.11915496
+            ],
+            [
+              -106.59693092,
+              35.11934997
+            ],
+            [
+              -106.59689292,
+              35.11954395
+            ],
+            [
+              -106.59680349,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 213569297,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59537044,
+              35.11541531
+            ],
+            [
+              -106.59536399,
+              35.11650279
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299627,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59523935,
+              35.11942104
+            ],
+            [
+              -106.59523948,
+              35.11936489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299627,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59523921,
+              35.11948186
+            ],
+            [
+              -106.59523935,
+              35.11942104
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206943695,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -106.59932619,
+                35.11881857
+              ],
+              [
+                -106.59934775,
+                35.1188559
+              ],
+              [
+                -106.59939194,
+                35.11887346
+              ],
+              [
+                -106.59941072,
+                35.11888882
+              ],
+              [
+                -106.5994188,
+                35.11892387
+              ],
+              [
+                -106.59941072,
+                35.11894702
+              ],
+              [
+                -106.5993826,
+                35.1189634
+              ],
+              [
+                -106.59932619,
+                35.11899301
+              ],
+              [
+                -106.59931154,
+                35.11901168
+              ],
+              [
+                -106.59929268,
+                35.11903688
+              ],
+              [
+                -106.59928334,
+                35.11906208
+              ],
+              [
+                -106.59928064,
+                35.11908736
+              ],
+              [
+                -106.59929403,
+                35.11911697
+              ],
+              [
+                -106.59931154,
+                35.11914217
+              ],
+              [
+                -106.59931154,
+                35.11916848
+              ],
+              [
+                -106.59931819,
+                35.11919265
+              ]
+            ],
+            [
+              [
+                -106.59931819,
+                35.11919265
+              ],
+              [
+                -106.59929942,
+                35.11923659
+              ],
+              [
+                -106.59928954,
+                35.11927208
+              ],
+              [
+                -106.59929816,
+                35.11930456
+              ],
+              [
+                -106.59942949,
+                35.11944498
+              ],
+              [
+                -106.59948052,
+                35.11946357
+              ],
+              [
+                -106.59953145,
+                35.11946247
+              ],
+              [
+                -106.59957574,
+                35.11944939
+              ],
+              [
+                -106.59961589,
+                35.11940772
+              ],
+              [
+                -106.59962533,
+                35.1193693
+              ],
+              [
+                -106.59961733,
+                35.11933307
+              ],
+              [
+                -106.59949255,
+                35.11918832
+              ],
+              [
+                -106.59944423,
+                35.11916312
+              ],
+              [
+                -106.59939599,
+                35.11916517
+              ],
+              [
+                -106.59936113,
+                35.11917179
+              ],
+              [
+                -106.59931819,
+                35.11919265
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 337180692,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59969722,
+              35.11541531
+            ],
+            [
+              -106.59968785,
+              35.11651572
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14413620,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Morningside Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59971309,
+              35.11651822
+            ],
+            [
+              -106.59971884,
+              35.11764496
+            ],
+            [
+              -106.59973878,
+              35.11772601
+            ],
+            [
+              -106.59984478,
+              35.11787297
+            ],
+            [
+              -106.6003418,
+              35.11841628
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299617,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59484863,
+              35.11719446
+            ],
+            [
+              -106.5952464,
+              35.11719497
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 376300958,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59484863,
+              35.11738632
+            ],
+            [
+              -106.59524595,
+              35.11738587
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14425216,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Graceland Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59697298,
+              35.11541531
+            ],
+            [
+              -106.59697925,
+              35.11650396
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299600,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59524801,
+              35.1166862
+            ],
+            [
+              -106.59524837,
+              35.11658238
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299600,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59524837,
+              35.11658238
+            ],
+            [
+              -106.59524864,
+              35.11650257
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 349299601,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59523948,
+              35.11936489
+            ],
+            [
+              -106.59524191,
+              35.11862297
+            ],
+            [
+              -106.59524254,
+              35.11844089
+            ],
+            [
+              -106.59524586,
+              35.11738587
+            ],
+            [
+              -106.5952464,
+              35.11719497
+            ],
+            [
+              -106.59524801,
+              35.1166862
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14417774,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "bicycle_network": "lcn",
+          "sort_key": 360,
+          "name": "Montclaire Dr. NE",
+          "is_bicycle_related": true,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59592509,
+              35.11541531
+            ],
+            [
+              -106.59592238,
+              35.11650338
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 213569288,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59862011,
+              35.11651396
+            ],
+            [
+              -106.59862752,
+              35.11541531
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 174529561,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "Candelaria Rd. NE",
+          "oneway": "no",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59484863,
+              35.11650198
+            ],
+            [
+              -106.59524873,
+              35.11650257
+            ],
+            [
+              -106.59536399,
+              35.11650279
+            ],
+            [
+              -106.59578682,
+              35.11650352
+            ],
+            [
+              -106.59592238,
+              35.11650338
+            ],
+            [
+              -106.59647925,
+              35.11650367
+            ],
+            [
+              -106.59678602,
+              35.11650389
+            ],
+            [
+              -106.59697925,
+              35.11650396
+            ],
+            [
+              -106.59752048,
+              35.11650668
+            ],
+            [
+              -106.59777749,
+              35.11650801
+            ],
+            [
+              -106.59806091,
+              35.11651058
+            ],
+            [
+              -106.59862011,
+              35.11651396
+            ],
+            [
+              -106.59875001,
+              35.11651477
+            ],
+            [
+              -106.59913988,
+              35.11651829
+            ],
+            [
+              -106.59968794,
+              35.11651572
+            ],
+            [
+              -106.59971318,
+              35.11651822
+            ],
+            [
+              -106.6003418,
+              35.11651756
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14422681,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Valverde Dr. SE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59678602,
+              35.11650389
+            ],
+            [
+              -106.59675988,
+              35.11733797
+            ],
+            [
+              -106.59643595,
+              35.11756201
+            ],
+            [
+              -106.59623194,
+              35.11764996
+            ],
+            [
+              -106.596015,
+              35.11767289
+            ],
+            [
+              -106.59579078,
+              35.11767289
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14425212,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Graceland Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59777749,
+              35.11650801
+            ],
+            [
+              -106.59776995,
+              35.11683
+            ],
+            [
+              -106.59775189,
+              35.117352
+            ],
+            [
+              -106.5977129,
+              35.11750895
+            ],
+            [
+              -106.5976149,
+              35.11766701
+            ],
+            [
+              -106.59752291,
+              35.11782279
+            ],
+            [
+              -106.59742868,
+              35.11792602
+            ],
+            [
+              -106.59734666,
+              35.1179854
+            ],
+            [
+              -106.59659171,
+              35.11844729
+            ],
+            [
+              -106.59636399,
+              35.11858601
+            ],
+            [
+              -106.59621092,
+              35.11864509
+            ],
+            [
+              -106.59604204,
+              35.11867647
+            ],
+            [
+              -106.595787,
+              35.11867992
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14419528,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Bel Air Pl. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60023782,
+              35.11541531
+            ],
+            [
+              -106.6003418,
+              35.11547042
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14413618,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Morningside Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.59915114,
+              35.11541531
+            ],
+            [
+              -106.59913988,
+              35.11651829
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

@@ -1,0 +1,3711 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 264746354,
+          "reservoir": "yes",
+          "area": 1484740,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Lapham Tank",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1587,
+              33.9282
+            ],
+            [
+              -113.1417,
+              33.9281
+            ],
+            [
+              -113.1418,
+              33.9215
+            ],
+            [
+              -113.1587,
+              33.9246
+            ],
+            [
+              -113.1587,
+              33.9282
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 264746354,
+          "reservoir": "yes",
+          "area": 1484740,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Lapham Tank",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.1502,
+            33.9264
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 228984824,
+          "reservoir": "yes",
+          "area": 212824,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Gibson Tank",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.9712,
+              34.1096
+            ],
+            [
+              -112.9674,
+              34.1109
+            ],
+            [
+              -112.966,
+              34.1091
+            ],
+            [
+              -112.9681,
+              34.1072
+            ],
+            [
+              -112.9712,
+              34.1096
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 228984824,
+          "reservoir": "yes",
+          "area": 212824,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Gibson Tank",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.9685,
+            34.1089
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28801711,
+          "source": "openstreetmap.org",
+          "name": "Central Arizona Project Canal",
+          "sort_key": 200,
+          "kind": "canal"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5363,
+              33.7243
+            ],
+            [
+              -112.5302,
+              33.7248
+            ],
+            [
+              -112.5082,
+              33.7392
+            ],
+            [
+              -112.5,
+              33.7394
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 124271919,
+          "source": "openstreetmap.org",
+          "name": "Narrows of the Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7066,
+              34.0437
+            ],
+            [
+              -112.7089,
+              34.0446
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 186631435,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7911,
+              33.937
+            ],
+            [
+              -112.7891,
+              33.9496
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 186711061,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Sols Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.982,
+              34.1012
+            ],
+            [
+              -112.9704,
+              34.1105
+            ],
+            [
+              -112.9468,
+              34.1005
+            ],
+            [
+              -112.9282,
+              34.0871
+            ],
+            [
+              -112.9171,
+              34.0552
+            ],
+            [
+              -112.8897,
+              34.0302
+            ],
+            [
+              -112.8799,
+              34.0147
+            ],
+            [
+              -112.8678,
+              34.0069
+            ],
+            [
+              -112.8484,
+              33.999
+            ],
+            [
+              -112.834,
+              34.0023
+            ],
+            [
+              -112.8206,
+              33.9872
+            ],
+            [
+              -112.8158,
+              33.9918
+            ],
+            [
+              -112.7953,
+              33.9846
+            ],
+            [
+              -112.7916,
+              33.9896
+            ],
+            [
+              -112.7627,
+              33.9788
+            ],
+            [
+              -112.7273,
+              33.9721
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 186764457,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7669,
+              33.9612
+            ],
+            [
+              -112.7401,
+              33.969
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 192168130,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Picacho Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5002,
+              33.979
+            ],
+            [
+              -112.5021,
+              33.9678
+            ],
+            [
+              -112.5,
+              33.9599
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 194580840,
+          "source": "openstreetmap.org",
+          "name": "Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7291,
+              34.0431
+            ],
+            [
+              -112.7397,
+              34.0423
+            ],
+            [
+              -112.7382,
+              34.0331
+            ],
+            [
+              -112.7471,
+              34.0263
+            ],
+            [
+              -112.7484,
+              34.0131
+            ],
+            [
+              -112.7426,
+              33.995
+            ],
+            [
+              -112.7071,
+              33.9459
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205881314,
+          "source": "openstreetmap.org",
+          "name": "Blind Indian Creek",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5,
+              34.2535
+            ],
+            [
+              -112.5116,
+              34.2348
+            ],
+            [
+              -112.5385,
+              34.211
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205889677,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Star Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8059,
+              33.837
+            ],
+            [
+              -112.8069,
+              33.8201
+            ],
+            [
+              -112.7904,
+              33.7572
+            ],
+            [
+              -112.7749,
+              33.7243
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205893477,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Box Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8455,
+              33.9038
+            ],
+            [
+              -112.8395,
+              33.8893
+            ],
+            [
+              -112.8232,
+              33.8823
+            ],
+            [
+              -112.812,
+              33.8718
+            ],
+            [
+              -112.8087,
+              33.8604
+            ],
+            [
+              -112.7698,
+              33.8069
+            ],
+            [
+              -112.7697,
+              33.7856
+            ],
+            [
+              -112.7549,
+              33.7435
+            ],
+            [
+              -112.7644,
+              33.7282
+            ],
+            [
+              -112.7645,
+              33.7243
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205968082,
+          "source": "openstreetmap.org",
+          "name": "Little San Domingo Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6031,
+              33.878
+            ],
+            [
+              -112.6033,
+              33.8755
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205969324,
+          "source": "openstreetmap.org",
+          "name": "Dead Horse Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.0796,
+              33.7243
+            ],
+            [
+              -113.0838,
+              33.7263
+            ],
+            [
+              -113.0854,
+              33.7343
+            ],
+            [
+              -113.0744,
+              33.7392
+            ],
+            [
+              -113.0706,
+              33.7698
+            ],
+            [
+              -113.0222,
+              33.789
+            ],
+            [
+              -112.9928,
+              33.7859
+            ],
+            [
+              -112.9792,
+              33.7924
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205975695,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Hartman Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8643,
+              33.8934
+            ],
+            [
+              -112.8583,
+              33.8979
+            ],
+            [
+              -112.8598,
+              33.9107
+            ],
+            [
+              -112.8473,
+              33.9359
+            ],
+            [
+              -112.8466,
+              33.9458
+            ],
+            [
+              -112.8398,
+              33.9498
+            ],
+            [
+              -112.8386,
+              33.9563
+            ],
+            [
+              -112.8318,
+              33.9578
+            ],
+            [
+              -112.8272,
+              33.9642
+            ],
+            [
+              -112.792,
+              33.9741
+            ],
+            [
+              -112.7741,
+              33.9852
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205980037,
+          "source": "openstreetmap.org",
+          "name": "Milk Creek",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5,
+              34.2809
+            ],
+            [
+              -112.5012,
+              34.2809
+            ],
+            [
+              -112.5057,
+              34.2736
+            ],
+            [
+              -112.5234,
+              34.2699
+            ],
+            [
+              -112.5397,
+              34.2517
+            ],
+            [
+              -112.5398,
+              34.2445
+            ],
+            [
+              -112.5489,
+              34.2397
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206005378,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Flying E Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8089,
+              33.916
+            ],
+            [
+              -112.8108,
+              33.926
+            ],
+            [
+              -112.7876,
+              33.9514
+            ],
+            [
+              -112.7885,
+              33.9611
+            ],
+            [
+              -112.7797,
+              33.9665
+            ],
+            [
+              -112.7653,
+              33.9682
+            ],
+            [
+              -112.7592,
+              33.9785
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206007538,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Cemetery Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8016,
+              33.8915
+            ],
+            [
+              -112.7908,
+              33.9097
+            ],
+            [
+              -112.7668,
+              33.929
+            ],
+            [
+              -112.7617,
+              33.9451
+            ],
+            [
+              -112.7268,
+              33.9535
+            ],
+            [
+              -112.7186,
+              33.9614
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206009282,
+          "source": "openstreetmap.org",
+          "name": "Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7131,
+              33.9507
+            ],
+            [
+              -112.7074,
+              33.944
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206009283,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Turtleback Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7646,
+              33.9015
+            ],
+            [
+              -112.7661,
+              33.9048
+            ],
+            [
+              -112.753,
+              33.9125
+            ],
+            [
+              -112.7559,
+              33.9161
+            ],
+            [
+              -112.7531,
+              33.927
+            ],
+            [
+              -112.7117,
+              33.9479
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260846,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6434,
+              33.8865
+            ],
+            [
+              -112.644,
+              33.8863
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260847,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6447,
+              33.8855
+            ],
+            [
+              -112.6521,
+              33.8803
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260848,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.641,
+              33.886
+            ],
+            [
+              -112.6427,
+              33.886
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260849,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6492,
+              33.8831
+            ],
+            [
+              -112.6517,
+              33.8817
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260850,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6312,
+              33.8883
+            ],
+            [
+              -112.6324,
+              33.8889
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260852,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6469,
+              33.8846
+            ],
+            [
+              -112.6482,
+              33.8833
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206260853,
+          "source": "openstreetmap.org",
+          "name": "Ox Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6498,
+              33.8826
+            ],
+            [
+              -112.6521,
+              33.8803
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206264929,
+          "source": "openstreetmap.org",
+          "name": "Tub Spring Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5974,
+              33.9622
+            ],
+            [
+              -112.5977,
+              33.9609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206267941,
+          "source": "openstreetmap.org",
+          "name": "Monarch Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6684,
+              33.9207
+            ],
+            [
+              -112.6734,
+              33.9184
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206275208,
+          "source": "openstreetmap.org",
+          "name": "Monarch Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6111,
+              33.9804
+            ],
+            [
+              -112.6107,
+              33.9785
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206276438,
+          "source": "openstreetmap.org",
+          "name": "Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7073,
+              33.9476
+            ],
+            [
+              -112.7006,
+              33.9401
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206842384,
+          "source": "openstreetmap.org",
+          "name": "Blue Tank Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6915,
+              34.0116
+            ],
+            [
+              -112.6936,
+              34.0096
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206842385,
+          "source": "openstreetmap.org",
+          "name": "Blue Tank Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6915,
+              34.0116
+            ],
+            [
+              -112.6943,
+              34.0091
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206842386,
+          "source": "openstreetmap.org",
+          "name": "Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7374,
+              33.9886
+            ],
+            [
+              -112.7315,
+              33.9823
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206844329,
+          "source": "openstreetmap.org",
+          "name": "Calamity Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6972,
+              33.9803
+            ],
+            [
+              -112.6976,
+              33.9793
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206844331,
+          "source": "openstreetmap.org",
+          "name": "Calamity Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.6989,
+              33.977
+            ],
+            [
+              -112.7004,
+              33.9757
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206844332,
+          "source": "openstreetmap.org",
+          "name": "Calamity Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.686,
+              34.0026
+            ],
+            [
+              -112.687,
+              34.0021
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206849345,
+          "source": "openstreetmap.org",
+          "name": "Weaver Creek Road",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7579,
+              34.0733
+            ],
+            [
+              -112.7624,
+              34.0713
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206849347,
+          "source": "openstreetmap.org",
+          "name": "Weaver Creek Road",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.746,
+              34.0771
+            ],
+            [
+              -112.7473,
+              34.0763
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206849348,
+          "source": "openstreetmap.org",
+          "name": "Weaver Creek Road",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7692,
+              34.0708
+            ],
+            [
+              -112.7718,
+              34.0684
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206856734,
+          "source": "openstreetmap.org",
+          "name": "Hassayampa River",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5423,
+              34.1994
+            ],
+            [
+              -112.5414,
+              34.1952
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206894756,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Syndicate Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.8126,
+              33.9031
+            ],
+            [
+              -112.8163,
+              33.885
+            ],
+            [
+              -112.8138,
+              33.8726
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206899962,
+          "source": "openstreetmap.org",
+          "name": "Daggs Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7407,
+              33.8207
+            ],
+            [
+              -112.7402,
+              33.8193
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206899963,
+          "source": "openstreetmap.org",
+          "name": "Daggs Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7305,
+              33.7656
+            ],
+            [
+              -112.7311,
+              33.7645
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 206899966,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "name": "Daggs Wash",
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7435,
+              33.859
+            ],
+            [
+              -112.7453,
+              33.8327
+            ],
+            [
+              -112.7306,
+              33.7962
+            ],
+            [
+              -112.7345,
+              33.7764
+            ],
+            [
+              -112.7232,
+              33.7414
+            ],
+            [
+              -112.7234,
+              33.7283
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229025596,
+          "source": "openstreetmap.org",
+          "name": "Poplar Wash",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7608,
+              34.3071
+            ],
+            [
+              -112.7589,
+              34.3031
+            ],
+            [
+              -112.7308,
+              34.3017
+            ],
+            [
+              -112.7164,
+              34.2973
+            ],
+            [
+              -112.7065,
+              34.2882
+            ],
+            [
+              -112.6973,
+              34.2901
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229025604,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "intermittent": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7368,
+              33.9708
+            ],
+            [
+              -112.7344,
+              33.9727
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229025605,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "intermittent": "yes",
+          "is_tunnel": "yes",
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.7401,
+              33.969
+            ],
+            [
+              -112.7368,
+              33.9708
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229028830,
+          "source": "openstreetmap.org",
+          "name": "Date Creek",
+          "sort_key": 200,
+          "kind": "river"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.9897,
+              34.2443
+            ],
+            [
+              -112.9995,
+              34.245
+            ],
+            [
+              -113.0106,
+              34.2382
+            ],
+            [
+              -113.0149,
+              34.2407
+            ],
+            [
+              -113.0157,
+              34.2319
+            ],
+            [
+              -113.0317,
+              34.2288
+            ],
+            [
+              -113.0347,
+              34.2213
+            ],
+            [
+              -113.0464,
+              34.2135
+            ],
+            [
+              -113.0553,
+              34.2159
+            ],
+            [
+              -113.0586,
+              34.2076
+            ],
+            [
+              -113.0674,
+              34.203
+            ],
+            [
+              -113.0758,
+              34.211
+            ],
+            [
+              -113.083,
+              34.2074
+            ],
+            [
+              -113.0865,
+              34.2114
+            ],
+            [
+              -113.0946,
+              34.2095
+            ],
+            [
+              -113.0953,
+              34.2138
+            ],
+            [
+              -113.1103,
+              34.2108
+            ],
+            [
+              -113.1181,
+              34.2017
+            ],
+            [
+              -113.1216,
+              34.2065
+            ],
+            [
+              -113.1237,
+              34.2028
+            ],
+            [
+              -113.1312,
+              34.2084
+            ],
+            [
+              -113.1448,
+              34.2047
+            ],
+            [
+              -113.1499,
+              34.2127
+            ],
+            [
+              -113.1549,
+              34.204
+            ],
+            [
+              -113.1598,
+              34.206
+            ],
+            [
+              -113.1821,
+              34.1939
+            ],
+            [
+              -113.2031,
+              34.1918
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 264746354,
+          "area": 1484740,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.1587,
+              33.9282
+            ],
+            [
+              -113.1417,
+              33.9281
+            ],
+            [
+              -113.1418,
+              33.9215
+            ],
+            [
+              -113.1587,
+              33.9246
+            ],
+            [
+              -113.1587,
+              33.9282
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 228984824,
+          "area": 212824,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "lake"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.9712,
+              34.1096
+            ],
+            [
+              -112.9674,
+              34.1109
+            ],
+            [
+              -112.966,
+              34.1091
+            ],
+            [
+              -112.9681,
+              34.1072
+            ],
+            [
+              -112.9712,
+              34.1096
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": -163124,
+          "osm_relation": true,
+          "area": 4435729920,
+          "source": "openstreetmap.org",
+          "protect_class": "6",
+          "name": "Prescott National Forest",
+          "sort_key": 18,
+          "min_zoom": 1.2327,
+          "operator": "US Forest Service",
+          "kind": "national_park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.5,
+              34.1577
+            ],
+            [
+              -112.5183,
+              34.1577
+            ],
+            [
+              -112.5149,
+              34.3071
+            ],
+            [
+              -112.5,
+              34.3071
+            ],
+            [
+              -112.5,
+              34.1577
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5832627,
+          "osm_relation": true,
+          "area": 772579968,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Arrastra Mountain Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 2.4935,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1493,
+              34.3071
+            ],
+            [
+              -113.1416,
+              34.2987
+            ],
+            [
+              -113.1381,
+              34.2814
+            ],
+            [
+              -113.1731,
+              34.2814
+            ],
+            [
+              -113.1731,
+              34.2741
+            ],
+            [
+              -113.1785,
+              34.2742
+            ],
+            [
+              -113.1886,
+              34.2863
+            ],
+            [
+              -113.2031,
+              34.292
+            ],
+            [
+              -113.2031,
+              34.3071
+            ],
+            [
+              -113.1493,
+              34.3071
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833514,
+          "osm_relation": true,
+          "area": 184092000,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Hummingbird Springs Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 3.5281,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [[
+              [
+                -113.1406,
+                33.7243
+              ],
+              [
+                -113.1299,
+                33.7263
+              ],
+              [
+                -113.126,
+                33.7243
+              ],
+              [
+                -113.1406,
+                33.7243
+              ]
+            ]],
+            [[
+              [
+                -113.1069,
+                33.7243
+              ],
+              [
+                -113.105,
+                33.7257
+              ],
+              [
+                -113.0934,
+                33.7243
+              ],
+              [
+                -113.1069,
+                33.7243
+              ]
+            ]]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833572,
+          "osm_relation": true,
+          "area": 72202896,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Hassayampa River Canyon Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.2032,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.6638,
+              34.0832
+            ],
+            [
+              -112.6615,
+              34.0911
+            ],
+            [
+              -112.6488,
+              34.1
+            ],
+            [
+              -112.6435,
+              34.1096
+            ],
+            [
+              -112.6512,
+              34.1152
+            ],
+            [
+              -112.6413,
+              34.1221
+            ],
+            [
+              -112.6352,
+              34.1217
+            ],
+            [
+              -112.6252,
+              34.1368
+            ],
+            [
+              -112.6212,
+              34.1356
+            ],
+            [
+              -112.6212,
+              34.1286
+            ],
+            [
+              -112.5864,
+              34.1286
+            ],
+            [
+              -112.5864,
+              34.125
+            ],
+            [
+              -112.5689,
+              34.125
+            ],
+            [
+              -112.5689,
+              34.1431
+            ],
+            [
+              -112.5428,
+              34.1431
+            ],
+            [
+              -112.5428,
+              34.1577
+            ],
+            [
+              -112.5297,
+              34.1577
+            ],
+            [
+              -112.5297,
+              34.1468
+            ],
+            [
+              -112.5254,
+              34.1468
+            ],
+            [
+              -112.5254,
+              34.1432
+            ],
+            [
+              -112.5341,
+              34.1432
+            ],
+            [
+              -112.5341,
+              34.125
+            ],
+            [
+              -112.5515,
+              34.1223
+            ],
+            [
+              -112.5515,
+              34.1141
+            ],
+            [
+              -112.5602,
+              34.1105
+            ],
+            [
+              -112.5646,
+              34.1033
+            ],
+            [
+              -112.5776,
+              34.1069
+            ],
+            [
+              -112.5776,
+              34.0924
+            ],
+            [
+              -112.5879,
+              34.0841
+            ],
+            [
+              -112.6028,
+              34.0874
+            ],
+            [
+              -112.6051,
+              34.082
+            ],
+            [
+              -112.6197,
+              34.0782
+            ],
+            [
+              -112.6473,
+              34.0779
+            ],
+            [
+              -112.6473,
+              34.0724
+            ],
+            [
+              -112.6584,
+              34.0724
+            ],
+            [
+              -112.6638,
+              34.0832
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5833572,
+          "osm_relation": true,
+          "area": 72202896,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Hassayampa River Canyon Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.2032,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.6013,
+            34.115
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 200560200,
+          "area": 67316096,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "name": "Toyota Proving Grounds",
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.829,
+              33.7566
+            ],
+            [
+              -112.829,
+              33.7816
+            ],
+            [
+              -112.7771,
+              33.7816
+            ],
+            [
+              -112.7771,
+              33.7676
+            ],
+            [
+              -112.7597,
+              33.7676
+            ],
+            [
+              -112.7597,
+              33.7603
+            ],
+            [
+              -112.751,
+              33.7567
+            ],
+            [
+              -112.751,
+              33.7531
+            ],
+            [
+              -112.7253,
+              33.7531
+            ],
+            [
+              -112.7278,
+              33.7439
+            ],
+            [
+              -112.7249,
+              33.7387
+            ],
+            [
+              -112.7421,
+              33.7387
+            ],
+            [
+              -112.7422,
+              33.7243
+            ],
+            [
+              -112.8277,
+              33.7243
+            ],
+            [
+              -112.829,
+              33.7566
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 200560200,
+          "area": 67316096,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 21,
+          "name": "Toyota Proving Grounds",
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.7772,
+            33.7503
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -5832656,
+          "osm_relation": true,
+          "area": 49613700,
+          "source": "openstreetmap.org",
+          "protect_class": "1b",
+          "name": "Tres Alamos Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4739,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.2031,
+              34.2538
+            ],
+            [
+              -113.2007,
+              34.2527
+            ],
+            [
+              -113.1996,
+              34.2532
+            ],
+            [
+              -113.2031,
+              34.2544
+            ],
+            [
+              -113.2031,
+              34.2615
+            ],
+            [
+              -113.2007,
+              34.2643
+            ],
+            [
+              -113.2031,
+              34.2688
+            ],
+            [
+              -113.2031,
+              34.2736
+            ],
+            [
+              -113.1995,
+              34.2761
+            ],
+            [
+              -113.2013,
+              34.2789
+            ],
+            [
+              -113.1771,
+              34.2729
+            ],
+            [
+              -113.173,
+              34.2701
+            ],
+            [
+              -113.173,
+              34.256
+            ],
+            [
+              -113.1643,
+              34.256
+            ],
+            [
+              -113.1643,
+              34.2452
+            ],
+            [
+              -113.173,
+              34.2452
+            ],
+            [
+              -113.1731,
+              34.2161
+            ],
+            [
+              -113.1494,
+              34.2161
+            ],
+            [
+              -113.1542,
+              34.2047
+            ],
+            [
+              -113.159,
+              34.2066
+            ],
+            [
+              -113.1731,
+              34.1986
+            ],
+            [
+              -113.1731,
+              34.2016
+            ],
+            [
+              -113.1818,
+              34.2016
+            ],
+            [
+              -113.1818,
+              34.2052
+            ],
+            [
+              -113.1906,
+              34.2052
+            ],
+            [
+              -113.1906,
+              34.2161
+            ],
+            [
+              -113.2031,
+              34.2161
+            ],
+            [
+              -113.2031,
+              34.2538
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -5832656,
+          "osm_relation": true,
+          "area": 49613700,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "protect_class": "1b",
+          "name": "Tres Alamos Wilderness Area",
+          "sort_key": 17,
+          "min_zoom": 4.4739,
+          "operator": "BLM",
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.2014,
+            34.2392
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 389622139,
+          "area": 17948200,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "name": "Former ChryslerAutomobile Proving Ground sold to developers",
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.5137,
+              33.7832
+            ],
+            [
+              -112.5133,
+              33.8091
+            ],
+            [
+              -112.5,
+              33.8089
+            ],
+            [
+              -112.5,
+              33.7832
+            ],
+            [
+              -112.5137,
+              33.7832
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 264010524,
+          "area": 11365300,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1416,
+              33.9432
+            ],
+            [
+              -113.1404,
+              33.951
+            ],
+            [
+              -113.1109,
+              33.9575
+            ],
+            [
+              -113.0811,
+              33.9576
+            ],
+            [
+              -113.0808,
+              33.9432
+            ],
+            [
+              -113.1416,
+              33.9432
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 138048186,
+          "area": 1568080,
+          "source": "openstreetmap.org",
+          "sort_key": 70,
+          "min_zoom": 9,
+          "kind": "farmyard"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.7891,
+              34.1763
+            ],
+            [
+              -112.7891,
+              34.1891
+            ],
+            [
+              -112.782,
+              34.1891
+            ],
+            [
+              -112.7797,
+              34.1803
+            ],
+            [
+              -112.7826,
+              34.1763
+            ],
+            [
+              -112.7891,
+              34.1763
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3550800,
+          "osm_relation": true,
+          "area": 1000400,
+          "source": "openstreetmap.org",
+          "sort_key": 54,
+          "name": "Wickenburg Country Club",
+          "min_zoom": 9,
+          "kind": "golf_course"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -112.7716,
+                33.9774
+              ],
+              [
+                -112.7715,
+                33.9813
+              ],
+              [
+                -112.7555,
+                33.9754
+              ],
+              [
+                -112.7715,
+                33.9707
+              ],
+              [
+                -112.7716,
+                33.9774
+              ]
+            ],
+            [
+              [
+                -112.7714,
+                33.977
+              ],
+              [
+                -112.7714,
+                33.9753
+              ],
+              [
+                -112.766,
+                33.9783
+              ],
+              [
+                -112.7705,
+                33.9776
+              ],
+              [
+                -112.77,
+                33.9806
+              ],
+              [
+                -112.7714,
+                33.977
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -3550800,
+          "osm_relation": true,
+          "area": 1000400,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 54,
+          "name": "Wickenburg Country Club",
+          "min_zoom": 9,
+          "kind": "golf_course"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.7637,
+            33.976
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 163786464,
+          "area": 520982,
+          "source": "openstreetmap.org",
+          "sort_key": 72,
+          "name": "Wickenberg Plant #10",
+          "min_zoom": 9,
+          "kind": "quarry"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.6598,
+              33.8862
+            ],
+            [
+              -112.6594,
+              33.8932
+            ],
+            [
+              -112.6552,
+              33.8945
+            ],
+            [
+              -112.654,
+              33.8859
+            ],
+            [
+              -112.6598,
+              33.8862
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 163786464,
+          "area": 520982,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 72,
+          "name": "Wickenberg Plant #10",
+          "min_zoom": 9,
+          "kind": "quarry"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.657,
+            33.89
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 311913678,
+          "area": 483550,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Mobile Gardens",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.5467,
+              33.7895
+            ],
+            [
+              -112.5421,
+              33.7882
+            ],
+            [
+              -112.5421,
+              33.7822
+            ],
+            [
+              -112.5466,
+              33.7822
+            ],
+            [
+              -112.5467,
+              33.7895
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 311913678,
+          "area": 483550,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 20,
+          "name": "Mobile Gardens",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.5444,
+            33.7845
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205884544,
+          "area": 235127,
+          "source": "openstreetmap.org",
+          "sort_key": 72,
+          "min_zoom": 9,
+          "kind": "quarry"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.7805,
+              34.0707
+            ],
+            [
+              -112.7798,
+              34.0733
+            ],
+            [
+              -112.7787,
+              34.0755
+            ],
+            [
+              -112.7785,
+              34.068
+            ],
+            [
+              -112.7805,
+              34.0707
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 163340472,
+          "area": 209921,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 9,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.8028,
+              33.9645
+            ],
+            [
+              -112.7975,
+              33.9669
+            ],
+            [
+              -112.7958,
+              33.9652
+            ],
+            [
+              -112.7964,
+              33.9633
+            ],
+            [
+              -112.8028,
+              33.9645
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 389615333,
+          "area": 162185,
+          "source": "openstreetmap.org",
+          "sort_key": 72,
+          "min_zoom": 9,
+          "kind": "quarry"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.5495,
+              33.8827
+            ],
+            [
+              -112.5477,
+              33.8847
+            ],
+            [
+              -112.5437,
+              33.8834
+            ],
+            [
+              -112.5442,
+              33.882
+            ],
+            [
+              -112.5495,
+              33.8827
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3525028,
+          "osm_relation": true,
+          "area": 122820,
+          "source": "openstreetmap.org",
+          "sort_key": 54,
+          "name": "Los Caballeros Golf Club",
+          "min_zoom": 9,
+          "kind": "golf_course"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.7792,
+              33.9436
+            ],
+            [
+              -112.7728,
+              33.9495
+            ],
+            [
+              -112.7719,
+              33.9494
+            ],
+            [
+              -112.772,
+              33.9448
+            ],
+            [
+              -112.773,
+              33.9473
+            ],
+            [
+              -112.7792,
+              33.9436
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3525028,
+          "osm_relation": true,
+          "area": 122820,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 54,
+          "name": "Los Caballeros Golf Club",
+          "min_zoom": 9,
+          "kind": "golf_course"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.7722,
+            33.9465
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 263622392,
+          "area": 94904,
+          "source": "openstreetmap.org",
+          "sort_key": 61,
+          "name": "Sampleys Airport",
+          "min_zoom": 9,
+          "kind": "runway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -113.1814,
+              33.9177
+            ],
+            [
+              -113.1814,
+              33.9284
+            ],
+            [
+              -113.1808,
+              33.9285
+            ],
+            [
+              -113.1808,
+              33.9177
+            ],
+            [
+              -113.1814,
+              33.9177
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 263622392,
+          "area": 94904,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 61,
+          "name": "Sampleys Airport",
+          "min_zoom": 9,
+          "kind": "runway"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.1811,
+            33.9231
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.5,
+            33.7243
+          ],
+          [
+            -113.2031,
+            33.7243
+          ],
+          [
+            -113.2031,
+            34.3071
+          ],
+          [
+            -112.5,
+            34.3071
+          ],
+          [
+            -112.5,
+            33.7243
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "id": 150971709,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Wickenburg",
+          "kind": "town",
+          "population": 6604
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.7301,
+            33.9681
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1815690273,
+          "source": "openstreetmap.org",
+          "scalerank": 8,
+          "name": "Wittmann",
+          "old_name": "Whitman",
+          "kind": "town",
+          "population": 763
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.5298,
+            33.7783
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 163435698,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.6334,
+                33.8636
+              ],
+              [
+                -112.6219,
+                33.8529
+              ],
+              [
+                -112.6199,
+                33.8515
+              ],
+              [
+                -112.6163,
+                33.8499
+              ],
+              [
+                -112.6147,
+                33.8487
+              ],
+              [
+                -112.612,
+                33.8403
+              ],
+              [
+                -112.5,
+                33.7551
+              ]
+            ],
+            [
+              [
+                -112.5,
+                33.7555
+              ],
+              [
+                -112.6077,
+                33.8378
+              ],
+              [
+                -112.614,
+                33.8485
+              ],
+              [
+                -112.6332,
+                33.8638
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 163340514,
+          "aeroway": "runway",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.9993,
+                33.9478
+              ],
+              [
+                -112.9843,
+                33.9604
+              ]
+            ],
+            [
+              [
+                -112.8263,
+                33.8209
+              ],
+              [
+                -112.8289,
+                33.8281
+              ]
+            ],
+            [
+              [
+                -112.8043,
+                33.9663
+              ],
+              [
+                -112.786,
+                33.9749
+              ]
+            ],
+            [
+              [
+                -112.6844,
+                33.9555
+              ],
+              [
+                -112.6878,
+                33.9494
+              ]
+            ],
+            [
+              [
+                -112.5729,
+                33.8184
+              ],
+              [
+                -112.573,
+                33.8258
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 229025593,
+          "ref": "AZ 89",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.8023,
+                34.2064
+              ],
+              [
+                -112.8448,
+                34.1609
+              ],
+              [
+                -112.8112,
+                34.0298
+              ],
+              [
+                -112.8055,
+                34.0226
+              ]
+            ],
+            [
+              [
+                -112.8023,
+                34.2064
+              ],
+              [
+                -112.7882,
+                34.2034
+              ],
+              [
+                -112.7833,
+                34.2058
+              ],
+              [
+                -112.7806,
+                34.2007
+              ],
+              [
+                -112.7726,
+                34.2033
+              ],
+              [
+                -112.7617,
+                34.1999
+              ],
+              [
+                -112.761,
+                34.204
+              ],
+              [
+                -112.7572,
+                34.2025
+              ],
+              [
+                -112.755,
+                34.215
+              ],
+              [
+                -112.7373,
+                34.2356
+              ],
+              [
+                -112.735,
+                34.2522
+              ],
+              [
+                -112.7228,
+                34.2801
+              ],
+              [
+                -112.7224,
+                34.2993
+              ],
+              [
+                -112.7145,
+                34.3071
+              ]
+            ],
+            [
+              [
+                -112.7587,
+                34.2039
+              ],
+              [
+                -112.7614,
+                34.2048
+              ],
+              [
+                -112.7634,
+                34.2014
+              ],
+              [
+                -112.7679,
+                34.2035
+              ],
+              [
+                -112.7728,
+                34.2041
+              ],
+              [
+                -112.7807,
+                34.2012
+              ],
+              [
+                -112.7807,
+                34.2061
+              ],
+              [
+                -112.7842,
+                34.2063
+              ],
+              [
+                -112.7903,
+                34.2044
+              ],
+              [
+                -112.7994,
+                34.208
+              ],
+              [
+                -112.8009,
+                34.2079
+              ],
+              [
+                -112.8023,
+                34.2064
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89527375,
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.8074,
+                34.0238
+              ],
+              [
+                -112.807,
+                34.0241
+              ]
+            ],
+            [
+              [
+                -112.7394,
+                33.9854
+              ],
+              [
+                -112.7397,
+                33.9852
+              ]
+            ],
+            [
+              [
+                -112.7395,
+                33.9849
+              ],
+              [
+                -112.7391,
+                33.9852
+              ]
+            ],
+            [
+              [
+                -112.728,
+                33.9708
+              ],
+              [
+                -112.7279,
+                33.9711
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 16954874,
+          "ref": "SR 89",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.8105,
+                34.028
+              ],
+              [
+                -112.8084,
+                34.0245
+              ]
+            ],
+            [
+              [
+                -112.7578,
+                34.2051
+              ],
+              [
+                -112.7587,
+                34.2039
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 163786454,
+          "ref": "US 60",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "bicycle_network": "ncn",
+          "sort_key": 379,
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.7253,
+                33.9717
+              ],
+              [
+                -112.728,
+                33.9708
+              ]
+            ],
+            [
+              [
+                -112.7277,
+                33.9708
+              ],
+              [
+                -112.7253,
+                33.9717
+              ]
+            ],
+            [
+              [
+                -112.7058,
+                33.9488
+              ],
+              [
+                -112.7253,
+                33.9717
+              ]
+            ],
+            [
+              [
+                -112.7058,
+                33.9488
+              ],
+              [
+                -112.7045,
+                33.9473
+              ],
+              [
+                -112.702,
+                33.9446
+              ],
+              [
+                -112.6946,
+                33.938
+              ],
+              [
+                -112.6868,
+                33.9276
+              ],
+              [
+                -112.6837,
+                33.9244
+              ],
+              [
+                -112.6776,
+                33.9191
+              ],
+              [
+                -112.6767,
+                33.9173
+              ],
+              [
+                -112.6765,
+                33.9134
+              ],
+              [
+                -112.676,
+                33.9115
+              ],
+              [
+                -112.6721,
+                33.9036
+              ],
+              [
+                -112.6685,
+                33.898
+              ],
+              [
+                -112.6674,
+                33.8927
+              ],
+              [
+                -112.6669,
+                33.8913
+              ],
+              [
+                -112.666,
+                33.89
+              ],
+              [
+                -112.6612,
+                33.8853
+              ],
+              [
+                -112.6334,
+                33.8636
+              ]
+            ],
+            [
+              [
+                -112.6332,
+                33.8638
+              ],
+              [
+                -112.6654,
+                33.8895
+              ],
+              [
+                -112.6683,
+                33.8979
+              ],
+              [
+                -112.6759,
+                33.9115
+              ],
+              [
+                -112.6766,
+                33.9177
+              ],
+              [
+                -112.6771,
+                33.9189
+              ],
+              [
+                -112.6859,
+                33.9268
+              ],
+              [
+                -112.6948,
+                33.9386
+              ],
+              [
+                -112.7058,
+                33.9488
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 16977683,
+          "ref": "US 93",
+          "highway": "trunk",
+          "source": "openstreetmap.org",
+          "sort_key": 379,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.8121,
+                34.0274
+              ],
+              [
+                -113.0217,
+                34.1728
+              ],
+              [
+                -113.0545,
+                34.1921
+              ],
+              [
+                -113.0637,
+                34.2045
+              ],
+              [
+                -113.0718,
+                34.2334
+              ],
+              [
+                -113.092,
+                34.2672
+              ],
+              [
+                -113.124,
+                34.3071
+              ]
+            ],
+            [
+              [
+                -112.8121,
+                34.0274
+              ],
+              [
+                -112.8036,
+                34.0213
+              ]
+            ],
+            [
+              [
+                -112.8036,
+                34.0213
+              ],
+              [
+                -112.8089,
+                34.0253
+              ],
+              [
+                -112.8121,
+                34.0274
+              ]
+            ],
+            [
+              [
+                -112.8036,
+                34.0213
+              ],
+              [
+                -112.7413,
+                33.9872
+              ]
+            ],
+            [
+              [
+                -112.7413,
+                33.9872
+              ],
+              [
+                -112.7348,
+                33.981
+              ],
+              [
+                -112.7325,
+                33.9757
+              ],
+              [
+                -112.7281,
+                33.971
+              ]
+            ],
+            [
+              [
+                -112.7271,
+                33.9712
+              ],
+              [
+                -112.7318,
+                33.975
+              ],
+              [
+                -112.7345,
+                33.9808
+              ],
+              [
+                -112.7413,
+                33.9872
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119089204,
+          "ref": "US 60",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "bicycle_network": "ncn",
+          "sort_key": 378,
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.7278,
+                33.9701
+              ],
+              [
+                -112.7343,
+                33.9657
+              ],
+              [
+                -112.7626,
+                33.9622
+              ],
+              [
+                -112.8208,
+                33.9647
+              ],
+              [
+                -112.8433,
+                33.9561
+              ],
+              [
+                -112.9055,
+                33.9424
+              ],
+              [
+                -113.1741,
+                33.943
+              ],
+              [
+                -113.2031,
+                33.9349
+              ]
+            ],
+            [
+              [
+                -112.728,
+                33.9708
+              ],
+              [
+                -112.7278,
+                33.9701
+              ]
+            ],
+            [
+              [
+                -112.7278,
+                33.9701
+              ],
+              [
+                -112.7277,
+                33.9703
+              ],
+              [
+                -112.7277,
+                33.9708
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 228984813,
+          "ref": "AZ 71",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -113.1435,
+              33.9429
+            ],
+            [
+              -113.141,
+              33.9761
+            ],
+            [
+              -113.1341,
+              33.9896
+            ],
+            [
+              -112.9926,
+              34.1061
+            ],
+            [
+              -112.8529,
+              34.1621
+            ],
+            [
+              -112.8443,
+              34.1628
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 205968085,
+          "ref": "AZ 74",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "bicycle_network": "ncn",
+          "sort_key": 378,
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.5,
+              33.8415
+            ],
+            [
+              -112.6332,
+              33.8638
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

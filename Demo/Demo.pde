@@ -19,6 +19,8 @@ MercatorMap mercatorMap;
 
 void setup(){
    size(1366, 768, P3D);
+   
+   initGraphics();
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     MapUtils.createDefaultEventDispatcher(this, map);
@@ -34,19 +36,24 @@ void draw(){
     if(select){
     draw_selection();
     }
-    
-    if(pull){
-        PullData();    
-        JSONtoLines();
-      }
+     
+     if(pull){
+         PullMap();
+         println("DONE");
+     } 
       
-      if(lines){
-         drawLines("lines.csv", #00ff00);
+      if(lines){        
+         if(drawlines){
+          for(int i = 0; i<MapTiles().size(); i++){
+           drawRoadNetwork(#ff0000, i, Canvas); 
+           drawlines = false;
+          }
+           }
+          image(Canvas, 0, 0);
       }
       
     if(directions){
       draw_directions();
     }
     
-
 }

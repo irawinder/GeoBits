@@ -1,0 +1,687 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 90280795,
+          "area": 3082,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.48291,
+              31.376834
+            ],
+            [
+              -92.482801,
+              31.376905
+            ],
+            [
+              -92.482654,
+              31.377191
+            ],
+            [
+              -92.48259,
+              31.377158
+            ],
+            [
+              -92.482551,
+              31.376982
+            ],
+            [
+              -92.482673,
+              31.376784
+            ],
+            [
+              -92.482538,
+              31.376597
+            ],
+            [
+              -92.482564,
+              31.376509
+            ],
+            [
+              -92.48291,
+              31.376339
+            ],
+            [
+              -92.48291,
+              31.376834
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 90283451,
+          "area": 1638,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.474487,
+              31.372401
+            ],
+            [
+              -92.474461,
+              31.37261
+            ],
+            [
+              -92.474057,
+              31.372489
+            ],
+            [
+              -92.474158,
+              31.372399
+            ],
+            [
+              -92.474487,
+              31.372399
+            ],
+            [
+              -92.474487,
+              31.372401
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 90031303,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.473134,
+              31.372399
+            ],
+            [
+              -92.472961,
+              31.372572
+            ],
+            [
+              -92.47275,
+              31.372688
+            ],
+            [
+              -92.472538,
+              31.372759
+            ],
+            [
+              -92.471942,
+              31.37277
+            ],
+            [
+              -92.471924,
+              31.372773
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90067771,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.482897,
+              31.372668
+            ],
+            [
+              -92.482596,
+              31.372404
+            ],
+            [
+              -92.482588,
+              31.372399
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90090357,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.478946,
+              31.381779
+            ],
+            [
+              -92.478855,
+              31.381543
+            ],
+            [
+              -92.478476,
+              31.38129
+            ],
+            [
+              -92.478502,
+              31.381092
+            ],
+            [
+              -92.478303,
+              31.380482
+            ],
+            [
+              -92.478367,
+              31.38013
+            ],
+            [
+              -92.479014,
+              31.37975
+            ],
+            [
+              -92.479321,
+              31.379233
+            ],
+            [
+              -92.479469,
+              31.379167
+            ],
+            [
+              -92.480251,
+              31.378479
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90093166,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.473257,
+              31.380313
+            ],
+            [
+              -92.473411,
+              31.379537
+            ],
+            [
+              -92.47393,
+              31.378778
+            ],
+            [
+              -92.474801,
+              31.378156
+            ],
+            [
+              -92.475487,
+              31.377876
+            ],
+            [
+              -92.476692,
+              31.377529
+            ],
+            [
+              -92.476885,
+              31.37749
+            ],
+            [
+              -92.477199,
+              31.377523
+            ],
+            [
+              -92.477949,
+              31.377941
+            ],
+            [
+              -92.478526,
+              31.37815
+            ],
+            [
+              -92.479571,
+              31.378347
+            ],
+            [
+              -92.480071,
+              31.378529
+            ],
+            [
+              -92.480251,
+              31.378479
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90108489,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.48291,
+              31.372677
+            ],
+            [
+              -92.482897,
+              31.372668
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90221701,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.480251,
+                31.378479
+              ],
+              [
+                -92.480642,
+                31.378061
+              ],
+              [
+                -92.48075,
+                31.377577
+              ],
+              [
+                -92.481205,
+                31.37668
+              ],
+              [
+                -92.482057,
+                31.37553
+              ],
+              [
+                -92.482328,
+                31.374681
+              ],
+              [
+                -92.482231,
+                31.374076
+              ],
+              [
+                -92.482257,
+                31.373796
+              ],
+              [
+                -92.482488,
+                31.373449
+              ],
+              [
+                -92.48291,
+                31.373048
+              ]
+            ],
+            [
+              [
+                -92.48291,
+                31.373026
+              ],
+              [
+                -92.482897,
+                31.372668
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90280795,
+          "area": 3082,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.48291,
+              31.376834
+            ],
+            [
+              -92.482802,
+              31.376906
+            ],
+            [
+              -92.482654,
+              31.377191
+            ],
+            [
+              -92.482589,
+              31.377159
+            ],
+            [
+              -92.482551,
+              31.376982
+            ],
+            [
+              -92.482674,
+              31.376784
+            ],
+            [
+              -92.482539,
+              31.376597
+            ],
+            [
+              -92.482563,
+              31.37651
+            ],
+            [
+              -92.48291,
+              31.37634
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90283451,
+          "area": 1638,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.474487,
+                31.372401
+              ],
+              [
+                -92.474462,
+                31.37261
+              ],
+              [
+                -92.474058,
+                31.372489
+              ],
+              [
+                -92.474158,
+                31.372399
+              ]
+            ],
+            [
+              [
+                -92.474486,
+                31.372399
+              ],
+              [
+                -92.474487,
+                31.372401
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.471924,
+            31.372399
+          ],
+          [
+            -92.48291,
+            31.372399
+          ],
+          [
+            -92.48291,
+            31.381779
+          ],
+          [
+            -92.471924,
+            31.381779
+          ],
+          [
+            -92.471924,
+            31.372399
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 13426517,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hickory Hill Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.475468,
+              31.381779
+            ],
+            [
+              -92.475482,
+              31.38129
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426590,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lacroix Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.471924,
+              31.37793
+            ],
+            [
+              -92.472863,
+              31.377419
+            ],
+            [
+              -92.473221,
+              31.377056
+            ],
+            [
+              -92.473282,
+              31.376826
+            ],
+            [
+              -92.47327,
+              31.374908
+            ],
+            [
+              -92.47339,
+              31.373566
+            ],
+            [
+              -92.473497,
+              31.373483
+            ],
+            [
+              -92.473657,
+              31.373468
+            ],
+            [
+              -92.47531,
+              31.373488
+            ],
+            [
+              -92.475379,
+              31.373405
+            ],
+            [
+              -92.475401,
+              31.373167
+            ],
+            [
+              -92.47541,
+              31.372399
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 12639075,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "Rigolette Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.471924,
+              31.381287
+            ],
+            [
+              -92.476848,
+              31.38128
+            ],
+            [
+              -92.477519,
+              31.381183
+            ],
+            [
+              -92.48291,
+              31.379158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13421652,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lacroix Rd. E",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.471924,
+              31.375566
+            ],
+            [
+              -92.472188,
+              31.375609
+            ],
+            [
+              -92.47325,
+              31.375663
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

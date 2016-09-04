@@ -1,0 +1,5539 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 4113,
+          "area": 799975616,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.599,
+              35.616
+            ],
+            [
+              -97.5542,
+              35.6257
+            ],
+            [
+              -97.5542,
+              35.6035
+            ],
+            [
+              -97.4987,
+              35.5591
+            ],
+            [
+              -97.4543,
+              35.5701
+            ],
+            [
+              -97.432,
+              35.5257
+            ],
+            [
+              -97.3875,
+              35.5368
+            ],
+            [
+              -97.332,
+              35.5145
+            ],
+            [
+              -97.3765,
+              35.4034
+            ],
+            [
+              -97.421,
+              35.4255
+            ],
+            [
+              -97.4431,
+              35.4034
+            ],
+            [
+              -97.5098,
+              35.3923
+            ],
+            [
+              -97.5444,
+              35.3684
+            ],
+            [
+              -97.5543,
+              35.3923
+            ],
+            [
+              -97.5891,
+              35.4123
+            ],
+            [
+              -97.5876,
+              35.4367
+            ],
+            [
+              -97.6293,
+              35.4421
+            ],
+            [
+              -97.7098,
+              35.5034
+            ],
+            [
+              -97.6877,
+              35.5313
+            ],
+            [
+              -97.6432,
+              35.5368
+            ],
+            [
+              -97.669,
+              35.5907
+            ],
+            [
+              -97.6289,
+              35.6231
+            ],
+            [
+              -97.599,
+              35.616
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4303,
+          "area": 722453888,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.9568,
+              36.2298
+            ],
+            [
+              -95.8767,
+              36.2367
+            ],
+            [
+              -95.8656,
+              36.2033
+            ],
+            [
+              -95.8208,
+              36.1708
+            ],
+            [
+              -95.8207,
+              36.1227
+            ],
+            [
+              -95.7767,
+              36.0811
+            ],
+            [
+              -95.799,
+              36.0255
+            ],
+            [
+              -95.8768,
+              36.0588
+            ],
+            [
+              -95.8892,
+              36.0517
+            ],
+            [
+              -95.8767,
+              36.0144
+            ],
+            [
+              -95.8939,
+              36.0087
+            ],
+            [
+              -95.9047,
+              36.029
+            ],
+            [
+              -95.9397,
+              36.0374
+            ],
+            [
+              -95.9656,
+              36.0144
+            ],
+            [
+              -95.999,
+              36.0477
+            ],
+            [
+              -95.999,
+              36.0699
+            ],
+            [
+              -96.0545,
+              36.0922
+            ],
+            [
+              -96.0434,
+              36.1255
+            ],
+            [
+              -96.1323,
+              36.1144
+            ],
+            [
+              -96.1539,
+              36.1631
+            ],
+            [
+              -96.1434,
+              36.1811
+            ],
+            [
+              -96.1216,
+              36.1776
+            ],
+            [
+              -96.1211,
+              36.1367
+            ],
+            [
+              -96.1013,
+              36.1329
+            ],
+            [
+              -96.0878,
+              36.1811
+            ],
+            [
+              -96.0323,
+              36.1922
+            ],
+            [
+              -95.9878,
+              36.2478
+            ],
+            [
+              -95.9568,
+              36.2298
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4112,
+          "area": 141431920,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.4366,
+              35.6844
+            ],
+            [
+              -97.3987,
+              35.6034
+            ],
+            [
+              -97.4238,
+              35.614
+            ],
+            [
+              -97.4728,
+              35.5915
+            ],
+            [
+              -97.4765,
+              35.6034
+            ],
+            [
+              -97.4875,
+              35.5923
+            ],
+            [
+              -97.5209,
+              35.6034
+            ],
+            [
+              -97.5432,
+              35.6701
+            ],
+            [
+              -97.4987,
+              35.6701
+            ],
+            [
+              -97.4588,
+              35.6948
+            ],
+            [
+              -97.4366,
+              35.6844
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159267,
+          "osm_relation": true,
+          "area": 76865696,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "Atoka Public Hunting Area",
+          "min_zoom": 4.1581,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -95.9777,
+                34.5352
+              ],
+              [
+                -95.9565,
+                34.5574
+              ],
+              [
+                -95.9257,
+                34.5569
+              ],
+              [
+                -95.9168,
+                34.5393
+              ],
+              [
+                -95.9169,
+                34.5642
+              ],
+              [
+                -95.8643,
+                34.5644
+              ],
+              [
+                -95.8551,
+                34.5422
+              ],
+              [
+                -95.8993,
+                34.5295
+              ],
+              [
+                -95.8818,
+                34.5065
+              ],
+              [
+                -95.9536,
+                34.4905
+              ],
+              [
+                -95.9695,
+                34.4973
+              ],
+              [
+                -95.9516,
+                34.5157
+              ],
+              [
+                -95.969,
+                34.5157
+              ],
+              [
+                -95.9777,
+                34.5352
+              ]
+            ],
+            [
+              [
+                -95.9305,
+                34.5155
+              ],
+              [
+                -95.9282,
+                34.5062
+              ],
+              [
+                -95.9167,
+                34.511
+              ],
+              [
+                -95.9167,
+                34.5149
+              ],
+              [
+                -95.9305,
+                34.5155
+              ]
+            ],
+            [
+              [
+                -95.9391,
+                34.5277
+              ],
+              [
+                -95.939,
+                34.5207
+              ],
+              [
+                -95.934,
+                34.5207
+              ],
+              [
+                -95.9341,
+                34.5278
+              ],
+              [
+                -95.9391,
+                34.5277
+              ]
+            ],
+            [
+              [
+                -95.943,
+                34.5103
+              ],
+              [
+                -95.9429,
+                34.5061
+              ],
+              [
+                -95.934,
+                34.5062
+              ],
+              [
+                -95.934,
+                34.5104
+              ],
+              [
+                -95.943,
+                34.5103
+              ]
+            ],
+            [
+              [
+                -95.9466,
+                34.5189
+              ],
+              [
+                -95.9465,
+                34.5161
+              ],
+              [
+                -95.943,
+                34.5161
+              ],
+              [
+                -95.9431,
+                34.5189
+              ],
+              [
+                -95.9466,
+                34.5189
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159267,
+          "osm_relation": true,
+          "area": 76865696,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "Atoka Public Hunting Area",
+          "min_zoom": 4.1581,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.9167,
+            34.5242
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159282,
+          "osm_relation": true,
+          "area": 74948000,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "McGee Creek State Wildlife Managemetn Area",
+          "min_zoom": 4.1763,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.94,
+              34.4393
+            ],
+            [
+              -95.8515,
+              34.4354
+            ],
+            [
+              -95.8382,
+              34.4043
+            ],
+            [
+              -95.8676,
+              34.4063
+            ],
+            [
+              -95.8827,
+              34.3268
+            ],
+            [
+              -95.901,
+              34.3439
+            ],
+            [
+              -95.887,
+              34.3631
+            ],
+            [
+              -95.8959,
+              34.3932
+            ],
+            [
+              -95.9179,
+              34.4081
+            ],
+            [
+              -95.9007,
+              34.3858
+            ],
+            [
+              -95.9217,
+              34.3785
+            ],
+            [
+              -95.9214,
+              34.3958
+            ],
+            [
+              -95.9398,
+              34.4003
+            ],
+            [
+              -95.94,
+              34.4393
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159282,
+          "osm_relation": true,
+          "area": 74948000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "McGee Creek State Wildlife Managemetn Area",
+          "min_zoom": 4.1763,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.8865,
+            34.3831
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4124,
+          "area": 65094736,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.7712,
+              34.9138
+            ],
+            [
+              -95.8101,
+              34.9257
+            ],
+            [
+              -95.799,
+              34.9814
+            ],
+            [
+              -95.7763,
+              34.9857
+            ],
+            [
+              -95.734,
+              34.9537
+            ],
+            [
+              -95.7323,
+              34.9257
+            ],
+            [
+              -95.7712,
+              34.9138
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4120,
+          "area": 58559684,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.4669,
+              35.2007
+            ],
+            [
+              -97.5057,
+              35.2073
+            ],
+            [
+              -97.5209,
+              35.2368
+            ],
+            [
+              -97.4654,
+              35.2495
+            ],
+            [
+              -97.4098,
+              35.2368
+            ],
+            [
+              -97.4274,
+              35.2121
+            ],
+            [
+              -97.4669,
+              35.2007
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159332,
+          "osm_relation": true,
+          "area": 58016700,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "McGee Creek State Park",
+          "min_zoom": 4.361,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.923,
+              34.339
+            ],
+            [
+              -95.9217,
+              34.3785
+            ],
+            [
+              -95.9007,
+              34.3858
+            ],
+            [
+              -95.9226,
+              34.3994
+            ],
+            [
+              -95.9179,
+              34.4081
+            ],
+            [
+              -95.8959,
+              34.3932
+            ],
+            [
+              -95.887,
+              34.3631
+            ],
+            [
+              -95.901,
+              34.3439
+            ],
+            [
+              -95.883,
+              34.3268
+            ],
+            [
+              -95.8715,
+              34.3547
+            ],
+            [
+              -95.8823,
+              34.3771
+            ],
+            [
+              -95.8676,
+              34.4063
+            ],
+            [
+              -95.8417,
+              34.4024
+            ],
+            [
+              -95.8745,
+              34.3816
+            ],
+            [
+              -95.8534,
+              34.3741
+            ],
+            [
+              -95.8664,
+              34.3451
+            ],
+            [
+              -95.8313,
+              34.3452
+            ],
+            [
+              -95.853,
+              34.3091
+            ],
+            [
+              -95.861,
+              34.3071
+            ],
+            [
+              -95.8893,
+              34.3071
+            ],
+            [
+              -95.923,
+              34.339
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159332,
+          "osm_relation": true,
+          "area": 58016700,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "McGee Creek State Park",
+          "min_zoom": 4.361,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.9097,
+            34.3548
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 164123961,
+          "area": 56329300,
+          "source": "openstreetmap.org",
+          "sort_key": 23,
+          "name": "Lexington State Wildlife Management Area",
+          "min_zoom": 4.3823,
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.2478,
+              35.0368
+            ],
+            [
+              -97.2473,
+              35.0875
+            ],
+            [
+              -97.1952,
+              35.0873
+            ],
+            [
+              -97.1951,
+              35.0657
+            ],
+            [
+              -97.1421,
+              35.0583
+            ],
+            [
+              -97.1598,
+              35.0366
+            ],
+            [
+              -97.1948,
+              35.0367
+            ],
+            [
+              -97.1862,
+              35.0512
+            ],
+            [
+              -97.195,
+              35.0367
+            ],
+            [
+              -97.2478,
+              35.0368
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 164123961,
+          "area": 56329300,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 23,
+          "name": "Lexington State Wildlife Management Area",
+          "min_zoom": 4.3823,
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2125,
+            35.0619
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4102,
+          "area": 51691800,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.8897,
+              36.3853
+            ],
+            [
+              -97.9431,
+              36.4032
+            ],
+            [
+              -97.9271,
+              36.4281
+            ],
+            [
+              -97.8993,
+              36.4353
+            ],
+            [
+              -97.8431,
+              36.4144
+            ],
+            [
+              -97.8897,
+              36.3853
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4105,
+          "area": 51672068,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.0615,
+              36.1035
+            ],
+            [
+              -97.0877,
+              36.1144
+            ],
+            [
+              -97.1099,
+              36.1589
+            ],
+            [
+              -97.057,
+              36.1636
+            ],
+            [
+              -97.0363,
+              36.1454
+            ],
+            [
+              -97.0321,
+              36.1144
+            ],
+            [
+              -97.0615,
+              36.1035
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159311,
+          "osm_relation": true,
+          "area": 47594100,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "McGee Creek State Natural Scenic Recreation Area",
+          "min_zoom": 4.5039,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.8745,
+              34.3816
+            ],
+            [
+              -95.8382,
+              34.4043
+            ],
+            [
+              -95.8567,
+              34.4389
+            ],
+            [
+              -95.7787,
+              34.4394
+            ],
+            [
+              -95.7789,
+              34.4033
+            ],
+            [
+              -95.8745,
+              34.3816
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159311,
+          "osm_relation": true,
+          "area": 47594100,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "McGee Creek State Natural Scenic Recreation Area",
+          "min_zoom": 4.5039,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.8093,
+            34.4108
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4128,
+          "area": 39934248,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -98.3914,
+              34.5949
+            ],
+            [
+              -98.4165,
+              34.5986
+            ],
+            [
+              -98.4375,
+              34.6107
+            ],
+            [
+              -98.4375,
+              34.6462
+            ],
+            [
+              -98.3764,
+              34.6258
+            ],
+            [
+              -98.3914,
+              34.5949
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159219,
+          "osm_relation": true,
+          "area": 39044400,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "Atoka State Wildlife Management ARea",
+          "min_zoom": 4.6467,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.0391,
+              34.5082
+            ],
+            [
+              -96.0134,
+              34.5642
+            ],
+            [
+              -95.9694,
+              34.5569
+            ],
+            [
+              -95.9909,
+              34.5062
+            ],
+            [
+              -96.0391,
+              34.5082
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159219,
+          "osm_relation": true,
+          "area": 39044400,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "Atoka State Wildlife Management ARea",
+          "min_zoom": 4.6467,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.003,
+            34.5344
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4127,
+          "area": 26439928,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.6729,
+              34.768
+            ],
+            [
+              -96.7003,
+              34.7712
+            ],
+            [
+              -96.71,
+              34.7924
+            ],
+            [
+              -96.6432,
+              34.8036
+            ],
+            [
+              -96.6473,
+              34.7798
+            ],
+            [
+              -96.6729,
+              34.768
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4115,
+          "area": 23398478,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.9099,
+              35.3256
+            ],
+            [
+              -96.9359,
+              35.3326
+            ],
+            [
+              -96.9446,
+              35.359
+            ],
+            [
+              -96.9359,
+              35.3854
+            ],
+            [
+              -96.9099,
+              35.3924
+            ],
+            [
+              -96.9099,
+              35.3256
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159266,
+          "osm_relation": true,
+          "area": 13481800,
+          "source": "openstreetmap.org",
+          "sort_key": 17,
+          "name": "Stringtown State Wildlife Management Area",
+          "min_zoom": 5.4137,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.9536,
+              34.4393
+            ],
+            [
+              -95.9536,
+              34.4755
+            ],
+            [
+              -95.9185,
+              34.4754
+            ],
+            [
+              -95.9361,
+              34.4393
+            ],
+            [
+              -95.9536,
+              34.4393
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3159266,
+          "osm_relation": true,
+          "area": 13481800,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 17,
+          "name": "Stringtown State Wildlife Management Area",
+          "min_zoom": 5.4137,
+          "kind": "protected_area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.9437,
+            34.4573
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 6900,
+        "source": "naturalearthdata.com",
+        "sort_key": 10,
+        "min_zoom": 0,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -95.625,
+            34.3071
+          ],
+          [
+            -98.4375,
+            34.3071
+          ],
+          [
+            -98.4375,
+            36.5979
+          ],
+          [
+            -95.625,
+            36.5979
+          ],
+          [
+            -95.625,
+            34.3071
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "id": 6817,
+          "labelrank": 1,
+          "state_capital": "yes",
+          "source": "naturalearthdata.com",
+          "scalerank": 3,
+          "name": "Oklahoma City",
+          "kind": "Admin-1 capital",
+          "population": 788000
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.5206,
+            35.472
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 316983705,
+          "name:ru": "Оклахома",
+          "name:uk": "Оклахома",
+          "source": "openstreetmap.org",
+          "scalerank": 4,
+          "name": "Oklahoma",
+          "name:short": "OK",
+          "name:abbreviation": "Okla.",
+          "kind": "state",
+          "population": 3878051,
+          "name:be": "Аклахома"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.2684,
+            34.9551
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 6256,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 4,
+          "name": "Tulsa",
+          "kind": "Populated place",
+          "population": 946962
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.93,
+            36.12
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1936,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 7,
+          "name": "Norman",
+          "kind": "Populated place",
+          "population": 113525
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.3441,
+            35.2279
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1935,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 7,
+          "name": "Lawton",
+          "kind": "Populated place",
+          "population": 91752
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.41,
+            34.599
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1939,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 7,
+          "name": "Shawnee",
+          "kind": "Populated place",
+          "population": 29628
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.9338,
+            35.3428
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [{
+      "properties": {
+        "id": -4743154,
+        "colour": "#005480",
+        "ref": "821-822",
+        "osm_relation": true,
+        "route_name": "Heartland Flyer",
+        "sort_key": 275,
+        "service": "regional",
+        "operator": "Amtrak",
+        "kind": "train"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -97.5125,
+              35.4678
+            ],
+            [
+              -97.5127,
+              35.457
+            ]
+          ],
+          [
+            [
+              -97.5127,
+              35.457
+            ],
+            [
+              -97.4847,
+              35.3935
+            ],
+            [
+              -97.4825,
+              35.2879
+            ],
+            [
+              -97.3905,
+              35.1268
+            ],
+            [
+              -97.3511,
+              34.9571
+            ],
+            [
+              -97.2562,
+              34.8525
+            ],
+            [
+              -97.248,
+              34.7672
+            ],
+            [
+              -97.2024,
+              34.7258
+            ],
+            [
+              -97.1013,
+              34.4456
+            ],
+            [
+              -97.0329,
+              34.375
+            ],
+            [
+              -97.0479,
+              34.3111
+            ],
+            [
+              -97.0465,
+              34.3071
+            ]
+          ],
+          [
+            [
+              -97.5129,
+              35.4654
+            ],
+            [
+              -97.5127,
+              35.4654
+            ],
+            [
+              -97.5128,
+              35.4648
+            ],
+            [
+              -97.5129,
+              35.465
+            ],
+            [
+              -97.5129,
+              35.4654
+            ]
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 77,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "281",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.4375,
+              35.8248
+            ],
+            [
+              -98.418,
+              35.8177
+            ],
+            [
+              -98.4041,
+              35.7952
+            ],
+            [
+              -98.3937,
+              35.7292
+            ],
+            [
+              -98.3104,
+              35.6319
+            ],
+            [
+              -98.2947,
+              35.5955
+            ],
+            [
+              -98.2843,
+              35.5486
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 78,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.3312,
+              35.5347
+            ],
+            [
+              -98.3781,
+              35.3627
+            ],
+            [
+              -98.3295,
+              35.3176
+            ],
+            [
+              -98.2843,
+              35.2985
+            ],
+            [
+              -98.2704,
+              35.2829
+            ],
+            [
+              -98.2652,
+              35.2586
+            ],
+            [
+              -98.2652,
+              35.2082
+            ],
+            [
+              -98.26,
+              35.1335
+            ],
+            [
+              -98.2496,
+              35.0675
+            ],
+            [
+              -98.2531,
+              35.0588
+            ],
+            [
+              -98.2635,
+              35.0536
+            ],
+            [
+              -98.3277,
+              35.0415
+            ],
+            [
+              -98.3538,
+              35.0328
+            ],
+            [
+              -98.3903,
+              34.7306
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 415,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "69",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8114,
+              34.8643
+            ],
+            [
+              -95.86,
+              34.807
+            ],
+            [
+              -95.8757,
+              34.7775
+            ],
+            [
+              -95.9017,
+              34.7098
+            ],
+            [
+              -95.9191,
+              34.6872
+            ],
+            [
+              -95.9295,
+              34.6872
+            ],
+            [
+              -95.9694,
+              34.616
+            ],
+            [
+              -96.0302,
+              34.5483
+            ],
+            [
+              -96.0632,
+              34.4753
+            ],
+            [
+              -96.0788,
+              34.4493
+            ],
+            [
+              -96.1257,
+              34.3955
+            ],
+            [
+              -96.1846,
+              34.3071
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 422,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "69",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.7405,
+              34.9615
+            ],
+            [
+              -95.7541,
+              34.9164
+            ],
+            [
+              -95.7545,
+              34.916
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 422,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "69",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -95.7545,
+                34.916
+              ],
+              [
+                -95.7715,
+                34.8956
+              ],
+              [
+                -95.8132,
+                34.8748
+              ]
+            ],
+            [
+              [
+                -95.625,
+                35.2155
+              ],
+              [
+                -95.6482,
+                35.1908
+              ],
+              [
+                -95.6846,
+                35.1318
+              ],
+              [
+                -95.709,
+                35.0658
+              ],
+              [
+                -95.7405,
+                34.9615
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 426,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.1868,
+              34.5066
+            ],
+            [
+              -97.1469,
+              34.4406
+            ],
+            [
+              -97.1364,
+              34.3955
+            ],
+            [
+              -97.1492,
+              34.3071
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 427,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4803,
+              35.2481
+            ],
+            [
+              -97.4751,
+              35.2256
+            ],
+            [
+              -97.4751,
+              35.2021
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 427,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.4959,
+                35.3923
+              ],
+              [
+                -97.4942,
+                35.3072
+              ],
+              [
+                -97.4803,
+                35.2481
+              ]
+            ],
+            [
+              [
+                -97.4751,
+                35.2021
+              ],
+              [
+                -97.4751,
+                35.163
+              ],
+              [
+                -97.4594,
+                35.137
+              ],
+              [
+                -97.3987,
+                35.071
+              ],
+              [
+                -97.3761,
+                35.0345
+              ],
+              [
+                -97.3691,
+                35.0102
+              ],
+              [
+                -97.3639,
+                34.9442
+              ],
+              [
+                -97.3552,
+                34.906
+              ],
+              [
+                -97.3031,
+                34.7758
+              ],
+              [
+                -97.2511,
+                34.7185
+              ],
+              [
+                -97.2354,
+                34.6959
+              ],
+              [
+                -97.2076,
+                34.557
+              ],
+              [
+                -97.1972,
+                34.5274
+              ],
+              [
+                -97.1851,
+                34.5153
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 428,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "64",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.0618,
+              36.3891
+            ],
+            [
+              -97.0288,
+              36.3734
+            ],
+            [
+              -97.0079,
+              36.3526
+            ],
+            [
+              -96.9767,
+              36.2918
+            ],
+            [
+              -96.9593,
+              36.2397
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2188,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "77",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.0717,
+              36.5979
+            ],
+            [
+              -97.0722,
+              36.5923
+            ],
+            [
+              -97.0566,
+              36.429
+            ],
+            [
+              -97.0618,
+              36.3891
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2189,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "64",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.317,
+              36.3943
+            ],
+            [
+              -97.2302,
+              36.396
+            ],
+            [
+              -97.0618,
+              36.3891
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2190,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.3512,
+              36.5979
+            ],
+            [
+              -97.3518,
+              36.5853
+            ],
+            [
+              -97.3448,
+              36.5454
+            ],
+            [
+              -97.317,
+              36.4603
+            ],
+            [
+              -97.317,
+              36.3943
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2193,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "60",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9367,
+              36.5979
+            ],
+            [
+              -95.9347,
+              36.528
+            ],
+            [
+              -95.9226,
+              36.5037
+            ],
+            [
+              -95.9191,
+              36.4794
+            ],
+            [
+              -95.9243,
+              36.2779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2203,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "244",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9747,
+              36.1616
+            ],
+            [
+              -95.8208,
+              36.1654
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2203,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "244",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8208,
+              36.1654
+            ],
+            [
+              -95.7628,
+              36.1668
+            ],
+            [
+              -95.7315,
+              36.1859
+            ],
+            [
+              -95.625,
+              36.2742
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2204,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9365,
+              36.2263
+            ],
+            [
+              -95.9399,
+              36.2119
+            ],
+            [
+              -95.9399,
+              36.1911
+            ],
+            [
+              -95.9747,
+              36.1616
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2204,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9243,
+              36.2779
+            ],
+            [
+              -95.9365,
+              36.2263
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2205,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9868,
+              36.146
+            ],
+            [
+              -95.9747,
+              36.1616
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2207,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "64",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.3547,
+              36.2209
+            ],
+            [
+              -96.4505,
+              36.2241
+            ],
+            [
+              -96.572,
+              36.2119
+            ],
+            [
+              -96.8256,
+              36.2137
+            ],
+            [
+              -96.8673,
+              36.2172
+            ],
+            [
+              -96.9072,
+              36.2345
+            ],
+            [
+              -96.9593,
+              36.2397
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2208,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.0076,
+              36.113
+            ],
+            [
+              -95.9868,
+              36.146
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2215,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.0089,
+              36.0756
+            ],
+            [
+              -96.0076,
+              36.113
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2215,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "75",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.0111,
+              36.0105
+            ],
+            [
+              -96.0089,
+              36.0756
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2225,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9868,
+              36.146
+            ],
+            [
+              -95.9226,
+              36.1269
+            ],
+            [
+              -95.7781,
+              36.0661
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2225,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.7781,
+              36.0661
+            ],
+            [
+              -95.7697,
+              36.0626
+            ],
+            [
+              -95.7211,
+              36.047
+            ],
+            [
+              -95.6707,
+              36.0192
+            ],
+            [
+              -95.6256,
+              35.9862
+            ],
+            [
+              -95.625,
+              35.9855
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2255,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.3989,
+              35.607
+            ],
+            [
+              -97.4065,
+              35.6048
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2255,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.0076,
+              36.113
+            ],
+            [
+              -96.0445,
+              36.0867
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2255,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.4065,
+                35.6048
+              ],
+              [
+                -97.4264,
+                35.5989
+              ]
+            ],
+            [
+              [
+                -96.0445,
+                36.0867
+              ],
+              [
+                -96.0684,
+                36.0695
+              ],
+              [
+                -96.1014,
+                36.0174
+              ],
+              [
+                -96.19,
+                35.9897
+              ],
+              [
+                -96.3046,
+                35.9115
+              ],
+              [
+                -96.3567,
+                35.8664
+              ],
+              [
+                -96.4123,
+                35.842
+              ],
+              [
+                -96.6485,
+                35.7674
+              ],
+              [
+                -96.7092,
+                35.7517
+              ],
+              [
+                -96.9385,
+                35.7118
+              ],
+              [
+                -97.0566,
+                35.6805
+              ],
+              [
+                -97.0895,
+                35.6701
+              ],
+              [
+                -97.1312,
+                35.6423
+              ],
+              [
+                -97.1538,
+                35.6371
+              ],
+              [
+                -97.3674,
+                35.6163
+              ],
+              [
+                -97.3989,
+                35.607
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2256,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4219,
+              35.6397
+            ],
+            [
+              -97.4249,
+              35.613
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2256,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.4249,
+                35.613
+              ],
+              [
+                -97.4264,
+                35.5989
+              ]
+            ],
+            [
+              [
+                -97.317,
+                36.3943
+              ],
+              [
+                -97.3223,
+                36.3457
+              ],
+              [
+                -97.3223,
+                36.1911
+              ],
+              [
+                -97.3379,
+                36.1286
+              ],
+              [
+                -97.3466,
+                35.9792
+              ],
+              [
+                -97.3726,
+                35.9445
+              ],
+              [
+                -97.383,
+                35.9132
+              ],
+              [
+                -97.3935,
+                35.8334
+              ],
+              [
+                -97.416,
+                35.8073
+              ],
+              [
+                -97.4143,
+                35.7083
+              ],
+              [
+                -97.4219,
+                35.6397
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2264,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4647,
+              35.5451
+            ],
+            [
+              -97.4541,
+              35.56
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2264,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4541,
+              35.56
+            ],
+            [
+              -97.4264,
+              35.5989
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2272,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.9387,
+              35.4999
+            ],
+            [
+              -97.9578,
+              35.5017
+            ],
+            [
+              -98.003,
+              35.5312
+            ],
+            [
+              -98.1992,
+              35.5329
+            ],
+            [
+              -98.2843,
+              35.5486
+            ],
+            [
+              -98.3312,
+              35.5347
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2274,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "75",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.0111,
+              36.0105
+            ],
+            [
+              -96.0129,
+              35.9271
+            ],
+            [
+              -96.0181,
+              35.8681
+            ],
+            [
+              -96.0163,
+              35.7795
+            ],
+            [
+              -96.0059,
+              35.7413
+            ],
+            [
+              -95.9816,
+              35.7101
+            ],
+            [
+              -95.9625,
+              35.6753
+            ],
+            [
+              -95.9521,
+              35.6389
+            ],
+            [
+              -95.9521,
+              35.6007
+            ],
+            [
+              -95.9573,
+              35.5885
+            ],
+            [
+              -95.9486,
+              35.5555
+            ],
+            [
+              -95.9521,
+              35.4913
+            ],
+            [
+              -95.9677,
+              35.4305
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2275,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.625,
+              35.4548
+            ],
+            [
+              -95.6325,
+              35.4548
+            ],
+            [
+              -95.7419,
+              35.4478
+            ],
+            [
+              -95.8045,
+              35.4305
+            ],
+            [
+              -95.8392,
+              35.4322
+            ],
+            [
+              -95.9017,
+              35.427
+            ],
+            [
+              -95.9677,
+              35.4305
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2276,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4647,
+              35.5451
+            ],
+            [
+              -97.4647,
+              35.5086
+            ],
+            [
+              -97.4751,
+              35.4739
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2278,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.581,
+              35.4617
+            ],
+            [
+              -97.649,
+              35.4606
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2278,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.649,
+              35.4606
+            ],
+            [
+              -97.6887,
+              35.46
+            ],
+            [
+              -97.8085,
+              35.4999
+            ],
+            [
+              -97.9387,
+              35.4999
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2284,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.9359,
+              35.3854
+            ],
+            [
+              -96.9246,
+              35.3853
+            ],
+            [
+              -96.9111,
+              35.3866
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2284,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4751,
+              35.4739
+            ],
+            [
+              -97.4542,
+              35.4669
+            ],
+            [
+              -97.4004,
+              35.4339
+            ],
+            [
+              -97.3672,
+              35.4266
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2284,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.3672,
+                35.4266
+              ],
+              [
+                -97.3223,
+                35.4166
+              ],
+              [
+                -97.2354,
+                35.3871
+              ],
+              [
+                -96.9359,
+                35.3854
+              ]
+            ],
+            [
+              [
+                -96.9111,
+                35.3866
+              ],
+              [
+                -96.836,
+                35.394
+              ],
+              [
+                -96.7318,
+                35.3819
+              ],
+              [
+                -96.4852,
+                35.3819
+              ],
+              [
+                -96.4279,
+                35.3853
+              ],
+              [
+                -96.3029,
+                35.4166
+              ],
+              [
+                -96.249,
+                35.4253
+              ],
+              [
+                -95.9677,
+                35.4305
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2285,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4751,
+              35.4739
+            ],
+            [
+              -97.4855,
+              35.4722
+            ],
+            [
+              -97.4907,
+              35.4548
+            ],
+            [
+              -97.4957,
+              35.3947
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2285,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4957,
+              35.3947
+            ],
+            [
+              -97.4959,
+              35.3923
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2294,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "40",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.3312,
+              35.5347
+            ],
+            [
+              -98.4285,
+              35.5295
+            ],
+            [
+              -98.4375,
+              35.5299
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2311,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.6732,
+              35.2452
+            ],
+            [
+              -97.7199,
+              35.2203
+            ],
+            [
+              -97.7755,
+              35.1804
+            ],
+            [
+              -97.8345,
+              35.1335
+            ],
+            [
+              -97.8849,
+              35.0832
+            ],
+            [
+              -97.9179,
+              35.0311
+            ],
+            [
+              -97.937,
+              35.0241
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2322,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "INT",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9677,
+              35.4305
+            ],
+            [
+              -95.9712,
+              35.4131
+            ],
+            [
+              -95.9503,
+              35.3141
+            ],
+            [
+              -95.9208,
+              35.2533
+            ],
+            [
+              -95.9173,
+              35.1856
+            ],
+            [
+              -95.893,
+              35.1335
+            ],
+            [
+              -95.8878,
+              35.1109
+            ],
+            [
+              -95.8809,
+              35.0293
+            ],
+            [
+              -95.8618,
+              34.9842
+            ],
+            [
+              -95.8305,
+              34.9234
+            ],
+            [
+              -95.8114,
+              34.8643
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2333,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.937,
+              35.0241
+            ],
+            [
+              -98.0499,
+              34.9199
+            ],
+            [
+              -98.227,
+              34.8175
+            ],
+            [
+              -98.2809,
+              34.8018
+            ],
+            [
+              -98.3312,
+              34.7706
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2370,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.3893,
+              34.6262
+            ],
+            [
+              -98.3903,
+              34.6177
+            ],
+            [
+              -98.382,
+              34.6142
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2370,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -98.382,
+                34.6142
+              ],
+              [
+                -98.3781,
+                34.6125
+              ],
+              [
+                -98.3781,
+                34.5969
+              ],
+              [
+                -98.4128,
+                34.5431
+              ],
+              [
+                -98.4041,
+                34.4667
+              ],
+              [
+                -98.4059,
+                34.3798
+              ],
+              [
+                -98.4146,
+                34.3156
+              ],
+              [
+                -98.4171,
+                34.3071
+              ]
+            ],
+            [
+              [
+                -98.3312,
+                34.7706
+              ],
+              [
+                -98.3972,
+                34.7254
+              ],
+              [
+                -98.3989,
+                34.7133
+              ],
+              [
+                -98.3833,
+                34.6768
+              ],
+              [
+                -98.3893,
+                34.6262
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2372,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "INT",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8114,
+              34.8643
+            ],
+            [
+              -95.7923,
+              34.8418
+            ],
+            [
+              -95.7663,
+              34.7619
+            ],
+            [
+              -95.7558,
+              34.7046
+            ],
+            [
+              -95.7298,
+              34.6646
+            ],
+            [
+              -95.7263,
+              34.649
+            ],
+            [
+              -95.7315,
+              34.6195
+            ],
+            [
+              -95.7663,
+              34.5552
+            ],
+            [
+              -95.7611,
+              34.5431
+            ],
+            [
+              -95.7333,
+              34.5153
+            ],
+            [
+              -95.7194,
+              34.4649
+            ],
+            [
+              -95.7176,
+              34.425
+            ],
+            [
+              -95.7246,
+              34.3382
+            ],
+            [
+              -95.7107,
+              34.3173
+            ],
+            [
+              -95.7011,
+              34.3071
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3657,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -95.9706,
+                36.0168
+              ],
+              [
+                -95.9662,
+                36.0173
+              ]
+            ],
+            [
+              [
+                -95.8997,
+                36.0174
+              ],
+              [
+                -95.8913,
+                36.0174
+              ],
+              [
+                -95.8769,
+                36.0269
+              ]
+            ],
+            [
+              [
+                -95.8517,
+                36.048
+              ],
+              [
+                -95.8566,
+                36.1112
+              ],
+              [
+                -95.8514,
+                36.1651
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3657,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -96.091,
+                36.0244
+              ],
+              [
+                -96.0372,
+                36.0105
+              ],
+              [
+                -95.9706,
+                36.0168
+              ]
+            ],
+            [
+              [
+                -95.9662,
+                36.0173
+              ],
+              [
+                -95.9642,
+                36.0174
+              ],
+              [
+                -95.8997,
+                36.0174
+              ]
+            ],
+            [
+              [
+                -95.8769,
+                36.0269
+              ],
+              [
+                -95.8514,
+                36.0435
+              ],
+              [
+                -95.8517,
+                36.048
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3659,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.6488,
+              35.6093
+            ],
+            [
+              -97.5546,
+              35.6093
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3659,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5242,
+              35.6079
+            ],
+            [
+              -97.4362,
+              35.6031
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3659,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.7182,
+                35.4687
+              ],
+              [
+                -97.7043,
+                35.5816
+              ],
+              [
+                -97.6765,
+                35.6093
+              ],
+              [
+                -97.6488,
+                35.6093
+              ]
+            ],
+            [
+              [
+                -97.5546,
+                35.6093
+              ],
+              [
+                -97.5497,
+                35.6093
+              ],
+              [
+                -97.5242,
+                35.6079
+              ]
+            ],
+            [
+              [
+                -97.4362,
+                35.6031
+              ],
+              [
+                -97.423,
+                35.6024
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3660,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "240",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.2754,
+              35.394
+            ],
+            [
+              -97.4942,
+              35.3888
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3661,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5707,
+              35.3983
+            ],
+            [
+              -97.5827,
+              35.4617
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3661,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5706,
+              35.3975
+            ],
+            [
+              -97.5707,
+              35.3983
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3901,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4647,
+              35.5451
+            ],
+            [
+              -97.5254,
+              35.5295
+            ],
+            [
+              -97.5602,
+              35.5173
+            ],
+            [
+              -97.5775,
+              35.5051
+            ],
+            [
+              -97.581,
+              35.4617
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4028,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "64",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -96.1198,
+                36.1432
+              ],
+              [
+                -96.1496,
+                36.1529
+              ]
+            ],
+            [
+              [
+                -95.9747,
+                36.1616
+              ],
+              [
+                -96.0268,
+                36.1598
+              ],
+              [
+                -96.0992,
+                36.1379
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4028,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "64",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -96.1496,
+                36.1529
+              ],
+              [
+                -96.1657,
+                36.1581
+              ],
+              [
+                -96.2108,
+                36.1512
+              ],
+              [
+                -96.2351,
+                36.1668
+              ],
+              [
+                -96.2508,
+                36.1651
+              ],
+              [
+                -96.2942,
+                36.2189
+              ],
+              [
+                -96.3547,
+                36.2209
+              ]
+            ],
+            [
+              [
+                -96.0992,
+                36.1379
+              ],
+              [
+                -96.1014,
+                36.1373
+              ],
+              [
+                -96.1198,
+                36.1432
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4030,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.506,
+              35.393
+            ],
+            [
+              -97.5675,
+              35.3972
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4030,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "44",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.5675,
+                35.3972
+              ],
+              [
+                -97.5723,
+                35.3975
+              ],
+              [
+                -97.6088,
+                35.2794
+              ],
+              [
+                -97.6732,
+                35.2452
+              ]
+            ],
+            [
+              [
+                -97.4959,
+                35.3923
+              ],
+              [
+                -97.506,
+                35.393
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52393,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "377",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.6791,
+              34.8011
+            ],
+            [
+              -96.6794,
+              34.7896
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52393,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "377",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.6704,
+              35.2246
+            ],
+            [
+              -96.6749,
+              35.2097
+            ],
+            [
+              -96.6749,
+              35.1484
+            ],
+            [
+              -96.6794,
+              35.1319
+            ],
+            [
+              -96.6779,
+              34.9555
+            ],
+            [
+              -96.6839,
+              34.9241
+            ],
+            [
+              -96.6689,
+              34.8897
+            ],
+            [
+              -96.6689,
+              34.8643
+            ],
+            [
+              -96.6779,
+              34.8509
+            ],
+            [
+              -96.6791,
+              34.8011
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52411,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "377",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.6704,
+              35.2246
+            ],
+            [
+              -96.6719,
+              35.3487
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52416,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.4239,
+              35.4922
+            ],
+            [
+              -97.3955,
+              35.4937
+            ],
+            [
+              -97.3403,
+              35.4937
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52416,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.3403,
+              35.4937
+            ],
+            [
+              -97.1697,
+              35.4937
+            ],
+            [
+              -97.1653,
+              35.4893
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52435,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "169",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.7016,
+              36.5253
+            ],
+            [
+              -95.7001,
+              36.5418
+            ],
+            [
+              -95.6612,
+              36.5956
+            ],
+            [
+              -95.6606,
+              36.5979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52437,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "177",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.0008,
+              35.3831
+            ],
+            [
+              -97.0008,
+              35.5356
+            ],
+            [
+              -96.9993,
+              35.5535
+            ],
+            [
+              -96.9993,
+              35.6388
+            ],
+            [
+              -97.0172,
+              35.6612
+            ],
+            [
+              -97.0187,
+              35.8959
+            ],
+            [
+              -97.0158,
+              35.9019
+            ],
+            [
+              -97.0172,
+              35.9423
+            ],
+            [
+              -97.0307,
+              35.9512
+            ],
+            [
+              -97.0337,
+              35.9856
+            ],
+            [
+              -97.0516,
+              35.9856
+            ],
+            [
+              -97.0516,
+              36.0649
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52438,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "177",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.0696,
+              36.1964
+            ],
+            [
+              -97.0681,
+              36.2487
+            ],
+            [
+              -97.0681,
+              36.4775
+            ],
+            [
+              -97.077,
+              36.5134
+            ],
+            [
+              -97.077,
+              36.5941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52439,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "177",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.9641,
+              34.3071
+            ],
+            [
+              -96.9604,
+              34.3216
+            ],
+            [
+              -96.9515,
+              34.3351
+            ],
+            [
+              -96.9515,
+              34.4651
+            ],
+            [
+              -96.9724,
+              34.4995
+            ],
+            [
+              -96.9694,
+              34.5055
+            ],
+            [
+              -96.9679,
+              34.5444
+            ],
+            [
+              -96.9679,
+              34.8509
+            ],
+            [
+              -96.9664,
+              34.9092
+            ],
+            [
+              -96.9365,
+              34.9436
+            ],
+            [
+              -96.9305,
+              34.9466
+            ],
+            [
+              -96.9305,
+              35.0781
+            ],
+            [
+              -96.932,
+              35.1155
+            ],
+            [
+              -96.932,
+              35.1992
+            ],
+            [
+              -96.9231,
+              35.2291
+            ],
+            [
+              -96.9231,
+              35.2605
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52446,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "270",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.3179,
+              35.6328
+            ],
+            [
+              -98.3179,
+              35.6238
+            ],
+            [
+              -98.2058,
+              35.6238
+            ],
+            [
+              -98.1191,
+              35.6029
+            ],
+            [
+              -98.1191,
+              35.5775
+            ],
+            [
+              -98.1146,
+              35.573
+            ],
+            [
+              -98.1146,
+              35.5296
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52447,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "270",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.9231,
+              35.2605
+            ],
+            [
+              -96.8752,
+              35.2605
+            ],
+            [
+              -96.8349,
+              35.259
+            ],
+            [
+              -96.79,
+              35.2605
+            ],
+            [
+              -96.7422,
+              35.2471
+            ],
+            [
+              -96.7003,
+              35.2471
+            ],
+            [
+              -96.6794,
+              35.2261
+            ],
+            [
+              -96.6539,
+              35.2246
+            ],
+            [
+              -96.5971,
+              35.1888
+            ],
+            [
+              -96.5672,
+              35.1618
+            ],
+            [
+              -96.5493,
+              35.1588
+            ],
+            [
+              -96.5209,
+              35.1394
+            ],
+            [
+              -96.488,
+              35.1275
+            ],
+            [
+              -96.4701,
+              35.117
+            ],
+            [
+              -96.4252,
+              35.0976
+            ],
+            [
+              -96.3998,
+              35.0976
+            ],
+            [
+              -96.3684,
+              35.0871
+            ],
+            [
+              -96.2473,
+              35.0871
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52449,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "270",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.2413,
+              34.966
+            ],
+            [
+              -96.2114,
+              34.957
+            ],
+            [
+              -96.189,
+              34.9436
+            ],
+            [
+              -96.1606,
+              34.9152
+            ],
+            [
+              -96.1277,
+              34.9077
+            ],
+            [
+              -96.1217,
+              34.9017
+            ],
+            [
+              -96.0978,
+              34.9047
+            ],
+            [
+              -96.0544,
+              34.9316
+            ],
+            [
+              -96.0245,
+              34.9421
+            ],
+            [
+              -95.9498,
+              34.9421
+            ],
+            [
+              -95.9259,
+              34.9361
+            ],
+            [
+              -95.8825,
+              34.9495
+            ],
+            [
+              -95.8586,
+              34.951
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52461,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "60",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.4375,
+              36.3908
+            ],
+            [
+              -98.2477,
+              36.3908
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52472,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.9617,
+              35.6089
+            ],
+            [
+              -95.9498,
+              35.6104
+            ],
+            [
+              -95.8825,
+              35.6089
+            ],
+            [
+              -95.8705,
+              35.6074
+            ],
+            [
+              -95.8257,
+              35.6104
+            ],
+            [
+              -95.6657,
+              35.6089
+            ],
+            [
+              -95.6597,
+              35.6133
+            ],
+            [
+              -95.6553,
+              35.6522
+            ],
+            [
+              -95.6418,
+              35.6687
+            ],
+            [
+              -95.6418,
+              35.7389
+            ],
+            [
+              -95.6388,
+              35.7404
+            ],
+            [
+              -95.625,
+              35.7404
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52482,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "75",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.1247,
+              34.3934
+            ],
+            [
+              -96.1531,
+              34.3934
+            ],
+            [
+              -96.1785,
+              34.4053
+            ],
+            [
+              -96.2009,
+              34.4352
+            ],
+            [
+              -96.2174,
+              34.4651
+            ],
+            [
+              -96.2204,
+              34.5145
+            ],
+            [
+              -96.2174,
+              34.5414
+            ],
+            [
+              -96.2308,
+              34.5474
+            ],
+            [
+              -96.2667,
+              34.5773
+            ],
+            [
+              -96.2667,
+              34.6475
+            ],
+            [
+              -96.2697,
+              34.6565
+            ],
+            [
+              -96.2667,
+              34.6819
+            ],
+            [
+              -96.2608,
+              34.6924
+            ],
+            [
+              -96.2652,
+              34.7537
+            ],
+            [
+              -96.2593,
+              34.7627
+            ],
+            [
+              -96.2578,
+              34.7821
+            ],
+            [
+              -96.2488,
+              34.7956
+            ],
+            [
+              -96.2503,
+              34.8539
+            ],
+            [
+              -96.2473,
+              34.8733
+            ],
+            [
+              -96.2473,
+              34.9271
+            ],
+            [
+              -96.2398,
+              34.948
+            ],
+            [
+              -96.2398,
+              34.9705
+            ],
+            [
+              -96.2473,
+              34.9899
+            ],
+            [
+              -96.2488,
+              35.1992
+            ],
+            [
+              -96.2413,
+              35.2396
+            ],
+            [
+              -96.2323,
+              35.2396
+            ],
+            [
+              -96.2234,
+              35.2545
+            ],
+            [
+              -96.2084,
+              35.2605
+            ],
+            [
+              -96.1995,
+              35.277
+            ],
+            [
+              -96.1755,
+              35.2874
+            ],
+            [
+              -96.1501,
+              35.3203
+            ],
+            [
+              -96.1486,
+              35.3353
+            ],
+            [
+              -96.1322,
+              35.3353
+            ],
+            [
+              -96.1217,
+              35.3517
+            ],
+            [
+              -96.1232,
+              35.4324
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52490,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "169",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8302,
+              36.3654
+            ],
+            [
+              -95.8212,
+              36.3669
+            ],
+            [
+              -95.7973,
+              36.3953
+            ],
+            [
+              -95.7554,
+              36.4087
+            ],
+            [
+              -95.724,
+              36.4207
+            ],
+            [
+              -95.7091,
+              36.4386
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52491,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "177",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.0008,
+              35.3831
+            ],
+            [
+              -96.9455,
+              35.3442
+            ],
+            [
+              -96.9425,
+              35.2889
+            ],
+            [
+              -96.9231,
+              35.2605
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52495,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "270",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8051,
+              34.9453
+            ],
+            [
+              -95.7465,
+              34.9271
+            ],
+            [
+              -95.7324,
+              34.9271
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52495,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "270",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -95.8586,
+                34.951
+              ],
+              [
+                -95.8317,
+                34.9466
+              ],
+              [
+                -95.8092,
+                34.9466
+              ],
+              [
+                -95.8051,
+                34.9453
+              ]
+            ],
+            [
+              [
+                -95.7324,
+                34.9271
+              ],
+              [
+                -95.7285,
+                34.9271
+              ],
+              [
+                -95.7016,
+                34.9032
+              ],
+              [
+                -95.6657,
+                34.8942
+              ],
+              [
+                -95.625,
+                34.8899
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52497,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "412",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.7509,
+              36.162
+            ],
+            [
+              -95.7046,
+              36.162
+            ],
+            [
+              -95.6852,
+              36.1635
+            ],
+            [
+              -95.625,
+              36.1635
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52506,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "60",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.9214,
+              36.3908
+            ],
+            [
+              -97.8904,
+              36.3908
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52506,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "60",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.2477,
+              36.3908
+            ],
+            [
+              -97.9214,
+              36.3908
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52509,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.4375,
+              34.6236
+            ],
+            [
+              -98.3882,
+              34.6236
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52511,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "62",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.2432,
+              35.0721
+            ],
+            [
+              -98.1221,
+              35.0721
+            ],
+            [
+              -98.0982,
+              35.0826
+            ],
+            [
+              -98.0473,
+              35.0871
+            ],
+            [
+              -97.9831,
+              35.0691
+            ],
+            [
+              -97.9651,
+              35.0602
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52521,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "169",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.8601,
+              36.0992
+            ],
+            [
+              -95.8601,
+              36.168
+            ],
+            [
+              -95.8526,
+              36.177
+            ],
+            [
+              -95.852,
+              36.1957
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52521,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "169",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.852,
+              36.1957
+            ],
+            [
+              -95.8511,
+              36.2203
+            ],
+            [
+              -95.8481,
+              36.2353
+            ],
+            [
+              -95.8481,
+              36.3414
+            ],
+            [
+              -95.8302,
+              36.3654
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52522,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "377",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.7023,
+              34.7754
+            ],
+            [
+              -96.6958,
+              34.7851
+            ],
+            [
+              -96.6794,
+              34.7896
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52522,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "377",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.6345,
+              34.7268
+            ],
+            [
+              -96.6614,
+              34.7522
+            ],
+            [
+              -96.6824,
+              34.7522
+            ],
+            [
+              -96.7033,
+              34.7642
+            ],
+            [
+              -96.7048,
+              34.7716
+            ],
+            [
+              -96.7023,
+              34.7754
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52524,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "77",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5136,
+              35.5296
+            ],
+            [
+              -97.5136,
+              35.573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52524,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "77",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5008,
+              35.6035
+            ],
+            [
+              -97.4972,
+              35.6089
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 52524,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "77",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.5136,
+              35.573
+            ],
+            [
+              -97.5136,
+              35.5849
+            ],
+            [
+              -97.5008,
+              35.6035
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

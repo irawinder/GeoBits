@@ -1,0 +1,77 @@
+{
+  "water": {
+    "features": [{
+      "properties": {
+        "id": 2,
+        "area": 110270986846208,
+        "source": "naturalearthdata.com",
+        "sort_key": 200,
+        "name": "",
+        "kind": "ocean"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -118.125,
+            29.5352
+          ],
+          [
+            -120.9375,
+            29.5352
+          ],
+          [
+            -120.9375,
+            31.9522
+          ],
+          [
+            -118.125,
+            31.9522
+          ],
+          [
+            -118.125,
+            29.5352
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

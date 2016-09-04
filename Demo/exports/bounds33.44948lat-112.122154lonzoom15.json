@@ -1,0 +1,2394 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 126455389,
+          "area": 113237,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.116599,
+              33.441391
+            ],
+            [
+              -112.116588,
+              33.441766
+            ],
+            [
+              -112.116344,
+              33.441771
+            ],
+            [
+              -112.116342,
+              33.441722
+            ],
+            [
+              -112.116228,
+              33.441724
+            ],
+            [
+              -112.116226,
+              33.441666
+            ],
+            [
+              -112.115956,
+              33.441758
+            ],
+            [
+              -112.116014,
+              33.443699
+            ],
+            [
+              -112.11373,
+              33.443746
+            ],
+            [
+              -112.113723,
+              33.443506
+            ],
+            [
+              -112.113631,
+              33.443508
+            ],
+            [
+              -112.113571,
+              33.441504
+            ],
+            [
+              -112.11368,
+              33.441501
+            ],
+            [
+              -112.113712,
+              33.441024
+            ],
+            [
+              -112.113654,
+              33.440982
+            ],
+            [
+              -112.113711,
+              33.440981
+            ],
+            [
+              -112.113708,
+              33.440895
+            ],
+            [
+              -112.114394,
+              33.440851
+            ],
+            [
+              -112.114311,
+              33.440604
+            ],
+            [
+              -112.114704,
+              33.440596
+            ],
+            [
+              -112.114695,
+              33.440283
+            ],
+            [
+              -112.115363,
+              33.440269
+            ],
+            [
+              -112.115383,
+              33.440957
+            ],
+            [
+              -112.116563,
+              33.440932
+            ],
+            [
+              -112.116599,
+              33.441391
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875414,
+          "area": 5379,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 13,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.120784,
+              33.445236
+            ],
+            [
+              -112.120778,
+              33.445513
+            ],
+            [
+              -112.119469,
+              33.445494
+            ],
+            [
+              -112.119475,
+              33.445217
+            ],
+            [
+              -112.120784,
+              33.445236
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875431,
+          "area": 854,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.12052,
+              33.442998
+            ],
+            [
+              -112.120316,
+              33.442999
+            ],
+            [
+              -112.120315,
+              33.442716
+            ],
+            [
+              -112.120519,
+              33.442716
+            ],
+            [
+              -112.12052,
+              33.442998
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875420,
+          "area": 692,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.120498,
+              33.443276
+            ],
+            [
+              -112.120331,
+              33.443277
+            ],
+            [
+              -112.120329,
+              33.442999
+            ],
+            [
+              -112.120497,
+              33.442998
+            ],
+            [
+              -112.120498,
+              33.443276
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875424,
+          "area": 670,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.117858,
+              33.444207
+            ],
+            [
+              -112.117858,
+              33.444434
+            ],
+            [
+              -112.117659,
+              33.444434
+            ],
+            [
+              -112.117659,
+              33.444207
+            ],
+            [
+              -112.117858,
+              33.444207
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875407,
+          "area": 528,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.118217,
+              33.442629
+            ],
+            [
+              -112.118179,
+              33.442907
+            ],
+            [
+              -112.118074,
+              33.442908
+            ],
+            [
+              -112.118032,
+              33.442673
+            ],
+            [
+              -112.118132,
+              33.442672
+            ],
+            [
+              -112.118129,
+              33.442537
+            ],
+            [
+              -112.118217,
+              33.442629
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875410,
+          "area": 354,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.119133,
+              33.445573
+            ],
+            [
+              -112.119128,
+              33.44569
+            ],
+            [
+              -112.118925,
+              33.445684
+            ],
+            [
+              -112.11893,
+              33.445567
+            ],
+            [
+              -112.119133,
+              33.445573
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875427,
+          "area": 354,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.121747,
+              33.444773
+            ],
+            [
+              -112.121745,
+              33.444899
+            ],
+            [
+              -112.121556,
+              33.444897
+            ],
+            [
+              -112.121558,
+              33.444771
+            ],
+            [
+              -112.121747,
+              33.444773
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875412,
+          "area": 326,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.118166,
+              33.442517
+            ],
+            [
+              -112.118052,
+              33.442519
+            ],
+            [
+              -112.118048,
+              33.442324
+            ],
+            [
+              -112.118161,
+              33.442323
+            ],
+            [
+              -112.118166,
+              33.442517
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875417,
+          "area": 271,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.118113,
+              33.444691
+            ],
+            [
+              -112.118109,
+              33.444847
+            ],
+            [
+              -112.117993,
+              33.444845
+            ],
+            [
+              -112.117997,
+              33.444688
+            ],
+            [
+              -112.118113,
+              33.444691
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875426,
+          "area": 264,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.118182,
+              33.443075
+            ],
+            [
+              -112.118077,
+              33.443077
+            ],
+            [
+              -112.118074,
+              33.442908
+            ],
+            [
+              -112.118179,
+              33.442907
+            ],
+            [
+              -112.118182,
+              33.443075
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875415,
+          "area": 257,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "layer": 1,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.117934,
+              33.444434
+            ],
+            [
+              -112.117858,
+              33.444434
+            ],
+            [
+              -112.117858,
+              33.444207
+            ],
+            [
+              -112.117934,
+              33.444207
+            ],
+            [
+              -112.117934,
+              33.444434
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875432,
+          "area": 237,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.118132,
+              33.442672
+            ],
+            [
+              -112.118032,
+              33.442673
+            ],
+            [
+              -112.118029,
+              33.442514
+            ],
+            [
+              -112.118129,
+              33.442512
+            ],
+            [
+              -112.118132,
+              33.442672
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 41598806,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.126072,
+            33.444069
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 42556920,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.117502,
+            33.443938
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 330297831,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.117505,
+            33.443981
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 359293076,
+          "name": "William R Sullivan Elementary School",
+          "min_zoom": 15,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.126174,
+            33.447853
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3119008915,
+          "name": "Ecology",
+          "min_zoom": 15,
+          "kind": "water_tower"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.118126,
+            33.444331
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3119008916,
+          "name": "Parts entrance",
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.118737,
+            33.445457
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3119008919,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.120185,
+            33.442278
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3119009759,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.118737,
+            33.445519
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 306875402,
+          "area": 169411,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.123687,
+              33.444207
+            ],
+            [
+              -112.123658,
+              33.446107
+            ],
+            [
+              -112.117655,
+              33.44604
+            ],
+            [
+              -112.117683,
+              33.444144
+            ],
+            [
+              -112.123687,
+              33.444207
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875405,
+          "area": 83858,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "name": "Pull-N-Save",
+          "min_zoom": 9.07817,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.121238,
+              33.443899
+            ],
+            [
+              -112.117698,
+              33.443826
+            ],
+            [
+              -112.117656,
+              33.442317
+            ],
+            [
+              -112.11773,
+              33.442244
+            ],
+            [
+              -112.1212,
+              33.442293
+            ],
+            [
+              -112.121238,
+              33.443899
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875405,
+          "area": 83858,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 21,
+          "name": "Pull-N-Save",
+          "min_zoom": 9.07817,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.119452,
+            33.44322
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.115479,
+            33.440609
+          ],
+          [
+            -112.126465,
+            33.440609
+          ],
+          [
+            -112.126465,
+            33.449777
+          ],
+          [
+            -112.115479,
+            33.449777
+          ],
+          [
+            -112.115479,
+            33.440609
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [{
+      "properties": {
+        "id": 150936419,
+        "source": "openstreetmap.org",
+        "scalerank": 12,
+        "name": "Rose Lane Trailer Park",
+        "kind": "hamlet"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.125705,
+          33.448655
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 30003682,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.115479,
+                33.443979
+              ],
+              [
+                -112.115753,
+                33.443977
+              ]
+            ],
+            [
+              [
+                -112.115753,
+                33.443977
+              ],
+              [
+                -112.11642,
+                33.443977
+              ]
+            ],
+            [
+              [
+                -112.11642,
+                33.443977
+              ],
+              [
+                -112.122368,
+                33.444011
+              ]
+            ],
+            [
+              [
+                -112.11642,
+                33.443977
+              ],
+              [
+                -112.115479,
+                33.444078
+              ]
+            ],
+            [
+              [
+                -112.115479,
+                33.444011
+              ],
+              [
+                -112.115753,
+                33.443977
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690960,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "W Jefferson St.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.117533,
+              33.447252
+            ],
+            [
+              -112.115479,
+              33.44726
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5599047,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 30th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.123868,
+                33.448435
+              ],
+              [
+                -112.124534,
+                33.449131
+              ]
+            ],
+            [
+              [
+                -112.123747,
+                33.449514
+              ],
+              [
+                -112.123746,
+                33.449777
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690961,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jefferson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126023,
+              33.446688
+            ],
+            [
+              -112.126465,
+              33.446694
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5599466,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "S 31st Ave.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126037,
+              33.447647
+            ],
+            [
+              -112.126012,
+              33.444914
+            ],
+            [
+              -112.126072,
+              33.444069
+            ],
+            [
+              -112.126005,
+              33.440609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5627305,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Madison St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.126024,
+                33.445806
+              ],
+              [
+                -112.126465,
+                33.445811
+              ]
+            ],
+            [
+              [
+                -112.118602,
+                33.446491
+              ],
+              [
+                -112.12493,
+                33.446587
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 382871085,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jefferson St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.117534,
+              33.447314
+            ],
+            [
+              -112.118602,
+              33.447335
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131558984,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 28th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.119657,
+              33.448234
+            ],
+            [
+              -112.119661,
+              33.446507
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131559000,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.126026,
+                33.445361
+              ],
+              [
+                -112.126465,
+                33.445368
+              ]
+            ],
+            [
+              [
+                -112.126031,
+                33.446252
+              ],
+              [
+                -112.126465,
+                33.446253
+              ]
+            ],
+            [
+              [
+                -112.126032,
+                33.446188
+              ],
+              [
+                -112.125479,
+                33.446186
+              ],
+              [
+                -112.12547,
+                33.449301
+              ]
+            ],
+            [
+              [
+                -112.124933,
+                33.449591
+              ],
+              [
+                -112.124473,
+                33.44961
+              ],
+              [
+                -112.124363,
+                33.449754
+              ],
+              [
+                -112.124363,
+                33.449777
+              ]
+            ],
+            [
+              [
+                -112.122816,
+                33.448423
+              ],
+              [
+                -112.122407,
+                33.44841
+              ],
+              [
+                -112.122303,
+                33.448347
+              ],
+              [
+                -112.12228,
+                33.447008
+              ],
+              [
+                -112.122188,
+                33.446928
+              ],
+              [
+                -112.121331,
+                33.446921
+              ],
+              [
+                -112.121221,
+                33.446991
+              ],
+              [
+                -112.121236,
+                33.447999
+              ],
+              [
+                -112.121115,
+                33.448098
+              ],
+              [
+                -112.120719,
+                33.448093
+              ]
+            ],
+            [
+              [
+                -112.120689,
+                33.448782
+              ],
+              [
+                -112.121719,
+                33.449164
+              ],
+              [
+                -112.122545,
+                33.449243
+              ],
+              [
+                -112.123451,
+                33.449116
+              ],
+              [
+                -112.124064,
+                33.448873
+              ],
+              [
+                -112.124378,
+                33.448659
+              ],
+              [
+                -112.124392,
+                33.448547
+              ],
+              [
+                -112.124386,
+                33.447041
+              ],
+              [
+                -112.124271,
+                33.446945
+              ],
+              [
+                -112.12344,
+                33.446936
+              ],
+              [
+                -112.123339,
+                33.446996
+              ],
+              [
+                -112.123336,
+                33.448179
+              ],
+              [
+                -112.123166,
+                33.448331
+              ],
+              [
+                -112.122815,
+                33.448343
+              ]
+            ],
+            [
+              [
+                -112.120118,
+                33.449599
+              ],
+              [
+                -112.12054,
+                33.449596
+              ],
+              [
+                -112.120725,
+                33.449777
+              ]
+            ],
+            [
+              [
+                -112.117509,
+                33.448739
+              ],
+              [
+                -112.117967,
+                33.448751
+              ],
+              [
+                -112.118078,
+                33.448691
+              ],
+              [
+                -112.118093,
+                33.446085
+              ]
+            ],
+            [
+              [
+                -112.117525,
+                33.447762
+              ],
+              [
+                -112.115479,
+                33.447768
+              ]
+            ],
+            [
+              [
+                -112.115479,
+                33.446745
+              ],
+              [
+                -112.117525,
+                33.446729
+              ]
+            ],
+            [
+              [
+                -112.117516,
+                33.445859
+              ],
+              [
+                -112.115479,
+                33.445876
+              ]
+            ],
+            [
+              [
+                -112.117511,
+                33.44862
+              ],
+              [
+                -112.115479,
+                33.448617
+              ]
+            ],
+            [
+              [
+                -112.119138,
+                33.448708
+              ],
+              [
+                -112.11925,
+                33.448765
+              ],
+              [
+                -112.120108,
+                33.448777
+              ],
+              [
+                -112.120186,
+                33.448703
+              ],
+              [
+                -112.120137,
+                33.446921
+              ],
+              [
+                -112.119236,
+                33.446883
+              ],
+              [
+                -112.119118,
+                33.446981
+              ],
+              [
+                -112.119138,
+                33.448708
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875437,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 356,
+          "service": "driveway",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.117773,
+                33.442374
+              ],
+              [
+                -112.11777,
+                33.442987
+              ]
+            ],
+            [
+              [
+                -112.117657,
+                33.442373
+              ],
+              [
+                -112.117773,
+                33.442374
+              ]
+            ],
+            [
+              [
+                -112.117773,
+                33.442374
+              ],
+              [
+                -112.117969,
+                33.442375
+              ],
+              [
+                -112.117981,
+                33.442987
+              ],
+              [
+                -112.11777,
+                33.442987
+              ]
+            ],
+            [
+              [
+                -112.11777,
+                33.442987
+              ],
+              [
+                -112.117674,
+                33.442987
+              ]
+            ],
+            [
+              [
+                -112.117659,
+                33.445759
+              ],
+              [
+                -112.11862,
+                33.445774
+              ],
+              [
+                -112.11863,
+                33.44495
+              ],
+              [
+                -112.117671,
+                33.444943
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 212779555,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.12603,
+              33.449627
+            ],
+            [
+              -112.126465,
+              33.449636
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5627299,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Madison St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.115479,
+              33.446308
+            ],
+            [
+              -112.117518,
+              33.446293
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 338878394,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "W Adams St.",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.116271,
+                33.449105
+              ],
+              [
+                -112.117513,
+                33.449173
+              ]
+            ],
+            [
+              [
+                -112.116271,
+                33.449105
+              ],
+              [
+                -112.117426,
+                33.449056
+              ],
+              [
+                -112.117511,
+                33.448888
+              ]
+            ],
+            [
+              [
+                -112.115479,
+                33.449109
+              ],
+              [
+                -112.116271,
+                33.449105
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683057,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126465,
+              33.444077
+            ],
+            [
+              -112.117659,
+              33.443937
+            ],
+            [
+              -112.115479,
+              33.443945
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683103,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 30th Drive;South 30th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.12493,
+              33.446587
+            ],
+            [
+              -112.124927,
+              33.448533
+            ],
+            [
+              -112.124764,
+              33.448901
+            ],
+            [
+              -112.124534,
+              33.449131
+            ],
+            [
+              -112.124934,
+              33.449534
+            ],
+            [
+              -112.124942,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5666331,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 29th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.121346,
+              33.449546
+            ],
+            [
+              -112.121346,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606754,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 30th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.123868,
+              33.448435
+            ],
+            [
+              -112.123861,
+              33.446571
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5598524,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 28th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.119657,
+              33.448234
+            ],
+            [
+              -112.11967,
+              33.449156
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5677893,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 29th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.121729,
+              33.442177
+            ],
+            [
+              -112.121716,
+              33.440609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5677897,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 29th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.121757,
+              33.448698
+            ],
+            [
+              -112.121755,
+              33.446539
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436957654,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "N 27th Ave.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.117507,
+              33.448186
+            ],
+            [
+              -112.117515,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5620250,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 28th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.12072,
+              33.448225
+            ],
+            [
+              -112.120705,
+              33.446523
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5695353,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 28th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.12072,
+              33.448225
+            ],
+            [
+              -112.120721,
+              33.448665
+            ],
+            [
+              -112.120566,
+              33.448972
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5589467,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Harrison St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126055,
+              33.443881
+            ],
+            [
+              -112.126465,
+              33.443889
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5684591,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jackson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126012,
+              33.444914
+            ],
+            [
+              -112.126465,
+              33.444918
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5589880,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "N 31st Ave.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.126037,
+              33.447647
+            ],
+            [
+              -112.126038,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5656828,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 27th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.118602,
+              33.448222
+            ],
+            [
+              -112.118602,
+              33.446491
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5668628,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Washington St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.126037,
+                33.447647
+              ],
+              [
+                -112.126465,
+                33.44765
+              ]
+            ],
+            [
+              [
+                -112.124927,
+                33.447454
+              ],
+              [
+                -112.126034,
+                33.447459
+              ]
+            ],
+            [
+              [
+                -112.12072,
+                33.448225
+              ],
+              [
+                -112.121519,
+                33.448629
+              ],
+              [
+                -112.122281,
+                33.448797
+              ],
+              [
+                -112.123242,
+                33.448693
+              ],
+              [
+                -112.123868,
+                33.448435
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5666442,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 29th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.122531,
+              33.44969
+            ],
+            [
+              -112.122532,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5588903,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 28th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.120121,
+              33.449163
+            ],
+            [
+              -112.120121,
+              33.449777
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436958777,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "S 27th Ave.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.117507,
+              33.448186
+            ],
+            [
+              -112.117505,
+              33.443981
+            ],
+            [
+              -112.117419,
+              33.440609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5612924,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 27th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.118602,
+              33.448222
+            ],
+            [
+              -112.118614,
+              33.449143
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5593314,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "W Lincoln St.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.117465,
+              33.442152
+            ],
+            [
+              -112.126465,
+              33.442265
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 306875437,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "driveway",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.117674,
+                33.442987
+              ],
+              [
+                -112.117482,
+                33.442987
+              ]
+            ],
+            [
+              [
+                -112.117671,
+                33.444943
+              ],
+              [
+                -112.117511,
+                33.444942
+              ]
+            ],
+            [
+              [
+                -112.117516,
+                33.445757
+              ],
+              [
+                -112.117659,
+                33.445759
+              ]
+            ],
+            [
+              [
+                -112.11747,
+                33.442372
+              ],
+              [
+                -112.117657,
+                33.442373
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131558986,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Washington St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.115479,
+              33.448195
+            ],
+            [
+              -112.117507,
+              33.448186
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5598522,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 28th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.119605,
+              33.442148
+            ],
+            [
+              -112.119568,
+              33.440609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 328621987,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Adams St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.117513,
+                33.449127
+              ],
+              [
+                -112.120121,
+                33.449163
+              ],
+              [
+                -112.120325,
+                33.449149
+              ],
+              [
+                -112.121346,
+                33.449546
+              ],
+              [
+                -112.122175,
+                33.449686
+              ],
+              [
+                -112.122531,
+                33.44969
+              ],
+              [
+                -112.123152,
+                33.449639
+              ],
+              [
+                -112.123747,
+                33.449514
+              ],
+              [
+                -112.124534,
+                33.449131
+              ]
+            ],
+            [
+              [
+                -112.120566,
+                33.448972
+              ],
+              [
+                -112.120325,
+                33.449149
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5593008,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 29th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.122816,
+              33.448774
+            ],
+            [
+              -112.122814,
+              33.446555
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5684586,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jackson St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.115479,
+              33.445429
+            ],
+            [
+              -112.117514,
+              33.445417
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

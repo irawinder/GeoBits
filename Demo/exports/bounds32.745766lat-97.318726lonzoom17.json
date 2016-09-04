@@ -1,0 +1,989 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": 115075094,
+        "ref": "I 35W;US 287-P Business",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "South Fwy.",
+        "sort_key": 381,
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31941177,
+            32.74570254
+          ],
+          [
+            -97.31939594,
+            32.74583061
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 25699935,
+        "ref": "I 35W;US 287-P Business",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "North Fwy.",
+        "sort_key": 381,
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31940133,
+            32.74780228
+          ],
+          [
+            -97.31941779,
+            32.7480126
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 41373493,
+        "ref": "TX 180",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "name": "E Lancaster Ave.",
+        "sort_key": 378,
+        "network": "US:TX",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31831086,
+            32.74619502
+          ],
+          [
+            -97.31785694,
+            32.74619101
+          ],
+          [
+            -97.31689453,
+            32.74618263
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89719023,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 444,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74631523
+          ],
+          [
+            -97.31884338,
+            32.74653887
+          ],
+          [
+            -97.31837671,
+            32.74664721
+          ],
+          [
+            -97.31797974,
+            32.74670138
+          ],
+          [
+            -97.31747543,
+            32.7467375
+          ],
+          [
+            -97.31689453,
+            32.74676294
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723611,
+        "ref": "I 30",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "Tom Landry Fwy.",
+        "sort_key": 444,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31778122,
+            32.74720669
+          ],
+          [
+            -97.3186771,
+            32.74696311
+          ],
+          [
+            -97.31951389,
+            32.74669232
+          ],
+          [
+            -97.31964111,
+            32.74664989
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 122733059,
+        "ref": "I 30",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "Tom Landry Fwy.",
+        "sort_key": 444,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74646177
+          ],
+          [
+            -97.31855898,
+            32.74678706
+          ],
+          [
+            -97.31766318,
+            32.74703518
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 10051306,
+        "highway": "residential",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "name": "N Kentucky Ave.",
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31785694,
+            32.74619101
+          ],
+          [
+            -97.3178379,
+            32.74572098
+          ],
+          [
+            -97.31783756,
+            32.74570254
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89718993,
+        "ref": "I 30",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "Tom Landry Fwy.",
+        "sort_key": 381,
+        "oneway": "yes",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31766318,
+            32.74703518
+          ],
+          [
+            -97.31689453,
+            32.74720437
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723605,
+        "ref": "I 30",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "Tom Landry Fwy.",
+        "sort_key": 381,
+        "oneway": "yes",
+        "network": "US:I",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31689453,
+            32.74739843
+          ],
+          [
+            -97.31778122,
+            32.74720669
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 419224417,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "South Fwy.",
+        "oneway": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31855628,
+            32.74617847
+          ],
+          [
+            -97.31854317,
+            32.74624579
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723574,
+        "ref": "US 377",
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 445,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74682257
+          ],
+          [
+            -97.31948173,
+            32.74700821
+          ],
+          [
+            -97.31923505,
+            32.74746388
+          ],
+          [
+            -97.31910623,
+            32.74787897
+          ],
+          [
+            -97.31908126,
+            32.7480126
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 419224421,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "South Fwy.",
+        "oneway": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31880219,
+            32.74570254
+          ],
+          [
+            -97.31869085,
+            32.74593866
+          ],
+          [
+            -97.31855628,
+            32.74617847
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89645399,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "oneway": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74652871
+          ],
+          [
+            -97.31919741,
+            32.74656146
+          ],
+          [
+            -97.31863947,
+            32.74667879
+          ],
+          [
+            -97.31795288,
+            32.74682771
+          ],
+          [
+            -97.31702483,
+            32.7470172
+          ],
+          [
+            -97.31689453,
+            32.74704129
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89716382,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 443,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31892917,
+            32.74582608
+          ],
+          [
+            -97.31870387,
+            32.74609679
+          ],
+          [
+            -97.31845181,
+            32.7463088
+          ],
+          [
+            -97.31827475,
+            32.74645319
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 102653695,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "E Lancaster Ave.",
+        "oneway": "yes",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74621095
+          ],
+          [
+            -97.31855628,
+            32.74617847
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89727082,
+        "ref": "TX 180",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "name": "E Lancaster Ave.",
+        "sort_key": 378,
+        "oneway": "yes",
+        "network": "US:TX",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31855628,
+            32.74617847
+          ],
+          [
+            -97.31831086,
+            32.74619502
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89716375,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "oneway": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.3190077,
+            32.74570254
+          ],
+          [
+            -97.31892917,
+            32.74582608
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723566,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "oneway": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31689453,
+            32.74788642
+          ],
+          [
+            -97.31760425,
+            32.74779768
+          ],
+          [
+            -97.31806553,
+            32.74769402
+          ],
+          [
+            -97.31867172,
+            32.74749085
+          ],
+          [
+            -97.3191277,
+            32.74735108
+          ],
+          [
+            -97.31943879,
+            32.74727439
+          ],
+          [
+            -97.31964111,
+            32.74724104
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 25678192,
+        "highway": "unclassified",
+        "source": "openstreetmap.org",
+        "sort_key": 360,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31829023,
+            32.7480126
+          ],
+          [
+            -97.31836377,
+            32.74789129
+          ],
+          [
+            -97.31848109,
+            32.74776677
+          ],
+          [
+            -97.31863911,
+            32.7476471
+          ],
+          [
+            -97.31889054,
+            32.74755847
+          ],
+          [
+            -97.31914423,
+            32.74747952
+          ],
+          [
+            -97.31964111,
+            32.74742314
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723551,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "oneway": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31689453,
+            32.74754435
+          ],
+          [
+            -97.31744327,
+            32.74746388
+          ],
+          [
+            -97.31804936,
+            32.74738719
+          ],
+          [
+            -97.31964111,
+            32.74723605
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89716381,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 375,
+        "oneway": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31827475,
+            32.74645319
+          ],
+          [
+            -97.31800112,
+            32.74662016
+          ],
+          [
+            -97.3177222,
+            32.74674649
+          ],
+          [
+            -97.31735209,
+            32.74687282
+          ],
+          [
+            -97.3170463,
+            32.74695396
+          ],
+          [
+            -97.31689453,
+            32.74698807
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723540,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 444,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31689453,
+            32.74780447
+          ],
+          [
+            -97.31760425,
+            32.74770301
+          ],
+          [
+            -97.31802798,
+            32.7475992
+          ],
+          [
+            -97.31834985,
+            32.74748186
+          ],
+          [
+            -97.319133,
+            32.7470849
+          ],
+          [
+            -97.31964111,
+            32.74684304
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89716363,
+        "ref": "I 35W;US 287-P Business",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "sort_key": 443,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31939594,
+            32.74583061
+          ],
+          [
+            -97.319353,
+            32.74634492
+          ],
+          [
+            -97.31933153,
+            32.74688642
+          ],
+          [
+            -97.31940133,
+            32.74780228
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 148025803,
+        "ref": "I 35W;US 287-P Business",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "name": "South Fwy.",
+        "sort_key": 381,
+        "oneway": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31963731,
+            32.74582608
+          ],
+          [
+            -97.31964111,
+            32.74579111
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 25699937,
+        "ref": "I 35W;US 287-P Business",
+        "highway": "motorway",
+        "source": "openstreetmap.org",
+        "sort_key": 443,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74732985
+          ],
+          [
+            -97.31962123,
+            32.74708936
+          ],
+          [
+            -97.31960506,
+            32.74670138
+          ],
+          [
+            -97.31960506,
+            32.74624571
+          ],
+          [
+            -97.31963731,
+            32.74582608
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 10046729,
+        "ref": "TX 180",
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "name": "E Lancaster Ave.",
+        "sort_key": 378,
+        "oneway": "yes",
+        "network": "US:TX",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31831086,
+            32.74619502
+          ],
+          [
+            -97.31844947,
+            32.74623385
+          ],
+          [
+            -97.31854317,
+            32.74624579
+          ],
+          [
+            -97.31885928,
+            32.74628598
+          ],
+          [
+            -97.31915492,
+            32.74629558
+          ],
+          [
+            -97.31964111,
+            32.74630773
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89723559,
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 445,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31689453,
+            32.7476813
+          ],
+          [
+            -97.31693356,
+            32.74767588
+          ],
+          [
+            -97.31757739,
+            32.74758567
+          ],
+          [
+            -97.31796357,
+            32.74749538
+          ],
+          [
+            -97.31841965,
+            32.74731496
+          ],
+          [
+            -97.3187522,
+            32.74712547
+          ],
+          [
+            -97.31909554,
+            32.74691339
+          ],
+          [
+            -97.31942271,
+            32.74662915
+          ],
+          [
+            -97.31964111,
+            32.74638423
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 89717966,
+        "ref": "US 287",
+        "is_link": "yes",
+        "highway": "motorway_link",
+        "source": "openstreetmap.org",
+        "sort_key": 446,
+        "oneway": "yes",
+        "is_bridge": "yes",
+        "network": "US:US",
+        "kind": "highway"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.31964111,
+            32.74800052
+          ],
+          [
+            -97.31953545,
+            32.74787436
+          ],
+          [
+            -97.31924574,
+            32.74759466
+          ],
+          [
+            -97.31893986,
+            32.74737359
+          ],
+          [
+            -97.31852152,
+            32.74716159
+          ],
+          [
+            -97.31819965,
+            32.74704425
+          ],
+          [
+            -97.317867,
+            32.74694951
+          ],
+          [
+            -97.31743249,
+            32.74687728
+          ],
+          [
+            -97.31707307,
+            32.74686375
+          ],
+          [
+            -97.31689453,
+            32.74688133
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,4 +1,6 @@
-boolean pull = false;
+boolean pull;
+boolean drawlines;
+
 void keyPressed(){
 switch(key){
     case '+':
@@ -16,9 +18,6 @@ switch(key){
   case 'd':
        directions = !directions;
        break;    
-  case 'a':
-        pull = !pull;
-        break;
   case 'W':
         boxw+=10;
         boxh+=10;
@@ -26,9 +25,12 @@ switch(key){
   case 'w':
         boxw-=10;
         boxh-=10;
-        break;
+        break;     
   case 'i':
+    drawlines = true;
     lines = !lines;
-    break;  
+    break; 
+  case 'a': 
+       pull = !pull; 
 }
 }

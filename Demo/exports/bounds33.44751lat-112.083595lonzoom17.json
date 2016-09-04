@@ -1,0 +1,1908 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 30720488,
+          "area": 6098,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08573289,
+              33.44907561
+            ],
+            [
+              -112.08561431,
+              33.44907501
+            ],
+            [
+              -112.08561539,
+              33.44912141
+            ],
+            [
+              -112.0849536,
+              33.44912178
+            ],
+            [
+              -112.08493213,
+              33.44912111
+            ],
+            [
+              -112.08492359,
+              33.44859831
+            ],
+            [
+              -112.08547067,
+              33.44859546
+            ],
+            [
+              -112.08560982,
+              33.44859478
+            ],
+            [
+              -112.08560856,
+              33.44863878
+            ],
+            [
+              -112.08566614,
+              33.44864171
+            ],
+            [
+              -112.08572705,
+              33.44863826
+            ],
+            [
+              -112.08573289,
+              33.44907561
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109930840,
+          "addr_street": "North 7th Avenue",
+          "area": 3971,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "118",
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08319101,
+              33.45014841
+            ],
+            [
+              -112.08280177,
+              33.45015411
+            ],
+            [
+              -112.08280051,
+              33.45009257
+            ],
+            [
+              -112.08275389,
+              33.45009332
+            ],
+            [
+              -112.08274742,
+              33.44978317
+            ],
+            [
+              -112.08280025,
+              33.44978249
+            ],
+            [
+              -112.08279423,
+              33.44949977
+            ],
+            [
+              -112.08317709,
+              33.44949422
+            ],
+            [
+              -112.08319101,
+              33.45014841
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838119,
+          "area": 3355,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0845834,
+              33.44981802
+            ],
+            [
+              -112.08455933,
+              33.44981457
+            ],
+            [
+              -112.08455789,
+              33.44984365
+            ],
+            [
+              -112.08458071,
+              33.4498426
+            ],
+            [
+              -112.08457397,
+              33.45009992
+            ],
+            [
+              -112.08441173,
+              33.45009767
+            ],
+            [
+              -112.08441039,
+              33.45007638
+            ],
+            [
+              -112.08438218,
+              33.45007758
+            ],
+            [
+              -112.08438218,
+              33.45009767
+            ],
+            [
+              -112.0842495,
+              33.45009317
+            ],
+            [
+              -112.0842468,
+              33.4498471
+            ],
+            [
+              -112.08419452,
+              33.44984815
+            ],
+            [
+              -112.08419308,
+              33.44983031
+            ],
+            [
+              -112.0841744,
+              33.44983249
+            ],
+            [
+              -112.08417045,
+              33.44975536
+            ],
+            [
+              -112.08424554,
+              33.44975536
+            ],
+            [
+              -112.08424276,
+              33.44943636
+            ],
+            [
+              -112.08437823,
+              33.44943089
+            ],
+            [
+              -112.08438092,
+              33.44944985
+            ],
+            [
+              -112.08441039,
+              33.44945098
+            ],
+            [
+              -112.08440913,
+              33.44943419
+            ],
+            [
+              -112.08457666,
+              33.44943201
+            ],
+            [
+              -112.0845834,
+              33.44981802
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 30720547,
+          "area": 3332,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "name": "Arizona Industrial Commission",
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08471671,
+              33.4485322
+            ],
+            [
+              -112.08471671,
+              33.44868983
+            ],
+            [
+              -112.08446779,
+              33.44868983
+            ],
+            [
+              -112.08446779,
+              33.44886162
+            ],
+            [
+              -112.08416739,
+              33.44886162
+            ],
+            [
+              -112.08416739,
+              33.44875421
+            ],
+            [
+              -112.08410729,
+              33.44875421
+            ],
+            [
+              -112.08410729,
+              33.44879716
+            ],
+            [
+              -112.08383259,
+              33.44879716
+            ],
+            [
+              -112.08383259,
+              33.4485322
+            ],
+            [
+              -112.08471671,
+              33.4485322
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 30720547,
+          "area": 3332,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Arizona Industrial Commission",
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08415019,
+            33.44872202
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838131,
+          "area": 2567,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08396698,
+              33.4497636
+            ],
+            [
+              -112.08388137,
+              33.44976488
+            ],
+            [
+              -112.08388289,
+              33.44983991
+            ],
+            [
+              -112.08348207,
+              33.4498456
+            ],
+            [
+              -112.08348054,
+              33.44976345
+            ],
+            [
+              -112.08339457,
+              33.44976465
+            ],
+            [
+              -112.0833908,
+              33.44957832
+            ],
+            [
+              -112.08348602,
+              33.44957697
+            ],
+            [
+              -112.08348449,
+              33.44950517
+            ],
+            [
+              -112.08360559,
+              33.44950352
+            ],
+            [
+              -112.08360514,
+              33.44947728
+            ],
+            [
+              -112.08375246,
+              33.44947519
+            ],
+            [
+              -112.08375291,
+              33.4494982
+            ],
+            [
+              -112.08387427,
+              33.4494964
+            ],
+            [
+              -112.0838758,
+              33.44956708
+            ],
+            [
+              -112.08396302,
+              33.4495658
+            ],
+            [
+              -112.08396698,
+              33.4497636
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126463160,
+          "area": 1588,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08413586,
+              33.44805901
+            ],
+            [
+              -112.08381274,
+              33.44806126
+            ],
+            [
+              -112.08381022,
+              33.44781436
+            ],
+            [
+              -112.08391748,
+              33.44781369
+            ],
+            [
+              -112.08391622,
+              33.44768806
+            ],
+            [
+              -112.08413209,
+              33.44768649
+            ],
+            [
+              -112.08413586,
+              33.44805901
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126328344,
+          "area": 1564,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08352402,
+              33.44732319
+            ],
+            [
+              -112.08342017,
+              33.44732349
+            ],
+            [
+              -112.08342143,
+              33.4476275
+            ],
+            [
+              -112.08316864,
+              33.44762818
+            ],
+            [
+              -112.08316712,
+              33.44724426
+            ],
+            [
+              -112.08352366,
+              33.44724328
+            ],
+            [
+              -112.08352402,
+              33.44732319
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126463157,
+          "area": 1001,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0851912,
+              33.44749978
+            ],
+            [
+              -112.08491892,
+              33.447503
+            ],
+            [
+              -112.08491461,
+              33.44725145
+            ],
+            [
+              -112.08517916,
+              33.44724831
+            ],
+            [
+              -112.08518168,
+              33.44739552
+            ],
+            [
+              -112.0851894,
+              33.44739537
+            ],
+            [
+              -112.0851912,
+              33.44749978
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126463154,
+          "area": 936,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08397111,
+              33.44723639
+            ],
+            [
+              -112.08396913,
+              33.44761701
+            ],
+            [
+              -112.08380357,
+              33.44761641
+            ],
+            [
+              -112.08380564,
+              33.44723579
+            ],
+            [
+              -112.08397111,
+              33.44723639
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 315998084,
+          "area": 10322,
+          "min_zoom": 17,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08312703,
+            33.44875575
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1556606584,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08257243,
+            33.44822376
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019845,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08383259,
+            33.44913512
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019846,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08388164,
+            33.44915079
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019847,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0846709,
+            33.44918557
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019848,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08517413,
+            33.44919261
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019849,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08525354,
+            33.44919426
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019850,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.084056,
+            33.44919516
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019851,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08388478,
+            33.44919778
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019852,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08422093,
+            33.44920041
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625019853,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08507182,
+            33.4496194
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045074,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08506113,
+            33.44809612
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045075,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08523962,
+            33.44809612
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045078,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08445773,
+            33.44810129
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045079,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08405879,
+            33.44810219
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045080,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08429693,
+            33.44810219
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045081,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08459023,
+            33.44810301
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045082,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08323099,
+            33.44810391
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045083,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08391272,
+            33.44810391
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045084,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08339071,
+            33.44810481
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045085,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08282073,
+            33.44810646
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045086,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0829146,
+            33.44810998
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045087,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0830639,
+            33.44811088
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045600,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08524267,
+            33.4482895
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045602,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08503193,
+            33.44829212
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045608,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08429136,
+            33.44829992
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045610,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08444344,
+            33.44830231
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045611,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08406247,
+            33.44830351
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045612,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08332387,
+            33.44830599
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045613,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0834888,
+            33.44830599
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045614,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08460137,
+            33.44830599
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045615,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08316307,
+            33.44831041
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045616,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08390311,
+            33.44831221
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045617,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08283223,
+            33.44831468
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061509,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08470422,
+            33.44751462
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 315998084,
+          "surface": "asphalt",
+          "area": 10322,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.5893,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08355124,
+              33.44917567
+            ],
+            [
+              -112.08275048,
+              33.44918392
+            ],
+            [
+              -112.08270691,
+              33.44913467
+            ],
+            [
+              -112.08270538,
+              33.44837682
+            ],
+            [
+              -112.08272658,
+              33.44834939
+            ],
+            [
+              -112.08354477,
+              33.44835636
+            ],
+            [
+              -112.08355124,
+              33.44917567
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 100227499,
+          "area": 1882,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.8172,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08526611,
+              33.44857919
+            ],
+            [
+              -112.08491165,
+              33.44858069
+            ],
+            [
+              -112.08491111,
+              33.44849742
+            ],
+            [
+              -112.08491066,
+              33.44842172
+            ],
+            [
+              -112.08526611,
+              33.44842025
+            ],
+            [
+              -112.08526611,
+              33.44857919
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.08251953,
+            33.44748489
+          ],
+          [
+            -112.08526611,
+            33.44748489
+          ],
+          [
+            -112.08526611,
+            33.44977658
+          ],
+          [
+            -112.08251953,
+            33.44977658
+          ],
+          [
+            -112.08251953,
+            33.44748489
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 109827350,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08526611,
+              33.44806376
+            ],
+            [
+              -112.08490796,
+              33.44806786
+            ],
+            [
+              -112.08484634,
+              33.44806786
+            ],
+            [
+              -112.0847946,
+              33.44806891
+            ],
+            [
+              -112.08471617,
+              33.44807236
+            ],
+            [
+              -112.08464377,
+              33.44807018
+            ],
+            [
+              -112.08379621,
+              33.44807236
+            ],
+            [
+              -112.08367646,
+              33.44807558
+            ],
+            [
+              -112.08353327,
+              33.44807798
+            ],
+            [
+              -112.08311762,
+              33.44807798
+            ],
+            [
+              -112.08271652,
+              33.44809139
+            ],
+            [
+              -112.08257773,
+              33.44809522
+            ],
+            [
+              -112.08251953,
+              33.44809227
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 279666019,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Washington St.",
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257243,
+              33.44822376
+            ],
+            [
+              -112.08271634,
+              33.44822136
+            ],
+            [
+              -112.08336924,
+              33.44820817
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949090,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S 7th Ave.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257243,
+              33.44822376
+            ],
+            [
+              -112.08257701,
+              33.44811321
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 100227484,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08526611,
+              33.44849675
+            ],
+            [
+              -112.08491111,
+              33.44849742
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 100227484,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08491111,
+              33.44849742
+            ],
+            [
+              -112.08480421,
+              33.4484954
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 279666016,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Washington St.",
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08368419,
+              33.44820188
+            ],
+            [
+              -112.08480034,
+              33.44820045
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949093,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S 7th Ave.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257414,
+              33.44761401
+            ],
+            [
+              -112.082572,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949257,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Washington St.",
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08336924,
+              33.44820817
+            ],
+            [
+              -112.08368419,
+              33.44820188
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5591495,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 8th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08368419,
+              33.44820188
+            ],
+            [
+              -112.08369084,
+              33.44830929
+            ],
+            [
+              -112.08369173,
+              33.44832405
+            ],
+            [
+              -112.08369524,
+              33.44927596
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663625,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S 7th Ave.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257674,
+              33.44793009
+            ],
+            [
+              -112.08257513,
+              33.4476739
+            ],
+            [
+              -112.08257414,
+              33.44761401
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126463129,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08477672,
+              33.44763822
+            ],
+            [
+              -112.08367089,
+              33.44765591
+            ],
+            [
+              -112.08257504,
+              33.4476739
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949094,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S 7th Ave.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257701,
+              33.44811321
+            ],
+            [
+              -112.08257782,
+              33.44809522
+            ],
+            [
+              -112.08257674,
+              33.44793009
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949087,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "N 7th Ave.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257243,
+              33.44822376
+            ],
+            [
+              -112.08255824,
+              33.44834466
+            ],
+            [
+              -112.08256695,
+              33.44882699
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436949088,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "N 7th Ave.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08257441,
+              33.44929223
+            ],
+            [
+              -112.08258015,
+              33.44977658
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 279666017,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Washington St.",
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08480034,
+              33.44820045
+            ],
+            [
+              -112.08526611,
+              33.44820169
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29911027,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 9th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08480034,
+              33.44820045
+            ],
+            [
+              -112.0847946,
+              33.44806891
+            ],
+            [
+              -112.08479388,
+              33.44805099
+            ],
+            [
+              -112.08477672,
+              33.44763822
+            ],
+            [
+              -112.08478015,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5616012,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 9th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08480034,
+              33.44820045
+            ],
+            [
+              -112.08480421,
+              33.4484954
+            ],
+            [
+              -112.08479244,
+              33.44927641
+            ],
+            [
+              -112.08479785,
+              33.44977658
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30120984,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Adams St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08251953,
+              33.44929137
+            ],
+            [
+              -112.08257441,
+              33.44929223
+            ],
+            [
+              -112.08275317,
+              33.4492887
+            ],
+            [
+              -112.08369524,
+              33.44927596
+            ],
+            [
+              -112.08479244,
+              33.44927641
+            ],
+            [
+              -112.08526611,
+              33.44927466
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5624867,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 8th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08368419,
+              33.44820188
+            ],
+            [
+              -112.08367646,
+              33.44807558
+            ],
+            [
+              -112.08367529,
+              33.44805602
+            ],
+            [
+              -112.08367089,
+              33.44765591
+            ],
+            [
+              -112.08366889,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436795283,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "W Washington St.",
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08251953,
+              33.44822466
+            ],
+            [
+              -112.08257243,
+              33.44822376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 317331030,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "N 7th Ave.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08256695,
+              33.44882699
+            ],
+            [
+              -112.08257351,
+              33.44918249
+            ],
+            [
+              -112.08257441,
+              33.44929223
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

@@ -1,0 +1,1531 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 281712726,
+          "height": 5,
+          "area": 11934,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "volume": 59670,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25319278,
+              33.59971777
+            ],
+            [
+              -112.25103673,
+              33.59972907
+            ],
+            [
+              -112.25103395,
+              33.59935705
+            ],
+            [
+              -112.2531899,
+              33.59934575
+            ],
+            [
+              -112.25319278,
+              33.59971777
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 281712735,
+          "height": 5,
+          "area": 10538,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "volume": 52690,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25307914,
+              33.6005596
+            ],
+            [
+              -112.2510087,
+              33.60057457
+            ],
+            [
+              -112.25100511,
+              33.60023248
+            ],
+            [
+              -112.25307555,
+              33.60021751
+            ],
+            [
+              -112.25307914,
+              33.6005596
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 363070485,
+          "area": 7140,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25252605,
+              33.59624982
+            ],
+            [
+              -112.25211767,
+              33.59636041
+            ],
+            [
+              -112.25209333,
+              33.596298
+            ],
+            [
+              -112.25176545,
+              33.59638682
+            ],
+            [
+              -112.25178745,
+              33.59644309
+            ],
+            [
+              -112.25138851,
+              33.59655121
+            ],
+            [
+              -112.2513621,
+              33.59648342
+            ],
+            [
+              -112.25135042,
+              33.59648656
+            ],
+            [
+              -112.25124469,
+              33.59621577
+            ],
+            [
+              -112.25126697,
+              33.59620978
+            ],
+            [
+              -112.25125341,
+              33.59617477
+            ],
+            [
+              -112.25139803,
+              33.59613556
+            ],
+            [
+              -112.25140118,
+              33.59614379
+            ],
+            [
+              -112.25145094,
+              33.59613039
+            ],
+            [
+              -112.25144169,
+              33.5961066
+            ],
+            [
+              -112.25147897,
+              33.5960965
+            ],
+            [
+              -112.25148248,
+              33.5961054
+            ],
+            [
+              -112.25156871,
+              33.59608198
+            ],
+            [
+              -112.25156314,
+              33.59606769
+            ],
+            [
+              -112.25160222,
+              33.59605706
+            ],
+            [
+              -112.25160797,
+              33.59607181
+            ],
+            [
+              -112.25163914,
+              33.59606342
+            ],
+            [
+              -112.25163492,
+              33.59605272
+            ],
+            [
+              -112.25166753,
+              33.59604382
+            ],
+            [
+              -112.25165244,
+              33.59600499
+            ],
+            [
+              -112.25191753,
+              33.59593315
+            ],
+            [
+              -112.25193262,
+              33.59597191
+            ],
+            [
+              -112.25199335,
+              33.59595538
+            ],
+            [
+              -112.25198715,
+              33.59593951
+            ],
+            [
+              -112.25202524,
+              33.59592911
+            ],
+            [
+              -112.25203099,
+              33.59594408
+            ],
+            [
+              -112.25215469,
+              33.59591055
+            ],
+            [
+              -112.25216052,
+              33.59592552
+            ],
+            [
+              -112.25221173,
+              33.5959116
+            ],
+            [
+              -112.25220805,
+              33.5959021
+            ],
+            [
+              -112.25235285,
+              33.59586289
+            ],
+            [
+              -112.25236642,
+              33.59589768
+            ],
+            [
+              -112.25238645,
+              33.5958923
+            ],
+            [
+              -112.25252605,
+              33.59624982
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 281712723,
+          "area": 4085,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.2526714,
+              33.59814641
+            ],
+            [
+              -112.25192193,
+              33.59815172
+            ],
+            [
+              -112.25191807,
+              33.59778538
+            ],
+            [
+              -112.25266762,
+              33.59778007
+            ],
+            [
+              -112.2526714,
+              33.59814641
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 363070480,
+          "area": 2927,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25199398,
+              33.5970078
+            ],
+            [
+              -112.25197179,
+              33.59700787
+            ],
+            [
+              -112.25197206,
+              33.59703982
+            ],
+            [
+              -112.25174182,
+              33.5970408
+            ],
+            [
+              -112.25174173,
+              33.59703219
+            ],
+            [
+              -112.2516819,
+              33.59703242
+            ],
+            [
+              -112.25168199,
+              33.59704686
+            ],
+            [
+              -112.25165001,
+              33.59704701
+            ],
+            [
+              -112.25164983,
+              33.59702261
+            ],
+            [
+              -112.25161498,
+              33.59702269
+            ],
+            [
+              -112.25161516,
+              33.59704139
+            ],
+            [
+              -112.25144295,
+              33.59704222
+            ],
+            [
+              -112.25144268,
+              33.59700361
+            ],
+            [
+              -112.25141995,
+              33.59700368
+            ],
+            [
+              -112.25142004,
+              33.59701087
+            ],
+            [
+              -112.25125062,
+              33.59701169
+            ],
+            [
+              -112.25125044,
+              33.59697562
+            ],
+            [
+              -112.25122619,
+              33.5969757
+            ],
+            [
+              -112.25122475,
+              33.59674307
+            ],
+            [
+              -112.25143424,
+              33.59674209
+            ],
+            [
+              -112.25143451,
+              33.59678527
+            ],
+            [
+              -112.25199263,
+              33.59678287
+            ],
+            [
+              -112.25199398,
+              33.5970078
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 281712721,
+          "area": 2149,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25191744,
+              33.59883232
+            ],
+            [
+              -112.25164956,
+              33.59883336
+            ],
+            [
+              -112.25164642,
+              33.59829418
+            ],
+            [
+              -112.2519143,
+              33.59829306
+            ],
+            [
+              -112.25191744,
+              33.59883232
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 281712729,
+          "area": 2128,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25149011,
+              33.59829418
+            ],
+            [
+              -112.25149011,
+              33.59882805
+            ],
+            [
+              -112.25122223,
+              33.59882805
+            ],
+            [
+              -112.25122223,
+              33.59829418
+            ],
+            [
+              -112.25149011,
+              33.59829418
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 363070496,
+          "area": 1305,
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25254824,
+              33.59718715
+            ],
+            [
+              -112.25233138,
+              33.59718798
+            ],
+            [
+              -112.25233129,
+              33.59716927
+            ],
+            [
+              -112.25229051,
+              33.5971695
+            ],
+            [
+              -112.25228871,
+              33.59684475
+            ],
+            [
+              -112.25254644,
+              33.59684386
+            ],
+            [
+              -112.25254824,
+              33.59718715
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 3672801669,
+          "addr_street": "West Bloomfield Road",
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "name": "Cool Blew, Inc.",
+          "min_zoom": 17,
+          "addr_housenumber": "8927",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.25154132,
+            33.59701161
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [{
+      "properties": {
+        "id": 3672801669,
+        "name": "Cool Blew, Inc.",
+        "min_zoom": 17,
+        "kind": "hvac"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.25154132,
+          33.59701161
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 122836587,
+          "area": 240860,
+          "source": "openstreetmap.org",
+          "sort_key": 41,
+          "min_zoom": 9,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25280762,
+              33.59815546
+            ],
+            [
+              -112.25219592,
+              33.59815546
+            ],
+            [
+              -112.25219816,
+              33.59901279
+            ],
+            [
+              -112.25280762,
+              33.59900438
+            ],
+            [
+              -112.25280762,
+              33.60089441
+            ],
+            [
+              -112.25176167,
+              33.60089441
+            ],
+            [
+              -112.25176158,
+              33.6008776
+            ],
+            [
+              -112.2507967,
+              33.60087236
+            ],
+            [
+              -112.25081,
+              33.59952668
+            ],
+            [
+              -112.25081772,
+              33.59903658
+            ],
+            [
+              -112.250817,
+              33.59900695
+            ],
+            [
+              -112.25084045,
+              33.59821936
+            ],
+            [
+              -112.25164839,
+              33.59820626
+            ],
+            [
+              -112.25164435,
+              33.5973383
+            ],
+            [
+              -112.25084791,
+              33.59734249
+            ],
+            [
+              -112.25084692,
+              33.59681879
+            ],
+            [
+              -112.25088339,
+              33.59647751
+            ],
+            [
+              -112.25086157,
+              33.59631896
+            ],
+            [
+              -112.25271729,
+              33.59631896
+            ],
+            [
+              -112.25273473,
+              33.59733246
+            ],
+            [
+              -112.25280762,
+              33.59733207
+            ],
+            [
+              -112.25280762,
+              33.59815546
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 364758161,
+          "area": 236289,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25081781,
+              33.59903658
+            ],
+            [
+              -112.25081009,
+              33.59952668
+            ],
+            [
+              -112.25079679,
+              33.60087236
+            ],
+            [
+              -112.25079628,
+              33.60089441
+            ],
+            [
+              -112.24731445,
+              33.60089441
+            ],
+            [
+              -112.24731445,
+              33.59902596
+            ],
+            [
+              -112.25081709,
+              33.59900695
+            ],
+            [
+              -112.25081781,
+              33.59903658
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 364758162,
+          "area": 235362,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.25088339,
+              33.59647751
+            ],
+            [
+              -112.25084692,
+              33.59681879
+            ],
+            [
+              -112.25084791,
+              33.59734249
+            ],
+            [
+              -112.25084907,
+              33.59793009
+            ],
+            [
+              -112.25084045,
+              33.59821936
+            ],
+            [
+              -112.250817,
+              33.59900695
+            ],
+            [
+              -112.24731445,
+              33.59902596
+            ],
+            [
+              -112.24731445,
+              33.59631896
+            ],
+            [
+              -112.25086157,
+              33.59631896
+            ],
+            [
+              -112.25088339,
+              33.59647751
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.24731445,
+            33.59631896
+          ],
+          [
+            -112.25280762,
+            33.59631896
+          ],
+          [
+            -112.25280762,
+            33.60089441
+          ],
+          [
+            -112.24731445,
+            33.60089441
+          ],
+          [
+            -112.24731445,
+            33.59631896
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 5672793,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Charter Oak Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25088339,
+              33.59647751
+            ],
+            [
+              -112.25061363,
+              33.59658376
+            ],
+            [
+              -112.25026014,
+              33.59658197
+            ],
+            [
+              -112.24798174,
+              33.59659327
+            ],
+            [
+              -112.24731445,
+              33.59659652
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5581901,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2501695,
+              33.5996663
+            ],
+            [
+              -112.25028116,
+              33.59963607
+            ],
+            [
+              -112.25044914,
+              33.59961766
+            ],
+            [
+              -112.25062611,
+              33.59959761
+            ],
+            [
+              -112.25069582,
+              33.59957748
+            ],
+            [
+              -112.25074128,
+              33.59952832
+            ],
+            [
+              -112.25081,
+              33.59952668
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5669551,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 88th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25023597,
+              33.59728256
+            ],
+            [
+              -112.25026014,
+              33.59658197
+            ],
+            [
+              -112.25027316,
+              33.59631896
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122834690,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Bloomfield Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25280762,
+              33.59733207
+            ],
+            [
+              -112.25273473,
+              33.59733246
+            ],
+            [
+              -112.25164435,
+              33.5973383
+            ],
+            [
+              -112.25084791,
+              33.59734249
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676868,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Bloomfield Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25023597,
+              33.59728256
+            ],
+            [
+              -112.24977684,
+              33.5972625
+            ],
+            [
+              -112.2492242,
+              33.59726482
+            ],
+            [
+              -112.2489512,
+              33.59728532
+            ],
+            [
+              -112.24871189,
+              33.59735371
+            ],
+            [
+              -112.24820928,
+              33.59748189
+            ],
+            [
+              -112.24760589,
+              33.59762952
+            ],
+            [
+              -112.24731445,
+              33.59767417
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663734,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Corrine Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25023813,
+              33.5986285
+            ],
+            [
+              -112.24903331,
+              33.59862446
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5626239,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "N 89th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.25086157,
+                33.59631896
+              ],
+              [
+                -112.25088339,
+                33.59647751
+              ],
+              [
+                -112.25084692,
+                33.59681879
+              ],
+              [
+                -112.25084791,
+                33.59734249
+              ]
+            ],
+            [
+              [
+                -112.25084045,
+                33.59821936
+              ],
+              [
+                -112.250817,
+                33.59900695
+              ],
+              [
+                -112.25081772,
+                33.59903658
+              ],
+              [
+                -112.25081,
+                33.59952668
+              ],
+              [
+                -112.2507967,
+                33.60087236
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5626239,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 89th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25084791,
+              33.59734249
+            ],
+            [
+              -112.25084907,
+              33.59793009
+            ],
+            [
+              -112.25084045,
+              33.59821936
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5626239,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 89th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2507967,
+              33.60087236
+            ],
+            [
+              -112.25079619,
+              33.60089441
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122834680,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Charter Oak Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24799198,
+              33.59675811
+            ],
+            [
+              -112.24798174,
+              33.59659327
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606005,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Desert Tr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24731445,
+              33.60004829
+            ],
+            [
+              -112.24941348,
+              33.60003457
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122834689,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Larkspur Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25280762,
+              33.59900438
+            ],
+            [
+              -112.25219816,
+              33.59901279
+            ],
+            [
+              -112.25081772,
+              33.59903658
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5593713,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 87th Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.2479706,
+              33.5982558
+            ],
+            [
+              -112.24805747,
+              33.5985851
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5669515,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 88th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24991087,
+              33.59941931
+            ],
+            [
+              -112.25007077,
+              33.5995159
+            ],
+            [
+              -112.2501695,
+              33.5996663
+            ],
+            [
+              -112.25015656,
+              33.60069226
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5669557,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 88th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25022582,
+              33.59795201
+            ],
+            [
+              -112.25023813,
+              33.5986285
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663293,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 88th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24941348,
+              33.60003457
+            ],
+            [
+              -112.24940818,
+              33.60069376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5664865,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Windrose Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24731445,
+              33.59939233
+            ],
+            [
+              -112.24975484,
+              33.59937329
+            ],
+            [
+              -112.24991087,
+              33.59941931
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5610298,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Windsor Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24731445,
+              33.60069801
+            ],
+            [
+              -112.24940818,
+              33.60069376
+            ],
+            [
+              -112.25015656,
+              33.60069226
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5676103,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Columbine Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24731445,
+              33.59834958
+            ],
+            [
+              -112.24769105,
+              33.59831902
+            ],
+            [
+              -112.2479706,
+              33.5982558
+            ],
+            [
+              -112.24838059,
+              33.59817042
+            ],
+            [
+              -112.24887422,
+              33.59801808
+            ],
+            [
+              -112.24904669,
+              33.5979797
+            ],
+            [
+              -112.24928394,
+              33.59794199
+            ],
+            [
+              -112.24955469,
+              33.59794348
+            ],
+            [
+              -112.25022582,
+              33.59795201
+            ],
+            [
+              -112.25084907,
+              33.59793009
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 122834686,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Windsor Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.25256315,
+              33.60087288
+            ],
+            [
+              -112.25176158,
+              33.6008776
+            ],
+            [
+              -112.2507967,
+              33.60087236
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5663289,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 88th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.24903331,
+              33.59862446
+            ],
+            [
+              -112.24894482,
+              33.59820582
+            ],
+            [
+              -112.24887422,
+              33.59801808
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

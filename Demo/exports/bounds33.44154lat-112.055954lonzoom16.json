@@ -1,0 +1,3196 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 110361525,
+          "area": 8938,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.06093849,
+              33.4448866
+            ],
+            [
+              -112.06084461,
+              33.4448866
+            ],
+            [
+              -112.06084201,
+              33.44486201
+            ],
+            [
+              -112.06079098,
+              33.44486201
+            ],
+            [
+              -112.0607749,
+              33.44482618
+            ],
+            [
+              -112.06074813,
+              33.44481501
+            ],
+            [
+              -112.06074274,
+              33.4448821
+            ],
+            [
+              -112.05928091,
+              33.44488442
+            ],
+            [
+              -112.0592863,
+              33.44451728
+            ],
+            [
+              -112.06093579,
+              33.44451728
+            ],
+            [
+              -112.06093849,
+              33.4448866
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 110361536,
+          "area": 3389,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05899552,
+              33.44476689
+            ],
+            [
+              -112.05874633,
+              33.44476726
+            ],
+            [
+              -112.0587466,
+              33.44487498
+            ],
+            [
+              -112.05859182,
+              33.44487528
+            ],
+            [
+              -112.05859155,
+              33.44476359
+            ],
+            [
+              -112.05804887,
+              33.44476449
+            ],
+            [
+              -112.05804843,
+              33.44454269
+            ],
+            [
+              -112.05899489,
+              33.44454112
+            ],
+            [
+              -112.05899552,
+              33.44476689
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 202666266,
+          "area": 3190,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05778459,
+              33.44488457
+            ],
+            [
+              -112.05755768,
+              33.44488562
+            ],
+            [
+              -112.05755669,
+              33.44471922
+            ],
+            [
+              -112.05709729,
+              33.44472109
+            ],
+            [
+              -112.05709702,
+              33.44466008
+            ],
+            [
+              -112.05657474,
+              33.44466232
+            ],
+            [
+              -112.05657411,
+              33.44455019
+            ],
+            [
+              -112.05778261,
+              33.44454532
+            ],
+            [
+              -112.05778243,
+              33.44464471
+            ],
+            [
+              -112.05778261,
+              33.44470947
+            ],
+            [
+              -112.05778459,
+              33.44488457
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 202666301,
+          "area": 1163,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05632276,
+              33.44497512
+            ],
+            [
+              -112.05614723,
+              33.44497527
+            ],
+            [
+              -112.05605524,
+              33.44489357
+            ],
+            [
+              -112.05598661,
+              33.44489372
+            ],
+            [
+              -112.05598607,
+              33.44455521
+            ],
+            [
+              -112.05614669,
+              33.44455499
+            ],
+            [
+              -112.05614714,
+              33.44486006
+            ],
+            [
+              -112.05632267,
+              33.44485991
+            ],
+            [
+              -112.05632276,
+              33.44497512
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 202666276,
+          "area": 538,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05804941,
+              33.44487978
+            ],
+            [
+              -112.05798617,
+              33.44488
+            ],
+            [
+              -112.05798563,
+              33.44469246
+            ],
+            [
+              -112.05790694,
+              33.44469261
+            ],
+            [
+              -112.05790703,
+              33.44472986
+            ],
+            [
+              -112.05784226,
+              33.44473009
+            ],
+            [
+              -112.05784217,
+              33.44470932
+            ],
+            [
+              -112.05778261,
+              33.44470947
+            ],
+            [
+              -112.05778243,
+              33.44464471
+            ],
+            [
+              -112.05784226,
+              33.44464448
+            ],
+            [
+              -112.05784226,
+              33.44463159
+            ],
+            [
+              -112.05798653,
+              33.44463129
+            ],
+            [
+              -112.05798617,
+              33.44454277
+            ],
+            [
+              -112.05804843,
+              33.44454269
+            ],
+            [
+              -112.05804887,
+              33.44476449
+            ],
+            [
+              -112.05804941,
+              33.44487978
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 202666288,
+          "area": 399,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05705417,
+              33.44487948
+            ],
+            [
+              -112.05663717,
+              33.4448812
+            ],
+            [
+              -112.05663681,
+              33.44481666
+            ],
+            [
+              -112.05705381,
+              33.44481501
+            ],
+            [
+              -112.05705417,
+              33.44487948
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 202666295,
+          "area": 153,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.05728207,
+              33.44487775
+            ],
+            [
+              -112.05712379,
+              33.4448785
+            ],
+            [
+              -112.05712343,
+              33.44481329
+            ],
+            [
+              -112.05728171,
+              33.44481269
+            ],
+            [
+              -112.05728207,
+              33.44487775
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 2127040682,
+          "addr_street": "East Jackson Street",
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 17,
+          "addr_housenumber": "1033",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.05935502,
+            33.44485219
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2127040701,
+          "addr_street": "East Jackson Street",
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 17,
+          "addr_housenumber": "1107",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.05868632,
+            33.44470992
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2127040815,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 17,
+          "addr_housenumber": "300",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.05623104,
+            33.44491096
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 329427907,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.05818847,
+            33.44335162
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1450898886,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0552508,
+            33.44246605
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 126468519,
+          "area": 171136,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 9,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.06040444,
+              33.44174937
+            ],
+            [
+              -112.05819871,
+              33.44178752
+            ],
+            [
+              -112.05781594,
+              33.44184472
+            ],
+            [
+              -112.05753594,
+              33.44188287
+            ],
+            [
+              -112.05705022,
+              33.44190191
+            ],
+            [
+              -112.0554902,
+              33.44186855
+            ],
+            [
+              -112.05548454,
+              33.44099122
+            ],
+            [
+              -112.0555759,
+              33.44069558
+            ],
+            [
+              -112.05558365,
+              33.44060944
+            ],
+            [
+              -112.05936929,
+              33.44060944
+            ],
+            [
+              -112.05937012,
+              33.44087676
+            ],
+            [
+              -112.06039869,
+              33.44089108
+            ],
+            [
+              -112.06040444,
+              33.44174937
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126986899,
+          "area": 104508,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 9,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [[
+              [
+                -112.06054687,
+                33.44281477
+              ],
+              [
+                -112.0591468,
+                33.44246448
+              ],
+              [
+                -112.06054687,
+                33.44246281
+              ],
+              [
+                -112.06054687,
+                33.44281477
+              ]
+            ]],
+            [[
+              [
+                -112.06054687,
+                33.44179068
+              ],
+              [
+                -112.06053173,
+                33.44155912
+              ],
+              [
+                -112.06053191,
+                33.44077961
+              ],
+              [
+                -112.06054687,
+                33.44077924
+              ],
+              [
+                -112.06054687,
+                33.44179068
+              ]
+            ]]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987047,
+          "area": 5280,
+          "source": "openstreetmap.org",
+          "sort_key": 64,
+          "min_zoom": 11.0729,
+          "kind": "village_green"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.06054687,
+              33.44243684
+            ],
+            [
+              -112.06052652,
+              33.44245406
+            ],
+            [
+              -112.05948519,
+              33.44245631
+            ],
+            [
+              -112.05948564,
+              33.44212829
+            ],
+            [
+              -112.06049607,
+              33.44212769
+            ],
+            [
+              -112.06054687,
+              33.44213096
+            ],
+            [
+              -112.06054687,
+              33.44243684
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987044,
+          "area": 1737,
+          "source": "openstreetmap.org",
+          "sort_key": 64,
+          "min_zoom": 11.8749,
+          "kind": "village_green"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0564761,
+              33.44102361
+            ],
+            [
+              -112.05574128,
+              33.4410287
+            ],
+            [
+              -112.05574092,
+              33.44086776
+            ],
+            [
+              -112.05647557,
+              33.44086619
+            ],
+            [
+              -112.0564761,
+              33.44102361
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.05505371,
+            33.44060944
+          ],
+          [
+            -112.06054687,
+            33.44060944
+          ],
+          [
+            -112.06054687,
+            33.44519313
+          ],
+          [
+            -112.05505371,
+            33.44519313
+          ],
+          [
+            -112.05505371,
+            33.44060944
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 126468494,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761714,
+              33.44171391
+            ],
+            [
+              -112.05761589,
+              33.44151617
+            ],
+            [
+              -112.05761499,
+              33.4413718
+            ],
+            [
+              -112.05761418,
+              33.44124099
+            ],
+            [
+              -112.05761328,
+              33.44109977
+            ],
+            [
+              -112.05761247,
+              33.44096169
+            ],
+            [
+              -112.05761157,
+              33.44082301
+            ],
+            [
+              -112.05761086,
+              33.44068201
+            ],
+            [
+              -112.05761038,
+              33.44060944
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146042,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761589,
+              33.44151617
+            ],
+            [
+              -112.05928235,
+              33.4415113
+            ],
+            [
+              -112.06034362,
+              33.44150185
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146049,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05928379,
+              33.44169442
+            ],
+            [
+              -112.06034542,
+              33.44166901
+            ],
+            [
+              -112.0604039,
+              33.44166851
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146049,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06053881,
+              33.44166735
+            ],
+            [
+              -112.06054687,
+              33.44166728
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146049,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0604039,
+              33.44166851
+            ],
+            [
+              -112.06053881,
+              33.44166735
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220405894,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44436637
+            ],
+            [
+              -112.05995411,
+              33.44436587
+            ],
+            [
+              -112.05786238,
+              33.44437172
+            ],
+            [
+              -112.0552128,
+              33.44438049
+            ],
+            [
+              -112.05505371,
+              33.44437333
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468509,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761247,
+              33.44096169
+            ],
+            [
+              -112.05651123,
+              33.4409793
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146054,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761247,
+              33.44096169
+            ],
+            [
+              -112.05928064,
+              33.44095487
+            ],
+            [
+              -112.06033877,
+              33.4409455
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468495,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05927956,
+              33.44060944
+            ],
+            [
+              -112.05927975,
+              33.44066672
+            ],
+            [
+              -112.05928011,
+              33.4408078
+            ],
+            [
+              -112.05928064,
+              33.44095487
+            ],
+            [
+              -112.059281,
+              33.44109047
+            ],
+            [
+              -112.05928145,
+              33.44123012
+            ],
+            [
+              -112.05928181,
+              33.44136348
+            ],
+            [
+              -112.05928235,
+              33.4415113
+            ],
+            [
+              -112.05928379,
+              33.44169442
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325145993,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05565309,
+              33.44060944
+            ],
+            [
+              -112.05565424,
+              33.440697
+            ],
+            [
+              -112.05565603,
+              33.44083808
+            ],
+            [
+              -112.05565747,
+              33.44095772
+            ],
+            [
+              -112.05565963,
+              33.44112075
+            ],
+            [
+              -112.05566133,
+              33.44126041
+            ],
+            [
+              -112.05566304,
+              33.44139376
+            ],
+            [
+              -112.05566493,
+              33.44154158
+            ],
+            [
+              -112.0557279,
+              33.44162276
+            ],
+            [
+              -112.05578539,
+              33.44165882
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325145996,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761157,
+              33.44082301
+            ],
+            [
+              -112.05928011,
+              33.4408078
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 170847478,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44385022
+            ],
+            [
+              -112.06027167,
+              33.4438204
+            ],
+            [
+              -112.06002607,
+              33.44378142
+            ],
+            [
+              -112.05925998,
+              33.4436983
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220405893,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 361,
+          "service": "siding",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06002598,
+              33.44378142
+            ],
+            [
+              -112.05850073,
+              33.443774
+            ],
+            [
+              -112.05771407,
+              33.44377715
+            ],
+            [
+              -112.05671263,
+              33.44377738
+            ],
+            [
+              -112.05520499,
+              33.44378082
+            ],
+            [
+              -112.05505371,
+              33.44378099
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220405892,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44432992
+            ],
+            [
+              -112.05996202,
+              33.44433139
+            ],
+            [
+              -112.05788062,
+              33.44433371
+            ],
+            [
+              -112.0558569,
+              33.44433506
+            ],
+            [
+              -112.05505371,
+              33.44434051
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29889326,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44414832
+            ],
+            [
+              -112.06054687,
+              33.44414231
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29889375,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44411348
+            ],
+            [
+              -112.06054687,
+              33.44410594
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893942,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44366991
+            ],
+            [
+              -112.06025882,
+              33.44363428
+            ],
+            [
+              -112.05976969,
+              33.44357956
+            ],
+            [
+              -112.05891503,
+              33.44357147
+            ],
+            [
+              -112.05505371,
+              33.44357939
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893977,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44353514
+            ],
+            [
+              -112.05604419,
+              33.44353669
+            ],
+            [
+              -112.05915129,
+              33.44353361
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894511,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44309862
+            ],
+            [
+              -112.05877903,
+              33.44266147
+            ],
+            [
+              -112.05781441,
+              33.4424213
+            ],
+            [
+              -112.05585716,
+              33.44196165
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894547,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44290937
+            ],
+            [
+              -112.05883921,
+              33.44248367
+            ],
+            [
+              -112.05788107,
+              33.44225429
+            ],
+            [
+              -112.05658318,
+              33.44195086
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894719,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05705327,
+              33.44194441
+            ],
+            [
+              -112.05753683,
+              33.44199351
+            ],
+            [
+              -112.05785394,
+              33.44203302
+            ],
+            [
+              -112.05806657,
+              33.44206697
+            ],
+            [
+              -112.05838646,
+              33.44208819
+            ],
+            [
+              -112.0593093,
+              33.44208736
+            ],
+            [
+              -112.05990156,
+              33.44208586
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29895260,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44295227
+            ],
+            [
+              -112.05882457,
+              33.44252722
+            ],
+            [
+              -112.05787137,
+              33.44230047
+            ],
+            [
+              -112.0569196,
+              33.44206877
+            ],
+            [
+              -112.05661229,
+              33.44198961
+            ],
+            [
+              -112.05628449,
+              33.44193887
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29889650,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44407757
+            ],
+            [
+              -112.06054687,
+              33.44407498
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29889693,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44404314
+            ],
+            [
+              -112.06054687,
+              33.44403643
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 136901337,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 11th St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05898911,
+              33.44519313
+            ],
+            [
+              -112.05898663,
+              33.44502392
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146043,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761499,
+              33.4413718
+            ],
+            [
+              -112.05928181,
+              33.44136348
+            ],
+            [
+              -112.06034227,
+              33.44135411
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468514,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761499,
+              33.4413718
+            ],
+            [
+              -112.05566304,
+              33.44139376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29890952,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44397091
+            ],
+            [
+              -112.06054687,
+              33.44396491
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29889213,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44423908
+            ],
+            [
+              -112.06054687,
+              33.44423129
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29891364,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44393433
+            ],
+            [
+              -112.0551006,
+              33.44393426
+            ],
+            [
+              -112.06054687,
+              33.44392687
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894484,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05562702,
+              33.44193572
+            ],
+            [
+              -112.05585716,
+              33.44196165
+            ],
+            [
+              -112.0561987,
+              33.44199599
+            ],
+            [
+              -112.05643011,
+              33.44201682
+            ],
+            [
+              -112.05663286,
+              33.44206232
+            ],
+            [
+              -112.05783723,
+              33.44234927
+            ],
+            [
+              -112.05880023,
+              33.44258546
+            ],
+            [
+              -112.06054687,
+              33.44301705
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894495,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44305779
+            ],
+            [
+              -112.05879861,
+              33.44262759
+            ],
+            [
+              -112.05782744,
+              33.4423887
+            ],
+            [
+              -112.0561987,
+              33.44199599
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894749,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05990237,
+              33.4420238
+            ],
+            [
+              -112.05930607,
+              33.4420181
+            ],
+            [
+              -112.05845051,
+              33.4420181
+            ],
+            [
+              -112.05753683,
+              33.44199351
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146044,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761418,
+              33.44124099
+            ],
+            [
+              -112.05928145,
+              33.44123012
+            ],
+            [
+              -112.0603412,
+              33.44122068
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29891886,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44389167
+            ],
+            [
+              -112.05510438,
+              33.44389146
+            ],
+            [
+              -112.05675395,
+              33.44389648
+            ],
+            [
+              -112.05794458,
+              33.44389131
+            ],
+            [
+              -112.05908275,
+              33.44388981
+            ],
+            [
+              -112.06054687,
+              33.44389078
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894017,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44347551
+            ],
+            [
+              -112.05636669,
+              33.4434732
+            ],
+            [
+              -112.05802444,
+              33.44347147
+            ],
+            [
+              -112.05872881,
+              33.44348339
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468517,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05578539,
+              33.44165882
+            ],
+            [
+              -112.05588052,
+              33.44170139
+            ],
+            [
+              -112.05601185,
+              33.44171331
+            ],
+            [
+              -112.05761714,
+              33.44171391
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894604,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05990381,
+              33.44191398
+            ],
+            [
+              -112.0593093,
+              33.44191226
+            ],
+            [
+              -112.05825522,
+              33.44190199
+            ],
+            [
+              -112.05780893,
+              33.44190918
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146052,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761328,
+              33.44109977
+            ],
+            [
+              -112.059281,
+              33.44109047
+            ],
+            [
+              -112.06033994,
+              33.4410811
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 170847481,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44370633
+            ],
+            [
+              -112.05626913,
+              33.44370399
+            ],
+            [
+              -112.05925998,
+              33.4436983
+            ],
+            [
+              -112.05958275,
+              33.44370257
+            ],
+            [
+              -112.05982799,
+              33.44371216
+            ],
+            [
+              -112.06035647,
+              33.44377056
+            ],
+            [
+              -112.06054687,
+              33.44379334
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29753100,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44362345
+            ],
+            [
+              -112.05946687,
+              33.44361322
+            ],
+            [
+              -112.05987614,
+              33.44363188
+            ],
+            [
+              -112.0603783,
+              33.44368578
+            ],
+            [
+              -112.06054687,
+              33.44370715
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29891752,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44385458
+            ],
+            [
+              -112.05995214,
+              33.44384949
+            ],
+            [
+              -112.05907736,
+              33.44385398
+            ],
+            [
+              -112.05766538,
+              33.44385069
+            ],
+            [
+              -112.0567041,
+              33.44385166
+            ],
+            [
+              -112.05511183,
+              33.44385961
+            ],
+            [
+              -112.05505371,
+              33.44385945
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987051,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05785394,
+              33.44203302
+            ],
+            [
+              -112.0585292,
+              33.4420576
+            ],
+            [
+              -112.05930122,
+              33.44205745
+            ],
+            [
+              -112.05990201,
+              33.44205438
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29888397,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44441633
+            ],
+            [
+              -112.05929169,
+              33.44441886
+            ],
+            [
+              -112.05581144,
+              33.44442988
+            ],
+            [
+              -112.0552128,
+              33.44438049
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29752413,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44420045
+            ],
+            [
+              -112.05777237,
+              33.44420006
+            ],
+            [
+              -112.05946489,
+              33.44419939
+            ],
+            [
+              -112.06054687,
+              33.44419718
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894663,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05990291,
+              33.44198527
+            ],
+            [
+              -112.05930283,
+              33.44198009
+            ],
+            [
+              -112.05766251,
+              33.44197087
+            ],
+            [
+              -112.05747422,
+              33.44194501
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893527,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44321815
+            ],
+            [
+              -112.06024157,
+              33.44310328
+            ],
+            [
+              -112.05986572,
+              33.44299946
+            ],
+            [
+              -112.05950882,
+              33.44290659
+            ],
+            [
+              -112.05898887,
+              33.44278635
+            ],
+            [
+              -112.05838053,
+              33.44264521
+            ],
+            [
+              -112.05728629,
+              33.44237678
+            ],
+            [
+              -112.05677902,
+              33.44230039
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146034,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05928379,
+              33.44169442
+            ],
+            [
+              -112.05761714,
+              33.44171391
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893653,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44191335
+            ],
+            [
+              -112.05522538,
+              33.44193549
+            ],
+            [
+              -112.05549308,
+              33.44198362
+            ],
+            [
+              -112.05578153,
+              33.44205041
+            ],
+            [
+              -112.05628863,
+              33.44217701
+            ],
+            [
+              -112.05677902,
+              33.44230039
+            ],
+            [
+              -112.06028658,
+              33.44315343
+            ],
+            [
+              -112.06054687,
+              33.44322875
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29894416,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05522538,
+              33.44193549
+            ],
+            [
+              -112.05562702,
+              33.44193572
+            ],
+            [
+              -112.05628449,
+              33.44193887
+            ],
+            [
+              -112.05658318,
+              33.44195086
+            ],
+            [
+              -112.05676482,
+              33.44194366
+            ],
+            [
+              -112.05705327,
+              33.44194441
+            ],
+            [
+              -112.05728737,
+              33.44194209
+            ],
+            [
+              -112.05744673,
+              33.44194599
+            ],
+            [
+              -112.05747422,
+              33.44194501
+            ],
+            [
+              -112.0576069,
+              33.44193152
+            ],
+            [
+              -112.05780893,
+              33.44190918
+            ],
+            [
+              -112.05803809,
+              33.44187328
+            ],
+            [
+              -112.05823878,
+              33.44183932
+            ],
+            [
+              -112.05930607,
+              33.44184299
+            ],
+            [
+              -112.0599047,
+              33.44184052
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987053,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05676482,
+              33.44194366
+            ],
+            [
+              -112.05705148,
+              33.44199636
+            ],
+            [
+              -112.05732348,
+              33.44206112
+            ],
+            [
+              -112.05789742,
+              33.44220407
+            ],
+            [
+              -112.05886194,
+              33.4424321
+            ],
+            [
+              -112.05915147,
+              33.44251088
+            ],
+            [
+              -112.05963117,
+              33.44262212
+            ],
+            [
+              -112.06054687,
+              33.44284894
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468518,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06033877,
+              33.4409455
+            ],
+            [
+              -112.06033994,
+              33.4410811
+            ],
+            [
+              -112.0603412,
+              33.44122068
+            ],
+            [
+              -112.06034227,
+              33.44135411
+            ],
+            [
+              -112.06034362,
+              33.44150185
+            ],
+            [
+              -112.06034542,
+              33.44166901
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325146002,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761086,
+              33.44068201
+            ],
+            [
+              -112.05927975,
+              33.44066672
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893620,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44362883
+            ],
+            [
+              -112.05996067,
+              33.44355768
+            ],
+            [
+              -112.05964258,
+              33.44353691
+            ],
+            [
+              -112.05915129,
+              33.44353361
+            ],
+            [
+              -112.05872881,
+              33.44348339
+            ],
+            [
+              -112.05841638,
+              33.4434244
+            ],
+            [
+              -112.05818847,
+              33.44335162
+            ],
+            [
+              -112.05778199,
+              33.44321946
+            ],
+            [
+              -112.0573269,
+              33.44306797
+            ],
+            [
+              -112.05697377,
+              33.44299137
+            ],
+            [
+              -112.05664157,
+              33.44296685
+            ],
+            [
+              -112.0560371,
+              33.4429679
+            ],
+            [
+              -112.05505371,
+              33.44297244
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325837719,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 12th St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05643926,
+              33.44519313
+            ],
+            [
+              -112.0564399,
+              33.44511222
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468502,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761086,
+              33.44068201
+            ],
+            [
+              -112.05565424,
+              33.440697
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893758,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44329611
+            ],
+            [
+              -112.05993722,
+              33.44320582
+            ],
+            [
+              -112.05930813,
+              33.44311512
+            ],
+            [
+              -112.05910368,
+              33.44307802
+            ],
+            [
+              -112.05744063,
+              33.44267886
+            ],
+            [
+              -112.05704168,
+              33.44259641
+            ],
+            [
+              -112.05669026,
+              33.44253337
+            ],
+            [
+              -112.05632114,
+              33.44248922
+            ],
+            [
+              -112.05584261,
+              33.44246358
+            ],
+            [
+              -112.0552508,
+              33.44246605
+            ],
+            [
+              -112.05505371,
+              33.44246713
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220402214,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44428413
+            ],
+            [
+              -112.06054687,
+              33.4442755
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131890979,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05643011,
+              33.44201682
+            ],
+            [
+              -112.05663511,
+              33.44203436
+            ],
+            [
+              -112.0569196,
+              33.44206877
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987050,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05803809,
+              33.44187328
+            ],
+            [
+              -112.05930337,
+              33.44187897
+            ],
+            [
+              -112.05990434,
+              33.44187657
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468513,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761157,
+              33.44082301
+            ],
+            [
+              -112.05650853,
+              33.44083216
+            ],
+            [
+              -112.05565603,
+              33.44083808
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5667277,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 11th St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0596425,
+              33.44060944
+            ],
+            [
+              -112.05964231,
+              33.44071462
+            ],
+            [
+              -112.06054687,
+              33.44070895
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29891952,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44381613
+            ],
+            [
+              -112.05518567,
+              33.44381561
+            ],
+            [
+              -112.05669853,
+              33.44381748
+            ],
+            [
+              -112.05768865,
+              33.44381186
+            ],
+            [
+              -112.05931783,
+              33.44381658
+            ],
+            [
+              -112.06027167,
+              33.4438204
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29890862,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44400681
+            ],
+            [
+              -112.06054687,
+              33.44400173
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5655445,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "name": "E Jackson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44503312
+            ],
+            [
+              -112.05898663,
+              33.44502392
+            ],
+            [
+              -112.05678953,
+              33.44502317
+            ],
+            [
+              -112.05658866,
+              33.44504026
+            ],
+            [
+              -112.0564399,
+              33.44511222
+            ],
+            [
+              -112.05505371,
+              33.44514637
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29895337,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05505371,
+              33.44345073
+            ],
+            [
+              -112.05555883,
+              33.44340206
+            ],
+            [
+              -112.05687244,
+              33.44340079
+            ],
+            [
+              -112.0572359,
+              33.44340026
+            ],
+            [
+              -112.0574382,
+              33.44341885
+            ],
+            [
+              -112.05802444,
+              33.44347147
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468496,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05651123,
+              33.4409793
+            ],
+            [
+              -112.05650853,
+              33.44083216
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468511,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761328,
+              33.44109977
+            ],
+            [
+              -112.05565963,
+              33.44112075
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29893661,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Southern Pacific Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.06054687,
+              33.44329162
+            ],
+            [
+              -112.05998933,
+              33.4431583
+            ],
+            [
+              -112.05890919,
+              33.44289362
+            ],
+            [
+              -112.05767518,
+              33.44259296
+            ],
+            [
+              -112.05680749,
+              33.44237648
+            ],
+            [
+              -112.05604473,
+              33.44219808
+            ],
+            [
+              -112.05526491,
+              33.4420154
+            ],
+            [
+              -112.05505371,
+              33.44198747
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468512,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761589,
+              33.44151617
+            ],
+            [
+              -112.05566493,
+              33.44154158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126468516,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 356,
+          "service": "parking",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.05761418,
+              33.44124099
+            ],
+            [
+              -112.05566133,
+              33.44126041
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126987052,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0576069,
+              33.44193152
+            ],
+            [
+              -112.05783445,
+              33.44194037
+            ],
+            [
+              -112.05930454,
+              33.44194082
+            ],
+            [
+              -112.05990345,
+              33.44194719
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

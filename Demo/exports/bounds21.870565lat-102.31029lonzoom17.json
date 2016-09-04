@@ -1,0 +1,922 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 1191969819,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.31127702,
+            21.87154528
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1191969821,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.31097285,
+            21.8715166
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1606735965,
+          "min_zoom": 17,
+          "kind": "bus_stop"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.31049261,
+            21.86992456
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1908199897,
+          "name": "Posada La Fuente",
+          "min_zoom": 17,
+          "kind": "hotel"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.31112188,
+            21.87068103
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1909997497,
+          "name": "FedEx",
+          "min_zoom": 16,
+          "kind": "post_office"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -102.311165,
+            21.87101107
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 319516445,
+          "area": 117828000,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.31018066,
+              21.86914573
+            ],
+            [
+              -102.31292725,
+              21.86914573
+            ],
+            [
+              -102.31292725,
+              21.87169464
+            ],
+            [
+              -102.31018066,
+              21.87169464
+            ],
+            [
+              -102.31018066,
+              21.86914573
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222415528,
+          "area": 165729,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.31034142,
+              21.87164499
+            ],
+            [
+              -102.31032823,
+              21.87169464
+            ],
+            [
+              -102.31018066,
+              21.87169464
+            ],
+            [
+              -102.31018066,
+              21.8715838
+            ],
+            [
+              -102.31034034,
+              21.87164449
+            ],
+            [
+              -102.31034142,
+              21.87164499
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 265170,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -102.31018066,
+            21.86914573
+          ],
+          [
+            -102.31292725,
+            21.86914573
+          ],
+          [
+            -102.31292725,
+            21.87169464
+          ],
+          [
+            -102.31018066,
+            21.87169464
+          ],
+          [
+            -102.31018066,
+            21.86914573
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 76406894,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Espana",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31095048,
+              21.87051179
+            ],
+            [
+              -102.31110751,
+              21.8700993
+            ],
+            [
+              -102.31116652,
+              21.87005945
+            ],
+            [
+              -102.31165476,
+              21.86917326
+            ],
+            [
+              -102.31167075,
+              21.86914573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 170160993,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Avenida Convencion de 1914",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31132797,
+              21.87169464
+            ],
+            [
+              -102.31127702,
+              21.87154528
+            ],
+            [
+              -102.31119482,
+              21.87127718
+            ],
+            [
+              -102.31095048,
+              21.87051179
+            ],
+            [
+              -102.3108487,
+              21.87015799
+            ],
+            [
+              -102.31079822,
+              21.87006678
+            ],
+            [
+              -102.31053833,
+              21.86927555
+            ],
+            [
+              -102.31048804,
+              21.86914573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 169858306,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 378,
+          "name": "Avenida Convencion de 1914",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31030631,
+              21.86914573
+            ],
+            [
+              -102.3103425,
+              21.86923729
+            ],
+            [
+              -102.31063787,
+              21.87011255
+            ],
+            [
+              -102.31076085,
+              21.87066735
+            ],
+            [
+              -102.31097285,
+              21.8715166
+            ],
+            [
+              -102.31102517,
+              21.87169464
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406880,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Nispero",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31292725,
+              21.870894
+            ],
+            [
+              -102.31290459,
+              21.87088085
+            ],
+            [
+              -102.31258811,
+              21.87073146
+            ],
+            [
+              -102.31239829,
+              21.87059999
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406891,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Sauce",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31213212,
+              21.86942219
+            ],
+            [
+              -102.31261488,
+              21.86962627
+            ],
+            [
+              -102.31292725,
+              21.8697712
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223218757,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Boulevard San Marcos",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.3128714,
+              21.87169464
+            ],
+            [
+              -102.31292725,
+              21.87167488
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223218756,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31097285,
+              21.8715166
+            ],
+            [
+              -102.31074261,
+              21.87144382
+            ],
+            [
+              -102.31031609,
+              21.87127076
+            ],
+            [
+              -102.31018066,
+              21.87124519
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406899,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Pinules",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31229705,
+              21.86914573
+            ],
+            [
+              -102.31213212,
+              21.86942219
+            ],
+            [
+              -102.31164389,
+              21.87027345
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 103238629,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Avenida Convencion de 1914",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31063787,
+              21.87011255
+            ],
+            [
+              -102.31087017,
+              21.87078548
+            ],
+            [
+              -102.31100285,
+              21.87126109
+            ],
+            [
+              -102.31112139,
+              21.87169464
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223218760,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Boulevard San Marcos",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31292725,
+              21.87124582
+            ],
+            [
+              -102.31273148,
+              21.87138022
+            ],
+            [
+              -102.31253331,
+              21.87146808
+            ],
+            [
+              -102.31237638,
+              21.87151527
+            ],
+            [
+              -102.31218477,
+              21.87154303
+            ],
+            [
+              -102.31127702,
+              21.87154528
+            ],
+            [
+              -102.31097285,
+              21.8715166
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406893,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Sevilla",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31061018,
+              21.86914573
+            ],
+            [
+              -102.31053833,
+              21.86927555
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 119369795,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 443,
+          "name": "Avenida Convencion de 1914",
+          "oneway": "yes",
+          "is_bridge": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31120876,
+              21.87169464
+            ],
+            [
+              -102.31106852,
+              21.87122082
+            ],
+            [
+              -102.3109406,
+              21.87076481
+            ],
+            [
+              -102.31079822,
+              21.87006678
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406835,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Nispero",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31212673,
+              21.87050746
+            ],
+            [
+              -102.31164389,
+              21.87027345
+            ],
+            [
+              -102.31116652,
+              21.87005945
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872720,
+          "is_link": "yes",
+          "highway": "primary_link",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 355,
+          "name": "Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31076085,
+              21.87066735
+            ],
+            [
+              -102.31074513,
+              21.87084751
+            ],
+            [
+              -102.31066428,
+              21.87096839
+            ],
+            [
+              -102.31056205,
+              21.8710375
+            ],
+            [
+              -102.31018066,
+              21.87113291
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406879,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Espana",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31110751,
+              21.8700993
+            ],
+            [
+              -102.3108487,
+              21.87015799
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406915,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Pinul",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31292725,
+              21.87083761
+            ],
+            [
+              -102.31290459,
+              21.87088085
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872673,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31018066,
+              21.8714892
+            ],
+            [
+              -102.31048704,
+              21.87159738
+            ],
+            [
+              -102.31074941,
+              21.87169464
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872730,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Calle Chabacano",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31052313,
+              21.87169464
+            ],
+            [
+              -102.31048704,
+              21.87159738
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406850,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Terebinto",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31258811,
+              21.87073146
+            ],
+            [
+              -102.31236209,
+              21.8709859
+            ],
+            [
+              -102.31175663,
+              21.87111978
+            ],
+            [
+              -102.31119482,
+              21.87127718
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406861,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Nubina",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31159758,
+              21.86914573
+            ],
+            [
+              -102.31165476,
+              21.86917326
+            ],
+            [
+              -102.31213212,
+              21.86942219
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406885,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Alamos",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31288333,
+              21.86914573
+            ],
+            [
+              -102.31261488,
+              21.86962627
+            ],
+            [
+              -102.31212673,
+              21.87050746
+            ],
+            [
+              -102.31175663,
+              21.87111978
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

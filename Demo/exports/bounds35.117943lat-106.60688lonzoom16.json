@@ -1,0 +1,1424 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 203208506,
+          "area": 3766,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60768914,
+              35.11566268
+            ],
+            [
+              -106.60767791,
+              35.1162118
+            ],
+            [
+              -106.60706311,
+              35.11620335
+            ],
+            [
+              -106.60706427,
+              35.11614229
+            ],
+            [
+              -106.60724681,
+              35.11614479
+            ],
+            [
+              -106.60725678,
+              35.1156568
+            ],
+            [
+              -106.60768914,
+              35.11566268
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258970946,
+          "area": 2901,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "name": "Candelaria Business Center",
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60722337,
+              35.1173833
+            ],
+            [
+              -106.60666066,
+              35.1173775
+            ],
+            [
+              -106.60666416,
+              35.11732246
+            ],
+            [
+              -106.60619354,
+              35.11732246
+            ],
+            [
+              -106.60619713,
+              35.11714875
+            ],
+            [
+              -106.60667126,
+              35.11714589
+            ],
+            [
+              -106.60667126,
+              35.11720666
+            ],
+            [
+              -106.6069934,
+              35.11720666
+            ],
+            [
+              -106.60700049,
+              35.11715169
+            ],
+            [
+              -106.60720567,
+              35.11714008
+            ],
+            [
+              -106.60722337,
+              35.1173833
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258970946,
+          "area": 2901,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Candelaria Business Center",
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.60670473,
+            35.11726456
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208474,
+          "area": 2457,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61177423,
+              35.11573969
+            ],
+            [
+              -106.61177423,
+              35.11591185
+            ],
+            [
+              -106.6117215,
+              35.11591185
+            ],
+            [
+              -106.6117215,
+              35.1160475
+            ],
+            [
+              -106.61159484,
+              35.1160475
+            ],
+            [
+              -106.61159484,
+              35.11591185
+            ],
+            [
+              -106.61130432,
+              35.11591185
+            ],
+            [
+              -106.61130432,
+              35.11586732
+            ],
+            [
+              -106.61119509,
+              35.11586732
+            ],
+            [
+              -106.61119509,
+              35.11561212
+            ],
+            [
+              -106.61122051,
+              35.11561212
+            ],
+            [
+              -106.61122051,
+              35.1155515
+            ],
+            [
+              -106.61131402,
+              35.1155515
+            ],
+            [
+              -106.61131402,
+              35.11561212
+            ],
+            [
+              -106.61149728,
+              35.11561212
+            ],
+            [
+              -106.61149728,
+              35.11572381
+            ],
+            [
+              -106.61163185,
+              35.11572381
+            ],
+            [
+              -106.61163185,
+              35.11569655
+            ],
+            [
+              -106.61171961,
+              35.11569655
+            ],
+            [
+              -106.61171961,
+              35.11573969
+            ],
+            [
+              -106.61177423,
+              35.11573969
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258970633,
+          "area": 2047,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "name": "Candelaria Business PArk",
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60639171,
+              35.1168419
+            ],
+            [
+              -106.60638111,
+              35.11702428
+            ],
+            [
+              -106.60595989,
+              35.11701561
+            ],
+            [
+              -106.6058502,
+              35.11716896
+            ],
+            [
+              -106.60565913,
+              35.11709658
+            ],
+            [
+              -106.6058467,
+              35.1168419
+            ],
+            [
+              -106.60639171,
+              35.1168419
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258970633,
+          "area": 2047,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Candelaria Business PArk",
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.60608469,
+            35.11692875
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208508,
+          "area": 1932,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61008163,
+              35.11556715
+            ],
+            [
+              -106.61007668,
+              35.11580957
+            ],
+            [
+              -106.60960381,
+              35.11580317
+            ],
+            [
+              -106.60960723,
+              35.11563262
+            ],
+            [
+              -106.6097373,
+              35.11563431
+            ],
+            [
+              -106.60974063,
+              35.11547177
+            ],
+            [
+              -106.60998533,
+              35.11547508
+            ],
+            [
+              -106.60998344,
+              35.1155659
+            ],
+            [
+              -106.61008163,
+              35.11556715
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258971339,
+          "area": 1581,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "name": "Candelaria Business Center",
+          "min_zoom": 14,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60701819,
+              35.11684477
+            ],
+            [
+              -106.60701109,
+              35.11708218
+            ],
+            [
+              -106.60680233,
+              35.1170619
+            ],
+            [
+              -106.60679873,
+              35.11700686
+            ],
+            [
+              -106.60646249,
+              35.11701561
+            ],
+            [
+              -106.60646959,
+              35.11684477
+            ],
+            [
+              -106.60701819,
+              35.11684477
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 258971339,
+          "area": 1581,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Candelaria Business Center",
+          "min_zoom": 14,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.606741,
+            35.11692582
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208492,
+          "area": 1433,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60800346,
+              35.1155515
+            ],
+            [
+              -106.607997,
+              35.11587129
+            ],
+            [
+              -106.60770127,
+              35.11586732
+            ],
+            [
+              -106.60770783,
+              35.11554746
+            ],
+            [
+              -106.60800346,
+              35.1155515
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208512,
+          "area": 1388,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61032561,
+              35.11600532
+            ],
+            [
+              -106.61031968,
+              35.11629469
+            ],
+            [
+              -106.6099688,
+              35.11628991
+            ],
+            [
+              -106.60997239,
+              35.11610996
+            ],
+            [
+              -106.61010328,
+              35.1161118
+            ],
+            [
+              -106.61010399,
+              35.1160777
+            ],
+            [
+              -106.61004614,
+              35.11607689
+            ],
+            [
+              -106.61004767,
+              35.1160015
+            ],
+            [
+              -106.61032561,
+              35.11600532
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208486,
+          "area": 1344,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60989469,
+              35.11597887
+            ],
+            [
+              -106.60988858,
+              35.11627639
+            ],
+            [
+              -106.60959052,
+              35.11627235
+            ],
+            [
+              -106.60959663,
+              35.1159749
+            ],
+            [
+              -106.60989469,
+              35.11597887
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208487,
+          "area": 1179,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60804712,
+              35.11598996
+            ],
+            [
+              -106.60804254,
+              35.11621496
+            ],
+            [
+              -106.60769669,
+              35.11621019
+            ],
+            [
+              -106.60770127,
+              35.11598526
+            ],
+            [
+              -106.60804712,
+              35.11598996
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208483,
+          "area": 1084,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61061999,
+              35.11594066
+            ],
+            [
+              -106.61061999,
+              35.11628352
+            ],
+            [
+              -106.61041131,
+              35.11628352
+            ],
+            [
+              -106.61041131,
+              35.11594066
+            ],
+            [
+              -106.61061999,
+              35.11594066
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208490,
+          "area": 991,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61038894,
+              35.11549036
+            ],
+            [
+              -106.61038211,
+              35.11582419
+            ],
+            [
+              -106.61018619,
+              35.11582162
+            ],
+            [
+              -106.61019302,
+              35.11548772
+            ],
+            [
+              -106.61038894,
+              35.11549036
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208511,
+          "area": 883,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60920451,
+              35.11603949
+            ],
+            [
+              -106.60919984,
+              35.11626949
+            ],
+            [
+              -106.60911818,
+              35.11626838
+            ],
+            [
+              -106.60911872,
+              35.11624281
+            ],
+            [
+              -106.60894517,
+              35.11624046
+            ],
+            [
+              -106.6089502,
+              35.11599276
+            ],
+            [
+              -106.60904362,
+              35.11599408
+            ],
+            [
+              -106.60904272,
+              35.11603729
+            ],
+            [
+              -106.60920451,
+              35.11603949
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208504,
+          "area": 826,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60848577,
+              35.11597622
+            ],
+            [
+              -106.60847921,
+              35.11629947
+            ],
+            [
+              -106.60833027,
+              35.11629748
+            ],
+            [
+              -106.60833557,
+              35.11603471
+            ],
+            [
+              -106.60823101,
+              35.11603332
+            ],
+            [
+              -106.60823217,
+              35.1159727
+            ],
+            [
+              -106.60848577,
+              35.11597622
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208500,
+          "area": 819,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60880171,
+              35.11579832
+            ],
+            [
+              -106.60879937,
+              35.11591141
+            ],
+            [
+              -106.60860201,
+              35.11590877
+            ],
+            [
+              -106.60861028,
+              35.11550381
+            ],
+            [
+              -106.60871897,
+              35.11550528
+            ],
+            [
+              -106.60871313,
+              35.11579708
+            ],
+            [
+              -106.60880171,
+              35.11579832
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208493,
+          "area": 817,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60954569,
+              35.11547501
+            ],
+            [
+              -106.60953725,
+              35.11588981
+            ],
+            [
+              -106.60940717,
+              35.11588797
+            ],
+            [
+              -106.6094157,
+              35.11547317
+            ],
+            [
+              -106.60954569,
+              35.11547501
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208509,
+          "area": 666,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60652304,
+              35.11619872
+            ],
+            [
+              -106.6063688,
+              35.11623546
+            ],
+            [
+              -106.6063591,
+              35.1162082
+            ],
+            [
+              -106.60619632,
+              35.116247
+            ],
+            [
+              -106.60617521,
+              35.116188
+            ],
+            [
+              -106.60633394,
+              35.11615015
+            ],
+            [
+              -106.60629433,
+              35.11603912
+            ],
+            [
+              -106.6064527,
+              35.11600128
+            ],
+            [
+              -106.60652304,
+              35.11619872
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208497,
+          "area": 555,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60874278,
+              35.11603552
+            ],
+            [
+              -106.60873846,
+              35.11624847
+            ],
+            [
+              -106.60856653,
+              35.11624612
+            ],
+            [
+              -106.60857084,
+              35.11603317
+            ],
+            [
+              -106.60874278,
+              35.11603552
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208505,
+          "area": 351,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60949431,
+              35.11611209
+            ],
+            [
+              -106.60949107,
+              35.11627081
+            ],
+            [
+              -106.60932111,
+              35.11626846
+            ],
+            [
+              -106.60932345,
+              35.11615596
+            ],
+            [
+              -106.60940528,
+              35.11615706
+            ],
+            [
+              -106.60940618,
+              35.11611091
+            ],
+            [
+              -106.60949431,
+              35.11611209
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208478,
+          "area": 184,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.61142128,
+              35.11617991
+            ],
+            [
+              -106.61142128,
+              35.11629307
+            ],
+            [
+              -106.61131402,
+              35.11629307
+            ],
+            [
+              -106.61131402,
+              35.11617991
+            ],
+            [
+              -106.61142128,
+              35.11617991
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 140901052,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.61097931,
+            35.11653299
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208509,
+          "area": 665,
+          "min_zoom": 15.2664,
+          "kind": "bank"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.60640005,
+            35.11609464
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 202550242,
+          "area": 128503,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.60867623,
+              35.11990857
+            ],
+            [
+              -106.60866444,
+              35.11839659
+            ],
+            [
+              -106.60856302,
+              35.11830099
+            ],
+            [
+              -106.60857524,
+              35.11748066
+            ],
+            [
+              -106.61132812,
+              35.11747835
+            ],
+            [
+              -106.61132812,
+              35.11990857
+            ],
+            [
+              -106.60867623,
+              35.11990857
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 203208513,
+          "area": 48883,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9.46747,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -106.6068382,
+              35.11541531
+            ],
+            [
+              -106.60683547,
+              35.11584719
+            ],
+            [
+              -106.60583496,
+              35.11584294
+            ],
+            [
+              -106.60583496,
+              35.11541531
+            ],
+            [
+              -106.6068382,
+              35.11541531
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 265171,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -106.60583496,
+            35.11541531
+          ],
+          [
+            -106.61132812,
+            35.11541531
+          ],
+          [
+            -106.61132812,
+            35.11990857
+          ],
+          [
+            -106.60583496,
+            35.11990857
+          ],
+          [
+            -106.60583496,
+            35.11541531
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 14419044,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Wellesley Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60692722,
+              35.11541531
+            ],
+            [
+              -106.60693608,
+              35.11652498
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14411119,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Lafayette Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60852511,
+              35.1183428
+            ],
+            [
+              -106.60857102,
+              35.1184054
+            ],
+            [
+              -106.60859177,
+              35.11848586
+            ],
+            [
+              -106.60859267,
+              35.1189537
+            ],
+            [
+              -106.60858611,
+              35.11924012
+            ],
+            [
+              -106.60857632,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14410046,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Wellesley Ct. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60698971,
+              35.11900969
+            ],
+            [
+              -106.60701136,
+              35.11909941
+            ],
+            [
+              -106.60700196,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14411982,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Richmond Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.61095227,
+              35.11541531
+            ],
+            [
+              -106.61097922,
+              35.11653299
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14421229,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Alta Monte Ct. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60859267,
+              35.1189537
+            ],
+            [
+              -106.60792621,
+              35.11895179
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14412543,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Tulane Dr. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60641327,
+              35.11828982
+            ],
+            [
+              -106.60636845,
+              35.11990857
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 281478945,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "Candelaria Rd. NE",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60583496,
+              35.11652277
+            ],
+            [
+              -106.60693617,
+              35.11652498
+            ],
+            [
+              -106.61097931,
+              35.11653299
+            ],
+            [
+              -106.61132812,
+              35.11653426
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 14413849,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Alta Monte Ave. NE",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -106.60852511,
+              35.1183428
+            ],
+            [
+              -106.60842594,
+              35.1183162
+            ],
+            [
+              -106.60831859,
+              35.118309
+            ],
+            [
+              -106.60748882,
+              35.11830687
+            ],
+            [
+              -106.60661045,
+              35.11830907
+            ],
+            [
+              -106.60641327,
+              35.11828982
+            ],
+            [
+              -106.6062531,
+              35.11827909
+            ],
+            [
+              -106.60607487,
+              35.11827527
+            ],
+            [
+              -106.60583496,
+              35.11828064
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

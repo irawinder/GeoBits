@@ -1,0 +1,2294 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [
+      {
+        "properties": {
+          "id": 386589753,
+          "sort_key": 267,
+          "kind": "fence"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07181825,
+              33.44493532
+            ],
+            [
+              -112.07162404,
+              33.44493817
+            ],
+            [
+              -112.0715332,
+              33.44493957
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589752,
+          "sort_key": 267,
+          "kind": "fence"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07220309,
+              33.44493427
+            ],
+            [
+              -112.07212071,
+              33.44493419
+            ],
+            [
+              -112.072044,
+              33.44493412
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589751,
+          "sort_key": 267,
+          "kind": "fence"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07204454,
+              33.44455768
+            ],
+            [
+              -112.0720608,
+              33.44455768
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 109835135,
+          "area": 8836,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07241356,
+              33.44626931
+            ],
+            [
+              -112.07235194,
+              33.44626931
+            ],
+            [
+              -112.07235239,
+              33.44621392
+            ],
+            [
+              -112.071885,
+              33.4462119
+            ],
+            [
+              -112.071885,
+              33.44624098
+            ],
+            [
+              -112.07182589,
+              33.44623971
+            ],
+            [
+              -112.07182912,
+              33.4459506
+            ],
+            [
+              -112.0718514,
+              33.4459509
+            ],
+            [
+              -112.0718549,
+              33.44586148
+            ],
+            [
+              -112.07182723,
+              33.44586081
+            ],
+            [
+              -112.07182849,
+              33.4457827
+            ],
+            [
+              -112.07185571,
+              33.4457827
+            ],
+            [
+              -112.07185841,
+              33.44566502
+            ],
+            [
+              -112.07182688,
+              33.44566427
+            ],
+            [
+              -112.07182436,
+              33.44550619
+            ],
+            [
+              -112.07180927,
+              33.44548992
+            ],
+            [
+              -112.07181511,
+              33.4453969
+            ],
+            [
+              -112.07185724,
+              33.44539645
+            ],
+            [
+              -112.07185032,
+              33.44515247
+            ],
+            [
+              -112.07240018,
+              33.44514797
+            ],
+            [
+              -112.0723841,
+              33.44619541
+            ],
+            [
+              -112.07241087,
+              33.44619541
+            ],
+            [
+              -112.07241356,
+              33.44626931
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109835164,
+          "addr_street": "South 4th Street",
+          "area": 5542,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "410",
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07234781,
+              33.44410832
+            ],
+            [
+              -112.07136281,
+              33.44410832
+            ],
+            [
+              -112.07136559,
+              33.44372476
+            ],
+            [
+              -112.07234511,
+              33.4437321
+            ],
+            [
+              -112.07234781,
+              33.44410832
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057862,
+          "addr_street": "East Jackson Street",
+          "area": 4975,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "39",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07368252,
+              33.44493209
+            ],
+            [
+              -112.07282526,
+              33.44493262
+            ],
+            [
+              -112.07282517,
+              33.44494551
+            ],
+            [
+              -112.07273507,
+              33.44494559
+            ],
+            [
+              -112.07273507,
+              33.44493232
+            ],
+            [
+              -112.07269833,
+              33.44493239
+            ],
+            [
+              -112.07269815,
+              33.44460438
+            ],
+            [
+              -112.07329302,
+              33.44460408
+            ],
+            [
+              -112.07329293,
+              33.44456211
+            ],
+            [
+              -112.07334664,
+              33.44456211
+            ],
+            [
+              -112.07334673,
+              33.44457957
+            ],
+            [
+              -112.0733594,
+              33.44457957
+            ],
+            [
+              -112.0733594,
+              33.44460056
+            ],
+            [
+              -112.07351211,
+              33.44460049
+            ],
+            [
+              -112.07351211,
+              33.44459809
+            ],
+            [
+              -112.07351903,
+              33.44459809
+            ],
+            [
+              -112.07351903,
+              33.44455716
+            ],
+            [
+              -112.07368235,
+              33.44455708
+            ],
+            [
+              -112.07368252,
+              33.44493209
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057859,
+          "area": 3014,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07204454,
+              33.44455768
+            ],
+            [
+              -112.072044,
+              33.44493412
+            ],
+            [
+              -112.07181825,
+              33.44493532
+            ],
+            [
+              -112.07181834,
+              33.44484619
+            ],
+            [
+              -112.07171629,
+              33.44484612
+            ],
+            [
+              -112.07171629,
+              33.44478338
+            ],
+            [
+              -112.07149719,
+              33.44478331
+            ],
+            [
+              -112.0714971,
+              33.4449174
+            ],
+            [
+              -112.07138931,
+              33.44491725
+            ],
+            [
+              -112.07138975,
+              33.44455708
+            ],
+            [
+              -112.07204454,
+              33.44455768
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057869,
+          "addr_street": "East Jackson Street",
+          "area": 2594,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "22",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07364803,
+              33.44515052
+            ],
+            [
+              -112.07364803,
+              33.44534818
+            ],
+            [
+              -112.07358066,
+              33.44534818
+            ],
+            [
+              -112.07358066,
+              33.4455274
+            ],
+            [
+              -112.07319384,
+              33.4455274
+            ],
+            [
+              -112.07319384,
+              33.44534885
+            ],
+            [
+              -112.07311542,
+              33.44534885
+            ],
+            [
+              -112.07311542,
+              33.44515052
+            ],
+            [
+              -112.07364803,
+              33.44515052
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109835089,
+          "addr_street": "South 1st Street",
+          "area": 2407,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0731686,
+              33.44406312
+            ],
+            [
+              -112.07267839,
+              33.44406379
+            ],
+            [
+              -112.07267767,
+              33.44373308
+            ],
+            [
+              -112.07316788,
+              33.44373248
+            ],
+            [
+              -112.0731686,
+              33.44406312
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057852,
+          "addr_street": "West Jackson Street",
+          "area": 2284,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "20",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07469591,
+              33.44545387
+            ],
+            [
+              -112.07469591,
+              33.44547576
+            ],
+            [
+              -112.07467462,
+              33.44547576
+            ],
+            [
+              -112.07467453,
+              33.4455253
+            ],
+            [
+              -112.07426742,
+              33.4455253
+            ],
+            [
+              -112.07426742,
+              33.44514879
+            ],
+            [
+              -112.07467453,
+              33.44514879
+            ],
+            [
+              -112.07467462,
+              33.44545387
+            ],
+            [
+              -112.07469591,
+              33.44545387
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109835092,
+          "area": 2170,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07447448,
+              33.44312861
+            ],
+            [
+              -112.07394528,
+              33.44313326
+            ],
+            [
+              -112.07394232,
+              33.44289752
+            ],
+            [
+              -112.07396388,
+              33.44289729
+            ],
+            [
+              -112.07396334,
+              33.44285532
+            ],
+            [
+              -112.07447089,
+              33.44285082
+            ],
+            [
+              -112.07447448,
+              33.44312861
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057865,
+          "addr_street": "South 1st Street",
+          "area": 2078,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "246",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07312952,
+              33.44536407
+            ],
+            [
+              -112.07312943,
+              33.44552733
+            ],
+            [
+              -112.0727013,
+              33.44552733
+            ],
+            [
+              -112.0727013,
+              33.44515292
+            ],
+            [
+              -112.0730272,
+              33.44515292
+            ],
+            [
+              -112.07302729,
+              33.44535095
+            ],
+            [
+              -112.07311704,
+              33.44535095
+            ],
+            [
+              -112.07311704,
+              33.44536407
+            ],
+            [
+              -112.07312952,
+              33.44536407
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838137,
+          "addr_street": "East Buchanan Street",
+          "area": 1958,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "addr_housenumber": "101",
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0723505,
+              33.44277751
+            ],
+            [
+              -112.07234898,
+              33.44312712
+            ],
+            [
+              -112.07202423,
+              33.44312607
+            ],
+            [
+              -112.07202423,
+              33.44312419
+            ],
+            [
+              -112.07194896,
+              33.44312397
+            ],
+            [
+              -112.07194932,
+              33.44305051
+            ],
+            [
+              -112.07202145,
+              33.44305066
+            ],
+            [
+              -112.07202199,
+              33.44291611
+            ],
+            [
+              -112.07185733,
+              33.44291521
+            ],
+            [
+              -112.07185589,
+              33.44284377
+            ],
+            [
+              -112.07202127,
+              33.4428443
+            ],
+            [
+              -112.07202163,
+              33.44277661
+            ],
+            [
+              -112.0723505,
+              33.44277751
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838135,
+          "area": 1684,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07169428,
+              33.44277908
+            ],
+            [
+              -112.07169357,
+              33.44312599
+            ],
+            [
+              -112.07161802,
+              33.44312592
+            ],
+            [
+              -112.07136658,
+              33.44312547
+            ],
+            [
+              -112.07136739,
+              33.44277871
+            ],
+            [
+              -112.07169428,
+              33.44277908
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589755,
+          "addr_street": "East Jackson Street",
+          "area": 1264,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "addr_housenumber": "101",
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07237143,
+              33.44455791
+            ],
+            [
+              -112.07237098,
+              33.44493442
+            ],
+            [
+              -112.07220309,
+              33.44493427
+            ],
+            [
+              -112.07220318,
+              33.44479717
+            ],
+            [
+              -112.07215925,
+              33.4447971
+            ],
+            [
+              -112.07215943,
+              33.44469456
+            ],
+            [
+              -112.07220354,
+              33.44469471
+            ],
+            [
+              -112.07220354,
+              33.4446705
+            ],
+            [
+              -112.07214551,
+              33.44467042
+            ],
+            [
+              -112.07214542,
+              33.44468586
+            ],
+            [
+              -112.07206062,
+              33.44468586
+            ],
+            [
+              -112.0720608,
+              33.44455768
+            ],
+            [
+              -112.07237143,
+              33.44455791
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109835117,
+          "area": 263,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07365225,
+              33.44354268
+            ],
+            [
+              -112.07365063,
+              33.443639
+            ],
+            [
+              -112.07346702,
+              33.44363691
+            ],
+            [
+              -112.07346864,
+              33.44354066
+            ],
+            [
+              -112.07365225,
+              33.44354268
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589757,
+          "addr_street": "South 1st Street",
+          "area": 20,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 17,
+          "kind": "detached"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07279382,
+              33.44444802
+            ],
+            [
+              -112.07276328,
+              33.44444817
+            ],
+            [
+              -112.07276283,
+              33.44440507
+            ],
+            [
+              -112.07279337,
+              33.44440477
+            ],
+            [
+              -112.07279382,
+              33.44444802
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899281937,
+          "addr_street": "East Buchanan Street",
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "min_zoom": 17,
+          "addr_housenumber": "121",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07161811,
+            33.44312592
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109835164,
+          "addr_street": "South 4th Street",
+          "source": "openstreetmap.org",
+          "addr_housenumber": "410",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07185532,
+            33.44392021
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 37057862,
+          "addr_street": "East Jackson Street",
+          "source": "openstreetmap.org",
+          "addr_housenumber": "39",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07319034,
+            33.44476824
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838137,
+          "addr_street": "East Buchanan Street",
+          "source": "openstreetmap.org",
+          "addr_housenumber": "101",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07218566,
+            33.44298331
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589755,
+          "addr_street": "East Jackson Street",
+          "source": "openstreetmap.org",
+          "addr_housenumber": "101",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07226528,
+            33.4447459
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 42557012,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07252891,
+            33.44420179
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 100228605,
+          "area": 5068,
+          "min_zoom": 17,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07331453,
+            33.44443082
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 100228611,
+          "area": 3926,
+          "min_zoom": 17,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07187242,
+            33.44441092
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 329598589,
+          "min_zoom": 14,
+          "kind": "level_crossing"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07252909,
+            33.44423852
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430974315,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07162413,
+            33.44493817
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1526072480,
+          "min_zoom": 17,
+          "kind": "traffic_signals"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07380577,
+            33.44320312
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2469618297,
+          "cuisine": "sandwich",
+          "name": "Alice Cooperstown",
+          "min_zoom": 17,
+          "kind": "pub"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07228726,
+            33.44491695
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899281929,
+          "ref": "1st Street and Buchanan",
+          "name": "Grid",
+          "min_zoom": 17,
+          "capacity": 7,
+          "network": "Sobi",
+          "operator": "CycleHop",
+          "kind": "bicycle_rental_station"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0724133,
+            33.44332426
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899281950,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07205244,
+            33.44455768
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282666,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07265225,
+            33.44460948
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282667,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268126,
+            33.44461015
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282668,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07266051,
+            33.44461645
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282670,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07264326,
+            33.44461683
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282671,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268962,
+            33.4446172
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282673,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267237,
+            33.4446175
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282674,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07265162,
+            33.4446238
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282675,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268072,
+            33.44462447
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282676,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268171,
+            33.44463272
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282677,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268998,
+            33.44463969
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282679,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267282,
+            33.44464006
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282680,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268108,
+            33.44464711
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282681,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267758,
+            33.44470857
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282682,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268593,
+            33.44471562
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282684,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07266869,
+            33.44471592
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282685,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267704,
+            33.44472289
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282686,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268054,
+            33.44477941
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282687,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268881,
+            33.44478638
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282689,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267156,
+            33.44478668
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282690,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07267992,
+            33.44479372
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282691,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07268144,
+            33.44481898
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282692,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0726898,
+            33.44482596
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282693,
+          "min_zoom": 18,
+          "kind": "bench"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0726809,
+            33.4448333
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3899282696,
+          "min_zoom": 15,
+          "kind": "gate"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.07212071,
+            33.44493419
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 109835056,
+          "surface": "asphalt",
+          "area": 9744,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.6309,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07427979,
+              33.44415056
+            ],
+            [
+              -112.07398041,
+              33.44414789
+            ],
+            [
+              -112.07397969,
+              33.44414789
+            ],
+            [
+              -112.07396118,
+              33.44414669
+            ],
+            [
+              -112.0739442,
+              33.4441329
+            ],
+            [
+              -112.07393899,
+              33.44406402
+            ],
+            [
+              -112.07396487,
+              33.4440548
+            ],
+            [
+              -112.0739796,
+              33.44404235
+            ],
+            [
+              -112.073976,
+              33.44329697
+            ],
+            [
+              -112.07427979,
+              33.44329622
+            ],
+            [
+              -112.07427979,
+              33.44415056
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838128,
+          "area": 8285,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.7479,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07337638,
+              33.44290132
+            ],
+            [
+              -112.07336901,
+              33.44312921
+            ],
+            [
+              -112.07261137,
+              33.44313191
+            ],
+            [
+              -112.07260743,
+              33.44290132
+            ],
+            [
+              -112.07337638,
+              33.44290132
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 100228605,
+          "surface": "asphalt",
+          "area": 5069,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.1023,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07393145,
+              33.44452658
+            ],
+            [
+              -112.07388087,
+              33.44452695
+            ],
+            [
+              -112.07388141,
+              33.44456765
+            ],
+            [
+              -112.07368567,
+              33.44456915
+            ],
+            [
+              -112.07368558,
+              33.44455386
+            ],
+            [
+              -112.0735114,
+              33.44455529
+            ],
+            [
+              -112.07351158,
+              33.44457522
+            ],
+            [
+              -112.07335159,
+              33.44457642
+            ],
+            [
+              -112.07335141,
+              33.44455948
+            ],
+            [
+              -112.0732834,
+              33.44456001
+            ],
+            [
+              -112.07328358,
+              33.44457687
+            ],
+            [
+              -112.07281951,
+              33.4445804
+            ],
+            [
+              -112.0728196,
+              33.44459261
+            ],
+            [
+              -112.07268611,
+              33.44459359
+            ],
+            [
+              -112.07268548,
+              33.44453992
+            ],
+            [
+              -112.07269797,
+              33.44453977
+            ],
+            [
+              -112.07269959,
+              33.44429189
+            ],
+            [
+              -112.07388375,
+              33.44429496
+            ],
+            [
+              -112.07388411,
+              33.44433506
+            ],
+            [
+              -112.07392929,
+              33.44433469
+            ],
+            [
+              -112.07393145,
+              33.44452658
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 100228611,
+          "area": 3926,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 11.2865,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07236748,
+              33.44454217
+            ],
+            [
+              -112.0715332,
+              33.44454647
+            ],
+            [
+              -112.0715332,
+              33.44427889
+            ],
+            [
+              -112.07236559,
+              33.44427472
+            ],
+            [
+              -112.07236748,
+              33.44454217
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589754,
+          "area": 564,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "name": "Alice Cooperstown",
+          "min_zoom": 12.6864,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07220354,
+              33.4446705
+            ],
+            [
+              -112.07220354,
+              33.44469471
+            ],
+            [
+              -112.07215943,
+              33.44469456
+            ],
+            [
+              -112.07215925,
+              33.4447971
+            ],
+            [
+              -112.07220318,
+              33.44479717
+            ],
+            [
+              -112.07220309,
+              33.44493427
+            ],
+            [
+              -112.07212071,
+              33.44493419
+            ],
+            [
+              -112.072044,
+              33.44493412
+            ],
+            [
+              -112.07204454,
+              33.44455768
+            ],
+            [
+              -112.07205235,
+              33.44455768
+            ],
+            [
+              -112.0720608,
+              33.44455768
+            ],
+            [
+              -112.07206062,
+              33.44468586
+            ],
+            [
+              -112.07214542,
+              33.44468586
+            ],
+            [
+              -112.07214551,
+              33.44467042
+            ],
+            [
+              -112.07220354,
+              33.4446705
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 386589754,
+          "area": 564,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 24,
+          "name": "Alice Cooperstown",
+          "min_zoom": 12.6864,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0721018,
+            33.4447459
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.0715332,
+            33.44290132
+          ],
+          [
+            -112.07427979,
+            33.44290132
+          ],
+          [
+            -112.07427979,
+            33.44519313
+          ],
+          [
+            -112.0715332,
+            33.44519313
+          ],
+          [
+            -112.0715332,
+            33.44290132
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 170847478,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07427979,
+              33.44423289
+            ],
+            [
+              -112.0741209,
+              33.44422457
+            ],
+            [
+              -112.07390441,
+              33.44421416
+            ],
+            [
+              -112.07360572,
+              33.44420598
+            ],
+            [
+              -112.07303709,
+              33.44420291
+            ],
+            [
+              -112.07252891,
+              33.44420179
+            ],
+            [
+              -112.07183083,
+              33.44420291
+            ],
+            [
+              -112.0715332,
+              33.44420565
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5684589,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jackson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07382491,
+              33.44498651
+            ],
+            [
+              -112.07413249,
+              33.44500525
+            ],
+            [
+              -112.07427979,
+              33.44501271
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5601150,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "E Buchanan St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07380577,
+              33.44320312
+            ],
+            [
+              -112.07368073,
+              33.44320297
+            ],
+            [
+              -112.07322591,
+              33.44319758
+            ],
+            [
+              -112.07251759,
+              33.44320057
+            ],
+            [
+              -112.0715332,
+              33.44320119
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28887067,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 1st St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07253343,
+              33.44519313
+            ],
+            [
+              -112.07253349,
+              33.44517885
+            ],
+            [
+              -112.07253349,
+              33.44515097
+            ],
+            [
+              -112.07253349,
+              33.4450449
+            ],
+            [
+              -112.07253349,
+              33.44495226
+            ],
+            [
+              -112.07253349,
+              33.44493269
+            ],
+            [
+              -112.07252909,
+              33.44423852
+            ],
+            [
+              -112.07252891,
+              33.44420179
+            ],
+            [
+              -112.07252657,
+              33.44370017
+            ],
+            [
+              -112.07251759,
+              33.44320057
+            ],
+            [
+              -112.07251397,
+              33.44290132
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 220404564,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0715332,
+              33.44423681
+            ],
+            [
+              -112.07187538,
+              33.44423492
+            ],
+            [
+              -112.07252909,
+              33.44423852
+            ],
+            [
+              -112.07311389,
+              33.44424106
+            ],
+            [
+              -112.07371594,
+              33.44424009
+            ],
+            [
+              -112.07427979,
+              33.44424452
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5594605,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S Central Ave.",
+          "oneway": "yes",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07381296,
+              33.4450488
+            ],
+            [
+              -112.07381495,
+              33.44519313
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 142222702,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Buchanan St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07427979,
+              33.44320425
+            ],
+            [
+              -112.0739601,
+              33.4432032
+            ],
+            [
+              -112.07380568,
+              33.44320312
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28886665,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "name": "S Central Ave.",
+          "sort_key": 304,
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0738069,
+              33.44429476
+            ],
+            [
+              -112.0738091,
+              33.44456821
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 28886665,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "S Central Ave.",
+          "sort_key": 304,
+          "oneway": "yes",
+          "is_tunnel": "yes",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.0738091,
+                33.44456821
+              ],
+              [
+                -112.07381296,
+                33.4450488
+              ]
+            ],
+            [
+              [
+                -112.07380443,
+                33.44398771
+              ],
+              [
+                -112.0738069,
+                33.44429476
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5655450,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "E Jackson St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07382491,
+              33.44498651
+            ],
+            [
+              -112.07366761,
+              33.44499191
+            ],
+            [
+              -112.07310482,
+              33.44504535
+            ],
+            [
+              -112.07268782,
+              33.4450458
+            ],
+            [
+              -112.07266905,
+              33.44504565
+            ],
+            [
+              -112.07253358,
+              33.4450449
+            ],
+            [
+              -112.0724186,
+              33.44504416
+            ],
+            [
+              -112.07238742,
+              33.44504401
+            ],
+            [
+              -112.0715332,
+              33.4450524
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 324626234,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "sort_key": 377,
+          "name": "S Central Ave.",
+          "oneway": "yes",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07380644,
+              33.44290132
+            ],
+            [
+              -112.07380586,
+              33.44314008
+            ],
+            [
+              -112.07380577,
+              33.44320312
+            ],
+            [
+              -112.07380443,
+              33.44398771
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

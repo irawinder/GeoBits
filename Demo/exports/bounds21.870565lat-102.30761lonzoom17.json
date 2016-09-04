@@ -1,0 +1,827 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [{
+      "properties": {
+        "id": 222416043,
+        "area": 35398,
+        "name": "Villa Charra",
+        "min_zoom": 17,
+        "kind": "attraction"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3085508,
+          21.87040784
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 319516445,
+          "area": 117828000,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.30743408,
+              21.86914573
+            ],
+            [
+              -102.31018066,
+              21.86914573
+            ],
+            [
+              -102.31018066,
+              21.87169464
+            ],
+            [
+              -102.30743408,
+              21.87169464
+            ],
+            [
+              -102.30743408,
+              21.86914573
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222415528,
+          "area": 165729,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.30792882,
+              21.87169464
+            ],
+            [
+              -102.30809788,
+              21.87145816
+            ],
+            [
+              -102.30823739,
+              21.87139956
+            ],
+            [
+              -102.3084078,
+              21.87139822
+            ],
+            [
+              -102.30986415,
+              21.8714635
+            ],
+            [
+              -102.31018066,
+              21.8715838
+            ],
+            [
+              -102.31018066,
+              21.87169464
+            ],
+            [
+              -102.30792882,
+              21.87169464
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 222416043,
+          "area": 35398,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9.7003,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.3097029,
+              21.8705298
+            ],
+            [
+              -102.3097029,
+              21.87066419
+            ],
+            [
+              -102.30963885,
+              21.87104525
+            ],
+            [
+              -102.3096013,
+              21.87111011
+            ],
+            [
+              -102.30954219,
+              21.87113987
+            ],
+            [
+              -102.30948829,
+              21.87116205
+            ],
+            [
+              -102.30743408,
+              21.87107841
+            ],
+            [
+              -102.30743408,
+              21.87042905
+            ],
+            [
+              -102.30795442,
+              21.869574
+            ],
+            [
+              -102.30962241,
+              21.87036549
+            ],
+            [
+              -102.30968682,
+              21.87045019
+            ],
+            [
+              -102.3097029,
+              21.8705298
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 106348006,
+          "area": 32655,
+          "source": "openstreetmap.org",
+          "sort_key": 98,
+          "min_zoom": 9.7585,
+          "kind": "attraction"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -102.30850688,
+              21.87154811
+            ],
+            [
+              -102.30846412,
+              21.87159655
+            ],
+            [
+              -102.30832255,
+              21.87162289
+            ],
+            [
+              -102.30831707,
+              21.8716765
+            ],
+            [
+              -102.30825192,
+              21.87169464
+            ],
+            [
+              -102.3079414,
+              21.87169464
+            ],
+            [
+              -102.30809788,
+              21.87145816
+            ],
+            [
+              -102.30823739,
+              21.87139956
+            ],
+            [
+              -102.3084078,
+              21.87139822
+            ],
+            [
+              -102.30843448,
+              21.87141373
+            ],
+            [
+              -102.30849889,
+              21.87149343
+            ],
+            [
+              -102.30850688,
+              21.87154811
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 265170,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -102.30743408,
+            21.86914573
+          ],
+          [
+            -102.31018066,
+            21.86914573
+          ],
+          [
+            -102.31018066,
+            21.87169464
+          ],
+          [
+            -102.30743408,
+            21.87169464
+          ],
+          [
+            -102.30743408,
+            21.86914573
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 223218758,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30992487,
+              21.87119689
+            ],
+            [
+              -102.30962717,
+              21.87120023
+            ],
+            [
+              -102.3081922,
+              21.87117272
+            ],
+            [
+              -102.30743408,
+              21.87116891
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872713,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Privada Lienzo Charro",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30962717,
+              21.87120023
+            ],
+            [
+              -102.30977171,
+              21.87060566
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872686,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre de Pisa",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30972706,
+              21.87036398
+            ],
+            [
+              -102.30985391,
+              21.87009738
+            ],
+            [
+              -102.31008379,
+              21.86967838
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223218756,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31018066,
+              21.87124519
+            ],
+            [
+              -102.30992487,
+              21.87119689
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872731,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Los Laureles",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.3081922,
+              21.87117272
+            ],
+            [
+              -102.30815941,
+              21.87132486
+            ],
+            [
+              -102.30785596,
+              21.87169464
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872711,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre Londres",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30906358,
+              21.86914573
+            ],
+            [
+              -102.30891391,
+              21.86940685
+            ],
+            [
+              -102.30868538,
+              21.86983452
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76406860,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30743408,
+              21.87129886
+            ],
+            [
+              -102.30749008,
+              21.87130102
+            ],
+            [
+              -102.30815941,
+              21.87132486
+            ],
+            [
+              -102.30968404,
+              21.87137722
+            ],
+            [
+              -102.309945,
+              21.87140598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872727,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Avenida Ignacio T. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30743408,
+              21.87023174
+            ],
+            [
+              -102.30814305,
+              21.86914573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872724,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre Londres",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30850122,
+              21.86921978
+            ],
+            [
+              -102.30854613,
+              21.86914573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872709,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre Eiffel",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.3084308,
+              21.86973132
+            ],
+            [
+              -102.30868538,
+              21.86983452
+            ],
+            [
+              -102.30911792,
+              21.87003602
+            ],
+            [
+              -102.30927279,
+              21.86979559
+            ],
+            [
+              -102.30937942,
+              21.86959051
+            ],
+            [
+              -102.30950392,
+              21.86937559
+            ],
+            [
+              -102.30958774,
+              21.86920219
+            ],
+            [
+              -102.30947026,
+              21.86914573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872720,
+          "is_link": "yes",
+          "highway": "primary_link",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 355,
+          "name": "Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31018066,
+              21.87113291
+            ],
+            [
+              -102.30992487,
+              21.87119689
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872732,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30766411,
+              21.87169464
+            ],
+            [
+              -102.30749008,
+              21.87130102
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872704,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre Londres",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30833766,
+              21.86914573
+            ],
+            [
+              -102.30850122,
+              21.86921978
+            ],
+            [
+              -102.30891391,
+              21.86940685
+            ],
+            [
+              -102.30937942,
+              21.86959051
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 169858320,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Avenida Ignacio T. Chavez",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30797316,
+              21.86914573
+            ],
+            [
+              -102.30743408,
+              21.87004634
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre de Marfil",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30911792,
+              21.87003602
+            ],
+            [
+              -102.30972706,
+              21.87036398
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872673,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "Calle Lienzo Charro",
+          "oneway": "yes",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.309945,
+              21.87140598
+            ],
+            [
+              -102.31018066,
+              21.8714892
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872674,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre de Marfil",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.30927279,
+              21.86979559
+            ],
+            [
+              -102.30985391,
+              21.87009738
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 73872701,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Torre Eiffel",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -102.31008379,
+              21.86967838
+            ],
+            [
+              -102.30950392,
+              21.86937559
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

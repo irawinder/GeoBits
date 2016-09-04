@@ -1,0 +1,4873 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [
+      {
+        "properties": {
+          "id": 1191,
+          "admin_level": 4,
+          "scalerank": 2,
+          "name": "Oklahoma - Kansas",
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.625,
+              37
+            ],
+            [
+              -95.773,
+              37
+            ],
+            [
+              -96.005,
+              37
+            ],
+            [
+              -96.236,
+              37
+            ],
+            [
+              -96.467,
+              37
+            ],
+            [
+              -96.698,
+              37
+            ],
+            [
+              -96.929,
+              37
+            ],
+            [
+              -97.16,
+              37
+            ],
+            [
+              -97.391,
+              37
+            ],
+            [
+              -97.622,
+              37
+            ],
+            [
+              -97.853,
+              37
+            ],
+            [
+              -98.084,
+              37
+            ],
+            [
+              -98.315,
+              37
+            ],
+            [
+              -98.546,
+              37
+            ],
+            [
+              -98.778,
+              37
+            ],
+            [
+              -99.009,
+              37
+            ],
+            [
+              -99.24,
+              37
+            ],
+            [
+              -99.471,
+              37
+            ],
+            [
+              -99.702,
+              37
+            ],
+            [
+              -99.933,
+              37
+            ],
+            [
+              -100.164,
+              37
+            ],
+            [
+              -100.395,
+              37
+            ],
+            [
+              -100.626,
+              37
+            ],
+            [
+              -100.857,
+              37
+            ],
+            [
+              -101.088,
+              37
+            ],
+            [
+              -101.25,
+              37
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1187,
+          "admin_level": 4,
+          "scalerank": 2,
+          "name": "Kansas - Nebraska",
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.625,
+              40
+            ],
+            [
+              -95.736,
+              40
+            ],
+            [
+              -95.946,
+              40
+            ],
+            [
+              -96.156,
+              40
+            ],
+            [
+              -96.365,
+              40
+            ],
+            [
+              -96.575,
+              40
+            ],
+            [
+              -96.784,
+              40
+            ],
+            [
+              -96.994,
+              40
+            ],
+            [
+              -97.204,
+              40
+            ],
+            [
+              -97.413,
+              40
+            ],
+            [
+              -97.623,
+              40
+            ],
+            [
+              -97.832,
+              40
+            ],
+            [
+              -98.042,
+              40
+            ],
+            [
+              -98.252,
+              40
+            ],
+            [
+              -98.461,
+              40
+            ],
+            [
+              -98.671,
+              40
+            ],
+            [
+              -98.88,
+              40
+            ],
+            [
+              -99.09,
+              40
+            ],
+            [
+              -99.3,
+              40
+            ],
+            [
+              -99.509,
+              40
+            ],
+            [
+              -99.719,
+              40
+            ],
+            [
+              -99.928,
+              40
+            ],
+            [
+              -100.138,
+              40
+            ],
+            [
+              -100.348,
+              40
+            ],
+            [
+              -100.557,
+              40
+            ],
+            [
+              -100.767,
+              40
+            ],
+            [
+              -100.976,
+              40
+            ],
+            [
+              -101.186,
+              40
+            ],
+            [
+              -101.25,
+              40
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1193,
+          "admin_level": 4,
+          "scalerank": 2,
+          "name": "Nebraska - Iowa",
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.768,
+              40.6
+            ],
+            [
+              -95.764,
+              40.617
+            ],
+            [
+              -95.763,
+              40.639
+            ],
+            [
+              -95.773,
+              40.661
+            ],
+            [
+              -95.792,
+              40.671
+            ],
+            [
+              -95.845,
+              40.688
+            ],
+            [
+              -95.856,
+              40.705
+            ],
+            [
+              -95.858,
+              40.714
+            ],
+            [
+              -95.864,
+              40.721
+            ],
+            [
+              -95.869,
+              40.729
+            ],
+            [
+              -95.87,
+              40.743
+            ],
+            [
+              -95.867,
+              40.753
+            ],
+            [
+              -95.862,
+              40.759
+            ],
+            [
+              -95.848,
+              40.77
+            ],
+            [
+              -95.828,
+              40.794
+            ],
+            [
+              -95.83,
+              40.803
+            ],
+            [
+              -95.84,
+              40.816
+            ],
+            [
+              -95.842,
+              40.828
+            ],
+            [
+              -95.838,
+              40.851
+            ],
+            [
+              -95.83,
+              40.87
+            ],
+            [
+              -95.825,
+              40.889
+            ],
+            [
+              -95.828,
+              40.914
+            ],
+            [
+              -95.84,
+              40.938
+            ],
+            [
+              -95.842,
+              40.952
+            ],
+            [
+              -95.838,
+              40.973
+            ],
+            [
+              -95.838,
+              40.98
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1194,
+          "admin_level": 4,
+          "scalerank": 2,
+          "name": "Nebraska - Missouri",
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -95.634,
+                40.309
+              ],
+              [
+                -95.65,
+                40.311
+              ],
+              [
+                -95.656,
+                40.324
+              ],
+              [
+                -95.643,
+                40.331
+              ],
+              [
+                -95.634,
+                40.338
+              ],
+              [
+                -95.629,
+                40.345
+              ],
+              [
+                -95.631,
+                40.349
+              ],
+              [
+                -95.643,
+                40.38
+              ],
+              [
+                -95.659,
+                40.398
+              ],
+              [
+                -95.664,
+                40.406
+              ],
+              [
+                -95.665,
+                40.413
+              ],
+              [
+                -95.663,
+                40.428
+              ],
+              [
+                -95.664,
+                40.434
+              ],
+              [
+                -95.671,
+                40.45
+              ],
+              [
+                -95.689,
+                40.467
+              ],
+              [
+                -95.698,
+                40.482
+              ],
+              [
+                -95.699,
+                40.496
+              ],
+              [
+                -95.695,
+                40.507
+              ],
+              [
+                -95.696,
+                40.518
+              ],
+              [
+                -95.712,
+                40.53
+              ],
+              [
+                -95.736,
+                40.537
+              ],
+              [
+                -95.755,
+                40.539
+              ],
+              [
+                -95.768,
+                40.549
+              ],
+              [
+                -95.773,
+                40.574
+              ],
+              [
+                -95.768,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.625,
+                40.31
+              ],
+              [
+                -95.634,
+                40.309
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 7978,
+          "admin_level": 4,
+          "scalerank": 2,
+          "name": "Iowa - Missouri",
+          "sort_key": 256,
+          "kind": "state"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -95.768,
+                40.6
+              ],
+              [
+                -95.768,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.768,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.767,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.766,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.765,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.764,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ]
+            ],
+            [
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.664,
+                40.598
+              ],
+              [
+                -95.625,
+                40.597
+              ]
+            ],
+            [
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.763,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ],
+              [
+                -95.762,
+                40.6
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 4093,
+          "area": 538637312,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.321,
+              37.781
+            ],
+            [
+              -97.31,
+              37.759
+            ],
+            [
+              -97.277,
+              37.781
+            ],
+            [
+              -97.244,
+              37.763
+            ],
+            [
+              -97.213,
+              37.694
+            ],
+            [
+              -97.236,
+              37.647
+            ],
+            [
+              -97.333,
+              37.592
+            ],
+            [
+              -97.377,
+              37.636
+            ],
+            [
+              -97.465,
+              37.659
+            ],
+            [
+              -97.5,
+              37.711
+            ],
+            [
+              -97.369,
+              37.782
+            ],
+            [
+              -97.321,
+              37.781
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4878,
+          "area": 213571376,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.696,
+              38.991
+            ],
+            [
+              -95.777,
+              39.019
+            ],
+            [
+              -95.799,
+              39.058
+            ],
+            [
+              -95.688,
+              39.114
+            ],
+            [
+              -95.632,
+              39.092
+            ],
+            [
+              -95.632,
+              39.058
+            ],
+            [
+              -95.696,
+              38.991
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3153610,
+          "osm_relation": true,
+          "area": 201072000,
+          "source": "openstreetmap.org",
+          "sort_key": 18,
+          "name": "Salt Plains National Wildlife Refuge",
+          "min_zoom": 3.464,
+          "kind": "national_park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -98.298,
+              36.753
+            ],
+            [
+              -98.253,
+              36.811
+            ],
+            [
+              -98.201,
+              36.84
+            ],
+            [
+              -98.155,
+              36.731
+            ],
+            [
+              -98.244,
+              36.681
+            ],
+            [
+              -98.298,
+              36.753
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": -3153610,
+          "osm_relation": true,
+          "area": 201072000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 18,
+          "name": "Salt Plains National Wildlife Refuge",
+          "min_zoom": 3.464,
+          "kind": "national_park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.225,
+            36.761
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4867,
+          "area": 180495376,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.617,
+              40.797
+            ],
+            [
+              -96.643,
+              40.758
+            ],
+            [
+              -96.706,
+              40.761
+            ],
+            [
+              -96.766,
+              40.825
+            ],
+            [
+              -96.654,
+              40.869
+            ],
+            [
+              -96.617,
+              40.797
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105107175,
+          "area": 143748000,
+          "source": "openstreetmap.org",
+          "sort_key": 23,
+          "name": "Quivira National Wildlife Refuge",
+          "min_zoom": 3.707,
+          "operator": "U.S. Fish and Wildlife Service",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -98.565,
+              38.158
+            ],
+            [
+              -98.537,
+              38.217
+            ],
+            [
+              -98.455,
+              38.231
+            ],
+            [
+              -98.472,
+              38.071
+            ],
+            [
+              -98.509,
+              38.071
+            ],
+            [
+              -98.51,
+              38.158
+            ],
+            [
+              -98.565,
+              38.158
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 105107175,
+          "area": 143748000,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 23,
+          "name": "Quivira National Wildlife Refuge",
+          "min_zoom": 3.707,
+          "operator": "U.S. Fish and Wildlife Service",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.491,
+            38.151
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 42930738,
+          "area": 70837400,
+          "source": "openstreetmap.org",
+          "sort_key": 23,
+          "name": "Tallgrass Prairie National Preserve",
+          "min_zoom": 4.217,
+          "operator": "National Park Service",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.598,
+              38.409
+            ],
+            [
+              -96.596,
+              38.497
+            ],
+            [
+              -96.566,
+              38.497
+            ],
+            [
+              -96.558,
+              38.438
+            ],
+            [
+              -96.503,
+              38.406
+            ],
+            [
+              -96.598,
+              38.409
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 42930738,
+          "area": 70837400,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 23,
+          "name": "Tallgrass Prairie National Preserve",
+          "min_zoom": 4.217,
+          "operator": "National Park Service",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.577,
+            38.451
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4088,
+          "area": 59987448,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.923,
+              38.039
+            ],
+            [
+              -97.965,
+              38.092
+            ],
+            [
+              -97.888,
+              38.103
+            ],
+            [
+              -97.892,
+              38.057
+            ],
+            [
+              -97.923,
+              38.039
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 104952723,
+          "area": 57935400,
+          "source": "openstreetmap.org",
+          "sort_key": 23,
+          "name": "Konza Prairie Research Natural Area",
+          "min_zoom": 4.362,
+          "operator": "Kansas State University",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.615,
+              39.111
+            ],
+            [
+              -96.539,
+              39.136
+            ],
+            [
+              -96.539,
+              39.073
+            ],
+            [
+              -96.614,
+              39.066
+            ],
+            [
+              -96.615,
+              39.111
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 104952723,
+          "area": 57935400,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 23,
+          "name": "Konza Prairie Research Natural Area",
+          "min_zoom": 4.362,
+          "operator": "Kansas State University",
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.577,
+            39.091
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2549,
+          "area": 42814816,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.868,
+              38.023
+            ],
+            [
+              -100.831,
+              37.992
+            ],
+            [
+              -100.854,
+              37.959
+            ],
+            [
+              -100.898,
+              37.989
+            ],
+            [
+              -100.868,
+              38.023
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4884,
+          "area": 36135152,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.597,
+              38.847
+            ],
+            [
+              -97.599,
+              38.814
+            ],
+            [
+              -97.632,
+              38.825
+            ],
+            [
+              -97.632,
+              38.881
+            ],
+            [
+              -97.597,
+              38.847
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4877,
+          "area": 35686076,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.574,
+              39.172
+            ],
+            [
+              -96.614,
+              39.191
+            ],
+            [
+              -96.621,
+              39.214
+            ],
+            [
+              -96.562,
+              39.207
+            ],
+            [
+              -96.574,
+              39.172
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4085,
+          "area": 34057168,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -96.166,
+              38.392
+            ],
+            [
+              -96.212,
+              38.401
+            ],
+            [
+              -96.232,
+              38.436
+            ],
+            [
+              -96.17,
+              38.421
+            ],
+            [
+              -96.166,
+              38.392
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4100,
+          "area": 33962452,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -95.921,
+              36.737
+            ],
+            [
+              -95.976,
+              36.737
+            ],
+            [
+              -95.999,
+              36.77
+            ],
+            [
+              -95.944,
+              36.769
+            ],
+            [
+              -95.921,
+              36.737
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4866,
+          "area": 26071560,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -98.341,
+              40.942
+            ],
+            [
+              -98.332,
+              40.914
+            ],
+            [
+              -98.36,
+              40.905
+            ],
+            [
+              -98.379,
+              40.943
+            ],
+            [
+              -98.341,
+              40.942
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 4091,
+          "area": 22656018,
+          "source": "naturalearthdata.com",
+          "sort_key": 12,
+          "name": "",
+          "min_zoom": 4,
+          "kind": "urban area"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.998,
+              37.768
+            ],
+            [
+              -100.009,
+              37.747
+            ],
+            [
+              -100.043,
+              37.759
+            ],
+            [
+              -100.017,
+              37.793
+            ],
+            [
+              -99.998,
+              37.768
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 43328255,
+          "area": 9472410,
+          "source": "openstreetmap.org",
+          "sort_key": 23,
+          "name": "Cheney Wildlife Area",
+          "min_zoom": 5.668,
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.845,
+              37.789
+            ],
+            [
+              -97.81,
+              37.785
+            ],
+            [
+              -97.808,
+              37.77
+            ],
+            [
+              -97.835,
+              37.766
+            ],
+            [
+              -97.845,
+              37.789
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 43328255,
+          "area": 9472410,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 23,
+          "name": "Cheney Wildlife Area",
+          "min_zoom": 5.668,
+          "kind": "nature_reserve"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.826,
+            37.777
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 6924,
+        "source": "naturalearthdata.com",
+        "sort_key": 10,
+        "min_zoom": 0,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -95.625,
+            36.598
+          ],
+          [
+            -101.25,
+            36.598
+          ],
+          [
+            -101.25,
+            40.98
+          ],
+          [
+            -95.625,
+            40.98
+          ],
+          [
+            -95.625,
+            36.598
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "name:lmo": "Stat Ünì d'America",
+          "name:or": "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା",
+          "name:os": "АИШ",
+          "name:mwl": "Stados Ounidos de la América",
+          "name:om": "United States",
+          "name:oc": "Estats Units d'America",
+          "name:map-bms": "Amerika Serikat",
+          "name:ab": "Америка Еиду Аштатқәа",
+          "name:af": "Verenigde State van Amerika",
+          "alt_name:sr": "САД; Сједињене Државе",
+          "name:no": "Amerikas forente stater",
+          "name:am": "የተባበሩት የአሜሪካ ግዛቶች",
+          "name:ak": "Amɛrika",
+          "name:an": "Estatos Unitos d'America",
+          "name:nv": "Wááshindoon Bikéyah Ałhidadiidzooígíí",
+          "name:ckb": "وڵاتە یەکگرتووەکان",
+          "name:simple": "United States",
+          "name:dsb": "Zjadnośone staty Ameriki",
+          "name:nl": "Verenigde Staten van Amerika",
+          "name:ace": "Amirika Carékat",
+          "name:nn": "USA",
+          "alt_name:eo": "Usono",
+          "name:nb": "USA",
+          "name:na": "Eben Merika",
+          "name:aa": "United States",
+          "name:ne": "संयुक्त राज्य अमेरिका",
+          "name:myv": "Американь Вейтьсэндявкс Штаттнэ",
+          "name:pih": "Yunitid Staits",
+          "name:qu": "Hukllachasqa Amirika Suyukuna",
+          "alt_name:vi": "Mỹ",
+          "name:min": "Amerika Sarikat",
+          "name:ast": "Estaos Xuníos d'América",
+          "name:szl": "Zjednoczůne Sztaty Ameriki",
+          "old_name:vi": "Mỹ Lợi Kiên; Ma Ly Căn; Nhã Di Lý",
+          "name:mzn": "متحده ایالات آمریکا",
+          "name:ps": "د امريکا متحده ايالات",
+          "name:pt": "Estados Unidos da América",
+          "name:pl": "Stany Zjednoczone Ameryki",
+          "name:mhr": "Америкысе Ушымо Штатвлак",
+          "name:cbk-zam": "Estados Unidos de America",
+          "name:glk": "امریکا",
+          "name:pa": "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ",
+          "name:lij": "Stati Unïi d'America",
+          "name:sw": "Muungano wa Madola ya Amerika",
+          "name:sv": "Förenta staterna",
+          "name:su": "Amérika Sarikat",
+          "name:ext": "Estaus Uñíus d'América",
+          "name:de": "Vereinigte Staaten von Amerika",
+          "name:chr": "ᎠᎹᏰᏟ",
+          "name:ta": "அமெரிக்க ஐக்கிய நாடு",
+          "name:sg": "ÂLeaa-Ôko tî Amerika",
+          "name:sd": "آمريڪا",
+          "name:se": "Amerihká ovttastuvvan stáhtat",
+          "name:da": "Amerikas Forenede Stater",
+          "name:sk": "Spojené štáty americké",
+          "name:sh": "Sjedinjene Američke Države",
+          "name:si": "අ'මෙරිකා\u200dවේ එක්සත් රාජ්\u200dයයන",
+          "name:sn": "Amerika",
+          "name:cu": "Амєрика́ньскꙑ Ѥдьнѥнꙑ́ Дрьжа́вꙑ",
+          "name:so": "Maraykanka",
+          "name:cv": "Америкӑри Пӗрлешӳллӗ Штатсем",
+          "name:sl": "Združene države Amerike",
+          "name:sm": "Iunaite Sitete o Amerika",
+          "name:sr": "Сједињене Америчке Државе",
+          "name:cy": "Unol Daleithiau America",
+          "name:ss": "IMelika",
+          "name:hif": "United States",
+          "name:sq": "Shtetet e Bashkuara të Amerikës",
+          "name:eo": "Unuiĝintaj Ŝtatoj de Ameriko",
+          "name:ru": "Соединённые Штаты Америки",
+          "name:eu": "Ameriketako Estatu Batuak",
+          "name:rw": "Leta Zunze Ubumwe z\u2019Amerika",
+          "name:et": "Ameerika Ühendriigid",
+          "name:es": "Estados Unidos de América",
+          "name:sa": "संयुक्तानि राज्यानि",
+          "name:el": "Ηνωμένες Πολιτείες της Αμερικής",
+          "name:sc": "Istados Unidos de America",
+          "name:ee": "USA nutome",
+          "name:rm": "Stadis Unids da l'America",
+          "name:rn": "Leta Zunze Ubumwe za Amerika",
+          "name:dv": "އެމެރިކާ",
+          "name:zh-classical": "美利堅合眾國",
+          "name:ro": "Statele Unite ale Americii",
+          "name:dz": "ཡུ་ཨེས་ཨེ",
+          "name:zh_pinyin": "Měiguó",
+          "name:bo": "ཨ་མེ་རི་ཀ་",
+          "name:br": "Stadoù-Unanet Amerika",
+          "name:uz": "Amerika Qoʻshma Shtatlari",
+          "name:tpi": "Yunaitet Stet bilong Amerika",
+          "name:bn": "মার্কিন যুক্তরাষ্ট্র",
+          "name:pms": "Stat Unì d'América",
+          "name:bm": "Ameriki",
+          "name:new": "संयुक्त राज्य अमेरिका",
+          "name:bg": "Съединени американски щати",
+          "name:bi": "Yunaeted Stet blong Amerika",
+          "name:be": "Злучаныя Штаты Амерыкі",
+          "name:ba": "Америка Ҡушма Штаттары",
+          "name:uk": "Сполучені Штати Америки",
+          "name:az": "Amerika Birləşmiş Ştatları",
+          "name:pnb": "امریکہ",
+          "name": "United States of America",
+          "name:ug": "ئامېرىكا قوشما شتاتلىرى",
+          "name:av": "Америкалъул Цолъарал Штатал",
+          "name:ur": "ریاستہائے متحدہ امریکہ",
+          "name:ay": "Istadus Unidus",
+          "name:rue": "Споєны Штаты Америцькы",
+          "name:ar": "الولايات المتّحدة الأمريكيّة",
+          "name:as": "মাৰ্কিন যুক্তৰাষ্ট্ৰ",
+          "population": 305683227,
+          "name:cs": "Spojené státy americké",
+          "name:ty": "Fenua Marite",
+          "name:co": "Stati Uniti d'America",
+          "name:diq": "Dewletê Amerikayê Yewbiyayey",
+          "name:vep": "Amerikan Ühtenzoittud Valdkundad",
+          "name:zea": "Vereênigde Staeten",
+          "name:tw": "USA",
+          "name:xmf": "ამერიკაშ აკოართაფილი შტატეფი",
+          "name:ce": "Iамерка пачхьалк",
+          "name:ti": "አሜሪካ",
+          "name:chy": "United States",
+          "name:fur": "Stâts Unîts di Americhe",
+          "name:tk": "Amerikanyň Birleşen Ştatlary",
+          "name:vec": "Stati Unìi de la Mèrica",
+          "name:ca": "Estats Units d'Amèrica",
+          "name:tl": "Estados Unidos ng Amerika",
+          "name:te": "అమెరికా సంయుక్త రాష్ట్రాలు",
+          "source": "openstreetmap.org",
+          "name:nds": "Verenigten Staten vun Amerika",
+          "name:tg": "Штатҳои Муттаҳидаи Америка",
+          "name:mdf": "Америконь Аймакнень Соткссна",
+          "name:th": "สหรัฐอเมริกา",
+          "name:tr": "Amerika Birleşik Devletleri",
+          "name:ts": "United States",
+          "name:tt": "Америка Кушма Штатлары",
+          "name:tn": "USA",
+          "name:bxr": "Американ Нэгэдэһэн Улас",
+          "name:to": "Puleʻanga Fakataha 'o 'Amelika",
+          "name:bs": "Sjedinjene Američke Države",
+          "name:ga": "Stáit Aontaithe Mheiriceá",
+          "name:gd": "Na Stàitean Aonaichte",
+          "name:vo": "Lamerikän",
+          "name:fy": "Feriene Steaten fan Amearika",
+          "name:vi": "Hoa Kỳ",
+          "name:eml": "Stat Unî",
+          "name:gu": "સંયુક્ત રાજ્ય અમેરિકા",
+          "name:gv": "Steatyn Unnaneysit America",
+          "name:cdo": "Mī-lé-giĕng Hăk-cé̤ṳng-guók",
+          "name:wa": "Estats Unis d' Amerike",
+          "name:gl": "Estados Unidos de América",
+          "name:gn": "Tetã peteĩ reko Amérikagua",
+          "name:fa": "ایالات متحده آمریکا",
+          "name:nap": "State Aunite d'Amereca",
+          "name:udm": "Америкалэн Огазеяськем Штатъёсыз",
+          "name:ff": "Dowlaaji Dentuɗi Amerik",
+          "name:pap": "Estadonan Uni di Merka",
+          "name:nah": "Tlacetilīlli Tlahtohcāyōtl Ixachitlān",
+          "name:wo": "Diwaan-yu-Bennoo yu Aamerig",
+          "name:fr": "États-Unis d'Amérique",
+          "name:pag": "Estados Unidos",
+          "name:ang": "Geānlǣtan Rīcu American",
+          "name:fo": "Sambandsríkið Amerika",
+          "name:xh": "IYunayithedi Steyitsi",
+          "name:lez": "Америкадин Садхьанвай Штатар",
+          "name:fi": "Yhdysvallat",
+          "name:pam": "United States ning America",
+          "name:ig": "Njikota Obodo Amerika",
+          "name:fiu-vro": "Ameeriga Ütisriigiq",
+          "name:ii": "ꂰꇩ",
+          "name:bat-smg": "JAV",
+          "name:xal": "Америкин Ниицәтә Орн Нутгуд",
+          "name:sco": "Unitit States o Americae",
+          "scalerank": 0,
+          "name:csb": "Zjednóné Kraje Americzi",
+          "name:ie": "Unit States de America",
+          "name:id": "Amerika Serikat",
+          "name:ia": "Statos Unite de America",
+          "name:hy": "Ամերիկայի Միացյալ Նահանգներ",
+          "kind": "country",
+          "name:ilo": "stados Unidos iti Amerika",
+          "name:yi": "פאראייניקטע שטאטן פון אמעריקע",
+          "name:is": "Bandaríki Norður-Ameríku",
+          "name:it": "Stati Uniti d'America",
+          "name:iu": "ᐊᒥᐊᓕᑲ",
+          "name:nrm": "Êtats Unnis d'Améthique",
+          "name:mrj": "Америкын Ушымы Штатвлӓжӹ",
+          "name:io": "Unionita Stati di Amerika",
+          "name:scn": "Stati Uniti",
+          "name:he": "ארצות הברית",
+          "name:als": "Vereinigte Schtaate vo Amerika",
+          "name:zh-yue": "即美利堅合眾國",
+          "name:ha": "kunkiyar taraiyar Amurika",
+          "name:wuu": "美利坚合众国",
+          "name:yo": "Orílẹ́ède Orilẹede Amerika",
+          "name:pcd": "États-Unis Anmérikes",
+          "name:hu": "Amerikai Egyesült Államok",
+          "name:zh": "美国",
+          "name:ht": "Etazini",
+          "name:hr": "Sjedinjene Američke Države",
+          "name:ksh": "de Vereineschte Schtaate vun Ammärrika",
+          "name:ceb": "Estados Unidos sa Amerika",
+          "name:za": "Meijgoz",
+          "name:hi": "संयुक्त राज्य अमेरिका",
+          "name:ka": "ამერიკის შეერთებული შტატები",
+          "name:nov": "Unionati States de Amerika",
+          "name:srn": "Kondre Makandrameki",
+          "name:krc": "Американы Бирлешген Штатлары",
+          "name:zu": "i-United States",
+          "name:ki": "Amerika",
+          "name:kk": "Америка Құрама Штаттары",
+          "name:km": "សហរដ្ឋអាមេរិក",
+          "name:kl": "Naalagaaffeqatigiit",
+          "name:ko": "미국",
+          "name:sah": "Америка Холбоһуктаах Штаттара",
+          "name:haw": "\u2018Amelika Hui Pū \u2018ia",
+          "name:kn": "ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+          "name:gan": "美國",
+          "name:ks": "संयुक्त राज्\u200dय अमेरिका",
+          "name:ku": "Dewletên Yekbûyî yên Amerîkayê",
+          "name:tet": "Estadu Naklibur Sira Amérika Nian",
+          "name:kw": "Statys Unys Amerika",
+          "name:kv": "Америкаса Ӧтувтӧм Штатъяс",
+          "name:ky": "Америка Кошмо Штаттары",
+          "name:kaa": "Amerika Qurama Shtatları",
+          "name:pdc": "Vereenichde Schtaate vun Amerikaa",
+          "name:kab": "WDM",
+          "name:hak": "Mî-li-kiên Ha̍p-chung-koet",
+          "name:crh": "Amerika Qoşma Ştatları",
+          "name:ja": "アメリカ合衆国",
+          "name:arz": "امريكا",
+          "name:bcl": "Estados Unidos",
+          "name:gag": "Amerika Birleşik Devletläri",
+          "name:lad": "Estatos Unitos d'Amerika",
+          "name:arc": "ܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܟܐ",
+          "name:frp": "Ètats-Unis d\u2019Amèrica",
+          "name:frr": "Feriind Stoote foon Ameerika",
+          "name:zh-min-nan": "America Ha̍p-chiòng-kok",
+          "name:jv": "Amérika Sarékat",
+          "name:kbd": "Америкэ Штат Зэгуэт",
+          "name:vls": "Verênigde Stoaten van Amerika",
+          "name:mk": "Соединети Американски Држави",
+          "name:be-tarask": "Злучаныя Штаты Амэрыкі",
+          "name:lbe": "Американал ЦачӀунхьу Штатру",
+          "name:ml": "അമേരിക്കന്\u200d ഐക്യനാടുകള്",
+          "name:mg": "Etazonia",
+          "name:mi": "Hononga-o-Amerika",
+          "name:stq": "Fereende Stoaten fon Amerikoa",
+          "id": 424317935,
+          "name:ms": "Amerika Syarikat",
+          "name:mr": "संयुक्त राज्ये /अमेरिका",
+          "name:mt": "Stati Uniti tal-Amerika",
+          "name:bar": "Vaeinigtn Staatn vo Amerika",
+          "name:war": "Estados Unidos",
+          "name:mn": "Америкийн Нэгдсэн Улс",
+          "name:hsb": "Zjednoćene staty Ameriki",
+          "name:jbo": "mergu'e",
+          "name:nds-nl": "Verienigde Staoten van Amerika",
+          "name:my": "ယူနိုက်တက်စတိတ်",
+          "name:ltg": "Amerikys Saškierstuos Vaļsteibys",
+          "name:pfl": "Verainischde Schdaade vun Ameriga",
+          "name:la": "Civitates Foederatae Americae",
+          "name:lb": "Vereenegt Staate vun Amerika",
+          "name:li": "Vereinegde State van Amerika",
+          "name:lg": "Amerika",
+          "name:lt": "Jungtinės Amerikos Valstijos",
+          "name:lo": "ສະຫະລັດ",
+          "name:ln": "Lisangá lya Ameríka",
+          "name:koi": "Америкаись Ӧтлаасьӧм Штаттэз",
+          "name:bpy": "তিলপারাষ্ট্র",
+          "name:roa-tara": "Statère Aunìte d'Americhe",
+          "name:lv": "Amerikas Savienotās Valstis"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -100.446,
+            39.784
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 316956038,
+          "name:ru": "Канзас",
+          "name:uk": "Канзас",
+          "name:ja": "カンザス州",
+          "source": "openstreetmap.org",
+          "scalerank": 4,
+          "name": "Kansas",
+          "name:short": "KS",
+          "name:abbreviation": "Kans.",
+          "kind": "state",
+          "population": 2904021,
+          "name:be": "Канзас"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.582,
+            38.273
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 6254,
+          "labelrank": 1,
+          "state_capital": "yes",
+          "source": "naturalearthdata.com",
+          "scalerank": 4,
+          "name": "Topeka",
+          "kind": "Admin-1 capital",
+          "population": 132091
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.67,
+            39.05
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 4901,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 6,
+          "name": "Wichita",
+          "kind": "Populated place",
+          "population": 401843
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.33,
+            37.72
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5430,
+          "labelrank": 1,
+          "state_capital": "yes",
+          "source": "naturalearthdata.com",
+          "scalerank": 6,
+          "name": "Lincoln",
+          "kind": "Admin-1 capital",
+          "population": 246220
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -96.68,
+            40.82
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [
+      {
+        "properties": {
+          "id": -905830,
+          "colour": "#005480",
+          "ref": "5-6",
+          "osm_relation": true,
+          "route_name": "California Zephyr",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "network": "Amtrak",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -101.25,
+                40.145
+              ],
+              [
+                -101.16,
+                40.161
+              ]
+            ],
+            [
+              [
+                -101.16,
+                40.161
+              ],
+              [
+                -101.16,
+                40.161
+              ],
+              [
+                -101.153,
+                40.163
+              ],
+              [
+                -101.16,
+                40.161
+              ]
+            ],
+            [
+              [
+                -101.16,
+                40.161
+              ],
+              [
+                -100.814,
+                40.231
+              ],
+              [
+                -100.584,
+                40.197
+              ],
+              [
+                -100.028,
+                40.306
+              ],
+              [
+                -99.856,
+                40.299
+              ],
+              [
+                -99.564,
+                40.227
+              ],
+              [
+                -99.527,
+                40.335
+              ],
+              [
+                -99.399,
+                40.429
+              ],
+              [
+                -98.935,
+                40.507
+              ],
+              [
+                -98.665,
+                40.621
+              ],
+              [
+                -98.435,
+                40.582
+              ],
+              [
+                -98.11,
+                40.617
+              ],
+              [
+                -97.883,
+                40.6
+              ],
+              [
+                -97.833,
+                40.622
+              ],
+              [
+                -97.194,
+                40.661
+              ],
+              [
+                -96.97,
+                40.624
+              ],
+              [
+                -96.834,
+                40.76
+              ],
+              [
+                -96.752,
+                40.775
+              ],
+              [
+                -96.713,
+                40.82
+              ],
+              [
+                -96.454,
+                40.951
+              ],
+              [
+                -96.421,
+                40.98
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -4720713,
+          "colour": "#005480",
+          "ref": "3",
+          "osm_relation": true,
+          "route_name": "Southwest Chief (westbound)",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "network": "Amtrak",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -101.25,
+                37.942
+              ],
+              [
+                -101.219,
+                37.958
+              ],
+              [
+                -101.053,
+                37.997
+              ],
+              [
+                -100.828,
+                37.955
+              ],
+              [
+                -100.67,
+                37.88
+              ],
+              [
+                -100.42,
+                37.815
+              ],
+              [
+                -99.966,
+                37.747
+              ],
+              [
+                -99.746,
+                37.856
+              ],
+              [
+                -99.375,
+                37.935
+              ],
+              [
+                -98.765,
+                37.995
+              ],
+              [
+                -98.505,
+                37.958
+              ],
+              [
+                -98.088,
+                37.97
+              ],
+              [
+                -97.94,
+                38.056
+              ],
+              [
+                -97.831,
+                38.044
+              ]
+            ],
+            [
+              [
+                -97.831,
+                38.044
+              ],
+              [
+                -97.529,
+                38.006
+              ],
+              [
+                -97.423,
+                38.016
+              ]
+            ],
+            [
+              [
+                -97.831,
+                38.044
+              ],
+              [
+                -97.832,
+                38.044
+              ],
+              [
+                -97.934,
+                38.056
+              ],
+              [
+                -97.938,
+                38.057
+              ],
+              [
+                -97.939,
+                38.056
+              ],
+              [
+                -97.94,
+                38.056
+              ]
+            ],
+            [
+              [
+                -97.423,
+                38.016
+              ],
+              [
+                -97.358,
+                38.039
+              ]
+            ],
+            [
+              [
+                -97.423,
+                38.016
+              ],
+              [
+                -97.381,
+                38.024
+              ]
+            ],
+            [
+              [
+                -96.548,
+                38.397
+              ],
+              [
+                -96.621,
+                38.397
+              ],
+              [
+                -96.779,
+                38.278
+              ],
+              [
+                -97.075,
+                38.166
+              ],
+              [
+                -97.215,
+                38.153
+              ],
+              [
+                -97.3,
+                38.073
+              ],
+              [
+                -97.359,
+                38.038
+              ]
+            ],
+            [
+              [
+                -96.537,
+                38.393
+              ],
+              [
+                -96.166,
+                38.401
+              ],
+              [
+                -95.984,
+                38.517
+              ],
+              [
+                -95.911,
+                38.533
+              ],
+              [
+                -95.817,
+                38.646
+              ],
+              [
+                -95.829,
+                38.751
+              ],
+              [
+                -95.695,
+                38.818
+              ],
+              [
+                -95.664,
+                39.054
+              ],
+              [
+                -95.625,
+                39.054
+              ]
+            ],
+            [
+              [
+                -95.641,
+                39.054
+              ],
+              [
+                -95.628,
+                39.055
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": -904839,
+          "colour": "#005480",
+          "ref": "4",
+          "osm_relation": true,
+          "route_name": "Southwest Chief (eastbound)",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "network": "Amtrak",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -101.25,
+                37.942
+              ],
+              [
+                -101.219,
+                37.958
+              ],
+              [
+                -101.053,
+                37.997
+              ],
+              [
+                -100.828,
+                37.955
+              ],
+              [
+                -100.67,
+                37.88
+              ],
+              [
+                -100.42,
+                37.815
+              ],
+              [
+                -99.966,
+                37.747
+              ],
+              [
+                -99.746,
+                37.856
+              ],
+              [
+                -99.375,
+                37.935
+              ],
+              [
+                -98.765,
+                37.995
+              ],
+              [
+                -98.505,
+                37.958
+              ],
+              [
+                -98.088,
+                37.97
+              ],
+              [
+                -97.94,
+                38.056
+              ],
+              [
+                -97.831,
+                38.044
+              ]
+            ],
+            [
+              [
+                -97.831,
+                38.044
+              ],
+              [
+                -97.529,
+                38.006
+              ],
+              [
+                -97.423,
+                38.016
+              ]
+            ],
+            [
+              [
+                -97.831,
+                38.044
+              ],
+              [
+                -97.934,
+                38.056
+              ],
+              [
+                -97.938,
+                38.057
+              ],
+              [
+                -97.939,
+                38.056
+              ],
+              [
+                -97.94,
+                38.056
+              ]
+            ],
+            [
+              [
+                -97.423,
+                38.016
+              ],
+              [
+                -97.358,
+                38.039
+              ]
+            ],
+            [
+              [
+                -97.423,
+                38.016
+              ],
+              [
+                -97.381,
+                38.024
+              ]
+            ],
+            [
+              [
+                -96.548,
+                38.397
+              ],
+              [
+                -96.621,
+                38.397
+              ],
+              [
+                -96.779,
+                38.278
+              ],
+              [
+                -97.075,
+                38.166
+              ],
+              [
+                -97.215,
+                38.153
+              ],
+              [
+                -97.3,
+                38.073
+              ],
+              [
+                -97.359,
+                38.038
+              ]
+            ],
+            [
+              [
+                -96.536,
+                38.393
+              ],
+              [
+                -96.537,
+                38.393
+              ]
+            ],
+            [
+              [
+                -96.431,
+                38.393
+              ],
+              [
+                -96.165,
+                38.401
+              ],
+              [
+                -95.984,
+                38.517
+              ],
+              [
+                -95.911,
+                38.533
+              ],
+              [
+                -95.817,
+                38.646
+              ],
+              [
+                -95.829,
+                38.751
+              ],
+              [
+                -95.695,
+                38.818
+              ],
+              [
+                -95.664,
+                39.054
+              ],
+              [
+                -95.625,
+                39.054
+              ]
+            ],
+            [
+              [
+                -95.641,
+                39.054
+              ],
+              [
+                -95.628,
+                39.055
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 382,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.632,
+              38.88
+            ],
+            [
+              -97.629,
+              38.881
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 382,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.795,
+              39.044
+            ],
+            [
+              -95.723,
+              39.027
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 382,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.642,
+                38.878
+              ],
+              [
+                -97.632,
+                38.88
+              ]
+            ],
+            [
+              [
+                -97.629,
+                38.881
+              ],
+              [
+                -97.572,
+                38.895
+              ],
+              [
+                -97.452,
+                38.909
+              ],
+              [
+                -97.352,
+                38.926
+              ],
+              [
+                -97.206,
+                38.933
+              ],
+              [
+                -97.112,
+                38.947
+              ],
+              [
+                -97.072,
+                38.971
+              ],
+              [
+                -97.018,
+                38.987
+              ],
+              [
+                -96.892,
+                39.006
+              ],
+              [
+                -96.839,
+                39.018
+              ],
+              [
+                -96.767,
+                39.025
+              ],
+              [
+                -96.751,
+                39.034
+              ],
+              [
+                -96.73,
+                39.058
+              ],
+              [
+                -96.714,
+                39.065
+              ],
+              [
+                -96.629,
+                39.056
+              ],
+              [
+                -96.242,
+                39.072
+              ],
+              [
+                -96.119,
+                39.067
+              ],
+              [
+                -96.035,
+                39.069
+              ],
+              [
+                -95.865,
+                39.06
+              ],
+              [
+                -95.795,
+                39.044
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.316,
+              37.601
+            ],
+            [
+              -97.322,
+              37.594
+            ],
+            [
+              -97.322,
+              37.592
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.322,
+                37.592
+              ],
+              [
+                -97.327,
+                37.533
+              ],
+              [
+                -97.317,
+                37.346
+              ],
+              [
+                -97.334,
+                37.327
+              ],
+              [
+                -97.338,
+                37.316
+              ],
+              [
+                -97.336,
+                37.091
+              ]
+            ],
+            [
+              [
+                -97.31,
+                37.608
+              ],
+              [
+                -97.316,
+                37.601
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 432,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.336,
+              37.091
+            ],
+            [
+              -97.343,
+              37
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "50",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.026,
+              37.751
+            ],
+            [
+              -100.023,
+              37.751
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "50",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.879,
+              37.975
+            ],
+            [
+              -100.847,
+              37.971
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "50",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.847,
+              37.971
+            ],
+            [
+              -100.78,
+              37.964
+            ],
+            [
+              -100.745,
+              37.954
+            ],
+            [
+              -100.714,
+              37.933
+            ],
+            [
+              -100.686,
+              37.886
+            ],
+            [
+              -100.674,
+              37.877
+            ],
+            [
+              -100.493,
+              37.862
+            ],
+            [
+              -100.464,
+              37.851
+            ],
+            [
+              -100.426,
+              37.825
+            ],
+            [
+              -100.403,
+              37.815
+            ],
+            [
+              -100.295,
+              37.811
+            ],
+            [
+              -100.184,
+              37.785
+            ],
+            [
+              -100.103,
+              37.754
+            ],
+            [
+              -100.071,
+              37.751
+            ],
+            [
+              -100.026,
+              37.751
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 437,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.026,
+              37.749
+            ],
+            [
+              -99.993,
+              37.733
+            ],
+            [
+              -99.908,
+              37.723
+            ],
+            [
+              -99.873,
+              37.714
+            ],
+            [
+              -99.819,
+              37.683
+            ],
+            [
+              -99.769,
+              37.662
+            ],
+            [
+              -99.729,
+              37.615
+            ],
+            [
+              -99.714,
+              37.605
+            ],
+            [
+              -99.653,
+              37.577
+            ],
+            [
+              -99.587,
+              37.56
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 452,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "80",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.292,
+              40.98
+            ],
+            [
+              -100.049,
+              40.883
+            ],
+            [
+              -99.955,
+              40.84
+            ],
+            [
+              -99.846,
+              40.777
+            ],
+            [
+              -99.733,
+              40.743
+            ],
+            [
+              -99.649,
+              40.703
+            ],
+            [
+              -99.592,
+              40.687
+            ],
+            [
+              -99.536,
+              40.684
+            ],
+            [
+              -99.375,
+              40.687
+            ],
+            [
+              -99.156,
+              40.666
+            ],
+            [
+              -99.069,
+              40.668
+            ],
+            [
+              -98.838,
+              40.708
+            ],
+            [
+              -98.715,
+              40.717
+            ],
+            [
+              -98.569,
+              40.769
+            ],
+            [
+              -98.488,
+              40.805
+            ],
+            [
+              -98.467,
+              40.807
+            ],
+            [
+              -98.458,
+              40.819
+            ],
+            [
+              -98.387,
+              40.816
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 460,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "50",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.889,
+              38.002
+            ],
+            [
+              -100.898,
+              38.002
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 460,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "50",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.898,
+              38.002
+            ],
+            [
+              -101.066,
+              38.001
+            ],
+            [
+              -101.25,
+              37.957
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 461,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.465,
+              37.667
+            ],
+            [
+              -97.392,
+              37.676
+            ],
+            [
+              -97.31,
+              37.679
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 461,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.748,
+              37.636
+            ],
+            [
+              -98.639,
+              37.639
+            ],
+            [
+              -98.491,
+              37.657
+            ],
+            [
+              -98.425,
+              37.653
+            ],
+            [
+              -98.329,
+              37.638
+            ],
+            [
+              -98.279,
+              37.636
+            ],
+            [
+              -98.099,
+              37.65
+            ],
+            [
+              -98.062,
+              37.669
+            ],
+            [
+              -97.689,
+              37.671
+            ],
+            [
+              -97.657,
+              37.669
+            ],
+            [
+              -97.642,
+              37.664
+            ],
+            [
+              -97.51,
+              37.662
+            ],
+            [
+              -97.465,
+              37.667
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 462,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.59,
+              37.56
+            ],
+            [
+              -99.495,
+              37.573
+            ],
+            [
+              -99.486,
+              37.587
+            ],
+            [
+              -99.413,
+              37.598
+            ],
+            [
+              -99.262,
+              37.599
+            ],
+            [
+              -99.014,
+              37.622
+            ],
+            [
+              -98.911,
+              37.619
+            ],
+            [
+              -98.753,
+              37.634
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1821,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "80",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.044,
+              40.823
+            ],
+            [
+              -96.954,
+              40.828
+            ],
+            [
+              -96.829,
+              40.845
+            ],
+            [
+              -96.763,
+              40.83
+            ],
+            [
+              -96.73,
+              40.843
+            ],
+            [
+              -96.699,
+              40.88
+            ],
+            [
+              -96.668,
+              40.894
+            ],
+            [
+              -96.57,
+              40.896
+            ],
+            [
+              -96.555,
+              40.889
+            ],
+            [
+              -96.504,
+              40.899
+            ],
+            [
+              -96.454,
+              40.927
+            ],
+            [
+              -96.374,
+              40.98
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1824,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.595,
+              40.821
+            ],
+            [
+              -97.044,
+              40.823
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1828,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "80",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.385,
+              40.807
+            ],
+            [
+              -97.595,
+              40.821
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1848,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "29",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.799,
+              40.98
+            ],
+            [
+              -95.796,
+              40.967
+            ],
+            [
+              -95.81,
+              40.873
+            ],
+            [
+              -95.804,
+              40.781
+            ],
+            [
+              -95.825,
+              40.741
+            ],
+            [
+              -95.825,
+              40.725
+            ],
+            [
+              -95.815,
+              40.71
+            ],
+            [
+              -95.778,
+              40.685
+            ],
+            [
+              -95.747,
+              40.651
+            ],
+            [
+              -95.662,
+              40.585
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1874,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.765,
+              40.98
+            ],
+            [
+              -100.755,
+              40.786
+            ],
+            [
+              -100.728,
+              40.758
+            ],
+            [
+              -100.702,
+              40.71
+            ],
+            [
+              -100.634,
+              40.651
+            ],
+            [
+              -100.629,
+              40.623
+            ],
+            [
+              -100.627,
+              40.595
+            ],
+            [
+              -100.632,
+              40.567
+            ],
+            [
+              -100.646,
+              40.543
+            ],
+            [
+              -100.651,
+              40.515
+            ],
+            [
+              -100.634,
+              40.352
+            ],
+            [
+              -100.641,
+              40.203
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1889,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "29",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.662,
+              40.585
+            ],
+            [
+              -95.645,
+              40.574
+            ],
+            [
+              -95.625,
+              40.545
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1893,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.571,
+              40.003
+            ],
+            [
+              -100.571,
+              40.052
+            ],
+            [
+              -100.584,
+              40.062
+            ],
+            [
+              -100.601,
+              40.107
+            ],
+            [
+              -100.608,
+              40.156
+            ],
+            [
+              -100.608,
+              40.199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1974,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.87,
+              39.192
+            ],
+            [
+              -100.87,
+              39.43
+            ],
+            [
+              -100.729,
+              39.466
+            ],
+            [
+              -100.535,
+              39.555
+            ],
+            [
+              -100.53,
+              39.852
+            ],
+            [
+              -100.537,
+              39.942
+            ],
+            [
+              -100.564,
+              39.998
+            ],
+            [
+              -100.571,
+              40.003
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1975,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              39.369
+            ],
+            [
+              -101.033,
+              39.366
+            ],
+            [
+              -101.021,
+              39.357
+            ],
+            [
+              -100.988,
+              39.319
+            ],
+            [
+              -100.973,
+              39.312
+            ],
+            [
+              -100.87,
+              39.192
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1986,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.723,
+              39.027
+            ],
+            [
+              -95.641,
+              39.027
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1986,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -95.641,
+              39.027
+            ],
+            [
+              -95.625,
+              39.027
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2016,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.87,
+              39.192
+            ],
+            [
+              -100.799,
+              39.112
+            ],
+            [
+              -100.57,
+              39.112
+            ],
+            [
+              -100.493,
+              39.109
+            ],
+            [
+              -100.415,
+              39.096
+            ],
+            [
+              -100.335,
+              39.096
+            ],
+            [
+              -100.299,
+              39.086
+            ],
+            [
+              -100.162,
+              39.023
+            ],
+            [
+              -99.981,
+              39.025
+            ],
+            [
+              -99.924,
+              39.02
+            ],
+            [
+              -99.828,
+              38.997
+            ],
+            [
+              -99.675,
+              38.975
+            ],
+            [
+              -99.602,
+              38.947
+            ],
+            [
+              -99.528,
+              38.947
+            ],
+            [
+              -99.42,
+              38.919
+            ],
+            [
+              -99.382,
+              38.919
+            ],
+            [
+              -99.265,
+              38.876
+            ],
+            [
+              -99.134,
+              38.878
+            ],
+            [
+              -99.057,
+              38.862
+            ],
+            [
+              -98.842,
+              38.862
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2017,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.842,
+              38.862
+            ],
+            [
+              -98.779,
+              38.857
+            ],
+            [
+              -98.625,
+              38.859
+            ],
+            [
+              -98.449,
+              38.845
+            ],
+            [
+              -98.17,
+              38.846
+            ],
+            [
+              -98.099,
+              38.865
+            ],
+            [
+              -98.01,
+              38.878
+            ],
+            [
+              -97.642,
+              38.878
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2038,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.228,
+              38.419
+            ],
+            [
+              -96.204,
+              38.431
+            ],
+            [
+              -96.192,
+              38.431
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2038,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -96.237,
+                38.414
+              ],
+              [
+                -96.228,
+                38.419
+              ]
+            ],
+            [
+              [
+                -96.192,
+                38.431
+              ],
+              [
+                -96.112,
+                38.431
+              ],
+              [
+                -95.971,
+                38.423
+              ],
+              [
+                -95.89,
+                38.433
+              ],
+              [
+                -95.77,
+                38.426
+              ],
+              [
+                -95.73,
+                38.428
+              ],
+              [
+                -95.625,
+                38.45
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2039,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "335",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.229,
+              38.425
+            ],
+            [
+              -96.221,
+              38.437
+            ],
+            [
+              -96.215,
+              38.442
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2039,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "335",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -96.237,
+                38.414
+              ],
+              [
+                -96.229,
+                38.425
+              ]
+            ],
+            [
+              [
+                -96.215,
+                38.442
+              ],
+              [
+                -96.148,
+                38.504
+              ],
+              [
+                -96.124,
+                38.546
+              ],
+              [
+                -96.056,
+                38.61
+              ],
+              [
+                -96.027,
+                38.652
+              ],
+              [
+                -96.002,
+                38.674
+              ],
+              [
+                -95.983,
+                38.707
+              ],
+              [
+                -95.919,
+                38.775
+              ],
+              [
+                -95.897,
+                38.819
+              ],
+              [
+                -95.825,
+                38.885
+              ],
+              [
+                -95.804,
+                38.895
+              ],
+              [
+                -95.744,
+                38.947
+              ],
+              [
+                -95.735,
+                38.951
+              ],
+              [
+                -95.725,
+                38.963
+              ],
+              [
+                -95.709,
+                38.971
+              ],
+              [
+                -95.699,
+                38.985
+              ],
+              [
+                -95.657,
+                39.004
+              ],
+              [
+                -95.625,
+                39.026
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2042,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "135",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.642,
+              38.836
+            ],
+            [
+              -97.643,
+              38.837
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2042,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "135",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.643,
+                38.837
+              ],
+              [
+                -97.647,
+                38.845
+              ],
+              [
+                -97.642,
+                38.878
+              ]
+            ],
+            [
+              [
+                -97.621,
+                38.376
+              ],
+              [
+                -97.621,
+                38.773
+              ],
+              [
+                -97.626,
+                38.808
+              ],
+              [
+                -97.642,
+                38.836
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2072,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -96.846,
+              37.903
+            ],
+            [
+              -96.827,
+              37.921
+            ],
+            [
+              -96.78,
+              37.942
+            ],
+            [
+              -96.707,
+              37.992
+            ],
+            [
+              -96.669,
+              38.023
+            ],
+            [
+              -96.595,
+              38.075
+            ],
+            [
+              -96.558,
+              38.12
+            ],
+            [
+              -96.497,
+              38.152
+            ],
+            [
+              -96.466,
+              38.176
+            ],
+            [
+              -96.444,
+              38.197
+            ],
+            [
+              -96.428,
+              38.219
+            ],
+            [
+              -96.411,
+              38.23
+            ],
+            [
+              -96.388,
+              38.254
+            ],
+            [
+              -96.357,
+              38.292
+            ],
+            [
+              -96.292,
+              38.343
+            ],
+            [
+              -96.237,
+              38.414
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2085,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "135",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.31,
+              37.679
+            ],
+            [
+              -97.324,
+              37.781
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2085,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "135",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.324,
+              37.781
+            ],
+            [
+              -97.329,
+              37.818
+            ],
+            [
+              -97.322,
+              38.065
+            ],
+            [
+              -97.621,
+              38.315
+            ],
+            [
+              -97.621,
+              38.376
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2091,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "235",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.307,
+              37.615
+            ],
+            [
+              -97.305,
+              37.62
+            ],
+            [
+              -97.246,
+              37.665
+            ],
+            [
+              -97.221,
+              37.671
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2091,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "235",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.31,
+                37.608
+              ],
+              [
+                -97.307,
+                37.615
+              ]
+            ],
+            [
+              [
+                -97.221,
+                37.671
+              ],
+              [
+                -97.187,
+                37.679
+              ],
+              [
+                -97.077,
+                37.737
+              ],
+              [
+                -96.989,
+                37.763
+              ],
+              [
+                -96.963,
+                37.775
+              ],
+              [
+                -96.89,
+                37.848
+              ],
+              [
+                -96.846,
+                37.903
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2092,
+          "labelrank": "0",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.31,
+              37.679
+            ],
+            [
+              -97.31,
+              37.614
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2092,
+          "labelrank": "0",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.31,
+              37.614
+            ],
+            [
+              -97.31,
+              37.608
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2144,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.922,
+              37.03
+            ],
+            [
+              -100.908,
+              37.032
+            ],
+            [
+              -100.896,
+              37.044
+            ],
+            [
+              -100.773,
+              37.113
+            ],
+            [
+              -100.726,
+              37.174
+            ],
+            [
+              -100.695,
+              37.202
+            ],
+            [
+              -100.528,
+              37.283
+            ],
+            [
+              -100.314,
+              37.285
+            ],
+            [
+              -100.301,
+              37.296
+            ],
+            [
+              -100.299,
+              37.309
+            ],
+            [
+              -100.188,
+              37.374
+            ],
+            [
+              -99.945,
+              37.468
+            ],
+            [
+              -99.813,
+              37.509
+            ],
+            [
+              -99.587,
+              37.56
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2150,
+          "labelrank": "0",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.922,
+              37.03
+            ],
+            [
+              -100.993,
+              36.999
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2183,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "54",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.993,
+              36.999
+            ],
+            [
+              -101.25,
+              36.826
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2190,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "35",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.343,
+              37
+            ],
+            [
+              -97.35,
+              36.926
+            ],
+            [
+              -97.34,
+              36.87
+            ],
+            [
+              -97.351,
+              36.598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3727,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "landuse_kind": "urban area",
+          "sort_key": 381,
+          "name": "235",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.312,
+                37.763
+              ],
+              [
+                -97.348,
+                37.763
+              ],
+              [
+                -97.387,
+                37.744
+              ],
+              [
+                -97.4,
+                37.711
+              ],
+              [
+                -97.406,
+                37.672
+              ],
+              [
+                -97.402,
+                37.648
+              ]
+            ],
+            [
+              [
+                -97.399,
+                37.639
+              ],
+              [
+                -97.391,
+                37.636
+              ]
+            ],
+            [
+              [
+                -97.371,
+                37.627
+              ],
+              [
+                -97.321,
+                37.606
+              ]
+            ],
+            [
+              [
+                -97.232,
+                37.741
+              ],
+              [
+                -97.237,
+                37.744
+              ],
+              [
+                -97.294,
+                37.763
+              ],
+              [
+                -97.3,
+                37.763
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3727,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "235",
+          "type": "Beltway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -97.402,
+                37.648
+              ],
+              [
+                -97.4,
+                37.639
+              ],
+              [
+                -97.399,
+                37.639
+              ]
+            ],
+            [
+              [
+                -97.391,
+                37.636
+              ],
+              [
+                -97.371,
+                37.627
+              ]
+            ],
+            [
+              [
+                -97.3,
+                37.763
+              ],
+              [
+                -97.312,
+                37.763
+              ]
+            ],
+            [
+              [
+                -97.183,
+                37.678
+              ],
+              [
+                -97.197,
+                37.718
+              ],
+              [
+                -97.232,
+                37.741
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

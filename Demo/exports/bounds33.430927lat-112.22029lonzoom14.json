@@ -1,0 +1,6952 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 131285061,
+          "area": 91490,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.220529,
+              33.431277
+            ],
+            [
+              -112.220514,
+              33.432839
+            ],
+            [
+              -112.218052,
+              33.432823
+            ],
+            [
+              -112.218044,
+              33.433592
+            ],
+            [
+              -112.217299,
+              33.433587
+            ],
+            [
+              -112.217329,
+              33.430487
+            ],
+            [
+              -112.218078,
+              33.430492
+            ],
+            [
+              -112.218071,
+              33.431261
+            ],
+            [
+              -112.220529,
+              33.431277
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284979,
+          "area": 76596,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.219256,
+              33.426725
+            ],
+            [
+              -112.219226,
+              33.42987
+            ],
+            [
+              -112.217586,
+              33.429859
+            ],
+            [
+              -112.217616,
+              33.426714
+            ],
+            [
+              -112.219256,
+              33.426725
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725698,
+          "area": 33165,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.224173,
+              33.419747
+            ],
+            [
+              -112.224173,
+              33.420813
+            ],
+            [
+              -112.223926,
+              33.420804
+            ],
+            [
+              -112.223926,
+              33.42092
+            ],
+            [
+              -112.222789,
+              33.420947
+            ],
+            [
+              -112.222799,
+              33.421037
+            ],
+            [
+              -112.222102,
+              33.421099
+            ],
+            [
+              -112.222102,
+              33.420535
+            ],
+            [
+              -112.22237,
+              33.420576
+            ],
+            [
+              -112.22237,
+              33.420383
+            ],
+            [
+              -112.222123,
+              33.420379
+            ],
+            [
+              -112.222081,
+              33.420114
+            ],
+            [
+              -112.222381,
+              33.420132
+            ],
+            [
+              -112.222381,
+              33.419738
+            ],
+            [
+              -112.222746,
+              33.419738
+            ],
+            [
+              -112.222746,
+              33.419881
+            ],
+            [
+              -112.223711,
+              33.419904
+            ],
+            [
+              -112.223722,
+              33.419756
+            ],
+            [
+              -112.224173,
+              33.419747
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284990,
+          "area": 14335,
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.220505,
+              33.428105
+            ],
+            [
+              -112.220488,
+              33.429947
+            ],
+            [
+              -112.219964,
+              33.429944
+            ],
+            [
+              -112.219982,
+              33.428101
+            ],
+            [
+              -112.220505,
+              33.428105
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768358,
+          "area": 6839,
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.232441,
+              33.414352
+            ],
+            [
+              -112.232437,
+              33.415157
+            ],
+            [
+              -112.231474,
+              33.415154
+            ],
+            [
+              -112.231475,
+              33.414936
+            ],
+            [
+              -112.232132,
+              33.414938
+            ],
+            [
+              -112.232133,
+              33.414564
+            ],
+            [
+              -112.231652,
+              33.414563
+            ],
+            [
+              -112.231653,
+              33.41435
+            ],
+            [
+              -112.232441,
+              33.414352
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925306,
+          "area": 5206,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.225106,
+              33.423909
+            ],
+            [
+              -112.224127,
+              33.424634
+            ],
+            [
+              -112.22392,
+              33.42446
+            ],
+            [
+              -112.224553,
+              33.423898
+            ],
+            [
+              -112.224752,
+              33.423915
+            ],
+            [
+              -112.224891,
+              33.423795
+            ],
+            [
+              -112.225106,
+              33.423909
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768403,
+          "area": 3342,
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.231554,
+              33.414649
+            ],
+            [
+              -112.231553,
+              33.414835
+            ],
+            [
+              -112.231101,
+              33.414834
+            ],
+            [
+              -112.2312,
+              33.414331
+            ],
+            [
+              -112.231102,
+              33.414209
+            ],
+            [
+              -112.231516,
+              33.41421
+            ],
+            [
+              -112.231433,
+              33.41445
+            ],
+            [
+              -112.231544,
+              33.414451
+            ],
+            [
+              -112.231457,
+              33.414648
+            ],
+            [
+              -112.231554,
+              33.414649
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925312,
+          "area": 2291,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.220747,
+              33.422389
+            ],
+            [
+              -112.219835,
+              33.422404
+            ],
+            [
+              -112.219838,
+              33.42223
+            ],
+            [
+              -112.220725,
+              33.422242
+            ],
+            [
+              -112.220747,
+              33.422389
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925308,
+          "area": 2205,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.227085,
+              33.423479
+            ],
+            [
+              -112.227085,
+              33.423718
+            ],
+            [
+              -112.226482,
+              33.423718
+            ],
+            [
+              -112.226414,
+              33.423621
+            ],
+            [
+              -112.226484,
+              33.423483
+            ],
+            [
+              -112.227085,
+              33.423479
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925304,
+          "area": 2199,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.226045,
+              33.423472
+            ],
+            [
+              -112.226028,
+              33.423773
+            ],
+            [
+              -112.225434,
+              33.42369
+            ],
+            [
+              -112.22543,
+              33.42348
+            ],
+            [
+              -112.226045,
+              33.423472
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725689,
+          "area": 1159,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.223963,
+              33.422402
+            ],
+            [
+              -112.223952,
+              33.42268
+            ],
+            [
+              -112.223684,
+              33.422671
+            ],
+            [
+              -112.223679,
+              33.422384
+            ],
+            [
+              -112.223963,
+              33.422402
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725699,
+          "area": 905,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.225637,
+              33.422693
+            ],
+            [
+              -112.225438,
+              33.422684
+            ],
+            [
+              -112.225444,
+              33.422366
+            ],
+            [
+              -112.225631,
+              33.42238
+            ],
+            [
+              -112.225637,
+              33.422693
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725688,
+          "area": 847,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "name": "Chase",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.222086,
+              33.422357
+            ],
+            [
+              -112.221941,
+              33.422362
+            ],
+            [
+              -112.221941,
+              33.422469
+            ],
+            [
+              -112.221716,
+              33.422465
+            ],
+            [
+              -112.221716,
+              33.422263
+            ],
+            [
+              -112.22208,
+              33.422277
+            ],
+            [
+              -112.222086,
+              33.422357
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725688,
+          "area": 847,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Chase",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.221828,
+            33.422413
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 190310028,
+          "area": 620,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "commercial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.221871,
+              33.423645
+            ],
+            [
+              -112.221655,
+              33.423645
+            ],
+            [
+              -112.221653,
+              33.423453
+            ],
+            [
+              -112.22187,
+              33.423452
+            ],
+            [
+              -112.221871,
+              33.423645
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725697,
+          "area": 560,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "name": "Del Taco",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.225143,
+              33.422599
+            ],
+            [
+              -112.224945,
+              33.422617
+            ],
+            [
+              -112.224945,
+              33.422407
+            ],
+            [
+              -112.225122,
+              33.422433
+            ],
+            [
+              -112.225143,
+              33.422599
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725697,
+          "area": 560,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Del Taco",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.225039,
+            33.422516
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725694,
+          "area": 535,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "name": "Burger King",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.222976,
+              33.422612
+            ],
+            [
+              -112.22281,
+              33.422612
+            ],
+            [
+              -112.22281,
+              33.422389
+            ],
+            [
+              -112.222965,
+              33.422389
+            ],
+            [
+              -112.222976,
+              33.422612
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725694,
+          "area": 535,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Burger King",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.22289,
+            33.422501
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925309,
+          "area": 458,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.224309,
+              33.423424
+            ],
+            [
+              -112.22429,
+              33.423612
+            ],
+            [
+              -112.224158,
+              33.423634
+            ],
+            [
+              -112.224172,
+              33.423383
+            ],
+            [
+              -112.224309,
+              33.423424
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725692,
+          "area": 399,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "name": "KFC",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.221929,
+              33.424033
+            ],
+            [
+              -112.22164,
+              33.424035
+            ],
+            [
+              -112.221639,
+              33.423942
+            ],
+            [
+              -112.221928,
+              33.423939
+            ],
+            [
+              -112.221929,
+              33.424033
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152725692,
+          "area": 399,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "KFC",
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.221784,
+            33.423987
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925310,
+          "area": 378,
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.225142,
+              33.42351
+            ],
+            [
+              -112.224907,
+              33.423515
+            ],
+            [
+              -112.224905,
+              33.423406
+            ],
+            [
+              -112.225139,
+              33.423402
+            ],
+            [
+              -112.225142,
+              33.42351
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 190310029,
+          "area": 117,
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "roof"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.221977,
+              33.423575
+            ],
+            [
+              -112.221871,
+              33.423575
+            ],
+            [
+              -112.221871,
+              33.423501
+            ],
+            [
+              -112.221977,
+              33.423501
+            ],
+            [
+              -112.221977,
+              33.423575
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 152725698,
+          "area": 33165,
+          "name": "Walmart",
+          "min_zoom": 13.0373,
+          "kind": "supermarket"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.223271,
+            33.420459
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752786,
+          "area": 101118,
+          "min_zoom": 11.2432,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.231807,
+            33.414651
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752813,
+          "area": 121491,
+          "name": "Santa Maria Middle School",
+          "min_zoom": 11.1108,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.215725,
+            33.424337
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752822,
+          "area": 3466,
+          "name": "Sunrise Pre-School",
+          "min_zoom": 13.6764,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.221515,
+            33.425683
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752823,
+          "area": 69688,
+          "name": "Sun Canyon School",
+          "min_zoom": 11.5117,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.23516,
+            33.431346
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768358,
+          "area": 6838,
+          "min_zoom": 13.1862,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.232259,
+            33.41475
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768403,
+          "area": 3341,
+          "min_zoom": 13.7028,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.231372,
+            33.414511
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [
+      {
+        "properties": {
+          "id": 153148704,
+          "area": 1610980,
+          "source": "openstreetmap.org",
+          "sort_key": 37,
+          "min_zoom": 9,
+          "kind": "farm"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.216785,
+              33.43014
+            ],
+            [
+              -112.216765,
+              33.431441
+            ],
+            [
+              -112.214355,
+              33.431441
+            ],
+            [
+              -112.214355,
+              33.430094
+            ],
+            [
+              -112.216785,
+              33.43014
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 154088175,
+          "area": 1386240,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Sienna Vista",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.217021,
+              33.413102
+            ],
+            [
+              -112.216884,
+              33.422923
+            ],
+            [
+              -112.214355,
+              33.422897
+            ],
+            [
+              -112.214355,
+              33.413102
+            ],
+            [
+              -112.217021,
+              33.413102
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 154088175,
+          "area": 1386240,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 20,
+          "name": "Sienna Vista",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.214824,
+            33.415466
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 153452755,
+          "area": 857531,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "name": "Sundance Ranch",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.236328,
+              33.430151
+            ],
+            [
+              -112.229816,
+              33.43017
+            ],
+            [
+              -112.229867,
+              33.422977
+            ],
+            [
+              -112.236238,
+              33.422979
+            ],
+            [
+              -112.236236,
+              33.424941
+            ],
+            [
+              -112.236328,
+              33.424941
+            ],
+            [
+              -112.236328,
+              33.430151
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 153452755,
+          "area": 857531,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 20,
+          "name": "Sundance Ranch",
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.234221,
+            33.425928
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355241105,
+          "area": 703578,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.229816,
+              33.43017
+            ],
+            [
+              -112.229803,
+              33.431441
+            ],
+            [
+              -112.221132,
+              33.431441
+            ],
+            [
+              -112.221175,
+              33.43018
+            ],
+            [
+              -112.229816,
+              33.43017
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 153148701,
+          "area": 673583,
+          "source": "openstreetmap.org",
+          "sort_key": 21,
+          "min_zoom": 9,
+          "kind": "industrial"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.221178,
+              33.427505
+            ],
+            [
+              -112.221145,
+              33.431441
+            ],
+            [
+              -112.216761,
+              33.431441
+            ],
+            [
+              -112.216782,
+              33.426565
+            ],
+            [
+              -112.220031,
+              33.426579
+            ],
+            [
+              -112.220021,
+              33.427483
+            ],
+            [
+              -112.221178,
+              33.427505
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 153452714,
+          "area": 601423,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.229803,
+              33.431441
+            ],
+            [
+              -112.229816,
+              33.43017
+            ],
+            [
+              -112.236328,
+              33.430151
+            ],
+            [
+              -112.236328,
+              33.431441
+            ],
+            [
+              -112.229803,
+              33.431441
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 153148698,
+          "area": 450495,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.216806,
+              33.42305
+            ],
+            [
+              -112.216785,
+              33.43014
+            ],
+            [
+              -112.214355,
+              33.430094
+            ],
+            [
+              -112.214355,
+              33.422897
+            ],
+            [
+              -112.216785,
+              33.422922
+            ],
+            [
+              -112.216806,
+              33.42305
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 153147639,
+          "area": 335294,
+          "source": "openstreetmap.org",
+          "sort_key": 42,
+          "min_zoom": 9,
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.228925,
+              33.422971
+            ],
+            [
+              -112.22892,
+              33.423852
+            ],
+            [
+              -112.225374,
+              33.423861
+            ],
+            [
+              -112.224494,
+              33.424599
+            ],
+            [
+              -112.224475,
+              33.42474
+            ],
+            [
+              -112.224113,
+              33.42473
+            ],
+            [
+              -112.223614,
+              33.424569
+            ],
+            [
+              -112.223614,
+              33.423844
+            ],
+            [
+              -112.223295,
+              33.42383
+            ],
+            [
+              -112.223285,
+              33.423333
+            ],
+            [
+              -112.222257,
+              33.423333
+            ],
+            [
+              -112.222257,
+              33.424224
+            ],
+            [
+              -112.222032,
+              33.424229
+            ],
+            [
+              -112.222037,
+              33.42435
+            ],
+            [
+              -112.221447,
+              33.424354
+            ],
+            [
+              -112.221442,
+              33.423987
+            ],
+            [
+              -112.221179,
+              33.423986
+            ],
+            [
+              -112.22118,
+              33.422974
+            ],
+            [
+              -112.21963,
+              33.422926
+            ],
+            [
+              -112.219629,
+              33.422134
+            ],
+            [
+              -112.22119,
+              33.422157
+            ],
+            [
+              -112.221217,
+              33.41995
+            ],
+            [
+              -112.221678,
+              33.419953
+            ],
+            [
+              -112.222252,
+              33.419492
+            ],
+            [
+              -112.224333,
+              33.419541
+            ],
+            [
+              -112.224365,
+              33.420493
+            ],
+            [
+              -112.225503,
+              33.420584
+            ],
+            [
+              -112.22547,
+              33.420719
+            ],
+            [
+              -112.225288,
+              33.420696
+            ],
+            [
+              -112.22531,
+              33.422183
+            ],
+            [
+              -112.225975,
+              33.422178
+            ],
+            [
+              -112.225973,
+              33.422897
+            ],
+            [
+              -112.228925,
+              33.422971
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752813,
+          "area": 121491,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.216806,
+              33.42305
+            ],
+            [
+              -112.216782,
+              33.426762
+            ],
+            [
+              -112.214639,
+              33.42669
+            ],
+            [
+              -112.214662,
+              33.422897
+            ],
+            [
+              -112.216785,
+              33.422922
+            ],
+            [
+              -112.216806,
+              33.42305
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152606870,
+          "area": 116234,
+          "source": "openstreetmap.org",
+          "sort_key": 38,
+          "min_zoom": 9,
+          "kind": "farmland"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.236328,
+              33.422979
+            ],
+            [
+              -112.234307,
+              33.422979
+            ],
+            [
+              -112.234215,
+              33.420714
+            ],
+            [
+              -112.236328,
+              33.420736
+            ],
+            [
+              -112.236328,
+              33.422979
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752786,
+          "area": 101118,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.233378,
+              33.413559
+            ],
+            [
+              -112.23336,
+              33.415962
+            ],
+            [
+              -112.23187,
+              33.415995
+            ],
+            [
+              -112.231924,
+              33.415753
+            ],
+            [
+              -112.231768,
+              33.415556
+            ],
+            [
+              -112.231527,
+              33.415646
+            ],
+            [
+              -112.231407,
+              33.415917
+            ],
+            [
+              -112.231237,
+              33.41557
+            ],
+            [
+              -112.230862,
+              33.415234
+            ],
+            [
+              -112.230229,
+              33.414876
+            ],
+            [
+              -112.230361,
+              33.414305
+            ],
+            [
+              -112.2302,
+              33.413584
+            ],
+            [
+              -112.231257,
+              33.413275
+            ],
+            [
+              -112.231624,
+              33.413277
+            ],
+            [
+              -112.23164,
+              33.413595
+            ],
+            [
+              -112.231983,
+              33.413577
+            ],
+            [
+              -112.232273,
+              33.413367
+            ],
+            [
+              -112.232587,
+              33.413558
+            ],
+            [
+              -112.233378,
+              33.413559
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925307,
+          "area": 88859,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 9.03638,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.225964,
+              33.422187
+            ],
+            [
+              -112.225959,
+              33.42268
+            ],
+            [
+              -112.221541,
+              33.422645
+            ],
+            [
+              -112.221608,
+              33.421833
+            ],
+            [
+              -112.222053,
+              33.421824
+            ],
+            [
+              -112.222037,
+              33.421148
+            ],
+            [
+              -112.222799,
+              33.421037
+            ],
+            [
+              -112.222789,
+              33.420947
+            ],
+            [
+              -112.223926,
+              33.42092
+            ],
+            [
+              -112.225141,
+              33.421171
+            ],
+            [
+              -112.225197,
+              33.42221
+            ],
+            [
+              -112.225964,
+              33.422187
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752823,
+          "area": 69688,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9.21168,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.236219,
+              33.430222
+            ],
+            [
+              -112.236193,
+              33.431441
+            ],
+            [
+              -112.234122,
+              33.431441
+            ],
+            [
+              -112.234156,
+              33.430215
+            ],
+            [
+              -112.236219,
+              33.430222
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925305,
+          "area": 32529,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 9.76127,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.227273,
+              33.423296
+            ],
+            [
+              -112.226425,
+              33.423305
+            ],
+            [
+              -112.226417,
+              33.423762
+            ],
+            [
+              -112.226028,
+              33.423773
+            ],
+            [
+              -112.226045,
+              33.423472
+            ],
+            [
+              -112.22543,
+              33.42348
+            ],
+            [
+              -112.225436,
+              33.423752
+            ],
+            [
+              -112.224625,
+              33.423838
+            ],
+            [
+              -112.223866,
+              33.424471
+            ],
+            [
+              -112.223625,
+              33.424477
+            ],
+            [
+              -112.223614,
+              33.423844
+            ],
+            [
+              -112.223295,
+              33.42383
+            ],
+            [
+              -112.223265,
+              33.42324
+            ],
+            [
+              -112.227268,
+              33.423183
+            ],
+            [
+              -112.227273,
+              33.423296
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752799,
+          "area": 12799,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 10.4341,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.234075,
+              33.425693
+            ],
+            [
+              -112.233249,
+              33.42572
+            ],
+            [
+              -112.233126,
+              33.42537
+            ],
+            [
+              -112.232884,
+              33.425344
+            ],
+            [
+              -112.23282,
+              33.425209
+            ],
+            [
+              -112.232868,
+              33.424578
+            ],
+            [
+              -112.233678,
+              33.425035
+            ],
+            [
+              -112.234075,
+              33.425693
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 244917444,
+          "area": 9893,
+          "source": "openstreetmap.org",
+          "sort_key": 69,
+          "min_zoom": 10.6199,
+          "kind": "substation"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.220916,
+              33.426694
+            ],
+            [
+              -112.220912,
+              33.42748
+            ],
+            [
+              -112.22006,
+              33.427477
+            ],
+            [
+              -112.220064,
+              33.426691
+            ],
+            [
+              -112.220916,
+              33.426694
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 190311230,
+          "area": 9658,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.6372,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.231827,
+              33.413844
+            ],
+            [
+              -112.231794,
+              33.414087
+            ],
+            [
+              -112.230725,
+              33.41407
+            ],
+            [
+              -112.23065,
+              33.413543
+            ],
+            [
+              -112.231499,
+              33.413408
+            ],
+            [
+              -112.231501,
+              33.413606
+            ],
+            [
+              -112.231827,
+              33.413844
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925311,
+          "area": 6786,
+          "source": "openstreetmap.org",
+          "sort_key": 104,
+          "min_zoom": 10.8919,
+          "kind": "parking"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.220942,
+              33.422662
+            ],
+            [
+              -112.21965,
+              33.42272
+            ],
+            [
+              -112.21965,
+              33.422259
+            ],
+            [
+              -112.219838,
+              33.42223
+            ],
+            [
+              -112.219835,
+              33.422404
+            ],
+            [
+              -112.220699,
+              33.422431
+            ],
+            [
+              -112.220725,
+              33.422242
+            ],
+            [
+              -112.220932,
+              33.422207
+            ],
+            [
+              -112.220942,
+              33.422662
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752800,
+          "area": 5902,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 10.9925,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.234215,
+              33.420714
+            ],
+            [
+              -112.234209,
+              33.421055
+            ],
+            [
+              -112.233764,
+              33.421055
+            ],
+            [
+              -112.233743,
+              33.420804
+            ],
+            [
+              -112.233608,
+              33.420799
+            ],
+            [
+              -112.233608,
+              33.420464
+            ],
+            [
+              -112.233317,
+              33.420422
+            ],
+            [
+              -112.233651,
+              33.420307
+            ],
+            [
+              -112.234143,
+              33.420372
+            ],
+            [
+              -112.234215,
+              33.420714
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752808,
+          "area": 5669,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 11.0215,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.236328,
+              33.418512
+            ],
+            [
+              -112.235883,
+              33.418782
+            ],
+            [
+              -112.235695,
+              33.418666
+            ],
+            [
+              -112.235832,
+              33.418583
+            ],
+            [
+              -112.235776,
+              33.417921
+            ],
+            [
+              -112.236288,
+              33.418073
+            ],
+            [
+              -112.236328,
+              33.418131
+            ],
+            [
+              -112.236328,
+              33.418512
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752811,
+          "area": 5652,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 11.0238,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.236242,
+              33.424652
+            ],
+            [
+              -112.236229,
+              33.425267
+            ],
+            [
+              -112.23566,
+              33.425263
+            ],
+            [
+              -112.235594,
+              33.424608
+            ],
+            [
+              -112.236242,
+              33.424652
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752810,
+          "area": 5133,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 11.0933,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.232101,
+              33.418798
+            ],
+            [
+              -112.232026,
+              33.418892
+            ],
+            [
+              -112.231602,
+              33.418896
+            ],
+            [
+              -112.231227,
+              33.418574
+            ],
+            [
+              -112.2315,
+              33.418247
+            ],
+            [
+              -112.232029,
+              33.418523
+            ],
+            [
+              -112.232101,
+              33.418798
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768397,
+          "area": 3655,
+          "source": "openstreetmap.org",
+          "sort_key": 95,
+          "sport": "soccer",
+          "min_zoom": 11.3381,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.233258,
+              33.414128
+            ],
+            [
+              -112.233256,
+              33.414691
+            ],
+            [
+              -112.232818,
+              33.41469
+            ],
+            [
+              -112.232821,
+              33.414127
+            ],
+            [
+              -112.233258,
+              33.414128
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768397,
+          "area": 3655,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 95,
+          "sport": "soccer",
+          "min_zoom": 11.3381,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.233038,
+            33.414409
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752822,
+          "area": 3466,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 11.3764,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.221758,
+              33.425442
+            ],
+            [
+              -112.221751,
+              33.425924
+            ],
+            [
+              -112.221276,
+              33.425926
+            ],
+            [
+              -112.221276,
+              33.425433
+            ],
+            [
+              -112.221758,
+              33.425442
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752803,
+          "area": 3380,
+          "source": "openstreetmap.org",
+          "sort_key": 24,
+          "min_zoom": 11.3947,
+          "kind": "park"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.230559,
+              33.420716
+            ],
+            [
+              -112.23054,
+              33.420983
+            ],
+            [
+              -112.230237,
+              33.420838
+            ],
+            [
+              -112.230098,
+              33.42095
+            ],
+            [
+              -112.230178,
+              33.421742
+            ],
+            [
+              -112.230022,
+              33.421762
+            ],
+            [
+              -112.230025,
+              33.420314
+            ],
+            [
+              -112.230143,
+              33.420721
+            ],
+            [
+              -112.230559,
+              33.420716
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768344,
+          "area": 1020,
+          "source": "openstreetmap.org",
+          "sort_key": 95,
+          "sport": "basketball",
+          "min_zoom": 12.2588,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.232667,
+              33.414058
+            ],
+            [
+              -112.232659,
+              33.414355
+            ],
+            [
+              -112.232428,
+              33.414351
+            ],
+            [
+              -112.232435,
+              33.414054
+            ],
+            [
+              -112.232667,
+              33.414058
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768344,
+          "area": 1020,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 95,
+          "sport": "basketball",
+          "min_zoom": 12.2588,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.232547,
+            33.414204
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768374,
+          "area": 987,
+          "source": "openstreetmap.org",
+          "sort_key": 95,
+          "sport": "baseball",
+          "min_zoom": 12.2822,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.232678,
+              33.413753
+            ],
+            [
+              -112.23267,
+              33.414046
+            ],
+            [
+              -112.232444,
+              33.414042
+            ],
+            [
+              -112.232451,
+              33.413749
+            ],
+            [
+              -112.232678,
+              33.413753
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 152768374,
+          "area": 987,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 95,
+          "sport": "baseball",
+          "min_zoom": 12.2822,
+          "kind": "pitch"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.232561,
+            33.413898
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.214355,
+            33.413102
+          ],
+          [
+            -112.236328,
+            33.413102
+          ],
+          [
+            -112.236328,
+            33.431441
+          ],
+          [
+            -112.214355,
+            33.431441
+          ],
+          [
+            -112.214355,
+            33.413102
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 131284923,
+          "highway": "unclassified",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.222268,
+              33.430189
+            ],
+            [
+              -112.221175,
+              33.43018
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152747590,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.222037,
+              33.421148
+            ],
+            [
+              -112.224049,
+              33.421028
+            ],
+            [
+              -112.225141,
+              33.421171
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355241354,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216782,
+              33.426824
+            ],
+            [
+              -112.216782,
+              33.426762
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284935,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "S 72nd Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214662,
+              33.422897
+            ],
+            [
+              -112.214639,
+              33.42669
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 240605418,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "South 81st Glen",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.235666,
+                33.418709
+              ],
+              [
+                -112.236328,
+                33.419416
+              ]
+            ],
+            [
+              [
+                -112.235668,
+                33.417065
+              ],
+              [
+                -112.235668,
+                33.416113
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601526,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 79th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.230758,
+              33.425749
+            ],
+            [
+              -112.230647,
+              33.426463
+            ],
+            [
+              -112.230004,
+              33.427246
+            ],
+            [
+              -112.229981,
+              33.42972
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284899,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Superior Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.215897,
+                33.417285
+              ],
+              [
+                -112.2165,
+                33.417285
+              ]
+            ],
+            [
+              [
+                -112.21521,
+                33.417221
+              ],
+              [
+                -112.214355,
+                33.417209
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601516,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 80th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.231928,
+                33.431441
+              ],
+              [
+                -112.231922,
+                33.430578
+              ]
+            ],
+            [
+              [
+                -112.231661,
+                33.425084
+              ],
+              [
+                -112.231661,
+                33.424431
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601518,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Hilton Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236328,
+                33.42849
+              ],
+              [
+                -112.235797,
+                33.428504
+              ],
+              [
+                -112.234799,
+                33.4288
+              ],
+              [
+                -112.234118,
+                33.428871
+              ]
+            ],
+            [
+              [
+                -112.229993,
+                33.428939
+              ],
+              [
+                -112.232289,
+                33.428921
+              ],
+              [
+                -112.233474,
+                33.428518
+              ],
+              [
+                -112.234129,
+                33.428486
+              ]
+            ],
+            [
+              [
+                -112.216248,
+                33.428829
+              ],
+              [
+                -112.214809,
+                33.428806
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284903,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 73rd Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.218639,
+                33.420381
+              ],
+              [
+                -112.218645,
+                33.418931
+              ]
+            ],
+            [
+              [
+                -112.218597,
+                33.421809
+              ],
+              [
+                -112.218612,
+                33.421085
+              ]
+            ],
+            [
+              [
+                -112.218549,
+                33.41662
+              ],
+              [
+                -112.218587,
+                33.416162
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152605725,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "S 81st Ave.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.234029,
+              33.431441
+            ],
+            [
+              -112.234172,
+              33.425802
+            ],
+            [
+              -112.233972,
+              33.425259
+            ],
+            [
+              -112.233195,
+              33.424609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571019,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 80th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.231624,
+                33.416738
+              ],
+              [
+                -112.232117,
+                33.417352
+              ],
+              [
+                -112.231161,
+                33.418606
+              ]
+            ],
+            [
+              [
+                -112.23157,
+                33.422574
+              ],
+              [
+                -112.231573,
+                33.421096
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 240605435,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Superior Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.232117,
+                33.417352
+              ],
+              [
+                -112.233619,
+                33.417419
+              ]
+            ],
+            [
+              [
+                -112.217442,
+                33.417477
+              ],
+              [
+                -112.220577,
+                33.417512
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522103,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.233533,
+              33.422978
+            ],
+            [
+              -112.234307,
+              33.422979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30771289,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Zak Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.214723,
+                33.427325
+              ],
+              [
+                -112.215502,
+                33.427212
+              ],
+              [
+                -112.216279,
+                33.427345
+              ]
+            ],
+            [
+              [
+                -112.214632,
+                33.427002
+              ],
+              [
+                -112.214355,
+                33.426994
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284889,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 73rd Wy.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.218717,
+              33.413102
+            ],
+            [
+              -112.218718,
+              33.413142
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284894,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Crown King Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.231564,
+                33.419725
+              ],
+              [
+                -112.233581,
+                33.419719
+              ]
+            ],
+            [
+              [
+                -112.2195,
+                33.419681
+              ],
+              [
+                -112.220601,
+                33.41969
+              ]
+            ],
+            [
+              [
+                -112.218642,
+                33.419686
+              ],
+              [
+                -112.216925,
+                33.419651
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355241354,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "farm",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216785,
+              33.43014
+            ],
+            [
+              -112.214355,
+              33.430094
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284945,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S Sienna Vista Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214355,
+              33.419171
+            ],
+            [
+              -112.214719,
+              33.41893
+            ],
+            [
+              -112.214989,
+              33.418611
+            ],
+            [
+              -112.215188,
+              33.418029
+            ],
+            [
+              -112.215198,
+              33.41592
+            ],
+            [
+              -112.214542,
+              33.414348
+            ],
+            [
+              -112.214513,
+              33.413102
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571011,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Williams St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.232535,
+                33.420826
+              ],
+              [
+                -112.233691,
+                33.420867
+              ]
+            ],
+            [
+              [
+                -112.219485,
+                33.421072
+              ],
+              [
+                -112.221223,
+                33.421093
+              ]
+            ],
+            [
+              [
+                -112.217328,
+                33.421075
+              ],
+              [
+                -112.218612,
+                33.421085
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570988,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 81st Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.23473,
+                33.417079
+              ],
+              [
+                -112.234644,
+                33.41639
+              ]
+            ],
+            [
+              [
+                -112.234599,
+                33.41941
+              ],
+              [
+                -112.234539,
+                33.417903
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284197,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "West Forest Grove Avnue",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.215216,
+                33.416458
+              ],
+              [
+                -112.216427,
+                33.416473
+              ],
+              [
+                -112.216963,
+                33.41661
+              ]
+            ],
+            [
+              [
+                -112.214635,
+                33.416434
+              ],
+              [
+                -112.214355,
+                33.416431
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601511,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 79th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.230616,
+                33.423631
+              ],
+              [
+                -112.230556,
+                33.42512
+              ]
+            ],
+            [
+              [
+                -112.229932,
+                33.431441
+              ],
+              [
+                -112.229962,
+                33.430565
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601510,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Hammond Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234148,
+                33.425654
+              ],
+              [
+                -112.235293,
+                33.42537
+              ],
+              [
+                -112.236328,
+                33.425334
+              ]
+            ],
+            [
+              [
+                -112.230758,
+                33.425749
+              ],
+              [
+                -112.231688,
+                33.425688
+              ],
+              [
+                -112.232775,
+                33.425406
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284920,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Florance Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.217355,
+              33.42037
+            ],
+            [
+              -112.220595,
+              33.420397
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152747590,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.222823,
+                33.419689
+              ],
+              [
+                -112.222182,
+                33.419682
+              ],
+              [
+                -112.221689,
+                33.420069
+              ],
+              [
+                -112.22164,
+                33.420242
+              ],
+              [
+                -112.221218,
+                33.420258
+              ]
+            ],
+            [
+              [
+                -112.221223,
+                33.421093
+              ],
+              [
+                -112.222037,
+                33.421148
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 167710798,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "South 71st Glen",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.214642,
+                33.415964
+              ],
+              [
+                -112.214635,
+                33.416434
+              ]
+            ],
+            [
+              [
+                -112.214355,
+                33.418449
+              ],
+              [
+                -112.214596,
+                33.418074
+              ],
+              [
+                -112.214635,
+                33.417216
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284940,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Kingman St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.216459,
+                33.420661
+              ],
+              [
+                -112.214536,
+                33.420698
+              ]
+            ],
+            [
+              [
+                -112.214371,
+                33.420722
+              ],
+              [
+                -112.214355,
+                33.420724
+              ]
+            ],
+            [
+              [
+                -112.21439,
+                33.420754
+              ],
+              [
+                -112.214536,
+                33.420698
+              ]
+            ],
+            [
+              [
+                -112.214536,
+                33.420698
+              ],
+              [
+                -112.214371,
+                33.420722
+              ]
+            ],
+            [
+              [
+                -112.214371,
+                33.420722
+              ],
+              [
+                -112.21439,
+                33.420754
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571023,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 81st Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.235148,
+                33.419505
+              ],
+              [
+                -112.235679,
+                33.420119
+              ]
+            ],
+            [
+              [
+                -112.235257,
+                33.417084
+              ],
+              [
+                -112.235245,
+                33.417853
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601536,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 81st Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.235743,
+              33.42452
+            ],
+            [
+              -112.235695,
+              33.423298
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284907,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 74th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.22068,
+                33.413102
+              ],
+              [
+                -112.220656,
+                33.414436
+              ]
+            ],
+            [
+              [
+                -112.219494,
+                33.420388
+              ],
+              [
+                -112.2195,
+                33.419681
+              ]
+            ],
+            [
+              [
+                -112.219414,
+                33.422317
+              ],
+              [
+                -112.219485,
+                33.421072
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284913,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Cordes Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.219477,
+                33.421791
+              ],
+              [
+                -112.220578,
+                33.4218
+              ]
+            ],
+            [
+              [
+                -112.217338,
+                33.421809
+              ],
+              [
+                -112.218597,
+                33.421809
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30582540,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 79th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.231492,
+                33.41615
+              ],
+              [
+                -112.23131,
+                33.415941
+              ]
+            ],
+            [
+              [
+                -112.23131,
+                33.415941
+              ],
+              [
+                -112.231302,
+                33.416214
+              ]
+            ],
+            [
+              [
+                -112.230128,
+                33.414949
+              ],
+              [
+                -112.230946,
+                33.415418
+              ],
+              [
+                -112.23131,
+                33.415941
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131283603,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Illini St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214504,
+              33.413124
+            ],
+            [
+              -112.216562,
+              33.413124
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522103,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "farmland",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.234307,
+              33.422979
+            ],
+            [
+              -112.236328,
+              33.422979
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152747577,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.221179,
+                33.424081
+              ],
+              [
+                -112.221228,
+                33.423988
+              ]
+            ],
+            [
+              [
+                -112.221179,
+                33.42361
+              ],
+              [
+                -112.221179,
+                33.42361
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601566,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mongolia St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.233769,
+              33.425013
+            ],
+            [
+              -112.2343,
+              33.424761
+            ],
+            [
+              -112.235743,
+              33.42452
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570995,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 80th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.23261,
+                33.418256
+              ],
+              [
+                -112.232531,
+                33.419126
+              ]
+            ],
+            [
+              [
+                -112.232538,
+                33.421615
+              ],
+              [
+                -112.232564,
+                33.422353
+              ]
+            ],
+            [
+              [
+                -112.232535,
+                33.420826
+              ],
+              [
+                -112.232514,
+                33.419729
+              ]
+            ],
+            [
+              [
+                -112.231537,
+                33.420325
+              ],
+              [
+                -112.231548,
+                33.418933
+              ],
+              [
+                -112.231161,
+                33.418606
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30582573,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "S 79th Ave.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.230403,
+                33.416908
+              ],
+              [
+                -112.231359,
+                33.41637
+              ]
+            ],
+            [
+              [
+                -112.231302,
+                33.416214
+              ],
+              [
+                -112.230403,
+                33.416908
+              ]
+            ],
+            [
+              [
+                -112.230403,
+                33.416908
+              ],
+              [
+                -112.230054,
+                33.417416
+              ]
+            ],
+            [
+              [
+                -112.230054,
+                33.417416
+              ],
+              [
+                -112.229858,
+                33.417849
+              ],
+              [
+                -112.229875,
+                33.41839
+              ]
+            ],
+            [
+              [
+                -112.229875,
+                33.41839
+              ],
+              [
+                -112.230054,
+                33.417416
+              ]
+            ],
+            [
+              [
+                -112.229867,
+                33.422977
+              ],
+              [
+                -112.22988,
+                33.421267
+              ]
+            ],
+            [
+              [
+                -112.22988,
+                33.421267
+              ],
+              [
+                -112.229875,
+                33.41955
+              ]
+            ],
+            [
+              [
+                -112.229875,
+                33.41955
+              ],
+              [
+                -112.229875,
+                33.41839
+              ]
+            ],
+            [
+              [
+                -112.231573,
+                33.416313
+              ],
+              [
+                -112.231492,
+                33.41615
+              ],
+              [
+                -112.231302,
+                33.416214
+              ]
+            ],
+            [
+              [
+                -112.231302,
+                33.416214
+              ],
+              [
+                -112.231359,
+                33.41637
+              ]
+            ],
+            [
+              [
+                -112.231359,
+                33.41637
+              ],
+              [
+                -112.231573,
+                33.416313
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601512,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 81st Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.235411,
+              33.429901
+            ],
+            [
+              -112.23532,
+              33.429458
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284927,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Williams St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.214784,
+                33.421504
+              ],
+              [
+                -112.215094,
+                33.421384
+              ],
+              [
+                -112.216435,
+                33.421396
+              ]
+            ],
+            [
+              [
+                -112.214355,
+                33.421553
+              ],
+              [
+                -112.214369,
+                33.421554
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570991,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Pioneer Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.233561,
+              33.418254
+            ],
+            [
+              -112.232534,
+              33.418257
+            ],
+            [
+              -112.231704,
+              33.417907
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571004,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 81st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.233691,
+                33.420867
+              ],
+              [
+                -112.233759,
+                33.422075
+              ],
+              [
+                -112.233533,
+                33.422978
+              ]
+            ],
+            [
+              [
+                -112.233619,
+                33.417419
+              ],
+              [
+                -112.233624,
+                33.416119
+              ]
+            ],
+            [
+              [
+                -112.233495,
+                33.42025
+              ],
+              [
+                -112.23364,
+                33.419304
+              ],
+              [
+                -112.233561,
+                33.418254
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131283621,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Elwood St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.228864,
+                33.415571
+              ],
+              [
+                -112.229516,
+                33.415407
+              ],
+              [
+                -112.230041,
+                33.415017
+              ]
+            ],
+            [
+              [
+                -112.229858,
+                33.414851
+              ],
+              [
+                -112.229467,
+                33.415309
+              ],
+              [
+                -112.228864,
+                33.415571
+              ]
+            ],
+            [
+              [
+                -112.216981,
+                33.415226
+              ],
+              [
+                -112.222035,
+                33.415218
+              ],
+              [
+                -112.223956,
+                33.415576
+              ],
+              [
+                -112.22649,
+                33.415417
+              ],
+              [
+                -112.228864,
+                33.415571
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152605700,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 80th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.232932,
+              33.430559
+            ],
+            [
+              -112.232825,
+              33.431361
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284942,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Crown King Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216925,
+              33.419651
+            ],
+            [
+              -112.215032,
+              33.419561
+            ],
+            [
+              -112.214446,
+              33.419189
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284941,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Illini St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.217457,
+              33.413317
+            ],
+            [
+              -112.218718,
+              33.413142
+            ],
+            [
+              -112.219549,
+              33.413168
+            ],
+            [
+              -112.219702,
+              33.413259
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 212763466,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216782,
+              33.426762
+            ],
+            [
+              -112.216785,
+              33.422922
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284943,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Globe Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214989,
+              33.418611
+            ],
+            [
+              -112.215482,
+              33.418833
+            ],
+            [
+              -112.216466,
+              33.418864
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570977,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Napoli St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.230338,
+              33.418164
+            ],
+            [
+              -112.231624,
+              33.416738
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284935,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 72nd Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.214639,
+                33.42669
+              ],
+              [
+                -112.214923,
+                33.428023
+              ]
+            ],
+            [
+              [
+                -112.214602,
+                33.430092
+              ],
+              [
+                -112.214606,
+                33.429188
+              ],
+              [
+                -112.214809,
+                33.428806
+              ]
+            ],
+            [
+              [
+                -112.214668,
+                33.42227
+              ],
+              [
+                -112.214662,
+                33.422897
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 402527116,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.220988,
+              33.422957
+            ],
+            [
+              -112.22118,
+              33.423034
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 402527116,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.22118,
+                33.423034
+              ],
+              [
+                -112.222213,
+                33.423031
+              ]
+            ],
+            [
+              [
+                -112.22118,
+                33.422917
+              ],
+              [
+                -112.220988,
+                33.422957
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925536,
+          "highway": "road",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.223763,
+              33.424474
+            ],
+            [
+              -112.223619,
+              33.424527
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 167710800,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Hughes Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214355,
+              33.425619
+            ],
+            [
+              -112.214645,
+              33.425625
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284201,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 73rd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.2174,
+                33.41892
+              ],
+              [
+                -112.217473,
+                33.416138
+              ]
+            ],
+            [
+              [
+                -112.217436,
+                33.415227
+              ],
+              [
+                -112.217457,
+                33.413317
+              ]
+            ],
+            [
+              [
+                -112.217338,
+                33.421809
+              ],
+              [
+                -112.217357,
+                33.419678
+              ]
+            ],
+            [
+              [
+                -112.217969,
+                33.421804
+              ],
+              [
+                -112.217907,
+                33.422525
+              ],
+              [
+                -112.217944,
+                33.422919
+              ],
+              [
+                -112.218024,
+                33.422524
+              ],
+              [
+                -112.217969,
+                33.421804
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601507,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Mongolia St.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.229891,
+              33.424357
+            ],
+            [
+              -112.232566,
+              33.424444
+            ],
+            [
+              -112.233195,
+              33.424609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522102,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216884,
+              33.422923
+            ],
+            [
+              -112.214355,
+              33.422897
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152747577,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.221549,
+                33.423803
+              ],
+              [
+                -112.221179,
+                33.42361
+              ]
+            ],
+            [
+              [
+                -112.221228,
+                33.423988
+              ],
+              [
+                -112.221549,
+                33.423803
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571016,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Suprior Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.236141,
+              33.417903
+            ],
+            [
+              -112.236268,
+              33.41763
+            ],
+            [
+              -112.236328,
+              33.417606
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284197,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "West Forest Grove Avnue",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216963,
+              33.41661
+            ],
+            [
+              -112.218942,
+              33.416616
+            ],
+            [
+              -112.219447,
+              33.416786
+            ],
+            [
+              -112.220626,
+              33.416798
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601519,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.234066,
+              33.430161
+            ],
+            [
+              -112.236328,
+              33.430149
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601570,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Preston Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.23577,
+                33.423786
+              ],
+              [
+                -112.23385,
+                33.424014
+              ],
+              [
+                -112.233506,
+                33.423969
+              ]
+            ],
+            [
+              [
+                -112.230616,
+                33.423631
+              ],
+              [
+                -112.233555,
+                33.423607
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925536,
+          "highway": "road",
+          "source": "openstreetmap.org",
+          "landuse_kind": "parking",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.22377,
+              33.424471
+            ],
+            [
+              -112.223763,
+              33.424474
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131283614,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Raymond St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.215377,
+                33.414667
+              ],
+              [
+                -112.216529,
+                33.414611
+              ]
+            ],
+            [
+              [
+                -112.214695,
+                33.414691
+              ],
+              [
+                -112.214355,
+                33.414737
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284911,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 72nd Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.216562,
+                33.413124
+              ],
+              [
+                -112.216562,
+                33.413102
+              ]
+            ],
+            [
+              [
+                -112.216521,
+                33.415224
+              ],
+              [
+                -112.216546,
+                33.413895
+              ]
+            ],
+            [
+              [
+                -112.216544,
+                33.416502
+              ],
+              [
+                -112.216478,
+                33.418094
+              ]
+            ],
+            [
+              [
+                -112.216466,
+                33.419623
+              ],
+              [
+                -112.216466,
+                33.418864
+              ]
+            ],
+            [
+              [
+                -112.216378,
+                33.420455
+              ],
+              [
+                -112.216434,
+                33.422135
+              ]
+            ],
+            [
+              [
+                -112.21635,
+                33.422136
+              ],
+              [
+                -112.216351,
+                33.422234
+              ]
+            ],
+            [
+              [
+                -112.216279,
+                33.427345
+              ],
+              [
+                -112.216234,
+                33.429521
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 212763462,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Hyman Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.216264,
+              33.428054
+            ],
+            [
+              -112.214923,
+              33.428023
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570983,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Cordes Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.233737,
+              33.421614
+            ],
+            [
+              -112.232538,
+              33.421615
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571029,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 79th Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.231157,
+              33.42108
+            ],
+            [
+              -112.231152,
+              33.420334
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601543,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Gibson Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.23414,
+                33.428074
+              ],
+              [
+                -112.235711,
+                33.427703
+              ],
+              [
+                -112.236328,
+                33.42769
+              ]
+            ],
+            [
+              [
+                -112.230004,
+                33.428142
+              ],
+              [
+                -112.231967,
+                33.428147
+              ],
+              [
+                -112.233281,
+                33.427725
+              ],
+              [
+                -112.234129,
+                33.427689
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601544,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Hess Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236328,
+                33.429279
+              ],
+              [
+                -112.235894,
+                33.429288
+              ],
+              [
+                -112.234934,
+                33.429593
+              ],
+              [
+                -112.234075,
+                33.429659
+              ]
+            ],
+            [
+              [
+                -112.229981,
+                33.42972
+              ],
+              [
+                -112.232437,
+                33.429713
+              ],
+              [
+                -112.233464,
+                33.42936
+              ],
+              [
+                -112.234075,
+                33.429301
+              ]
+            ],
+            [
+              [
+                -112.216234,
+                33.429521
+              ],
+              [
+                -112.214579,
+                33.429549
+              ]
+            ],
+            [
+              [
+                -112.214355,
+                33.429174
+              ],
+              [
+                -112.214606,
+                33.429188
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601562,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 80th Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.233388,
+                33.4297
+              ],
+              [
+                -112.233223,
+                33.42947
+              ]
+            ],
+            [
+              [
+                -112.232775,
+                33.425406
+              ],
+              [
+                -112.232794,
+                33.42448
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522102,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Lower Buckeye Rd.",
+          "sort_key": 377,
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.21963,
+              33.422926
+            ],
+            [
+              -112.216884,
+              33.422923
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571028,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Williams Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.230285,
+              33.42097
+            ],
+            [
+              -112.231573,
+              33.421096
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131283606,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Warner St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.214475,
+              33.413868
+            ],
+            [
+              -112.216546,
+              33.413895
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 244918385,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Warner St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.220666,
+              33.413706
+            ],
+            [
+              -112.221318,
+              33.413712
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601568,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "S 79th Ave.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.229891,
+              33.424357
+            ],
+            [
+              -112.229867,
+              33.422977
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571024,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Winslow Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.229875,
+              33.421839
+            ],
+            [
+              -112.231597,
+              33.421829
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152925536,
+          "highway": "road",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.223619,
+              33.424527
+            ],
+            [
+              -112.222275,
+              33.424673
+            ],
+            [
+              -112.221846,
+              33.424955
+            ],
+            [
+              -112.221531,
+              33.424789
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522102,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.220988,
+              33.422957
+            ],
+            [
+              -112.21963,
+              33.422926
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571014,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Pioneer St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.231441,
+                33.418234
+              ],
+              [
+                -112.230695,
+                33.417826
+              ]
+            ],
+            [
+              [
+                -112.217431,
+                33.418208
+              ],
+              [
+                -112.220598,
+                33.418229
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284139,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234905,
+                33.416115
+              ],
+              [
+                -112.234901,
+                33.415974
+              ]
+            ],
+            [
+              [
+                -112.233721,
+                33.421108
+              ],
+              [
+                -112.234172,
+                33.421099
+              ]
+            ],
+            [
+              [
+                -112.229087,
+                33.413408
+              ],
+              [
+                -112.229397,
+                33.413766
+              ],
+              [
+                -112.230042,
+                33.413567
+              ]
+            ],
+            [
+              [
+                -112.230042,
+                33.413567
+              ],
+              [
+                -112.231755,
+                33.413152
+              ]
+            ],
+            [
+              [
+                -112.230211,
+                33.414307
+              ],
+              [
+                -112.229933,
+                33.414789
+              ]
+            ],
+            [
+              [
+                -112.230129,
+                33.414855
+              ],
+              [
+                -112.230211,
+                33.414307
+              ]
+            ],
+            [
+              [
+                -112.229821,
+                33.413102
+              ],
+              [
+                -112.230042,
+                33.413567
+              ]
+            ],
+            [
+              [
+                -112.230042,
+                33.413567
+              ],
+              [
+                -112.230211,
+                33.414307
+              ]
+            ],
+            [
+              [
+                -112.22815,
+                33.413716
+              ],
+              [
+                -112.228954,
+                33.413538
+              ],
+              [
+                -112.229087,
+                33.413408
+              ]
+            ],
+            [
+              [
+                -112.229027,
+                33.413102
+              ],
+              [
+                -112.229087,
+                33.413408
+              ]
+            ],
+            [
+              [
+                -112.221277,
+                33.416128
+              ],
+              [
+                -112.220643,
+                33.416127
+              ]
+            ],
+            [
+              [
+                -112.230078,
+                33.415001
+              ],
+              [
+                -112.230129,
+                33.414855
+              ]
+            ],
+            [
+              [
+                -112.230129,
+                33.414855
+              ],
+              [
+                -112.229933,
+                33.414789
+              ]
+            ],
+            [
+              [
+                -112.229933,
+                33.414789
+              ],
+              [
+                -112.229869,
+                33.414968
+              ],
+              [
+                -112.230078,
+                33.415001
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30608525,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 377,
+          "name": "S 75th Ave.",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.221125,
+              33.431441
+            ],
+            [
+              -112.221178,
+              33.427505
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284924,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Raymond St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.218325,
+              33.414389
+            ],
+            [
+              -112.220656,
+              33.414436
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131283621,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Elwood St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.215004,
+                33.415428
+              ],
+              [
+                -112.215803,
+                33.415217
+              ],
+              [
+                -112.216981,
+                33.415226
+              ]
+            ],
+            [
+              [
+                -112.215198,
+                33.41592
+              ],
+              [
+                -112.214355,
+                33.415942
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752792,
+          "highway": "path",
+          "source": "openstreetmap.org",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.236328,
+              33.415985
+            ],
+            [
+              -112.231801,
+              33.416044
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601542,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Watkins St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234161,
+                33.426418
+              ],
+              [
+                -112.235604,
+                33.426105
+              ],
+              [
+                -112.236328,
+                33.426101
+              ]
+            ],
+            [
+              [
+                -112.230647,
+                33.426463
+              ],
+              [
+                -112.231409,
+                33.426589
+              ],
+              [
+                -112.232809,
+                33.426208
+              ],
+              [
+                -112.234172,
+                33.426113
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571032,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Miami St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.234599,
+              33.41941
+            ],
+            [
+              -112.235148,
+              33.419505
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355243947,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 377,
+          "name": "S 75th Ave.",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.221179,
+              33.423141
+            ],
+            [
+              -112.221217,
+              33.41995
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752793,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236328,
+                33.418431
+              ],
+              [
+                -112.235861,
+                33.418766
+              ]
+            ],
+            [
+              [
+                -112.236328,
+                33.418295
+              ],
+              [
+                -112.236234,
+                33.418252
+              ]
+            ],
+            [
+              [
+                -112.236234,
+                33.418252
+              ],
+              [
+                -112.236231,
+                33.418108
+              ],
+              [
+                -112.236065,
+                33.418131
+              ]
+            ],
+            [
+              [
+                -112.236065,
+                33.418131
+              ],
+              [
+                -112.236081,
+                33.418249
+              ],
+              [
+                -112.236234,
+                33.418252
+              ]
+            ],
+            [
+              [
+                -112.236012,
+                33.417942
+              ],
+              [
+                -112.236065,
+                33.418131
+              ]
+            ],
+            [
+              [
+                -112.231561,
+                33.41874
+              ],
+              [
+                -112.231553,
+                33.418786
+              ]
+            ],
+            [
+              [
+                -112.231513,
+                33.418669
+              ],
+              [
+                -112.231243,
+                33.418554
+              ]
+            ],
+            [
+              [
+                -112.23166,
+                33.418753
+              ],
+              [
+                -112.231679,
+                33.418586
+              ],
+              [
+                -112.231513,
+                33.418669
+              ]
+            ],
+            [
+              [
+                -112.231513,
+                33.418669
+              ],
+              [
+                -112.231561,
+                33.41874
+              ]
+            ],
+            [
+              [
+                -112.231561,
+                33.41874
+              ],
+              [
+                -112.23166,
+                33.418753
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601553,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 81st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.233195,
+              33.424609
+            ],
+            [
+              -112.233506,
+              33.423969
+            ],
+            [
+              -112.233533,
+              33.422978
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284206,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 74th Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.220587,
+                33.418947
+              ],
+              [
+                -112.220643,
+                33.416127
+              ]
+            ],
+            [
+              [
+                -112.220578,
+                33.4218
+              ],
+              [
+                -112.220601,
+                33.41969
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522101,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.22839,
+                33.422973
+              ],
+              [
+                -112.228925,
+                33.422971
+              ]
+            ],
+            [
+              [
+                -112.222213,
+                33.423031
+              ],
+              [
+                -112.22839,
+                33.422973
+              ]
+            ],
+            [
+              [
+                -112.22839,
+                33.422973
+              ],
+              [
+                -112.227368,
+                33.422891
+              ],
+              [
+                -112.22118,
+                33.422917
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284901,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S 72nd Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.215565,
+              33.419619
+            ],
+            [
+              -112.215565,
+              33.420654
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152605740,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Pomo St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234032,
+                33.431383
+              ],
+              [
+                -112.231945,
+                33.431343
+              ]
+            ],
+            [
+              [
+                -112.231001,
+                33.431337
+              ],
+              [
+                -112.229928,
+                33.431309
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284937,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Pioneer St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.215188,
+                33.418029
+              ],
+              [
+                -112.216478,
+                33.418094
+              ]
+            ],
+            [
+              [
+                -112.214596,
+                33.418074
+              ],
+              [
+                -112.214355,
+                33.418034
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284934,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Payson Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.232564,
+                33.422353
+              ],
+              [
+                -112.233618,
+                33.422403
+              ]
+            ],
+            [
+              [
+                -112.23157,
+                33.422574
+              ],
+              [
+                -112.230298,
+                33.422568
+              ]
+            ],
+            [
+              [
+                -112.217384,
+                33.422573
+              ],
+              [
+                -112.218313,
+                33.422522
+              ],
+              [
+                -112.218528,
+                33.422599
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 241970047,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Winslow Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.214755,
+                33.422177
+              ],
+              [
+                -112.216434,
+                33.422135
+              ]
+            ],
+            [
+              [
+                -112.214355,
+                33.422203
+              ],
+              [
+                -112.214541,
+                33.422186
+              ]
+            ],
+            [
+              [
+                -112.214569,
+                33.422241
+              ],
+              [
+                -112.214755,
+                33.422177
+              ]
+            ],
+            [
+              [
+                -112.214755,
+                33.422177
+              ],
+              [
+                -112.214646,
+                33.422094
+              ],
+              [
+                -112.214541,
+                33.422186
+              ]
+            ],
+            [
+              [
+                -112.214541,
+                33.422186
+              ],
+              [
+                -112.214569,
+                33.422241
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571017,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Globe Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236328,
+                33.418107
+              ],
+              [
+                -112.236141,
+                33.417903
+              ],
+              [
+                -112.234539,
+                33.417903
+              ]
+            ],
+            [
+              [
+                -112.234558,
+                33.418651
+              ],
+              [
+                -112.235666,
+                33.418709
+              ]
+            ],
+            [
+              [
+                -112.229875,
+                33.418986
+              ],
+              [
+                -112.230486,
+                33.418982
+              ],
+              [
+                -112.231161,
+                33.418606
+              ]
+            ],
+            [
+              [
+                -112.221234,
+                33.418946
+              ],
+              [
+                -112.2174,
+                33.41892
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571022,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Florence Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234692,
+                33.420258
+              ],
+              [
+                -112.235346,
+                33.420302
+              ],
+              [
+                -112.235679,
+                33.420119
+              ],
+              [
+                -112.236135,
+                33.42032
+              ],
+              [
+                -112.236328,
+                33.42032
+              ]
+            ],
+            [
+              [
+                -112.230234,
+                33.42027
+              ],
+              [
+                -112.231537,
+                33.420325
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355241354,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "industrial",
+          "sort_key": 360,
+          "name": "W Durango St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.221175,
+              33.43018
+            ],
+            [
+              -112.216785,
+              33.43014
+            ],
+            [
+              -112.216782,
+              33.426824
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152571008,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Riverside Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.23363,
+              33.417101
+            ],
+            [
+              -112.235668,
+              33.417065
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152752793,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236038,
+                33.417873
+              ],
+              [
+                -112.236012,
+                33.417942
+              ]
+            ],
+            [
+              [
+                -112.235861,
+                33.418766
+              ],
+              [
+                -112.235828,
+                33.418811
+              ]
+            ],
+            [
+              [
+                -112.231553,
+                33.418786
+              ],
+              [
+                -112.231507,
+                33.418868
+              ]
+            ],
+            [
+              [
+                -112.231243,
+                33.418554
+              ],
+              [
+                -112.231215,
+                33.418535
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 131284892,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 74th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.219439,
+              33.414414
+            ],
+            [
+              -112.219318,
+              33.415176
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152605723,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Chickasaw St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.231922,
+              33.430578
+            ],
+            [
+              -112.229962,
+              33.430565
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570992,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Forest Grove Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.235674,
+                33.416658
+              ],
+              [
+                -112.236328,
+                33.41666
+              ]
+            ],
+            [
+              [
+                -112.231624,
+                33.416738
+              ],
+              [
+                -112.233627,
+                33.416658
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 227522103,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 377,
+          "name": "W Lower Buckeye Rd.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.228925,
+              33.422971
+            ],
+            [
+              -112.233533,
+              33.422978
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152570984,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 79th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.230615,
+                33.420333
+              ],
+              [
+                -112.230486,
+                33.418982
+              ]
+            ],
+            [
+              [
+                -112.230298,
+                33.422568
+              ],
+              [
+                -112.230277,
+                33.421838
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 355243947,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "S 75th Ave.",
+          "sort_key": 377,
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.221217,
+                33.41995
+              ],
+              [
+                -112.22133,
+                33.413102
+              ]
+            ],
+            [
+              [
+                -112.221178,
+                33.427505
+              ],
+              [
+                -112.221179,
+                33.423141
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30582538,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Elwood St.",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.236328,
+                33.416112
+              ],
+              [
+                -112.231951,
+                33.416142
+              ]
+            ],
+            [
+              [
+                -112.231951,
+                33.416142
+              ],
+              [
+                -112.231492,
+                33.41615
+              ]
+            ],
+            [
+              [
+                -112.231573,
+                33.416313
+              ],
+              [
+                -112.231951,
+                33.416142
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 152601569,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Whyman Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.234161,
+                33.42726
+              ],
+              [
+                -112.23555,
+                33.426919
+              ],
+              [
+                -112.236328,
+                33.426896
+              ]
+            ],
+            [
+              [
+                -112.229994,
+                33.427365
+              ],
+              [
+                -112.231672,
+                33.427363
+              ],
+              [
+                -112.233024,
+                33.426965
+              ],
+              [
+                -112.234161,
+                33.426888
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

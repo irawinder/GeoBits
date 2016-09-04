@@ -1,0 +1,1123 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 89928523,
+          "area": 1717,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -92.427199,
+              31.396526
+            ],
+            [
+              -92.427193,
+              31.396818
+            ],
+            [
+              -92.427135,
+              31.396906
+            ],
+            [
+              -92.426968,
+              31.396906
+            ],
+            [
+              -92.426872,
+              31.396796
+            ],
+            [
+              -92.426834,
+              31.396592
+            ],
+            [
+              -92.426885,
+              31.396537
+            ],
+            [
+              -92.427199,
+              31.396526
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 89905179,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.419945,
+              31.400535
+            ],
+            [
+              -92.420145,
+              31.400078
+            ],
+            [
+              -92.420229,
+              31.399704
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89906150,
+          "source": "openstreetmap.org",
+          "name": "Flagon Bayou",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.423898,
+              31.400535
+            ],
+            [
+              -92.424185,
+              31.400376
+            ],
+            [
+              -92.424185,
+              31.400134
+            ],
+            [
+              -92.424057,
+              31.399974
+            ],
+            [
+              -92.423839,
+              31.399892
+            ],
+            [
+              -92.423281,
+              31.399842
+            ],
+            [
+              -92.423236,
+              31.399677
+            ],
+            [
+              -92.423332,
+              31.399314
+            ],
+            [
+              -92.423223,
+              31.399166
+            ],
+            [
+              -92.422832,
+              31.398951
+            ],
+            [
+              -92.422653,
+              31.39894
+            ],
+            [
+              -92.421883,
+              31.399529
+            ],
+            [
+              -92.421101,
+              31.399556
+            ],
+            [
+              -92.420832,
+              31.399512
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89907827,
+          "source": "openstreetmap.org",
+          "name": "Flagon Bayou",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.420832,
+              31.399512
+            ],
+            [
+              -92.42046,
+              31.39955
+            ],
+            [
+              -92.420229,
+              31.399704
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89907827,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Flagon Bayou",
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.42046,
+            31.39955
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89908048,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427979,
+              31.393766
+            ],
+            [
+              -92.427309,
+              31.393958
+            ],
+            [
+              -92.426302,
+              31.394574
+            ],
+            [
+              -92.42609,
+              31.394799
+            ],
+            [
+              -92.425936,
+              31.39514
+            ],
+            [
+              -92.42566,
+              31.395349
+            ],
+            [
+              -92.425513,
+              31.395591
+            ],
+            [
+              -92.425564,
+              31.39569
+            ],
+            [
+              -92.425096,
+              31.395822
+            ],
+            [
+              -92.424846,
+              31.396003
+            ],
+            [
+              -92.424468,
+              31.396471
+            ],
+            [
+              -92.423583,
+              31.396817
+            ],
+            [
+              -92.423583,
+              31.3969
+            ],
+            [
+              -92.423711,
+              31.396971
+            ],
+            [
+              -92.423692,
+              31.397153
+            ],
+            [
+              -92.423083,
+              31.397367
+            ],
+            [
+              -92.422723,
+              31.39784
+            ],
+            [
+              -92.422198,
+              31.397928
+            ],
+            [
+              -92.422063,
+              31.398583
+            ],
+            [
+              -92.42171,
+              31.398753
+            ],
+            [
+              -92.421646,
+              31.399204
+            ],
+            [
+              -92.421447,
+              31.399314
+            ],
+            [
+              -92.421037,
+              31.39938
+            ],
+            [
+              -92.420832,
+              31.399512
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89917790,
+          "source": "openstreetmap.org",
+          "name": "Flagon Bayou",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.420229,
+              31.399704
+            ],
+            [
+              -92.419979,
+              31.399688
+            ],
+            [
+              -92.419716,
+              31.399847
+            ],
+            [
+              -92.419472,
+              31.399842
+            ],
+            [
+              -92.418933,
+              31.3996
+            ],
+            [
+              -92.417779,
+              31.399621
+            ],
+            [
+              -92.417548,
+              31.399566
+            ],
+            [
+              -92.417407,
+              31.399468
+            ],
+            [
+              -92.417491,
+              31.399071
+            ],
+            [
+              -92.417414,
+              31.398917
+            ],
+            [
+              -92.417196,
+              31.398857
+            ],
+            [
+              -92.417145,
+              31.398736
+            ],
+            [
+              -92.417234,
+              31.398659
+            ],
+            [
+              -92.417606,
+              31.398703
+            ],
+            [
+              -92.417709,
+              31.398631
+            ],
+            [
+              -92.417671,
+              31.398433
+            ],
+            [
+              -92.417196,
+              31.398158
+            ],
+            [
+              -92.417126,
+              31.398004
+            ],
+            [
+              -92.417151,
+              31.397691
+            ],
+            [
+              -92.417068,
+              31.397603
+            ],
+            [
+              -92.416992,
+              31.397629
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89917790,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "name": "Flagon Bayou",
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.417196,
+            31.398158
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 89928523,
+          "area": 1717,
+          "source": "openstreetmap.org",
+          "sort_key": 367,
+          "boundary": "yes",
+          "kind": "water"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427199,
+              31.396526
+            ],
+            [
+              -92.427192,
+              31.396817
+            ],
+            [
+              -92.427135,
+              31.396906
+            ],
+            [
+              -92.426968,
+              31.396906
+            ],
+            [
+              -92.426872,
+              31.396795
+            ],
+            [
+              -92.426833,
+              31.396592
+            ],
+            [
+              -92.426885,
+              31.396538
+            ],
+            [
+              -92.427199,
+              31.396526
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [{
+      "properties": {
+        "id": -132224,
+        "admin_level": 8,
+        "id:left": -132224,
+        "sort_key": 252,
+        "name": "Ball",
+        "name:left": "Ball",
+        "id:right": 34234077,
+        "osm_relation:left": true,
+        "kind": "municipality"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.423898,
+            31.400535
+          ],
+          [
+            -92.424185,
+            31.400376
+          ],
+          [
+            -92.424185,
+            31.400134
+          ],
+          [
+            -92.424057,
+            31.399974
+          ],
+          [
+            -92.423839,
+            31.399892
+          ],
+          [
+            -92.423281,
+            31.399842
+          ],
+          [
+            -92.423236,
+            31.399677
+          ],
+          [
+            -92.423332,
+            31.399314
+          ],
+          [
+            -92.423223,
+            31.399166
+          ],
+          [
+            -92.422832,
+            31.398951
+          ],
+          [
+            -92.422653,
+            31.39894
+          ],
+          [
+            -92.421883,
+            31.399529
+          ],
+          [
+            -92.421101,
+            31.399556
+          ],
+          [
+            -92.420703,
+            31.399495
+          ],
+          [
+            -92.42046,
+            31.39955
+          ],
+          [
+            -92.420229,
+            31.399704
+          ],
+          [
+            -92.419979,
+            31.399688
+          ],
+          [
+            -92.419716,
+            31.399847
+          ],
+          [
+            -92.419472,
+            31.399842
+          ],
+          [
+            -92.418933,
+            31.3996
+          ],
+          [
+            -92.417779,
+            31.399621
+          ],
+          [
+            -92.417407,
+            31.399468
+          ],
+          [
+            -92.417491,
+            31.399071
+          ],
+          [
+            -92.417414,
+            31.398917
+          ],
+          [
+            -92.417196,
+            31.398857
+          ],
+          [
+            -92.417145,
+            31.398736
+          ],
+          [
+            -92.417234,
+            31.398659
+          ],
+          [
+            -92.417606,
+            31.398703
+          ],
+          [
+            -92.417709,
+            31.398631
+          ],
+          [
+            -92.417671,
+            31.398433
+          ],
+          [
+            -92.417196,
+            31.398158
+          ],
+          [
+            -92.417126,
+            31.398004
+          ],
+          [
+            -92.417151,
+            31.397691
+          ],
+          [
+            -92.417068,
+            31.397603
+          ],
+          [
+            -92.416992,
+            31.397629
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.416992,
+            31.391158
+          ],
+          [
+            -92.427979,
+            31.391158
+          ],
+          [
+            -92.427979,
+            31.400535
+          ],
+          [
+            -92.416992,
+            31.400535
+          ],
+          [
+            -92.416992,
+            31.391158
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 13415752,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Louisiana Southern Railroad",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427979,
+              31.39165
+            ],
+            [
+              -92.427845,
+              31.391158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51706585,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.426827,
+              31.391158
+            ],
+            [
+              -92.426516,
+              31.392249
+            ],
+            [
+              -92.426262,
+              31.392774
+            ],
+            [
+              -92.425846,
+              31.393395
+            ],
+            [
+              -92.425134,
+              31.394141
+            ],
+            [
+              -92.423162,
+              31.395722
+            ],
+            [
+              -92.42175,
+              31.397385
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13426277,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Clifton St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.41734,
+              31.392069
+            ],
+            [
+              -92.418233,
+              31.392203
+            ],
+            [
+              -92.419923,
+              31.392194
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13421233,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Stephen Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.425616,
+              31.398922
+            ],
+            [
+              -92.425391,
+              31.398545
+            ],
+            [
+              -92.425353,
+              31.398241
+            ],
+            [
+              -92.425447,
+              31.398139
+            ],
+            [
+              -92.425578,
+              31.398079
+            ],
+            [
+              -92.426665,
+              31.398167
+            ],
+            [
+              -92.427979,
+              31.397605
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13418811,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Moser Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.418849,
+              31.391158
+            ],
+            [
+              -92.41887,
+              31.393422
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13420699,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Arlene St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.416992,
+              31.393103
+            ],
+            [
+              -92.417226,
+              31.39309
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430303,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Cockerham Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.427979,
+              31.399262
+            ],
+            [
+              -92.424248,
+              31.400187
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51706593,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "name": "Monroe Subdivision",
+          "operator": "UP",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.419671,
+              31.400535
+            ],
+            [
+              -92.420022,
+              31.399854
+            ],
+            [
+              -92.42063,
+              31.398902
+            ],
+            [
+              -92.422617,
+              31.396231
+            ],
+            [
+              -92.423309,
+              31.395514
+            ],
+            [
+              -92.425157,
+              31.394048
+            ],
+            [
+              -92.425823,
+              31.393326
+            ],
+            [
+              -92.4262,
+              31.392773
+            ],
+            [
+              -92.426504,
+              31.392136
+            ],
+            [
+              -92.426777,
+              31.391158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13430079,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Samantha Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.420433,
+              31.391171
+            ],
+            [
+              -92.419996,
+              31.391421
+            ],
+            [
+              -92.419924,
+              31.391554
+            ],
+            [
+              -92.419878,
+              31.393948
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13427509,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Wall Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.423289,
+              31.391837
+            ],
+            [
+              -92.423278,
+              31.391158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13424693,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Davis Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.417457,
+              31.391158
+            ],
+            [
+              -92.417438,
+              31.39125
+            ],
+            [
+              -92.417472,
+              31.391564
+            ],
+            [
+              -92.41734,
+              31.392069
+            ],
+            [
+              -92.417095,
+              31.392532
+            ],
+            [
+              -92.416992,
+              31.392668
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 316317096,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "name": "Stanfield Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.425593,
+              31.394606
+            ],
+            [
+              -92.426476,
+              31.394841
+            ],
+            [
+              -92.4273,
+              31.394852
+            ],
+            [
+              -92.427491,
+              31.395243
+            ],
+            [
+              -92.427979,
+              31.395269
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13428294,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Jr High Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.425466,
+              31.391158
+            ],
+            [
+              -92.42548,
+              31.391999
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

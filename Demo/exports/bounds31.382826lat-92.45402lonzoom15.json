@@ -1,0 +1,298 @@
+{
+  "water": {
+    "features": [
+      {
+        "properties": {
+          "id": 90067189,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.455237,
+              31.3836
+            ],
+            [
+              -92.456083,
+              31.383397
+            ],
+            [
+              -92.456455,
+              31.383182
+            ],
+            [
+              -92.456871,
+              31.382819
+            ],
+            [
+              -92.456903,
+              31.382626
+            ],
+            [
+              -92.456807,
+              31.382071
+            ],
+            [
+              -92.456682,
+              31.381779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90106066,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.449951,
+              31.383047
+            ],
+            [
+              -92.450127,
+              31.382974
+            ],
+            [
+              -92.450633,
+              31.382171
+            ],
+            [
+              -92.450758,
+              31.381779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90132734,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.449951,
+              31.390987
+            ],
+            [
+              -92.449974,
+              31.391004
+            ],
+            [
+              -92.450122,
+              31.391158
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 266483,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -92.449951,
+            31.381779
+          ],
+          [
+            -92.460937,
+            31.381779
+          ],
+          [
+            -92.460937,
+            31.391158
+          ],
+          [
+            -92.449951,
+            31.391158
+          ],
+          [
+            -92.449951,
+            31.381779
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 88696366,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -92.455604,
+                31.388033
+              ],
+              [
+                -92.455596,
+                31.390373
+              ]
+            ],
+            [
+              [
+                -92.450365,
+                31.390458
+              ],
+              [
+                -92.450365,
+                31.391026
+              ],
+              [
+                -92.450246,
+                31.39109
+              ],
+              [
+                -92.449951,
+                31.39105
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13425983,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Tullis St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.459349,
+              31.390475
+            ],
+            [
+              -92.459544,
+              31.388138
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 13431645,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Fuglaar Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.451737,
+              31.38998
+            ],
+            [
+              -92.452103,
+              31.389664
+            ],
+            [
+              -92.452133,
+              31.388027
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 88537369,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hickory Hill Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -92.449951,
+              31.388027
+            ],
+            [
+              -92.455604,
+              31.388033
+            ],
+            [
+              -92.460937,
+              31.38817
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

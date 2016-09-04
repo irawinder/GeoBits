@@ -1,0 +1,2181 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [{
+      "properties": {
+        "id": 1187,
+        "admin_level": 4,
+        "scalerank": 2,
+        "name": "Kansas - Nebraska",
+        "sort_key": 256,
+        "kind": "state"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.4375,
+            40.0001
+          ],
+          [
+            -98.4612,
+            40.0001
+          ],
+          [
+            -98.6708,
+            40.0001
+          ],
+          [
+            -98.8804,
+            40.0001
+          ],
+          [
+            -99.0901,
+            40.0001
+          ],
+          [
+            -99.2996,
+            40.0001
+          ],
+          [
+            -99.5092,
+            40.0001
+          ],
+          [
+            -99.7188,
+            40.0001
+          ],
+          [
+            -99.9284,
+            40.0001
+          ],
+          [
+            -100.138,
+            40.0001
+          ],
+          [
+            -100.3476,
+            40.0001
+          ],
+          [
+            -100.5572,
+            40.0001
+          ],
+          [
+            -100.7668,
+            40.0001
+          ],
+          [
+            -100.9764,
+            40.0001
+          ],
+          [
+            -101.186,
+            40.0001
+          ],
+          [
+            -101.25,
+            40.0001
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 6924,
+        "source": "naturalearthdata.com",
+        "sort_key": 10,
+        "min_zoom": 0,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -98.4375,
+            38.8226
+          ],
+          [
+            -101.25,
+            38.8226
+          ],
+          [
+            -101.25,
+            40.9799
+          ],
+          [
+            -98.4375,
+            40.9799
+          ],
+          [
+            -98.4375,
+            38.8226
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [
+      {
+        "properties": {
+          "name:lmo": "Stat Ünì d'America",
+          "name:or": "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା",
+          "name:os": "АИШ",
+          "name:mwl": "Stados Ounidos de la América",
+          "name:om": "United States",
+          "name:oc": "Estats Units d'America",
+          "name:map-bms": "Amerika Serikat",
+          "name:ab": "Америка Еиду Аштатқәа",
+          "name:af": "Verenigde State van Amerika",
+          "alt_name:sr": "САД; Сједињене Државе",
+          "name:no": "Amerikas forente stater",
+          "name:am": "የተባበሩት የአሜሪካ ግዛቶች",
+          "name:ak": "Amɛrika",
+          "name:an": "Estatos Unitos d'America",
+          "name:nv": "Wááshindoon Bikéyah Ałhidadiidzooígíí",
+          "name:ckb": "وڵاتە یەکگرتووەکان",
+          "name:simple": "United States",
+          "name:dsb": "Zjadnośone staty Ameriki",
+          "name:nl": "Verenigde Staten van Amerika",
+          "name:ace": "Amirika Carékat",
+          "name:nn": "USA",
+          "alt_name:eo": "Usono",
+          "name:nb": "USA",
+          "name:na": "Eben Merika",
+          "name:aa": "United States",
+          "name:ne": "संयुक्त राज्य अमेरिका",
+          "name:myv": "Американь Вейтьсэндявкс Штаттнэ",
+          "name:pih": "Yunitid Staits",
+          "name:qu": "Hukllachasqa Amirika Suyukuna",
+          "alt_name:vi": "Mỹ",
+          "name:min": "Amerika Sarikat",
+          "name:ast": "Estaos Xuníos d'América",
+          "name:szl": "Zjednoczůne Sztaty Ameriki",
+          "old_name:vi": "Mỹ Lợi Kiên; Ma Ly Căn; Nhã Di Lý",
+          "name:mzn": "متحده ایالات آمریکا",
+          "name:ps": "د امريکا متحده ايالات",
+          "name:pt": "Estados Unidos da América",
+          "name:pl": "Stany Zjednoczone Ameryki",
+          "name:mhr": "Америкысе Ушымо Штатвлак",
+          "name:cbk-zam": "Estados Unidos de America",
+          "name:glk": "امریکا",
+          "name:pa": "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ",
+          "name:lij": "Stati Unïi d'America",
+          "name:sw": "Muungano wa Madola ya Amerika",
+          "name:sv": "Förenta staterna",
+          "name:su": "Amérika Sarikat",
+          "name:ext": "Estaus Uñíus d'América",
+          "name:de": "Vereinigte Staaten von Amerika",
+          "name:chr": "ᎠᎹᏰᏟ",
+          "name:ta": "அமெரிக்க ஐக்கிய நாடு",
+          "name:sg": "ÂLeaa-Ôko tî Amerika",
+          "name:sd": "آمريڪا",
+          "name:se": "Amerihká ovttastuvvan stáhtat",
+          "name:da": "Amerikas Forenede Stater",
+          "name:sk": "Spojené štáty americké",
+          "name:sh": "Sjedinjene Američke Države",
+          "name:si": "අ'මෙරිකා\u200dවේ එක්සත් රාජ්\u200dයයන",
+          "name:sn": "Amerika",
+          "name:cu": "Амєрика́ньскꙑ Ѥдьнѥнꙑ́ Дрьжа́вꙑ",
+          "name:so": "Maraykanka",
+          "name:cv": "Америкӑри Пӗрлешӳллӗ Штатсем",
+          "name:sl": "Združene države Amerike",
+          "name:sm": "Iunaite Sitete o Amerika",
+          "name:sr": "Сједињене Америчке Државе",
+          "name:cy": "Unol Daleithiau America",
+          "name:ss": "IMelika",
+          "name:hif": "United States",
+          "name:sq": "Shtetet e Bashkuara të Amerikës",
+          "name:eo": "Unuiĝintaj Ŝtatoj de Ameriko",
+          "name:ru": "Соединённые Штаты Америки",
+          "name:eu": "Ameriketako Estatu Batuak",
+          "name:rw": "Leta Zunze Ubumwe z\u2019Amerika",
+          "name:et": "Ameerika Ühendriigid",
+          "name:es": "Estados Unidos de América",
+          "name:sa": "संयुक्तानि राज्यानि",
+          "name:el": "Ηνωμένες Πολιτείες της Αμερικής",
+          "name:sc": "Istados Unidos de America",
+          "name:ee": "USA nutome",
+          "name:rm": "Stadis Unids da l'America",
+          "name:rn": "Leta Zunze Ubumwe za Amerika",
+          "name:dv": "އެމެރިކާ",
+          "name:zh-classical": "美利堅合眾國",
+          "name:ro": "Statele Unite ale Americii",
+          "name:dz": "ཡུ་ཨེས་ཨེ",
+          "name:zh_pinyin": "Měiguó",
+          "name:bo": "ཨ་མེ་རི་ཀ་",
+          "name:br": "Stadoù-Unanet Amerika",
+          "name:uz": "Amerika Qoʻshma Shtatlari",
+          "name:tpi": "Yunaitet Stet bilong Amerika",
+          "name:bn": "মার্কিন যুক্তরাষ্ট্র",
+          "name:pms": "Stat Unì d'América",
+          "name:bm": "Ameriki",
+          "name:new": "संयुक्त राज्य अमेरिका",
+          "name:bg": "Съединени американски щати",
+          "name:bi": "Yunaeted Stet blong Amerika",
+          "name:be": "Злучаныя Штаты Амерыкі",
+          "name:ba": "Америка Ҡушма Штаттары",
+          "name:uk": "Сполучені Штати Америки",
+          "name:az": "Amerika Birləşmiş Ştatları",
+          "name:pnb": "امریکہ",
+          "name": "United States of America",
+          "name:ug": "ئامېرىكا قوشما شتاتلىرى",
+          "name:av": "Америкалъул Цолъарал Штатал",
+          "name:ur": "ریاستہائے متحدہ امریکہ",
+          "name:ay": "Istadus Unidus",
+          "name:rue": "Споєны Штаты Америцькы",
+          "name:ar": "الولايات المتّحدة الأمريكيّة",
+          "name:as": "মাৰ্কিন যুক্তৰাষ্ট্ৰ",
+          "population": 305683227,
+          "name:cs": "Spojené státy americké",
+          "name:ty": "Fenua Marite",
+          "name:co": "Stati Uniti d'America",
+          "name:diq": "Dewletê Amerikayê Yewbiyayey",
+          "name:vep": "Amerikan Ühtenzoittud Valdkundad",
+          "name:zea": "Vereênigde Staeten",
+          "name:tw": "USA",
+          "name:xmf": "ამერიკაშ აკოართაფილი შტატეფი",
+          "name:ce": "Iамерка пачхьалк",
+          "name:ti": "አሜሪካ",
+          "name:chy": "United States",
+          "name:fur": "Stâts Unîts di Americhe",
+          "name:tk": "Amerikanyň Birleşen Ştatlary",
+          "name:vec": "Stati Unìi de la Mèrica",
+          "name:ca": "Estats Units d'Amèrica",
+          "name:tl": "Estados Unidos ng Amerika",
+          "name:te": "అమెరికా సంయుక్త రాష్ట్రాలు",
+          "source": "openstreetmap.org",
+          "name:nds": "Verenigten Staten vun Amerika",
+          "name:tg": "Штатҳои Муттаҳидаи Америка",
+          "name:mdf": "Америконь Аймакнень Соткссна",
+          "name:th": "สหรัฐอเมริกา",
+          "name:tr": "Amerika Birleşik Devletleri",
+          "name:ts": "United States",
+          "name:tt": "Америка Кушма Штатлары",
+          "name:tn": "USA",
+          "name:bxr": "Американ Нэгэдэһэн Улас",
+          "name:to": "Puleʻanga Fakataha 'o 'Amelika",
+          "name:bs": "Sjedinjene Američke Države",
+          "name:ga": "Stáit Aontaithe Mheiriceá",
+          "name:gd": "Na Stàitean Aonaichte",
+          "name:vo": "Lamerikän",
+          "name:fy": "Feriene Steaten fan Amearika",
+          "name:vi": "Hoa Kỳ",
+          "name:eml": "Stat Unî",
+          "name:gu": "સંયુક્ત રાજ્ય અમેરિકા",
+          "name:gv": "Steatyn Unnaneysit America",
+          "name:cdo": "Mī-lé-giĕng Hăk-cé̤ṳng-guók",
+          "name:wa": "Estats Unis d' Amerike",
+          "name:gl": "Estados Unidos de América",
+          "name:gn": "Tetã peteĩ reko Amérikagua",
+          "name:fa": "ایالات متحده آمریکا",
+          "name:nap": "State Aunite d'Amereca",
+          "name:udm": "Америкалэн Огазеяськем Штатъёсыз",
+          "name:ff": "Dowlaaji Dentuɗi Amerik",
+          "name:pap": "Estadonan Uni di Merka",
+          "name:nah": "Tlacetilīlli Tlahtohcāyōtl Ixachitlān",
+          "name:wo": "Diwaan-yu-Bennoo yu Aamerig",
+          "name:fr": "États-Unis d'Amérique",
+          "name:pag": "Estados Unidos",
+          "name:ang": "Geānlǣtan Rīcu American",
+          "name:fo": "Sambandsríkið Amerika",
+          "name:xh": "IYunayithedi Steyitsi",
+          "name:lez": "Америкадин Садхьанвай Штатар",
+          "name:fi": "Yhdysvallat",
+          "name:pam": "United States ning America",
+          "name:ig": "Njikota Obodo Amerika",
+          "name:fiu-vro": "Ameeriga Ütisriigiq",
+          "name:ii": "ꂰꇩ",
+          "name:bat-smg": "JAV",
+          "name:xal": "Америкин Ниицәтә Орн Нутгуд",
+          "name:sco": "Unitit States o Americae",
+          "scalerank": 0,
+          "name:csb": "Zjednóné Kraje Americzi",
+          "name:ie": "Unit States de America",
+          "name:id": "Amerika Serikat",
+          "name:ia": "Statos Unite de America",
+          "name:hy": "Ամերիկայի Միացյալ Նահանգներ",
+          "kind": "country",
+          "name:ilo": "stados Unidos iti Amerika",
+          "name:yi": "פאראייניקטע שטאטן פון אמעריקע",
+          "name:is": "Bandaríki Norður-Ameríku",
+          "name:it": "Stati Uniti d'America",
+          "name:iu": "ᐊᒥᐊᓕᑲ",
+          "name:nrm": "Êtats Unnis d'Améthique",
+          "name:mrj": "Америкын Ушымы Штатвлӓжӹ",
+          "name:io": "Unionita Stati di Amerika",
+          "name:scn": "Stati Uniti",
+          "name:he": "ארצות הברית",
+          "name:als": "Vereinigte Schtaate vo Amerika",
+          "name:zh-yue": "即美利堅合眾國",
+          "name:ha": "kunkiyar taraiyar Amurika",
+          "name:wuu": "美利坚合众国",
+          "name:yo": "Orílẹ́ède Orilẹede Amerika",
+          "name:pcd": "États-Unis Anmérikes",
+          "name:hu": "Amerikai Egyesült Államok",
+          "name:zh": "美国",
+          "name:ht": "Etazini",
+          "name:hr": "Sjedinjene Američke Države",
+          "name:ksh": "de Vereineschte Schtaate vun Ammärrika",
+          "name:ceb": "Estados Unidos sa Amerika",
+          "name:za": "Meijgoz",
+          "name:hi": "संयुक्त राज्य अमेरिका",
+          "name:ka": "ამერიკის შეერთებული შტატები",
+          "name:nov": "Unionati States de Amerika",
+          "name:srn": "Kondre Makandrameki",
+          "name:krc": "Американы Бирлешген Штатлары",
+          "name:zu": "i-United States",
+          "name:ki": "Amerika",
+          "name:kk": "Америка Құрама Штаттары",
+          "name:km": "សហរដ្ឋអាមេរិក",
+          "name:kl": "Naalagaaffeqatigiit",
+          "name:ko": "미국",
+          "name:sah": "Америка Холбоһуктаах Штаттара",
+          "name:haw": "\u2018Amelika Hui Pū \u2018ia",
+          "name:kn": "ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+          "name:gan": "美國",
+          "name:ks": "संयुक्त राज्\u200dय अमेरिका",
+          "name:ku": "Dewletên Yekbûyî yên Amerîkayê",
+          "name:tet": "Estadu Naklibur Sira Amérika Nian",
+          "name:kw": "Statys Unys Amerika",
+          "name:kv": "Америкаса Ӧтувтӧм Штатъяс",
+          "name:ky": "Америка Кошмо Штаттары",
+          "name:kaa": "Amerika Qurama Shtatları",
+          "name:pdc": "Vereenichde Schtaate vun Amerikaa",
+          "name:kab": "WDM",
+          "name:hak": "Mî-li-kiên Ha̍p-chung-koet",
+          "name:crh": "Amerika Qoşma Ştatları",
+          "name:ja": "アメリカ合衆国",
+          "name:arz": "امريكا",
+          "name:bcl": "Estados Unidos",
+          "name:gag": "Amerika Birleşik Devletläri",
+          "name:lad": "Estatos Unitos d'Amerika",
+          "name:arc": "ܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܟܐ",
+          "name:frp": "Ètats-Unis d\u2019Amèrica",
+          "name:frr": "Feriind Stoote foon Ameerika",
+          "name:zh-min-nan": "America Ha̍p-chiòng-kok",
+          "name:jv": "Amérika Sarékat",
+          "name:kbd": "Америкэ Штат Зэгуэт",
+          "name:vls": "Verênigde Stoaten van Amerika",
+          "name:mk": "Соединети Американски Држави",
+          "name:be-tarask": "Злучаныя Штаты Амэрыкі",
+          "name:lbe": "Американал ЦачӀунхьу Штатру",
+          "name:ml": "അമേരിക്കന്\u200d ഐക്യനാടുകള്",
+          "name:mg": "Etazonia",
+          "name:mi": "Hononga-o-Amerika",
+          "name:stq": "Fereende Stoaten fon Amerikoa",
+          "id": 424317935,
+          "name:ms": "Amerika Syarikat",
+          "name:mr": "संयुक्त राज्ये /अमेरिका",
+          "name:mt": "Stati Uniti tal-Amerika",
+          "name:bar": "Vaeinigtn Staatn vo Amerika",
+          "name:war": "Estados Unidos",
+          "name:mn": "Америкийн Нэгдсэн Улс",
+          "name:hsb": "Zjednoćene staty Ameriki",
+          "name:jbo": "mergu'e",
+          "name:nds-nl": "Verienigde Staoten van Amerika",
+          "name:my": "ယူနိုက်တက်စတိတ်",
+          "name:ltg": "Amerikys Saškierstuos Vaļsteibys",
+          "name:pfl": "Verainischde Schdaade vun Ameriga",
+          "name:la": "Civitates Foederatae Americae",
+          "name:lb": "Vereenegt Staate vun Amerika",
+          "name:li": "Vereinegde State van Amerika",
+          "name:lg": "Amerika",
+          "name:lt": "Jungtinės Amerikos Valstijos",
+          "name:lo": "ສະຫະລັດ",
+          "name:ln": "Lisangá lya Ameríka",
+          "name:koi": "Америкаись Ӧтлаасьӧм Штаттэз",
+          "name:bpy": "তিলপারাষ্ট্র",
+          "name:roa-tara": "Statère Aunìte d'Americhe",
+          "name:lv": "Amerikas Savienotās Valstis"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -100.4459,
+            39.7837
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1929,
+          "labelrank": 1,
+          "source": "naturalearthdata.com",
+          "scalerank": 7,
+          "name": "McCook",
+          "kind": "Populated place",
+          "population": 8012
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -100.6262,
+            40.2056
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [{
+      "properties": {
+        "id": -905830,
+        "colour": "#005480",
+        "ref": "5-6",
+        "osm_relation": true,
+        "route_name": "California Zephyr",
+        "sort_key": 275,
+        "service": "long_distance",
+        "operator": "Amtrak",
+        "network": "Amtrak",
+        "kind": "train"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -101.25,
+              40.1398
+            ],
+            [
+              -101.1602,
+              40.1611
+            ]
+          ],
+          [
+            [
+              -101.1602,
+              40.1611
+            ],
+            [
+              -101.1597,
+              40.1612
+            ],
+            [
+              -101.1532,
+              40.1628
+            ],
+            [
+              -101.1602,
+              40.1611
+            ]
+          ],
+          [
+            [
+              -101.1602,
+              40.1611
+            ],
+            [
+              -101.0178,
+              40.1786
+            ],
+            [
+              -100.8143,
+              40.2307
+            ],
+            [
+              -100.6903,
+              40.2009
+            ],
+            [
+              -100.5841,
+              40.1968
+            ],
+            [
+              -100.4937,
+              40.2258
+            ],
+            [
+              -100.306,
+              40.2482
+            ],
+            [
+              -100.0276,
+              40.3056
+            ],
+            [
+              -99.8565,
+              40.2994
+            ],
+            [
+              -99.5648,
+              40.2272
+            ],
+            [
+              -99.5273,
+              40.3348
+            ],
+            [
+              -99.3972,
+              40.4297
+            ],
+            [
+              -98.9347,
+              40.5066
+            ],
+            [
+              -98.6662,
+              40.6205
+            ],
+            [
+              -98.5626,
+              40.5947
+            ],
+            [
+              -98.4375,
+              40.5873
+            ]
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 452,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "80",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.2917,
+              40.9799
+            ],
+            [
+              -100.0487,
+              40.8834
+            ],
+            [
+              -99.9549,
+              40.84
+            ],
+            [
+              -99.8455,
+              40.7775
+            ],
+            [
+              -99.7326,
+              40.7427
+            ],
+            [
+              -99.6493,
+              40.7028
+            ],
+            [
+              -99.592,
+              40.6871
+            ],
+            [
+              -99.5364,
+              40.6837
+            ],
+            [
+              -99.3749,
+              40.6871
+            ],
+            [
+              -99.1561,
+              40.6663
+            ],
+            [
+              -99.0693,
+              40.668
+            ],
+            [
+              -98.8383,
+              40.708
+            ],
+            [
+              -98.715,
+              40.7167
+            ],
+            [
+              -98.5691,
+              40.7688
+            ],
+            [
+              -98.4875,
+              40.8052
+            ],
+            [
+              -98.4667,
+              40.807
+            ],
+            [
+              -98.458,
+              40.8191
+            ],
+            [
+              -98.4375,
+              40.8181
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 454,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "6",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              40.3898
+            ],
+            [
+              -101.2053,
+              40.3815
+            ],
+            [
+              -101.1532,
+              40.3641
+            ],
+            [
+              -101.0768,
+              40.3242
+            ],
+            [
+              -100.9743,
+              40.2773
+            ],
+            [
+              -100.8857,
+              40.2426
+            ],
+            [
+              -100.858,
+              40.2356
+            ],
+            [
+              -100.7677,
+              40.2339
+            ],
+            [
+              -100.6409,
+              40.2026
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 455,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "6",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.6079,
+              40.1992
+            ],
+            [
+              -100.5662,
+              40.2061
+            ],
+            [
+              -100.4967,
+              40.2391
+            ],
+            [
+              -100.3491,
+              40.2478
+            ],
+            [
+              -100.3005,
+              40.2547
+            ],
+            [
+              -100.1981,
+              40.2808
+            ],
+            [
+              -100.08,
+              40.2982
+            ],
+            [
+              -99.981,
+              40.3034
+            ],
+            [
+              -99.7726,
+              40.2999
+            ],
+            [
+              -99.6128,
+              40.2912
+            ],
+            [
+              -99.5451,
+              40.3138
+            ],
+            [
+              -99.5312,
+              40.3485
+            ],
+            [
+              -99.5138,
+              40.3624
+            ],
+            [
+              -99.4826,
+              40.3746
+            ],
+            [
+              -99.4513,
+              40.3971
+            ],
+            [
+              -99.394,
+              40.4458
+            ],
+            [
+              -99.2047,
+              40.477
+            ],
+            [
+              -98.979,
+              40.5013
+            ],
+            [
+              -98.9303,
+              40.5118
+            ],
+            [
+              -98.8834,
+              40.5274
+            ],
+            [
+              -98.7966,
+              40.5691
+            ],
+            [
+              -98.4375,
+              40.5691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1874,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.7651,
+              40.9799
+            ],
+            [
+              -100.7555,
+              40.7861
+            ],
+            [
+              -100.7277,
+              40.7583
+            ],
+            [
+              -100.7017,
+              40.7097
+            ],
+            [
+              -100.6339,
+              40.6507
+            ],
+            [
+              -100.6287,
+              40.6229
+            ],
+            [
+              -100.627,
+              40.5951
+            ],
+            [
+              -100.6322,
+              40.5673
+            ],
+            [
+              -100.6461,
+              40.543
+            ],
+            [
+              -100.6513,
+              40.5152
+            ],
+            [
+              -100.6339,
+              40.352
+            ],
+            [
+              -100.6409,
+              40.2026
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1875,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.6409,
+              40.2026
+            ],
+            [
+              -100.6079,
+              40.1992
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1893,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.5714,
+              40.0029
+            ],
+            [
+              -100.5714,
+              40.0516
+            ],
+            [
+              -100.5836,
+              40.062
+            ],
+            [
+              -100.6009,
+              40.1071
+            ],
+            [
+              -100.6079,
+              40.1557
+            ],
+            [
+              -100.6079,
+              40.1992
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1974,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "83",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.8701,
+              39.1919
+            ],
+            [
+              -100.8701,
+              39.4299
+            ],
+            [
+              -100.7294,
+              39.4663
+            ],
+            [
+              -100.535,
+              39.5549
+            ],
+            [
+              -100.5297,
+              39.8518
+            ],
+            [
+              -100.5367,
+              39.9421
+            ],
+            [
+              -100.5645,
+              39.9977
+            ],
+            [
+              -100.5714,
+              40.0029
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 1975,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              39.3689
+            ],
+            [
+              -101.0334,
+              39.3656
+            ],
+            [
+              -101.0212,
+              39.3569
+            ],
+            [
+              -100.9882,
+              39.3187
+            ],
+            [
+              -100.9726,
+              39.3118
+            ],
+            [
+              -100.8701,
+              39.1919
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2016,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.8701,
+              39.1919
+            ],
+            [
+              -100.7989,
+              39.1121
+            ],
+            [
+              -100.5697,
+              39.1121
+            ],
+            [
+              -100.4933,
+              39.1086
+            ],
+            [
+              -100.4151,
+              39.0964
+            ],
+            [
+              -100.3352,
+              39.0964
+            ],
+            [
+              -100.2988,
+              39.086
+            ],
+            [
+              -100.1616,
+              39.0235
+            ],
+            [
+              -99.981,
+              39.0252
+            ],
+            [
+              -99.9237,
+              39.02
+            ],
+            [
+              -99.8282,
+              38.9974
+            ],
+            [
+              -99.6753,
+              38.9749
+            ],
+            [
+              -99.6024,
+              38.9471
+            ],
+            [
+              -99.5277,
+              38.9471
+            ],
+            [
+              -99.4201,
+              38.9193
+            ],
+            [
+              -99.3819,
+              38.9193
+            ],
+            [
+              -99.2655,
+              38.8759
+            ],
+            [
+              -99.1335,
+              38.8776
+            ],
+            [
+              -99.0571,
+              38.862
+            ],
+            [
+              -98.8418,
+              38.862
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2017,
+          "labelrank": "0",
+          "level": "Interstate",
+          "source": "naturalearthdata.com",
+          "sort_key": 381,
+          "name": "70",
+          "type": "Major Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.8418,
+              38.862
+            ],
+            [
+              -98.7793,
+              38.8568
+            ],
+            [
+              -98.6247,
+              38.8585
+            ],
+            [
+              -98.4493,
+              38.8446
+            ],
+            [
+              -98.4375,
+              38.8447
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 2043,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "281",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.8418,
+              38.862
+            ],
+            [
+              -98.8448,
+              38.8226
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50097,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3256,
+              39.7561
+            ],
+            [
+              -99.3286,
+              39.7711
+            ],
+            [
+              -99.3286,
+              39.9879
+            ],
+            [
+              -99.3376,
+              39.9953
+            ],
+            [
+              -99.3615,
+              39.9953
+            ],
+            [
+              -99.3675,
+              40.0013
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50098,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3182,
+              38.8226
+            ],
+            [
+              -99.3166,
+              38.9578
+            ],
+            [
+              -99.3166,
+              39.0609
+            ],
+            [
+              -99.3151,
+              39.0774
+            ],
+            [
+              -99.3062,
+              39.0893
+            ],
+            [
+              -99.3047,
+              39.1163
+            ],
+            [
+              -99.2987,
+              39.1357
+            ],
+            [
+              -99.2972,
+              39.3076
+            ],
+            [
+              -99.2972,
+              39.3884
+            ],
+            [
+              -99.2763,
+              39.4138
+            ],
+            [
+              -99.2748,
+              39.4467
+            ],
+            [
+              -99.2852,
+              39.493
+            ],
+            [
+              -99.2852,
+              39.5678
+            ],
+            [
+              -99.2987,
+              39.5947
+            ],
+            [
+              -99.3002,
+              39.6171
+            ],
+            [
+              -99.3092,
+              39.6455
+            ],
+            [
+              -99.3092,
+              39.7561
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50128,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "283",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.8459,
+              39.5678
+            ],
+            [
+              -99.8504,
+              39.5797
+            ],
+            [
+              -99.8534,
+              39.6246
+            ],
+            [
+              -99.8892,
+              39.6246
+            ],
+            [
+              -99.8892,
+              39.798
+            ],
+            [
+              -99.8892,
+              39.8713
+            ],
+            [
+              -99.8892,
+              39.9894
+            ],
+            [
+              -99.8907,
+              40.0013
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50129,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "283",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.8929,
+              38.8226
+            ],
+            [
+              -99.8922,
+              38.8561
+            ],
+            [
+              -99.8907,
+              39.0146
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50132,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "283",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.8713,
+              39.0206
+            ],
+            [
+              -99.8698,
+              39.1267
+            ],
+            [
+              -99.8668,
+              39.1402
+            ],
+            [
+              -99.8668,
+              39.2269
+            ],
+            [
+              -99.8489,
+              39.2478
+            ],
+            [
+              -99.8459,
+              39.3869
+            ],
+            [
+              -99.8444,
+              39.5648
+            ],
+            [
+              -99.8459,
+              39.5678
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50134,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "36",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.0001,
+              39.8129
+            ],
+            [
+              -100.8207,
+              39.8144
+            ],
+            [
+              -100.7818,
+              39.8279
+            ],
+            [
+              -100.5904,
+              39.8279
+            ],
+            [
+              -100.4783,
+              39.8279
+            ],
+            [
+              -100.3751,
+              39.8279
+            ],
+            [
+              -100.1912,
+              39.8279
+            ],
+            [
+              -99.9221,
+              39.8279
+            ],
+            [
+              -99.8967,
+              39.8384
+            ],
+            [
+              -99.7681,
+              39.8399
+            ],
+            [
+              -99.7308,
+              39.8279
+            ],
+            [
+              -99.5738,
+              39.8279
+            ],
+            [
+              -99.4811,
+              39.8055
+            ],
+            [
+              -99.4617,
+              39.7965
+            ],
+            [
+              -99.4377,
+              39.7935
+            ],
+            [
+              -99.4123,
+              39.7816
+            ],
+            [
+              -99.3824,
+              39.7711
+            ],
+            [
+              -99.351,
+              39.7696
+            ],
+            [
+              -99.3301,
+              39.7561
+            ],
+            [
+              -99.2509,
+              39.7546
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50136,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "36",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.2497,
+              39.786
+            ],
+            [
+              -101.1406,
+              39.7845
+            ],
+            [
+              -101.0688,
+              39.8115
+            ],
+            [
+              -101.0001,
+              39.8129
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50137,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "36",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              39.786
+            ],
+            [
+              -101.2497,
+              39.786
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50138,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "36",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.2509,
+              39.7546
+            ],
+            [
+              -99.0909,
+              39.7561
+            ],
+            [
+              -99.067,
+              39.7711
+            ],
+            [
+              -98.9922,
+              39.7711
+            ],
+            [
+              -98.8248,
+              39.7711
+            ],
+            [
+              -98.7919,
+              39.7845
+            ],
+            [
+              -98.7171,
+              39.786
+            ],
+            [
+              -98.5766,
+              39.7845
+            ],
+            [
+              -98.466,
+              39.786
+            ],
+            [
+              -98.4375,
+              39.7859
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 50140,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "40",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              39.0551
+            ],
+            [
+              -101.1974,
+              39.0759
+            ],
+            [
+              -101.1675,
+              39.0849
+            ],
+            [
+              -101.0703,
+              39.1013
+            ],
+            [
+              -101.0075,
+              39.1058
+            ],
+            [
+              -100.9029,
+              39.1192
+            ],
+            [
+              -100.8087,
+              39.1192
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51335,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3794,
+              40.6935
+            ],
+            [
+              -99.3884,
+              40.7623
+            ],
+            [
+              -99.387,
+              40.9799
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51337,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3675,
+              40.1329
+            ],
+            [
+              -99.369,
+              40.1837
+            ],
+            [
+              -99.3675,
+              40.3213
+            ],
+            [
+              -99.3705,
+              40.4229
+            ],
+            [
+              -99.3794,
+              40.4379
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51338,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3675,
+              40.0013
+            ],
+            [
+              -99.3675,
+              40.0387
+            ],
+            [
+              -99.3749,
+              40.0731
+            ],
+            [
+              -99.369,
+              40.103
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51339,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "283",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.8907,
+              40.0013
+            ],
+            [
+              -99.8922,
+              40.088
+            ],
+            [
+              -99.8952,
+              40.1493
+            ],
+            [
+              -99.8907,
+              40.1942
+            ],
+            [
+              -99.8922,
+              40.2331
+            ],
+            [
+              -99.8982,
+              40.245
+            ],
+            [
+              -99.8982,
+              40.3317
+            ],
+            [
+              -99.9027,
+              40.3527
+            ],
+            [
+              -99.9012,
+              40.3856
+            ],
+            [
+              -99.8967,
+              40.3975
+            ],
+            [
+              -99.8967,
+              40.4289
+            ],
+            [
+              -99.8877,
+              40.4454
+            ],
+            [
+              -99.8877,
+              40.4962
+            ],
+            [
+              -99.8922,
+              40.5216
+            ],
+            [
+              -99.8863,
+              40.5485
+            ],
+            [
+              -99.8608,
+              40.5829
+            ],
+            [
+              -99.8608,
+              40.5949
+            ],
+            [
+              -99.8444,
+              40.6113
+            ],
+            [
+              -99.8309,
+              40.6442
+            ],
+            [
+              -99.8324,
+              40.6756
+            ],
+            [
+              -99.8205,
+              40.6846
+            ],
+            [
+              -99.7951,
+              40.689
+            ],
+            [
+              -99.7876,
+              40.7055
+            ],
+            [
+              -99.7846,
+              40.7294
+            ],
+            [
+              -99.7502,
+              40.7294
+            ],
+            [
+              -99.7397,
+              40.7429
+            ],
+            [
+              -99.7367,
+              40.7758
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51353,
+          "labelrank": "0",
+          "level": "State",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "2",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -98.5214,
+              40.9799
+            ],
+            [
+              -98.4959,
+              40.9671
+            ],
+            [
+              -98.4465,
+              40.9671
+            ],
+            [
+              -98.4375,
+              40.9652
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51356,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "136",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.7801,
+              40.3078
+            ],
+            [
+              -99.7771,
+              40.2764
+            ],
+            [
+              -99.7666,
+              40.2764
+            ],
+            [
+              -99.6276,
+              40.2495
+            ],
+            [
+              -99.5648,
+              40.2181
+            ],
+            [
+              -99.505,
+              40.1747
+            ],
+            [
+              -99.4646,
+              40.1329
+            ],
+            [
+              -99.3675,
+              40.1329
+            ],
+            [
+              -99.369,
+              40.103
+            ],
+            [
+              -99.3256,
+              40.1045
+            ],
+            [
+              -98.9713,
+              40.103
+            ],
+            [
+              -98.9563,
+              40.0955
+            ],
+            [
+              -98.7784,
+              40.097
+            ],
+            [
+              -98.7605,
+              40.0895
+            ],
+            [
+              -98.6513,
+              40.0895
+            ],
+            [
+              -98.6259,
+              40.0925
+            ],
+            [
+              -98.605,
+              40.0895
+            ],
+            [
+              -98.5616,
+              40.088
+            ],
+            [
+              -98.4375,
+              40.089
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51358,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "183",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.3794,
+              40.4379
+            ],
+            [
+              -99.3809,
+              40.538
+            ],
+            [
+              -99.3794,
+              40.6128
+            ],
+            [
+              -99.3794,
+              40.6935
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 51364,
+          "labelrank": "0",
+          "level": "Federal",
+          "source": "naturalearthdata.com",
+          "sort_key": 379,
+          "name": "34",
+          "type": "Secondary Highway",
+          "kind": "Road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.25,
+              40.1425
+            ],
+            [
+              -101.2348,
+              40.1478
+            ],
+            [
+              -101.2228,
+              40.1478
+            ],
+            [
+              -101.16,
+              40.1613
+            ],
+            [
+              -101.1331,
+              40.1762
+            ],
+            [
+              -101.0614,
+              40.1762
+            ],
+            [
+              -101.0255,
+              40.1792
+            ],
+            [
+              -100.9836,
+              40.1927
+            ],
+            [
+              -100.9702,
+              40.2047
+            ],
+            [
+              -100.9134,
+              40.2316
+            ],
+            [
+              -100.8864,
+              40.2346
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}

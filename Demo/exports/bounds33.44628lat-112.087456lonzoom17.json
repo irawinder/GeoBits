@@ -1,0 +1,1428 @@
+{
+  "water": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "boundaries": {
+    "features": [{
+      "properties": {
+        "id": 109827346,
+        "sort_key": 267,
+        "kind": "fence"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.08794977,
+            33.44748489
+          ],
+          [
+            -112.08794813,
+            33.44724328
+          ],
+          [
+            -112.08606553,
+            33.4472567
+          ],
+          [
+            -112.08606861,
+            33.44748489
+          ]
+        ]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "buildings": {
+    "features": [
+      {
+        "properties": {
+          "id": 126463163,
+          "area": 1906,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 13,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08683826,
+              33.44550881
+            ],
+            [
+              -112.0865261,
+              33.44551181
+            ],
+            [
+              -112.08652457,
+              33.4453996
+            ],
+            [
+              -112.0864289,
+              33.44540057
+            ],
+            [
+              -112.08642683,
+              33.44525321
+            ],
+            [
+              -112.08652259,
+              33.44525231
+            ],
+            [
+              -112.08652107,
+              33.44514587
+            ],
+            [
+              -112.08683323,
+              33.44514287
+            ],
+            [
+              -112.08683826,
+              33.44550881
+            ]
+          ]]
+        }
+      },
+      {
+        "properties": {
+          "id": 30720638,
+          "area": 1072,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08715294,
+              33.4476359
+            ],
+            [
+              -112.08715249,
+              33.44772487
+            ],
+            [
+              -112.08713803,
+              33.44772442
+            ],
+            [
+              -112.0871383,
+              33.44775897
+            ],
+            [
+              -112.08709419,
+              33.44775882
+            ],
+            [
+              -112.08706599,
+              33.4477592
+            ],
+            [
+              -112.08706239,
+              33.44776992
+            ],
+            [
+              -112.08700472,
+              33.44776699
+            ],
+            [
+              -112.08695082,
+              33.44777029
+            ],
+            [
+              -112.08695091,
+              33.4477601
+            ],
+            [
+              -112.08687096,
+              33.44775882
+            ],
+            [
+              -112.08686952,
+              33.44772899
+            ],
+            [
+              -112.08686036,
+              33.44772599
+            ],
+            [
+              -112.08686036,
+              33.44764467
+            ],
+            [
+              -112.08687312,
+              33.44764032
+            ],
+            [
+              -112.08687572,
+              33.44761806
+            ],
+            [
+              -112.08681122,
+              33.44760457
+            ],
+            [
+              -112.08681679,
+              33.44758095
+            ],
+            [
+              -112.08688848,
+              33.44749086
+            ],
+            [
+              -112.086959,
+              33.4474716
+            ],
+            [
+              -112.0870217,
+              33.44747182
+            ],
+            [
+              -112.08701128,
+              33.44751762
+            ],
+            [
+              -112.0870544,
+              33.44753396
+            ],
+            [
+              -112.08709006,
+              33.44754992
+            ],
+            [
+              -112.08711018,
+              33.4475811
+            ],
+            [
+              -112.08712204,
+              33.44761206
+            ],
+            [
+              -112.08713965,
+              33.44761498
+            ],
+            [
+              -112.08714171,
+              33.44763312
+            ],
+            [
+              -112.08715294,
+              33.4476359
+            ]
+          ]]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "pois": {
+    "features": [
+      {
+        "properties": {
+          "id": 359292416,
+          "religion": "christian",
+          "name": "Saint Vincent de Paul Church",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08666866,
+            33.44530148
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045007,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08782892,
+            33.44717507
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045008,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08751146,
+            33.4471777
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045009,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08766813,
+            33.44718032
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045010,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08651873,
+            33.44718467
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045011,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08795631,
+            33.44718467
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045012,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.086193,
+            33.44718557
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045013,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08635272,
+            33.44718557
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045014,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08706051,
+            33.44718639
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045015,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08718061,
+            33.44718909
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045016,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08696663,
+            33.44719171
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045017,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08599043,
+            33.44725528
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045018,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08650508,
+            33.44730842
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045020,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08599456,
+            33.44736329
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045021,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08577636,
+            33.44737371
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045022,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0875314,
+            33.44738847
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045024,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0878592,
+            33.44741471
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045025,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08617108,
+            33.44741635
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045026,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08776838,
+            33.44746522
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045027,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08579002,
+            33.44746777
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625045028,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08599456,
+            33.44747482
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061269,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08618007,
+            33.44589071
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061270,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08732731,
+            33.44593501
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061271,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08751478,
+            33.44594116
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061272,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08586997,
+            33.44594236
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061273,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0856338,
+            33.4459473
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061274,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08609742,
+            33.4459473
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061275,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08570019,
+            33.44595098
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061277,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0854315,
+            33.445956
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061278,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08676622,
+            33.44608897
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061279,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08785731,
+            33.44609017
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061285,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08689764,
+            33.44616048
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061288,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08800499,
+            33.44628611
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061291,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0880094,
+            33.44639816
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061346,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0879166,
+            33.44697892
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061347,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08772966,
+            33.44697982
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061348,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08653751,
+            33.44698327
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061349,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08673693,
+            33.44698589
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061350,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08554568,
+            33.44698851
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061351,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08623891,
+            33.44698941
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061353,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08571788,
+            33.44699106
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061383,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08541928,
+            33.44719411
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3625061384,
+          "min_zoom": 16,
+          "kind": "tree"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.08568761,
+            33.44719756
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 3873563300,
+          "name": "Westech Recyclers",
+          "min_zoom": 17,
+          "kind": "company"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.0861144,
+            33.44615388
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse": {
+    "features": [{
+      "properties": {
+        "id": 30720669,
+        "area": 23283,
+        "source": "openstreetmap.org",
+        "sort_key": 24,
+        "name": "Library Park",
+        "min_zoom": 10.0025,
+        "kind": "park"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.087974,
+            33.44723107
+          ],
+          [
+            -112.08797041,
+            33.44748489
+          ],
+          [
+            -112.08606201,
+            33.44748489
+          ],
+          [
+            -112.08605951,
+            33.44723826
+          ],
+          [
+            -112.087974,
+            33.44723107
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "earth": {
+    "features": [{
+      "properties": {
+        "id": 263148,
+        "source": "openstreetmapdata.com",
+        "sort_key": 10,
+        "kind": "earth"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [
+            -112.08526611,
+            33.44519313
+          ],
+          [
+            -112.0880127,
+            33.44519313
+          ],
+          [
+            -112.0880127,
+            33.44748489
+          ],
+          [
+            -112.08526611,
+            33.44748489
+          ],
+          [
+            -112.08526611,
+            33.44519313
+          ]
+        ]]
+      }
+    }],
+    "type": "FeatureCollection"
+  },
+  "places": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "transit": {
+    "features": [],
+    "type": "FeatureCollection"
+  },
+  "roads": {
+    "features": [
+      {
+        "properties": {
+          "id": 5664150,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 10th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08589461,
+              33.44748489
+            ],
+            [
+              -112.08589009,
+              33.4472136
+            ],
+            [
+              -112.08588802,
+              33.4470909
+            ],
+            [
+              -112.08588749,
+              33.44695995
+            ],
+            [
+              -112.0858865,
+              33.44653046
+            ],
+            [
+              -112.08589189,
+              33.44601297
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109827338,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0874024,
+              33.44729575
+            ],
+            [
+              -112.08749358,
+              33.44731479
+            ],
+            [
+              -112.08760758,
+              33.44735617
+            ],
+            [
+              -112.08766534,
+              33.44738757
+            ],
+            [
+              -112.08773511,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109827344,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08766534,
+              33.44738757
+            ],
+            [
+              -112.08764648,
+              33.44741111
+            ],
+            [
+              -112.08760758,
+              33.44747369
+            ],
+            [
+              -112.08759625,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109827345,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08602621,
+              33.44748489
+            ],
+            [
+              -112.08602376,
+              33.447213
+            ],
+            [
+              -112.08602511,
+              33.44714472
+            ],
+            [
+              -112.08602744,
+              33.44708775
+            ],
+            [
+              -112.08600229,
+              33.44695231
+            ],
+            [
+              -112.08601442,
+              33.44684707
+            ],
+            [
+              -112.08601837,
+              33.44653256
+            ],
+            [
+              -112.08600633,
+              33.44610958
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109838182,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08798308,
+              33.44719171
+            ],
+            [
+              -112.08798538,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109827348,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08686234,
+              33.44748489
+            ],
+            [
+              -112.0868901,
+              33.44746702
+            ],
+            [
+              -112.08696933,
+              33.44744349
+            ],
+            [
+              -112.08703499,
+              33.44744686
+            ],
+            [
+              -112.08712887,
+              33.44748486
+            ],
+            [
+              -112.0871289,
+              33.44748489
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 109827351,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08627316,
+              33.44748489
+            ],
+            [
+              -112.08629559,
+              33.44745226
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 30704540,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Jackson St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08794633,
+              33.44522405
+            ],
+            [
+              -112.08700077,
+              33.44522375
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 298032362,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Madison St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08526611,
+              33.44601792
+            ],
+            [
+              -112.08589189,
+              33.44601297
+            ],
+            [
+              -112.08698927,
+              33.44600112
+            ],
+            [
+              -112.0880127,
+              33.44600367
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 126463146,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0880127,
+              33.44652126
+            ],
+            [
+              -112.08699655,
+              33.44652371
+            ],
+            [
+              -112.08601837,
+              33.44653256
+            ],
+            [
+              -112.0858865,
+              33.44653046
+            ],
+            [
+              -112.08526611,
+              33.44653646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5625818,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 11th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08700427,
+              33.44708498
+            ],
+            [
+              -112.08699655,
+              33.44652371
+            ],
+            [
+              -112.08698927,
+              33.44600112
+            ],
+            [
+              -112.08700077,
+              33.44522375
+            ],
+            [
+              -112.08699977,
+              33.44519313
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325145966,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "name": "W Jefferson St.",
+          "sort_key": 376,
+          "oneway": "yes",
+          "network": "regional",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0880127,
+              33.44707793
+            ],
+            [
+              -112.08712069,
+              33.44707928
+            ],
+            [
+              -112.08700427,
+              33.44708498
+            ],
+            [
+              -112.08602744,
+              33.44708775
+            ],
+            [
+              -112.08588802,
+              33.4470909
+            ],
+            [
+              -112.08526611,
+              33.44709907
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 29909633,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "S 12th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0880127,
+              33.44524753
+            ],
+            [
+              -112.08794633,
+              33.44522405
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "landuse_labels": {
+    "features": [],
+    "type": "FeatureCollection"
+  }
+}
