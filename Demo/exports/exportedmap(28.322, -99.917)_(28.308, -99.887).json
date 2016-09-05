@@ -1,0 +1,2586 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.91516113,
+              28.31888892
+            ],
+            [
+              -99.9206543,
+              28.31888892
+            ],
+            [
+              -99.9206543,
+              28.32372455
+            ],
+            [
+              -99.91516113,
+              28.32372455
+            ],
+            [
+              -99.91516113,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.90966797,
+              28.31888892
+            ],
+            [
+              -99.91516113,
+              28.31888892
+            ],
+            [
+              -99.91516113,
+              28.32372455
+            ],
+            [
+              -99.90966797,
+              28.32372455
+            ],
+            [
+              -99.90966797,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 355541083,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "name": "rogers loop",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.91051363,
+              28.32372455
+            ],
+            [
+              -99.90966797,
+              28.32286788
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.9041748,
+              28.31888892
+            ],
+            [
+              -99.90966797,
+              28.31888892
+            ],
+            [
+              -99.90966797,
+              28.32372455
+            ],
+            [
+              -99.9041748,
+              28.32372455
+            ],
+            [
+              -99.9041748,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 355541083,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "name": "rogers loop",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.90966797,
+              28.32286788
+            ],
+            [
+              -99.90919857,
+              28.32239236
+            ],
+            [
+              -99.90914907,
+              28.32218296
+            ],
+            [
+              -99.90916973,
+              28.32152068
+            ],
+            [
+              -99.90917526,
+              28.31888892
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89868164,
+              28.31888892
+            ],
+            [
+              -99.9041748,
+              28.31888892
+            ],
+            [
+              -99.9041748,
+              28.32372455
+            ],
+            [
+              -99.89868164,
+              28.32372455
+            ],
+            [
+              -99.89868164,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89318848,
+              28.31888892
+            ],
+            [
+              -99.89868164,
+              28.31888892
+            ],
+            [
+              -99.89868164,
+              28.32372455
+            ],
+            [
+              -99.89318848,
+              28.32372455
+            ],
+            [
+              -99.89318848,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88769531,
+              28.31888892
+            ],
+            [
+              -99.89318848,
+              28.31888892
+            ],
+            [
+              -99.89318848,
+              28.32372455
+            ],
+            [
+              -99.88769531,
+              28.32372455
+            ],
+            [
+              -99.88769531,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88220215,
+              28.31888892
+            ],
+            [
+              -99.88769531,
+              28.31888892
+            ],
+            [
+              -99.88769531,
+              28.32372455
+            ],
+            [
+              -99.88220215,
+              28.32372455
+            ],
+            [
+              -99.88220215,
+              28.31888892
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.91516113,
+              28.31405306
+            ],
+            [
+              -99.9206543,
+              28.31405306
+            ],
+            [
+              -99.9206543,
+              28.31888892
+            ],
+            [
+              -99.91516113,
+              28.31888892
+            ],
+            [
+              -99.91516113,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 20849484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.91597393,
+              28.31609298
+            ],
+            [
+              -99.91899991,
+              28.31751796
+            ],
+            [
+              -99.9206543,
+              28.31824108
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.90966797,
+              28.31405306
+            ],
+            [
+              -99.91516113,
+              28.31405306
+            ],
+            [
+              -99.91516113,
+              28.31888892
+            ],
+            [
+              -99.90966797,
+              28.31888892
+            ],
+            [
+              -99.90966797,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.9041748,
+              28.31405306
+            ],
+            [
+              -99.90966797,
+              28.31405306
+            ],
+            [
+              -99.90966797,
+              28.31888892
+            ],
+            [
+              -99.9041748,
+              28.31888892
+            ],
+            [
+              -99.9041748,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 355541083,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers loop",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.90917526,
+                28.31888892
+              ],
+              [
+                -99.90918123,
+                28.3160498
+              ],
+              [
+                -99.90924968,
+                28.31408529
+              ],
+              [
+                -99.9092491,
+                28.31405306
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 353047640,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 51-56h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.9041748,
+                28.3141578
+              ],
+              [
+                -99.9044542,
+                28.31416991
+              ],
+              [
+                -99.90464069,
+                28.31431067
+              ],
+              [
+                -99.90477014,
+                28.31463429
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89868164,
+              28.31405306
+            ],
+            [
+              -99.9041748,
+              28.31405306
+            ],
+            [
+              -99.9041748,
+              28.31888892
+            ],
+            [
+              -99.89868164,
+              28.31888892
+            ],
+            [
+              -99.89868164,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 353047640,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "name": "cat west 51-56h",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -99.89868164,
+              28.3152344
+            ],
+            [
+              -99.89883102,
+              28.31520155
+            ],
+            [
+              -99.90121434,
+              28.31474089
+            ],
+            [
+              -99.90356712,
+              28.31424219
+            ],
+            [
+              -99.9040125,
+              28.31415077
+            ],
+            [
+              -99.9041748,
+              28.3141578
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89318848,
+              28.31405306
+            ],
+            [
+              -99.89868164,
+              28.31405306
+            ],
+            [
+              -99.89868164,
+              28.31888892
+            ],
+            [
+              -99.89318848,
+              28.31888892
+            ],
+            [
+              -99.89318848,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 353047648,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west cpf e",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.89808632,
+                28.31536525
+              ],
+              [
+                -99.89799181,
+                28.31496865
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 353047640,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 51-56h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.89318848,
+                28.31642512
+              ],
+              [
+                -99.89488301,
+                28.31606957
+              ],
+              [
+                -99.89868164,
+                28.3152344
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 353047656,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 57-61h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.89560948,
+                28.3159099
+              ],
+              [
+                -99.89552477,
+                28.31565399
+              ],
+              [
+                -99.89575699,
+                28.31507146
+              ],
+              [
+                -99.89594348,
+                28.31462986
+              ],
+              [
+                -99.89623291,
+                28.31446607
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88769531,
+              28.31405306
+            ],
+            [
+              -99.89318848,
+              28.31405306
+            ],
+            [
+              -99.89318848,
+              28.31888892
+            ],
+            [
+              -99.88769531,
+              28.31888892
+            ],
+            [
+              -99.88769531,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 353047640,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 51-56h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.88769531,
+                28.31754201
+              ],
+              [
+                -99.88844515,
+                28.31739071
+              ],
+              [
+                -99.89246933,
+                28.31657601
+              ],
+              [
+                -99.89318848,
+                28.31642512
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 353047655,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 62-65h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.89039252,
+                28.31699641
+              ],
+              [
+                -99.89040033,
+                28.31605747
+              ],
+              [
+                -99.89033179,
+                28.31579096
+              ],
+              [
+                -99.89011862,
+                28.31571868
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88220215,
+              28.31405306
+            ],
+            [
+              -99.88769531,
+              28.31405306
+            ],
+            [
+              -99.88769531,
+              28.31888892
+            ],
+            [
+              -99.88220215,
+              28.31888892
+            ],
+            [
+              -99.88220215,
+              28.31405306
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 353047657,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west frac pit 4",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.8862449,
+                28.31783753
+              ],
+              [
+                -99.88601071,
+                28.31687992
+              ],
+              [
+                -99.88595358,
+                28.31664379
+              ],
+              [
+                -99.88600308,
+                28.31659048
+              ],
+              [
+                -99.88618202,
+                28.31651441
+              ],
+              [
+                -99.88687112,
+                28.31627067
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 353047640,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "cat west 51-56h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.88220215,
+                28.31868267
+              ],
+              [
+                -99.88238799,
+                28.31864328
+              ],
+              [
+                -99.88382709,
+                28.31832348
+              ],
+              [
+                -99.88456191,
+                28.31818635
+              ],
+              [
+                -99.8862449,
+                28.31783753
+              ],
+              [
+                -99.88674724,
+                28.3177333
+              ],
+              [
+                -99.88769531,
+                28.31754201
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.91516113,
+              28.30921698
+            ],
+            [
+              -99.9206543,
+              28.30921698
+            ],
+            [
+              -99.9206543,
+              28.31405306
+            ],
+            [
+              -99.91516113,
+              28.31405306
+            ],
+            [
+              -99.91516113,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 355541061,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 1-6h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91516113,
+                28.30988156
+              ],
+              [
+                -99.91566949,
+                28.30982027
+              ],
+              [
+                -99.91647474,
+                28.30982027
+              ],
+              [
+                -99.91699442,
+                28.30992878
+              ],
+              [
+                -99.91762827,
+                28.31024861
+              ],
+              [
+                -99.91991259,
+                28.31116229
+              ],
+              [
+                -99.9206543,
+                28.31140496
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541065,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 11-15h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91516113,
+                28.31006576
+              ],
+              [
+                -99.91530217,
+                28.31013006
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.90966797,
+              28.30921698
+            ],
+            [
+              -99.91516113,
+              28.30921698
+            ],
+            [
+              -99.91516113,
+              28.31405306
+            ],
+            [
+              -99.90966797,
+              28.31405306
+            ],
+            [
+              -99.90966797,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 355541070,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 7-9h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.90966797,
+                28.31133336
+              ],
+              [
+                -99.90971177,
+                28.3113903
+              ],
+              [
+                -99.90994596,
+                28.3114788
+              ],
+              [
+                -99.91041138,
+                28.31147587
+              ],
+              [
+                -99.91085973,
+                28.3115359
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541083,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers loop",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.90966797,
+                28.31089908
+              ],
+              [
+                -99.91017477,
+                28.31027059
+              ],
+              [
+                -99.91071242,
+                28.30921698
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541061,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 1-6h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.90966797,
+                28.31115601
+              ],
+              [
+                -99.90990168,
+                28.31112797
+              ],
+              [
+                -99.91156302,
+                28.31073491
+              ],
+              [
+                -99.91236297,
+                28.31054558
+              ],
+              [
+                -99.91332812,
+                28.3103114
+              ],
+              [
+                -99.91375069,
+                28.31021998
+              ],
+              [
+                -99.91453312,
+                28.30995725
+              ],
+              [
+                -99.9148416,
+                28.30992008
+              ],
+              [
+                -99.91516113,
+                28.30988156
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541065,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 11-15h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.9148416,
+                28.30992008
+              ],
+              [
+                -99.91516113,
+                28.31006576
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541069,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 cpf a",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91156302,
+                28.31073491
+              ],
+              [
+                -99.91149358,
+                28.31042228
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.9041748,
+              28.30921698
+            ],
+            [
+              -99.90966797,
+              28.30921698
+            ],
+            [
+              -99.90966797,
+              28.31405306
+            ],
+            [
+              -99.9041748,
+              28.31405306
+            ],
+            [
+              -99.9041748,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 355541070,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 7-9h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.90954307,
+                28.31117099
+              ],
+              [
+                -99.90966797,
+                28.31133336
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541083,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers loop",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.9092491,
+                28.31405306
+              ],
+              [
+                -99.90920647,
+                28.31169439
+              ],
+              [
+                -99.90931822,
+                28.3113328
+              ],
+              [
+                -99.90966797,
+                28.31089908
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541061,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "white 23 unit 1-6h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.9094386,
+                28.31118357
+              ],
+              [
+                -99.90954307,
+                28.31117099
+              ],
+              [
+                -99.90966797,
+                28.31115601
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89868164,
+              28.30921698
+            ],
+            [
+              -99.9041748,
+              28.30921698
+            ],
+            [
+              -99.9041748,
+              28.31405306
+            ],
+            [
+              -99.89868164,
+              28.31405306
+            ],
+            [
+              -99.89868164,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.89318848,
+              28.30921698
+            ],
+            [
+              -99.89868164,
+              28.30921698
+            ],
+            [
+              -99.89868164,
+              28.31405306
+            ],
+            [
+              -99.89318848,
+              28.31405306
+            ],
+            [
+              -99.89318848,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88769531,
+              28.30921698
+            ],
+            [
+              -99.89318848,
+              28.30921698
+            ],
+            [
+              -99.89318848,
+              28.31405306
+            ],
+            [
+              -99.88769531,
+              28.31405306
+            ],
+            [
+              -99.88769531,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.88220215,
+              28.30921698
+            ],
+            [
+              -99.88769531,
+              28.30921698
+            ],
+            [
+              -99.88769531,
+              28.31405306
+            ],
+            [
+              -99.88220215,
+              28.31405306
+            ],
+            [
+              -99.88220215,
+              28.30921698
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.91516113,
+              28.30438068
+            ],
+            [
+              -99.9206543,
+              28.30438068
+            ],
+            [
+              -99.9206543,
+              28.30921698
+            ],
+            [
+              -99.91516113,
+              28.30921698
+            ],
+            [
+              -99.91516113,
+              28.30438068
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -99.90966797,
+              28.30438068
+            ],
+            [
+              -99.91516113,
+              28.30438068
+            ],
+            [
+              -99.91516113,
+              28.30921698
+            ],
+            [
+              -99.90966797,
+              28.30921698
+            ],
+            [
+              -99.90966797,
+              28.30438068
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 355541059,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers unit a cpf a",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91138552,
+                28.30781491
+              ],
+              [
+                -99.91071259,
+                28.30784568
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541063,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers 1h",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91148909,
+                28.30649736
+              ],
+              [
+                -99.91120217,
+                28.3065237
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541083,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers loop",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91071242,
+                28.30921698
+              ],
+              [
+                -99.91130548,
+                28.30805479
+              ],
+              [
+                -99.91145397,
+                28.30760936
+              ],
+              [
+                -99.91154542,
+                28.30714107
+              ],
+              [
+                -99.91133979,
+                28.3047883
+              ],
+              [
+                -99.91133044,
+                28.30438068
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 355541062,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "rogers cpf a",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -99.91143564,
+                28.30588465
+              ],
+              [
+                -99.91113938,
+                28.30589842
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]
