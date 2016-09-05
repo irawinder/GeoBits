@@ -1,6 +1,5 @@
 boolean pull, square, generated;
 
-int genratio; 
 void keyPressed(){
 switch(key){
     case '+':
@@ -27,22 +26,37 @@ switch(key){
         boxw-=10;
         boxh-=10;
         break;     
-  case 'l': 
+  case 'A': 
+      println("drawing lines...");
+      handler = canvas;
+      Handler = Canvas;
+      posx = 0;
+      posy = 0;
       canvas.drawRoads(Canvas);
       lines = !lines;
+      println("DONE");
+      break;  
+  case 'P':
+      println("drawing lines...");
+      handler = selection;
+      Handler = Selection;
+      posx = 0;
+      posy = 0;
+      selection.drawRoads(Selection);
+      lines = !lines;
+      println("DONE");
       break;  
   case 'p':
-      Canvas.clear();
-      PullData();
-      genratio = 5;
-      canvas.GenerateNetwork();
+      Selection.clear();
+      PullData(5);
+      selection.GenerateNetwork(5);
+      selection.bounds.printbox();
       println("DONE");
       break;     
   case 'a': 
       Canvas.clear();
-      PullMap();
-      genratio = MapTiles().size();
-      canvas.GenerateNetwork();
+      PullData(MapTiles().size());
+      canvas.GenerateNetwork(MapTiles().size());
       println("DONE");
       break;
 }

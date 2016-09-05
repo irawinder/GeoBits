@@ -11,9 +11,10 @@ int numcols = 20;
 int numrows = 22;
 
 void initGraphics(){
-  Selection = createGraphics(boxw, boxh);
+  Selection = createGraphics(width, height);
   Canvas = createGraphics(width, height);
-}f
+  Handler = createGraphics(width, height);
+}
 
 //draws info
 void draw_info() {

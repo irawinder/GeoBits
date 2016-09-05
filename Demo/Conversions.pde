@@ -6,23 +6,48 @@ Lots of conversion functions
 //left, bottom, right, top
 
 public class bbox{
-  float minlon, minlat, maxlon, maxlat;
-  
-  FloatList bounds;
+  public float minlon, minlat, maxlon, maxlat;
+  FloatList bounds = new FloatList();
   
   bbox(float _minlon, float _minlat, float _maxlon, float _maxlat){
       minlon = _minlon;
       minlat = _minlat;
       maxlon = _maxlon;
       maxlat = _maxlat;
-      bounds.add(0,minlon);
-      bounds.add(1,minlat);
-      bounds.add(2,maxlon);
-      bounds.add(3,maxlat);
+      
+   bounds.append(minlon);
+   bounds.append(minlat);
+   bounds.append(maxlon);
+   bounds.append(maxlat);
   }
+  
+  public boolean inbbox(PVector point){
+      boolean inbox;
+      if(point.x > minlon && point.x < maxlon && point.y < maxlat && point.y > minlat){
+          inbox = true;
+      }
+      else{
+        inbox = false;
+      }
+      return inbox;
+  }
+  
+  public void printbox(){
+    println(minlon, minlat, maxlon, maxlat);
 }
 
-public ArrayList<PVector> BoundingBox() {
+  public ArrayList<PVector> boxcorners(){
+    ArrayList<PVector> corners = new ArrayList<PVector>();
+      corners.add(new PVector(minlon, minlat));
+      corners.add(new PVector(maxlon, minlat));
+      corners.add(new PVector (maxlon, maxlat));
+      corners.add(new PVector (minlon, maxlat));
+      return corners;
+  }
+
+}
+
+public ArrayList<PVector> SelectionBox() {
       ArrayList<PVector> box = new ArrayList<PVector>();
          float a = mouseX;
          float b = mouseY;

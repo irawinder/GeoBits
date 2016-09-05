@@ -16,12 +16,13 @@ boolean lines = false;
 MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
+  boolean initialized;
 
-RoadNetwork canvas;
+RoadNetwork canvas, selection, handler;
+int posx, posy;
 
 void setup(){
    size(1366, 768, P3D);
-    canvas = new RoadNetwork("Canvas");
    
    initGraphics();
   
@@ -38,25 +39,24 @@ void draw(){
     mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
     
     if(lines){
-    Canvas.clear();
-    canvas.drawRoads(Canvas);
-    image(Canvas, 0, 0);
+    Handler.clear();
+    handler.drawRoads(Handler);
+    image(Handler, posx, posy);
     }
     if(!lines){
-      Canvas.clear();
+      Handler.clear();
     }
     
         
     if(directions){
       draw_directions();
     }
-    
         
     if(select){
     draw_selection();
     }
     
-  draw_info();
     
+  draw_info();
     
 }
