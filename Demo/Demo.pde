@@ -17,43 +17,46 @@ MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
 
+RoadNetwork canvas;
+
 void setup(){
    size(1366, 768, P3D);
+    canvas = new RoadNetwork("Canvas");
    
    initGraphics();
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
+    
     MapUtils.createDefaultEventDispatcher(this, map);
     smooth();
 }
 
 void draw(){
     background(0);
-    map.draw();
-       mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
-    draw_info();
+    map.draw();       
+   
+    mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
     
-    if(select){
-    draw_selection();
+    if(lines){
+    Canvas.clear();
+    canvas.drawRoads(Canvas);
+    image(Canvas, 0, 0);
     }
-     
-     if(pull){
-         PullMap();
-         println("DONE");
-     } 
-      
-      if(lines){        
-         if(drawlines){
-          for(int i = 0; i<MapTiles().size(); i++){
-           drawRoadNetwork(#ff0000, i, Canvas); 
-           drawlines = false;
-          }
-           }
-          image(Canvas, 0, 0);
-      }
-      
+    if(!lines){
+      Canvas.clear();
+    }
+    
+        
     if(directions){
       draw_directions();
     }
+    
+        
+    if(select){
+    draw_selection();
+    }
+    
+  draw_info();
+    
     
 }

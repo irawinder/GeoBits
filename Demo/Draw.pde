@@ -21,10 +21,11 @@ void draw_info() {
   fill(0);
   if (showFrameRate) {
     text("frameRate: " + frameRate, 20, 50);
+    text("zoom level " + map.getZoomLevel(), 20, 80);
   }
   rect(0, 0, width, 30);
   fill(255);
-  text("Nina Lutz. This demo is under developmenet, please be patient. Press 'd' for instructions.", 20, 20);
+  text("Nina Lutz. This demo is under development, please be patient. Press 'd' for instructions.", 20, 20);
 }
 
 //user directions
@@ -74,4 +75,3 @@ void draw_selection() {
     line(mouseX, int(i*boxh/numrows) + int(mouseY), mouseX + boxw, int(i*boxh/numrows) + int(mouseY));
  
 }
-

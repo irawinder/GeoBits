@@ -1,0 +1,3 @@
+class Node{}
+
+class Network{}

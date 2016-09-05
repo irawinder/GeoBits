@@ -6,7 +6,7 @@ GetRequest is based off code by Chris Allick and Daniel Shiffman
 
 */
 
-String output, file, link, export;
+String output, file, link, export, linegrab;
 JSONObject geostuff;
 
 ArrayList<String>files = new ArrayList<String>();
@@ -31,6 +31,23 @@ public void PullMap(){
    println(int(float(i)/MapTiles().size()*100) + "% DONE");
    }
    pull = false;
+}
+
+public void PullData(){
+   geostuff = new JSONObject();
+   println("requesting map data...");
+   for(int i = 0; i<5; i++){
+   link = "https://vector.mapzen.com/osm/roads/" + getTileNumber(BoundingBox().get(i).x, BoundingBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+   GetRequest get = new GetRequest(link);
+   println("data requested...");
+   get.send();
+   output = get.getContent();
+   masterexport.setJSONObject(i, parseJSONObject(output));
+   saveJSONArray(masterexport, "exports/exportedsquare" + BoundingBox().get(4).x + "_" + BoundingBox().get(4).y+".json");
+   mapling = "exports/exportedsquare" + BoundingBox().get(4).x + "_" + BoundingBox().get(4).y+".json";
+   println(int(float(i)/5*100) + "% DONE");
+   }
+   square = false; 
 }
 
 //imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 

@@ -1,5 +1,4 @@
-boolean pull;
-boolean drawlines;
+boolean pull, square, generated;
 
 void keyPressed(){
 switch(key){
@@ -11,6 +10,7 @@ switch(key){
        break; 
    case 'f':
        showFrameRate = !showFrameRate;
+       println(map.getZoomLevel());
        break;    
   case 's':
        select = !select;
@@ -26,11 +26,18 @@ switch(key){
         boxw-=10;
         boxh-=10;
         break;     
-  case 'i':
-    drawlines = true;
-    lines = !lines;
-    break; 
+  case 'l': 
+      canvas.drawRoads(Canvas);
+      lines = !lines;
+      break;  
+  case 'p':
+      PullData();
+      println("DONE");
+      break;     
   case 'a': 
-       pull = !pull; 
+      PullMap();
+      canvas.GenerateNetwork();
+      println("DONE");
+      break;
 }
 }

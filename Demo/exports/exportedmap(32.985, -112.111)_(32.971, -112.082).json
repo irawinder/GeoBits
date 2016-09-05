@@ -1,0 +1,4720 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495622238,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.11385761,
+              32.98540506
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622239,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.11477722,
+              32.98540506
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622243,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.11203142,
+              32.9854065
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622244,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.1129478,
+              32.9854065
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622247,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.11018054,
+              32.98540778
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622254,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.11110841,
+              32.98541057
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10998535,
+              32.98102015
+            ],
+            [
+              -112.11547852,
+              32.98102015
+            ],
+            [
+              -112.11547852,
+              32.98562797
+            ],
+            [
+              -112.10998535,
+              32.98562797
+            ],
+            [
+              -112.10998535,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 17303430,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Lavern Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.1127525,
+                32.98553881
+              ],
+              [
+                -112.11276977,
+                32.98562797
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 231520836,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Papago Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10998535,
+                32.98554095
+              ],
+              [
+                -112.11275259,
+                32.98553881
+              ],
+              [
+                -112.11547852,
+                32.98554319
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929337,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.11547852,
+                32.9819298
+              ],
+              [
+                -112.10998535,
+                32.98193241
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495622235,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10576379,
+              32.98539949
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622236,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10751559,
+              32.98540092
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622240,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10486889,
+              32.9854065
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622241,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10663722,
+              32.9854065
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622242,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10837259,
+              32.9854065
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622252,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10928887,
+              32.98540921
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10449219,
+              32.98102015
+            ],
+            [
+              -112.10998535,
+              32.98102015
+            ],
+            [
+              -112.10998535,
+              32.98562797
+            ],
+            [
+              -112.10449219,
+              32.98562797
+            ],
+            [
+              -112.10449219,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 231520836,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Papago Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.98553807
+              ],
+              [
+                -112.10875212,
+                32.9855419
+              ],
+              [
+                -112.10998535,
+                32.98554095
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16934865,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Brewer Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10869227,
+                32.98102015
+              ],
+              [
+                -112.10869993,
+                32.98193302
+              ],
+              [
+                -112.10875203,
+                32.9855419
+              ],
+              [
+                -112.10875023,
+                32.98562797
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929337,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10998535,
+                32.98193241
+              ],
+              [
+                -112.10869993,
+                32.98193302
+              ],
+              [
+                -112.10449219,
+                32.98193446
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495622201,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09915443,
+              32.98476179
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622218,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09992788,
+              32.98510245
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622237,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10398881,
+              32.98540371
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622245,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10150056,
+              32.98540717
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622246,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10316487,
+              32.98540717
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622250,
+            "min_zoom": 16,
+            "kind": "power_tower"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10068202,
+              32.98541049
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622251,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.10233115,
+              32.98540846
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09899902,
+              32.98102015
+            ],
+            [
+              -112.10449219,
+              32.98102015
+            ],
+            [
+              -112.10449219,
+              32.98562797
+            ],
+            [
+              -112.09899902,
+              32.98562797
+            ],
+            [
+              -112.09899902,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 231520836,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Papago Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09899902,
+                32.98478297
+              ],
+              [
+                -112.09923178,
+                32.98487572
+              ],
+              [
+                -112.09943686,
+                32.98499018
+              ],
+              [
+                -112.09994917,
+                32.98522972
+              ],
+              [
+                -112.10012237,
+                32.98530681
+              ],
+              [
+                -112.10029556,
+                32.98538389
+              ],
+              [
+                -112.10057386,
+                32.98547507
+              ],
+              [
+                -112.10082234,
+                32.98551621
+              ],
+              [
+                -112.10102293,
+                32.98553218
+              ],
+              [
+                -112.10129278,
+                32.9855352
+              ],
+              [
+                -112.10449219,
+                32.98553807
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929337,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.98193446
+              ],
+              [
+                -112.10010988,
+                32.98193596
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929087,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N White Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10013482,
+                32.98102015
+              ],
+              [
+                -112.10010988,
+                32.98193596
+              ],
+              [
+                -112.10012228,
+                32.98530681
+              ],
+              [
+                -112.10012378,
+                32.98562797
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [{
+        "properties": {
+          "id": 2450669406,
+          "addr_street": "West Papago Road",
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 475,
+          "name": "Raceway Bar and Grill",
+          "min_zoom": 17,
+          "addr_housenumber": "49237",
+          "kind": "address"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.09687101,
+            32.98370338
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 2450669406,
+            "name": "Raceway Bar and Grill",
+            "min_zoom": 17,
+            "kind": "bar"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09687101,
+              32.98370338
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621382,
+            "min_zoom": 16,
+            "kind": "power_tower"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09836491,
+              32.9844334
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621383,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09745868,
+              32.9844377
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621384,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09653414,
+              32.98445427
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621385,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09561768,
+              32.98447085
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621386,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09468648,
+              32.98447635
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621387,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09377182,
+              32.98450551
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09350586,
+              32.98102015
+            ],
+            [
+              -112.09899902,
+              32.98102015
+            ],
+            [
+              -112.09899902,
+              32.98562797
+            ],
+            [
+              -112.09350586,
+              32.98562797
+            ],
+            [
+              -112.09350586,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 231520836,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Papago Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.09350586,
+              32.98463016
+            ],
+            [
+              -112.09449829,
+              32.98461319
+            ],
+            [
+              -112.09745797,
+              32.98455645
+            ],
+            [
+              -112.09798025,
+              32.98455472
+            ],
+            [
+              -112.09833364,
+              32.98457619
+            ],
+            [
+              -112.09862209,
+              32.98463278
+            ],
+            [
+              -112.09899902,
+              32.98478297
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495621388,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09284054,
+              32.98452488
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621389,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09194563,
+              32.98454146
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621390,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09103591,
+              32.98460528
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621391,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.09015251,
+              32.98461628
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495621392,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08929057,
+              32.98463301
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622193,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08839244,
+              32.98465509
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0880127,
+              32.98102015
+            ],
+            [
+              -112.09350586,
+              32.98102015
+            ],
+            [
+              -112.09350586,
+              32.98562797
+            ],
+            [
+              -112.0880127,
+              32.98562797
+            ],
+            [
+              -112.0880127,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 17304193,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Salmonson Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09130357,
+                32.98102015
+              ],
+              [
+                -112.09137736,
+                32.98331592
+              ],
+              [
+                -112.09137961,
+                32.98417728
+              ],
+              [
+                -112.09141428,
+                32.98466556
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 231520836,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Papago Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.0880127,
+                32.9847358
+              ],
+              [
+                -112.09141428,
+                32.98466556
+              ],
+              [
+                -112.09154094,
+                32.98466375
+              ],
+              [
+                -112.09350586,
+                32.98463016
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 17304194,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Salmonson Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09154094,
+                32.98466375
+              ],
+              [
+                -112.0915244,
+                32.98562797
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 68694839,
+            "area": 5852,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.08297084,
+                32.98118347
+              ],
+              [
+                -112.08282082,
+                32.98124956
+              ],
+              [
+                -112.08277518,
+                32.98121113
+              ],
+              [
+                -112.08277244,
+                32.98102015
+              ],
+              [
+                -112.08296963,
+                32.98102015
+              ],
+              [
+                -112.08297084,
+                32.98118347
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68694839,
+            "area": 5852,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -112.08297093,
+                  32.98118328
+                ],
+                [
+                  -112.08282046,
+                  32.98124922
+                ],
+                [
+                  -112.08277554,
+                  32.98121154
+                ],
+                [
+                  -112.08277265,
+                  32.98102015
+                ]
+              ],
+              [
+                [
+                  -112.08296981,
+                  32.98102015
+                ],
+                [
+                  -112.08297093,
+                  32.98118328
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495622194,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08751901,
+              32.98467445
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622195,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08663228,
+              32.98468832
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622196,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08575678,
+              32.98469939
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622197,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08489521,
+              32.98470927
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622198,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.0839986,
+              32.98474069
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622200,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08313693,
+              32.98476028
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08251953,
+              32.98102015
+            ],
+            [
+              -112.0880127,
+              32.98102015
+            ],
+            [
+              -112.0880127,
+              32.98562797
+            ],
+            [
+              -112.08251953,
+              32.98562797
+            ],
+            [
+              -112.08251953,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 231520836,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Papago Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.08251953,
+                32.98484839
+              ],
+              [
+                -112.08263424,
+                32.98484068
+              ],
+              [
+                -112.08269101,
+                32.98484821
+              ],
+              [
+                -112.08496348,
+                32.98478417
+              ],
+              [
+                -112.08714495,
+                32.98475372
+              ],
+              [
+                -112.0880127,
+                32.9847358
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 231827372,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Amarillo Valley Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.08263424,
+                32.98484068
+              ],
+              [
+                -112.08263995,
+                32.98562797
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16921779,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Amarillo Valley Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.08261212,
+                32.98102015
+              ],
+              [
+                -112.08269101,
+                32.98484821
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3495622202,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08221688,
+              32.9847798
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622203,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08135773,
+              32.98479939
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622204,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.08051242,
+              32.98481506
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622205,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.07966243,
+              32.98483857
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622206,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.07880777,
+              32.98484837
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622207,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.07788898,
+              32.98487391
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3495622208,
+            "min_zoom": 18,
+            "kind": "power_pole"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -112.07703091,
+              32.98489832
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07702637,
+              32.98102015
+            ],
+            [
+              -112.08251953,
+              32.98102015
+            ],
+            [
+              -112.08251953,
+              32.98562797
+            ],
+            [
+              -112.07702637,
+              32.98562797
+            ],
+            [
+              -112.07702637,
+              32.98102015
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 231520836,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Papago Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.07702637,
+              32.9850261
+            ],
+            [
+              -112.07889203,
+              32.98498151
+            ],
+            [
+              -112.08145196,
+              32.98492018
+            ],
+            [
+              -112.08251953,
+              32.98484839
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10998535,
+              32.97641208
+            ],
+            [
+              -112.11547852,
+              32.97641208
+            ],
+            [
+              -112.11547852,
+              32.98102015
+            ],
+            [
+              -112.10998535,
+              32.98102015
+            ],
+            [
+              -112.10998535,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 16936980,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mayer Blvd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.11547852,
+              32.97837402
+            ],
+            [
+              -112.10998535,
+              32.97836187
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10449219,
+              32.97641208
+            ],
+            [
+              -112.10998535,
+              32.97641208
+            ],
+            [
+              -112.10998535,
+              32.98102015
+            ],
+            [
+              -112.10449219,
+              32.98102015
+            ],
+            [
+              -112.10449219,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16936980,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Mayer Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10998535,
+                32.97836187
+              ],
+              [
+                -112.10866993,
+                32.97835896
+              ],
+              [
+                -112.10449219,
+                32.97831512
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16934865,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Brewer Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10869825,
+                32.97641208
+              ],
+              [
+                -112.10866993,
+                32.97835896
+              ],
+              [
+                -112.10869227,
+                32.98102015
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09899902,
+              32.97641208
+            ],
+            [
+              -112.10449219,
+              32.97641208
+            ],
+            [
+              -112.10449219,
+              32.98102015
+            ],
+            [
+              -112.09899902,
+              32.98102015
+            ],
+            [
+              -112.09899902,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16918193,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10013692,
+                32.98094301
+              ],
+              [
+                -112.09899902,
+                32.98095022
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16936980,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Mayer Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.97831512
+              ],
+              [
+                -112.10018992,
+                32.97826997
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16936978,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Mayer Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10013495,
+                32.97705602
+              ],
+              [
+                -112.09899902,
+                32.97706217
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929087,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N White Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10016499,
+                32.97641208
+              ],
+              [
+                -112.10013495,
+                32.97705602
+              ],
+              [
+                -112.10018992,
+                32.97826997
+              ],
+              [
+                -112.10013692,
+                32.98094301
+              ],
+              [
+                -112.10013482,
+                32.98102015
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09350586,
+              32.97641208
+            ],
+            [
+              -112.09899902,
+              32.97641208
+            ],
+            [
+              -112.09899902,
+              32.98102015
+            ],
+            [
+              -112.09350586,
+              32.98102015
+            ],
+            [
+              -112.09350586,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16918193,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09899902,
+                32.98095022
+              ],
+              [
+                -112.09350586,
+                32.98098504
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16924236,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Marci Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09570852,
+                32.97641208
+              ],
+              [
+                -112.09570392,
+                32.97707999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16936978,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Mayer Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09899902,
+                32.97706217
+              ],
+              [
+                -112.09570392,
+                32.97707999
+              ],
+              [
+                -112.09350586,
+                32.97711573
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0880127,
+              32.97641208
+            ],
+            [
+              -112.09350586,
+              32.97641208
+            ],
+            [
+              -112.09350586,
+              32.98102015
+            ],
+            [
+              -112.0880127,
+              32.98102015
+            ],
+            [
+              -112.0880127,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16913723,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.0926359,
+                32.97809197
+              ],
+              [
+                -112.09245192,
+                32.978087
+              ],
+              [
+                -112.09232688,
+                32.97808097
+              ],
+              [
+                -112.09220794,
+                32.97805399
+              ],
+              [
+                -112.09214892,
+                32.978009
+              ],
+              [
+                -112.0921429,
+                32.97794902
+              ],
+              [
+                -112.0921359,
+                32.97782196
+              ],
+              [
+                -112.09212889,
+                32.97769996
+              ],
+              [
+                -112.09212889,
+                32.97745701
+              ],
+              [
+                -112.09212889,
+                32.97729702
+              ],
+              [
+                -112.0921359,
+                32.97713801
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16918193,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Julie Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09350586,
+                32.98098504
+              ],
+              [
+                -112.09130289,
+                32.980999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 17304193,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Salmonson Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09130289,
+                32.980999
+              ],
+              [
+                -112.09130357,
+                32.98102015
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16936978,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Mayer Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09350586,
+                32.97711573
+              ],
+              [
+                -112.0921359,
+                32.97713801
+              ],
+              [
+                -112.09138293,
+                32.97714999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 17301910,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Salmonson Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.09139254,
+                32.97641208
+              ],
+              [
+                -112.09138293,
+                32.97714999
+              ],
+              [
+                -112.09130289,
+                32.980999
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 68693593,
+            "area": 19717,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.08294407,
+                32.97887968
+              ],
+              [
+                -112.08292457,
+                32.97909957
+              ],
+              [
+                -112.0828528,
+                32.9790943
+              ],
+              [
+                -112.08276162,
+                32.9790888
+              ],
+              [
+                -112.08272883,
+                32.97890719
+              ],
+              [
+                -112.08270889,
+                32.97812656
+              ],
+              [
+                -112.08269948,
+                32.97641208
+              ],
+              [
+                -112.08291477,
+                32.97641208
+              ],
+              [
+                -112.08293724,
+                32.97771405
+              ],
+              [
+                -112.08294407,
+                32.97887968
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68694839,
+            "area": 5852,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.08277244,
+                32.98102015
+              ],
+              [
+                -112.0827485,
+                32.9793527
+              ],
+              [
+                -112.08285944,
+                32.97920417
+              ],
+              [
+                -112.08292457,
+                32.97924268
+              ],
+              [
+                -112.08295727,
+                32.97935262
+              ],
+              [
+                -112.08296963,
+                32.98102015
+              ],
+              [
+                -112.08277244,
+                32.98102015
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68693593,
+            "area": 19717,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -112.08294398,
+                  32.97887927
+                ],
+                [
+                  -112.08292489,
+                  32.97909969
+                ],
+                [
+                  -112.08285302,
+                  32.97909404
+                ],
+                [
+                  -112.08276207,
+                  32.97908838
+                ],
+                [
+                  -112.08272838,
+                  32.97890753
+                ],
+                [
+                  -112.08270929,
+                  32.97812664
+                ],
+                [
+                  -112.08269987,
+                  32.97641208
+                ]
+              ],
+              [
+                [
+                  -112.08291484,
+                  32.97641208
+                ],
+                [
+                  -112.08293724,
+                  32.97771405
+                ],
+                [
+                  -112.08294398,
+                  32.97887927
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 68694839,
+            "area": 5852,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.08277277,
+                32.98102015
+              ],
+              [
+                -112.08274859,
+                32.97935308
+              ],
+              [
+                -112.08285976,
+                32.97920425
+              ],
+              [
+                -112.08292489,
+                32.97924287
+              ],
+              [
+                -112.08295745,
+                32.97935308
+              ],
+              [
+                -112.08296972,
+                32.98102015
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08251953,
+              32.97641208
+            ],
+            [
+              -112.0880127,
+              32.97641208
+            ],
+            [
+              -112.0880127,
+              32.98102015
+            ],
+            [
+              -112.08251953,
+              32.98102015
+            ],
+            [
+              -112.08251953,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 16921779,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N Amarillo Valley Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.0825547,
+              32.97641208
+            ],
+            [
+              -112.08254988,
+              32.97799996
+            ],
+            [
+              -112.08261212,
+              32.98102015
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07702637,
+              32.97641208
+            ],
+            [
+              -112.08251953,
+              32.97641208
+            ],
+            [
+              -112.08251953,
+              32.98102015
+            ],
+            [
+              -112.07702637,
+              32.98102015
+            ],
+            [
+              -112.07702637,
+              32.97641208
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10998535,
+              32.97180378
+            ],
+            [
+              -112.11547852,
+              32.97180378
+            ],
+            [
+              -112.11547852,
+              32.97641208
+            ],
+            [
+              -112.10998535,
+              32.97641208
+            ],
+            [
+              -112.10998535,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 16921316,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Esch Tr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.10998535,
+              32.97471891
+            ],
+            [
+              -112.11547852,
+              32.97473177
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10449219,
+              32.97180378
+            ],
+            [
+              -112.10998535,
+              32.97180378
+            ],
+            [
+              -112.10998535,
+              32.97641208
+            ],
+            [
+              -112.10449219,
+              32.97641208
+            ],
+            [
+              -112.10449219,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16921316,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Esch Tr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.97472893
+              ],
+              [
+                -112.10872293,
+                32.97471596
+              ],
+              [
+                -112.10998535,
+                32.97471891
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16934865,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Brewer Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10865405,
+                32.97180378
+              ],
+              [
+                -112.10872293,
+                32.97471596
+              ],
+              [
+                -112.10869825,
+                32.97641208
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09899902,
+              32.97180378
+            ],
+            [
+              -112.10449219,
+              32.97180378
+            ],
+            [
+              -112.10449219,
+              32.97641208
+            ],
+            [
+              -112.09899902,
+              32.97641208
+            ],
+            [
+              -112.09899902,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16921316,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Esch Tr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10024292,
+                32.97474195
+              ],
+              [
+                -112.10449219,
+                32.97472893
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929087,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N White Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10024126,
+                32.97180378
+              ],
+              [
+                -112.10024292,
+                32.97474195
+              ],
+              [
+                -112.10016499,
+                32.97641208
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09350586,
+              32.97180378
+            ],
+            [
+              -112.09899902,
+              32.97180378
+            ],
+            [
+              -112.09899902,
+              32.97641208
+            ],
+            [
+              -112.09350586,
+              32.97641208
+            ],
+            [
+              -112.09350586,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 16924236,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N Marci Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.09574033,
+              32.97180378
+            ],
+            [
+              -112.09570852,
+              32.97641208
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.0880127,
+              32.97180378
+            ],
+            [
+              -112.09350586,
+              32.97180378
+            ],
+            [
+              -112.09350586,
+              32.97641208
+            ],
+            [
+              -112.0880127,
+              32.97641208
+            ],
+            [
+              -112.0880127,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 17301910,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N Salmonson Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.09142452,
+              32.97180378
+            ],
+            [
+              -112.09140889,
+              32.97515696
+            ],
+            [
+              -112.09139254,
+              32.97641208
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 68693593,
+            "area": 19717,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.08269948,
+                32.97641208
+              ],
+              [
+                -112.08268158,
+                32.97315063
+              ],
+              [
+                -112.08269451,
+                32.9726668
+              ],
+              [
+                -112.08279234,
+                32.97255677
+              ],
+              [
+                -112.08289017,
+                32.9726503
+              ],
+              [
+                -112.08285774,
+                32.97310661
+              ],
+              [
+                -112.08291477,
+                32.97641208
+              ],
+              [
+                -112.08269948,
+                32.97641208
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68693593,
+            "area": 19717,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.08269957,
+                32.97641208
+              ],
+              [
+                -112.08268122,
+                32.973151
+              ],
+              [
+                -112.08269469,
+                32.9726668
+              ],
+              [
+                -112.08279239,
+                32.97255658
+              ],
+              [
+                -112.08289008,
+                32.97264984
+              ],
+              [
+                -112.08285751,
+                32.97310673
+              ],
+              [
+                -112.08291469,
+                32.97641208
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.08251953,
+              32.97180378
+            ],
+            [
+              -112.0880127,
+              32.97180378
+            ],
+            [
+              -112.0880127,
+              32.97641208
+            ],
+            [
+              -112.08251953,
+              32.97641208
+            ],
+            [
+              -112.08251953,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 16921779,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N Amarillo Valley Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.08256866,
+              32.97180378
+            ],
+            [
+              -112.0825547,
+              32.97641208
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.07702637,
+              32.97180378
+            ],
+            [
+              -112.08251953,
+              32.97180378
+            ],
+            [
+              -112.08251953,
+              32.97641208
+            ],
+            [
+              -112.07702637,
+              32.97641208
+            ],
+            [
+              -112.07702637,
+              32.97180378
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10998535,
+              32.96719523
+            ],
+            [
+              -112.11547852,
+              32.96719523
+            ],
+            [
+              -112.11547852,
+              32.97180378
+            ],
+            [
+              -112.10998535,
+              32.97180378
+            ],
+            [
+              -112.10998535,
+              32.96719523
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 231454828,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Val Vista Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.11547852,
+              32.97105407
+            ],
+            [
+              -112.10998535,
+              32.97114314
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 68699317,
+            "area": 8923,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.109096,
+                32.96735857
+              ],
+              [
+                -112.10902548,
+                32.96948087
+              ],
+              [
+                -112.10892775,
+                32.96960191
+              ],
+              [
+                -112.10888202,
+                32.96960198
+              ],
+              [
+                -112.10879713,
+                32.96950861
+              ],
+              [
+                -112.10879686,
+                32.96910721
+              ],
+              [
+                -112.10885772,
+                32.96719523
+              ],
+              [
+                -112.10909594,
+                32.96719523
+              ],
+              [
+                -112.109096,
+                32.96735857
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68695109,
+            "area": 7554,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.10452573,
+                32.97101107
+              ],
+              [
+                -112.10449219,
+                32.97102137
+              ],
+              [
+                -112.10449219,
+                32.97096029
+              ],
+              [
+                -112.10452573,
+                32.97101107
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68700731,
+            "area": 2864,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.10893502,
+                32.97093797
+              ],
+              [
+                -112.10882408,
+                32.97100399
+              ],
+              [
+                -112.10877189,
+                32.97096555
+              ],
+              [
+                -112.10876488,
+                32.97009675
+              ],
+              [
+                -112.10881689,
+                32.96975588
+              ],
+              [
+                -112.10892784,
+                32.96971187
+              ],
+              [
+                -112.10893502,
+                32.97093797
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68699317,
+            "area": 8923,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -112.10909618,
+                  32.9673583
+                ],
+                [
+                  -112.10902544,
+                  32.9694808
+                ],
+                [
+                  -112.10892775,
+                  32.96960232
+                ],
+                [
+                  -112.10888171,
+                  32.96960232
+                ],
+                [
+                  -112.10879749,
+                  32.96950906
+                ],
+                [
+                  -112.10879637,
+                  32.9691068
+                ],
+                [
+                  -112.10885806,
+                  32.96719523
+                ]
+              ],
+              [
+                [
+                  -112.10909618,
+                  32.96719523
+                ],
+                [
+                  -112.10909618,
+                  32.9673583
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 68695109,
+            "area": 7554,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -112.104526,
+                  32.9710107
+                ],
+                [
+                  -112.10449219,
+                  32.97102111
+                ]
+              ],
+              [
+                [
+                  -112.10449219,
+                  32.97095934
+                ],
+                [
+                  -112.104526,
+                  32.9710107
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 68700731,
+            "area": 2864,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10893448,
+                32.97093816
+              ],
+              [
+                -112.10882444,
+                32.9710041
+              ],
+              [
+                -112.10877166,
+                32.97096548
+              ],
+              [
+                -112.10876493,
+                32.97009691
+              ],
+              [
+                -112.10881658,
+                32.96975588
+              ],
+              [
+                -112.10892775,
+                32.9697116
+              ],
+              [
+                -112.10893448,
+                32.97093816
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.10449219,
+              32.96719523
+            ],
+            [
+              -112.10998535,
+              32.96719523
+            ],
+            [
+              -112.10998535,
+              32.97180378
+            ],
+            [
+              -112.10449219,
+              32.97180378
+            ],
+            [
+              -112.10449219,
+              32.96719523
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16934865,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N Brewer Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.1086708,
+                32.96719523
+              ],
+              [
+                -112.10863894,
+                32.97116497
+              ],
+              [
+                -112.10865405,
+                32.97180378
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 231454828,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Val Vista Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10998535,
+                32.97114314
+              ],
+              [
+                -112.10863894,
+                32.97116497
+              ],
+              [
+                -112.10812294,
+                32.971234
+              ],
+              [
+                -112.10449219,
+                32.97124598
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 68695109,
+            "area": 7554,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.10449219,
+                32.97102137
+              ],
+              [
+                -112.10438218,
+                32.97105516
+              ],
+              [
+                -112.1029146,
+                32.97106127
+              ],
+              [
+                -112.10055994,
+                32.97101258
+              ],
+              [
+                -112.10059237,
+                32.97094649
+              ],
+              [
+                -112.1006707,
+                32.97091905
+              ],
+              [
+                -112.10217753,
+                32.9709131
+              ],
+              [
+                -112.10446042,
+                32.9709122
+              ],
+              [
+                -112.10449219,
+                32.97096029
+              ],
+              [
+                -112.10449219,
+                32.97102137
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68695031,
+            "area": 4635,
+            "source": "openstreetmap.org",
+            "sort_key": 200,
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -112.10042914,
+                32.97057276
+              ],
+              [
+                -112.10040983,
+                32.97100158
+              ],
+              [
+                -112.10028586,
+                32.97107317
+              ],
+              [
+                -112.10023367,
+                32.97102916
+              ],
+              [
+                -112.10021373,
+                32.97031441
+              ],
+              [
+                -112.10022639,
+                32.96946211
+              ],
+              [
+                -112.10027203,
+                32.96933557
+              ],
+              [
+                -112.10042223,
+                32.96968187
+              ],
+              [
+                -112.10042914,
+                32.97057276
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 68695109,
+            "area": 7554,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.97102111
+              ],
+              [
+                -112.10438227,
+                32.97105497
+              ],
+              [
+                -112.10291465,
+                32.97106157
+              ],
+              [
+                -112.10055994,
+                32.97101258
+              ],
+              [
+                -112.1005925,
+                32.97094664
+              ],
+              [
+                -112.10067111,
+                32.97091932
+              ],
+              [
+                -112.10217803,
+                32.97091272
+              ],
+              [
+                -112.10446087,
+                32.97091178
+              ],
+              [
+                -112.10449219,
+                32.97095934
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 68695031,
+            "area": 4635,
+            "source": "openstreetmap.org",
+            "sort_key": 367,
+            "boundary": "yes",
+            "kind": "water"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10042968,
+                32.97057264
+              ],
+              [
+                -112.10040947,
+                32.97100128
+              ],
+              [
+                -112.10028595,
+                32.97107287
+              ],
+              [
+                -112.10023318,
+                32.97102954
+              ],
+              [
+                -112.10021409,
+                32.97031452
+              ],
+              [
+                -112.10022644,
+                32.96946196
+              ],
+              [
+                -112.10027248,
+                32.96933572
+              ],
+              [
+                -112.10042182,
+                32.96968146
+              ],
+              [
+                -112.10042968,
+                32.97057264
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 262872,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -112.09899902,
+              32.96719523
+            ],
+            [
+              -112.10449219,
+              32.96719523
+            ],
+            [
+              -112.10449219,
+              32.97180378
+            ],
+            [
+              -112.09899902,
+              32.97180378
+            ],
+            [
+              -112.09899902,
+              32.96719523
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 16936274,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Val Vista Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10002194,
+                32.96951901
+              ],
+              [
+                -112.09899902,
+                32.96952475
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 16929087,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "N White Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10003073,
+                32.96719523
+              ],
+              [
+                -112.10002194,
+                32.96951901
+              ],
+              [
+                -112.10010494,
+                32.97116798
+              ],
+              [
+                -112.10024095,
+                32.97126
+              ],
+              [
+                -112.10024126,
+                32.97180378
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 231454828,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Val Vista Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -112.10449219,
+                32.97124598
+              ],
+              [
+                -112.10024095,
+                32.97126
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

@@ -4,6 +4,24 @@ Lots of conversion functions
 
 //Converts the users' selection box to a lat lon bounding box, returns an array of the corners and center
 //left, bottom, right, top
+
+public class bbox{
+  float minlon, minlat, maxlon, maxlat;
+  
+  FloatList bounds;
+  
+  bbox(float _minlon, float _minlat, float _maxlon, float _maxlat){
+      minlon = _minlon;
+      minlat = _minlat;
+      maxlon = _maxlon;
+      maxlat = _maxlat;
+      bounds.add(0,minlon);
+      bounds.add(1,minlat);
+      bounds.add(2,maxlon);
+      bounds.add(3,maxlat);
+  }
+}
+
 public ArrayList<PVector> BoundingBox() {
       ArrayList<PVector> box = new ArrayList<PVector>();
          float a = mouseX;
@@ -63,7 +81,7 @@ public ArrayList<PVector> CanvasBox() {
      ArrayList<PVector> Coords = new ArrayList<PVector>();
      
        for(int k = 0; k<numrows; k++){
-         for(int j = 0; j<numcols; j++){
+         for(int j = -1; j<numcols; j++){
              PVector coord = new PVector(j*256 + 128, k*256 + 128);
              Coords.add(map.getLocation(coord.x, coord.y));
          }
