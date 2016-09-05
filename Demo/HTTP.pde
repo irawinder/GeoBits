@@ -37,7 +37,7 @@ public void PullData(){
    geostuff = new JSONObject();
    println("requesting map data...");
    for(int i = 0; i<5; i++){
-   link = "https://vector.mapzen.com/osm/roads/" + getTileNumber(BoundingBox().get(i).x, BoundingBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+   link = "https://vector.mapzen.com/osm/all/" + getTileNumber(BoundingBox().get(i).x, BoundingBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
    GetRequest get = new GetRequest(link);
    println("data requested...");
    get.send();

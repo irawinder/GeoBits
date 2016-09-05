@@ -13,7 +13,7 @@ int numrows = 22;
 void initGraphics(){
   Selection = createGraphics(boxw, boxh);
   Canvas = createGraphics(width, height);
-}
+}f
 
 //draws info
 void draw_info() {

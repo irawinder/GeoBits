@@ -1,0 +1,7834 @@
+[
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 19069712,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Webbland Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426299,
+              39.183437
+            ],
+            [
+              -84.426255,
+              39.184769
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19054647,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Parry Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.423553,
+              39.187459
+            ],
+            [
+              -84.42345,
+              39.18761
+            ],
+            [
+              -84.423336,
+              39.188047
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 80318865,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Losantiville Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42923,
+              39.182498
+            ],
+            [
+              -84.428908,
+              39.181743
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057667,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "name": "Montwood Alley",
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.428631,
+              39.182264
+            ],
+            [
+              -84.428668,
+              39.182255
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057719,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Harvest Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427962,
+              39.185712
+            ],
+            [
+              -84.425049,
+              39.185956
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19050881,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427496,
+              39.183288
+            ],
+            [
+              -84.427304,
+              39.183291
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061841,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Southwoods Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424811,
+              39.188293
+            ],
+            [
+              -84.425558,
+              39.188329
+            ],
+            [
+              -84.426311,
+              39.18827
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061860,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iris Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.41902,
+                39.187842
+              ],
+              [
+                -84.418945,
+                39.187873
+              ]
+            ],
+            [
+              [
+                -84.418972,
+                39.188822
+              ],
+              [
+                -84.41902,
+                39.187842
+              ]
+            ],
+            [
+              [
+                -84.41902,
+                39.187842
+              ],
+              [
+                -84.418969,
+                39.187664
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063501,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Hudson Pkwy.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429579,
+              39.189608
+            ],
+            [
+              -84.429609,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19071053,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Arrow Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424189,
+              39.182725
+            ],
+            [
+              -84.420297,
+              39.182531
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063733,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Troy Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427398,
+              39.184784
+            ],
+            [
+              -84.429932,
+              39.184894
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19050881,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429404,
+              39.182919
+            ],
+            [
+              -84.427929,
+              39.183281
+            ],
+            [
+              -84.427496,
+              39.183288
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.181491
+            ],
+            [
+              -84.427138,
+              39.182219
+            ],
+            [
+              -84.423493,
+              39.184208
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.423493,
+              39.184208
+            ],
+            [
+              -84.420634,
+              39.185786
+            ],
+            [
+              -84.418945,
+              39.186508
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.1839
+            ],
+            [
+              -84.420326,
+              39.185919
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057143,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Schubert Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427352,
+              39.183902
+            ],
+            [
+              -84.429932,
+              39.184008
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052398,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Orchard Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.420326,
+              39.185919
+            ],
+            [
+              -84.420438,
+              39.18608
+            ],
+            [
+              -84.420498,
+              39.186556
+            ],
+            [
+              -84.420138,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19055905,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dryden Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.420463,
+              39.181175
+            ],
+            [
+              -84.420161,
+              39.18364
+            ],
+            [
+              -84.42022,
+              39.183897
+            ],
+            [
+              -84.420544,
+              39.184198
+            ],
+            [
+              -84.420765,
+              39.184278
+            ],
+            [
+              -84.420948,
+              39.184273
+            ],
+            [
+              -84.421116,
+              39.184156
+            ],
+            [
+              -84.421161,
+              39.183744
+            ],
+            [
+              -84.421744,
+              39.183409
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068948,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Parkman Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.423713,
+              39.185581
+            ],
+            [
+              -84.423553,
+              39.187459
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052908,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Woodmont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424244,
+              39.181175
+            ],
+            [
+              -84.424185,
+              39.182964
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058590,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Orion Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426425,
+              39.181653
+            ],
+            [
+              -84.425438,
+              39.181601
+            ],
+            [
+              -84.424223,
+              39.181756
+            ],
+            [
+              -84.420417,
+              39.181568
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052091,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Beredith Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.428927,
+                39.186979
+              ],
+              [
+                -84.424921,
+                39.187319
+              ]
+            ],
+            [
+              [
+                -84.424883,
+                39.18754
+              ],
+              [
+                -84.423553,
+                39.187459
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 80318865,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Losantiville Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.429932,
+                39.183547
+              ],
+              [
+                -84.429503,
+                39.183081
+              ]
+            ],
+            [
+              [
+                -84.429367,
+                39.182841
+              ],
+              [
+                -84.42923,
+                39.182498
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19055797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Delphos Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426676,
+              39.185821
+            ],
+            [
+              -84.426846,
+              39.187154
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 235008127,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42728,
+              39.182939
+            ],
+            [
+              -84.42729,
+              39.183087
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19066555,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Woodsfield St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.428829,
+                39.182637
+              ],
+              [
+                -84.429245,
+                39.182534
+              ]
+            ],
+            [
+              [
+                -84.427278,
+                39.182913
+              ],
+              [
+                -84.427834,
+                39.182883
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058798,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kincaid Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.425238,
+              39.183965
+            ],
+            [
+              -84.424722,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 235008127,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427304,
+              39.183291
+            ],
+            [
+              -84.42741,
+              39.185033
+            ],
+            [
+              -84.429142,
+              39.187276
+            ],
+            [
+              -84.429932,
+              39.188733
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052908,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Woodmont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424185,
+              39.182964
+            ],
+            [
+              -84.424579,
+              39.183604
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19066555,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Woodsfield St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429245,
+              39.182534
+            ],
+            [
+              -84.429245,
+              39.182534
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058590,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Orion Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427235,
+              39.181695
+            ],
+            [
+              -84.426425,
+              39.181653
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058519,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Grand Vista Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.422025,
+              39.181175
+            ],
+            [
+              -84.421744,
+              39.183409
+            ],
+            [
+              -84.422653,
+              39.183891
+            ],
+            [
+              -84.423613,
+              39.184914
+            ],
+            [
+              -84.423731,
+              39.18526
+            ],
+            [
+              -84.423713,
+              39.185581
+            ],
+            [
+              -84.422284,
+              39.186368
+            ],
+            [
+              -84.421986,
+              39.186712
+            ],
+            [
+              -84.421679,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 250864914,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.183358
+            ],
+            [
+              -84.429735,
+              39.183333
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19069712,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Webbland Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42626,
+              39.182703
+            ],
+            [
+              -84.426299,
+              39.183437
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057667,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 356,
+          "name": "Montwood Alley",
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.428668,
+                39.182255
+              ],
+              [
+                -84.429087,
+                39.182151
+              ]
+            ],
+            [
+              [
+                -84.42726,
+                39.182605
+              ],
+              [
+                -84.428631,
+                39.182264
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 80318865,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Losantiville Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429503,
+              39.183081
+            ],
+            [
+              -84.429367,
+              39.182841
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063855,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.428908,
+              39.181743
+            ],
+            [
+              -84.428466,
+              39.181258
+            ],
+            [
+              -84.428281,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056467,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Esther Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.189561
+            ],
+            [
+              -84.429579,
+              39.189608
+            ],
+            [
+              -84.428827,
+              39.189533
+            ],
+            [
+              -84.428359,
+              39.189034
+            ],
+            [
+              -84.428279,
+              39.188615
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19066555,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Woodsfield St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427834,
+              39.182883
+            ],
+            [
+              -84.428829,
+              39.182637
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058798,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Kincaid Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42531,
+              39.183204
+            ],
+            [
+              -84.425238,
+              39.183965
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 235008127,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.42729,
+                39.183087
+              ],
+              [
+                -84.427304,
+                39.183291
+              ]
+            ],
+            [
+              [
+                -84.42727,
+                39.181175
+              ],
+              [
+                -84.427227,
+                39.18207
+              ],
+              [
+                -84.42728,
+                39.182939
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 19060136,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Pointer Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408773,
+              39.176508
+            ],
+            [
+              -84.408916,
+              39.177032
+            ],
+            [
+              -84.409157,
+              39.177238
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063655,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Congreve Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416186,
+              39.176242
+            ],
+            [
+              -84.411496,
+              39.175995
+            ],
+            [
+              -84.41053,
+              39.17577
+            ],
+            [
+              -84.408904,
+              39.175631
+            ],
+            [
+              -84.407959,
+              39.175464
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19064278,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Kenoak Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418182,
+              39.173067
+            ],
+            [
+              -84.41783,
+              39.172659
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418945,
+                39.178792
+              ],
+              [
+                -84.418257,
+                39.179089
+              ]
+            ],
+            [
+              [
+                -84.415272,
+                39.180384
+              ],
+              [
+                -84.414132,
+                39.180647
+              ],
+              [
+                -84.413605,
+                39.180907
+              ],
+              [
+                -84.413257,
+                39.181175
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19050465,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Hill and Dale Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416597,
+              39.174042
+            ],
+            [
+              -84.416066,
+              39.173485
+            ],
+            [
+              -84.41542,
+              39.173191
+            ],
+            [
+              -84.414968,
+              39.173133
+            ],
+            [
+              -84.413951,
+              39.173186
+            ],
+            [
+              -84.413245,
+              39.173066
+            ],
+            [
+              -84.412972,
+              39.172818
+            ],
+            [
+              -84.412911,
+              39.172659
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685795,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 443,
+          "name": "Kennedy Ave.",
+          "is_bridge": "yes",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414543,
+              39.180194
+            ],
+            [
+              -84.414527,
+              39.180371
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418061,
+              39.180265
+            ],
+            [
+              -84.417822,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685733,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418945,
+                39.180371
+              ],
+              [
+                -84.418268,
+                39.180335
+              ],
+              [
+                -84.417893,
+                39.180144
+              ]
+            ],
+            [
+              [
+                -84.41003,
+                39.179624
+              ],
+              [
+                -84.407959,
+                39.179461
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 196814144,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417398,
+              39.18103
+            ],
+            [
+              -84.417502,
+              39.180823
+            ],
+            [
+              -84.417507,
+              39.180591
+            ],
+            [
+              -84.417779,
+              39.180394
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19055199,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Valley View Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413471,
+              39.174877
+            ],
+            [
+              -84.41314,
+              39.178434
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056005,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Aikenside Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414655,
+              39.178937
+            ],
+            [
+              -84.413215,
+              39.178446
+            ],
+            [
+              -84.410761,
+              39.178295
+            ],
+            [
+              -84.410594,
+              39.178246
+            ],
+            [
+              -84.410367,
+              39.178074
+            ],
+            [
+              -84.410188,
+              39.177808
+            ],
+            [
+              -84.41004,
+              39.176677
+            ],
+            [
+              -84.409965,
+              39.176593
+            ],
+            [
+              -84.408896,
+              39.176502
+            ],
+            [
+              -84.407959,
+              39.176651
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068402,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Edgeview Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.1776
+            ],
+            [
+              -84.41855,
+              39.177682
+            ],
+            [
+              -84.417589,
+              39.178001
+            ],
+            [
+              -84.416666,
+              39.178055
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070531,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Skyview Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416743,
+              39.177328
+            ],
+            [
+              -84.417354,
+              39.177284
+            ],
+            [
+              -84.418631,
+              39.17686
+            ],
+            [
+              -84.418864,
+              39.17685
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058084,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Walker Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.40819,
+              39.181175
+            ],
+            [
+              -84.407959,
+              39.181154
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685733,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.411797,
+              39.179771
+            ],
+            [
+              -84.41003,
+              39.179624
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057810,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Woodford Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408956,
+              39.179537
+            ],
+            [
+              -84.408868,
+              39.180509
+            ],
+            [
+              -84.408928,
+              39.180676
+            ],
+            [
+              -84.409095,
+              39.180789
+            ],
+            [
+              -84.409377,
+              39.180839
+            ],
+            [
+              -84.409667,
+              39.180773
+            ],
+            [
+              -84.409812,
+              39.180617
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418257,
+              39.179089
+            ],
+            [
+              -84.416591,
+              39.179851
+            ],
+            [
+              -84.415272,
+              39.180384
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966779,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.414476,
+                39.180972
+              ],
+              [
+                -84.414753,
+                39.180992
+              ],
+              [
+                -84.415005,
+                39.181113
+              ],
+              [
+                -84.4161,
+                39.181097
+              ]
+            ],
+            [
+              [
+                -84.4161,
+                39.181097
+              ],
+              [
+                -84.416212,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.416226,
+                39.181175
+              ],
+              [
+                -84.416314,
+                39.181126
+              ],
+              [
+                -84.416218,
+                39.181026
+              ],
+              [
+                -84.4161,
+                39.181097
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685795,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 443,
+          "name": "Kennedy Ave.",
+          "is_bridge": "yes",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414527,
+              39.180371
+            ],
+            [
+              -84.414486,
+              39.180855
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053575,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Dogwood Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.413245,
+                39.173066
+              ],
+              [
+                -84.413013,
+                39.17319
+              ],
+              [
+                -84.412467,
+                39.173338
+              ],
+              [
+                -84.411783,
+                39.173396
+              ],
+              [
+                -84.410897,
+                39.173559
+              ],
+              [
+                -84.409845,
+                39.17394
+              ]
+            ],
+            [
+              [
+                -84.408871,
+                39.173885
+              ],
+              [
+                -84.408703,
+                39.173909
+              ],
+              [
+                -84.408611,
+                39.174006
+              ],
+              [
+                -84.40869,
+                39.174255
+              ],
+              [
+                -84.408667,
+                39.174519
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070117,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Viewpointe Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418182,
+              39.173067
+            ],
+            [
+              -84.418505,
+              39.173408
+            ],
+            [
+              -84.418945,
+              39.173481
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057873,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Wyatt Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.412275,
+              39.174809
+            ],
+            [
+              -84.411797,
+              39.179771
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061239,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Durner Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409844,
+              39.174617
+            ],
+            [
+              -84.409786,
+              39.175158
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 353281293,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "View Pointe",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418381,
+              39.173307
+            ],
+            [
+              -84.41838,
+              39.173479
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 90779021,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 358,
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.40876,
+              39.179517
+            ],
+            [
+              -84.408619,
+              39.1794
+            ],
+            [
+              -84.408472,
+              39.179042
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068517,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Skyline Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.411081,
+              39.175912
+            ],
+            [
+              -84.410962,
+              39.176669
+            ],
+            [
+              -84.410945,
+              39.178302
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19067920,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "E Dogwood Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.411783,
+              39.173396
+            ],
+            [
+              -84.411587,
+              39.173169
+            ],
+            [
+              -84.410456,
+              39.172831
+            ],
+            [
+              -84.410047,
+              39.172841
+            ],
+            [
+              -84.409689,
+              39.172969
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223421965,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418945,
+                39.172679
+              ],
+              [
+                -84.417309,
+                39.173476
+              ]
+            ],
+            [
+              [
+                -84.416299,
+                39.175952
+              ],
+              [
+                -84.416186,
+                39.176242
+              ],
+              [
+                -84.415835,
+                39.176615
+              ],
+              [
+                -84.415685,
+                39.176936
+              ],
+              [
+                -84.415494,
+                39.178805
+              ],
+              [
+                -84.415289,
+                39.178955
+              ],
+              [
+                -84.414655,
+                39.178937
+              ],
+              [
+                -84.414543,
+                39.180194
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.407959,
+              39.177317
+            ],
+            [
+              -84.408452,
+              39.178907
+            ],
+            [
+              -84.408445,
+              39.179484
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053575,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 360,
+          "name": "Dogwood Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409845,
+              39.17394
+            ],
+            [
+              -84.408871,
+              39.173885
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408445,
+              39.179484
+            ],
+            [
+              -84.408286,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052355,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Davenant Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415823,
+                39.1753
+              ],
+              [
+                -84.414659,
+                39.175224
+              ]
+            ],
+            [
+              [
+                -84.414674,
+                39.174945
+              ],
+              [
+                -84.411129,
+                39.174726
+              ],
+              [
+                -84.407959,
+                39.174457
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 196814169,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410042,
+                39.180856
+              ],
+              [
+                -84.410351,
+                39.181067
+              ],
+              [
+                -84.410502,
+                39.18103
+              ],
+              [
+                -84.410491,
+                39.180892
+              ],
+              [
+                -84.410071,
+                39.180611
+              ]
+            ],
+            [
+              [
+                -84.410078,
+                39.181175
+              ],
+              [
+                -84.410115,
+                39.181135
+              ],
+              [
+                -84.409987,
+                39.18098
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 353281293,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 360,
+          "name": "View Pointe",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.41838,
+              39.173479
+            ],
+            [
+              -84.418171,
+              39.173933
+            ],
+            [
+              -84.41769,
+              39.174515
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 196814158,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410261,
+                39.180279
+              ],
+              [
+                -84.410555,
+                39.180487
+              ],
+              [
+                -84.411102,
+                39.180489
+              ],
+              [
+                -84.411306,
+                39.180581
+              ],
+              [
+                -84.411333,
+                39.180996
+              ],
+              [
+                -84.411247,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.410496,
+                39.179663
+              ],
+              [
+                -84.410416,
+                39.180123
+              ],
+              [
+                -84.410261,
+                39.180279
+              ]
+            ],
+            [
+              [
+                -84.410261,
+                39.180279
+              ],
+              [
+                -84.410088,
+                39.180474
+              ],
+              [
+                -84.410035,
+                39.180913
+              ],
+              [
+                -84.409762,
+                39.181175
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "name": "Kennedy Ave.",
+          "sort_key": 376,
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414485,
+              39.180866
+            ],
+            [
+              -84.414458,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056099,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Glenedge Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.176161
+            ],
+            [
+              -84.4184,
+              39.176123
+            ],
+            [
+              -84.418014,
+              39.176174
+            ],
+            [
+              -84.41698,
+              39.1767
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966784,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418061,
+                39.180265
+              ],
+              [
+                -84.417913,
+                39.18039
+              ],
+              [
+                -84.417779,
+                39.180394
+              ],
+              [
+                -84.417285,
+                39.180244
+              ],
+              [
+                -84.417108,
+                39.180244
+              ],
+              [
+                -84.416958,
+                39.180282
+              ],
+              [
+                -84.416607,
+                39.180595
+              ]
+            ],
+            [
+              [
+                -84.416607,
+                39.180595
+              ],
+              [
+                -84.416481,
+                39.180664
+              ],
+              [
+                -84.416411,
+                39.180955
+              ],
+              [
+                -84.416304,
+                39.181063
+              ]
+            ],
+            [
+              [
+                -84.417414,
+                39.181175
+              ],
+              [
+                -84.417344,
+                39.180959
+              ],
+              [
+                -84.417018,
+                39.180874
+              ]
+            ],
+            [
+              [
+                -84.417018,
+                39.180874
+              ],
+              [
+                -84.416867,
+                39.180859
+              ],
+              [
+                -84.416754,
+                39.180785
+              ],
+              [
+                -84.416607,
+                39.180595
+              ]
+            ],
+            [
+              [
+                -84.416621,
+                39.181175
+              ],
+              [
+                -84.416663,
+                39.181076
+              ],
+              [
+                -84.417018,
+                39.180874
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072122,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Dickens Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415607,
+              39.177752
+            ],
+            [
+              -84.413221,
+              39.177605
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768558,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.417309,
+                39.173476
+              ],
+              [
+                -84.416708,
+                39.173888
+              ],
+              [
+                -84.416523,
+                39.174162
+              ],
+              [
+                -84.416299,
+                39.175952
+              ]
+            ],
+            [
+              [
+                -84.414486,
+                39.180855
+              ],
+              [
+                -84.414485,
+                39.180866
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416186,
+              39.176242
+            ],
+            [
+              -84.416536,
+              39.176382
+            ],
+            [
+              -84.41698,
+              39.1767
+            ],
+            [
+              -84.416778,
+              39.177025
+            ],
+            [
+              -84.416651,
+              39.178377
+            ],
+            [
+              -84.416865,
+              39.179
+            ],
+            [
+              -84.417324,
+              39.179491
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068640,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Kinoll Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414674,
+              39.174945
+            ],
+            [
+              -84.414416,
+              39.177667
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063601,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kimberly Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.179573
+            ],
+            [
+              -84.418611,
+              39.179548
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685733,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417893,
+              39.180144
+            ],
+            [
+              -84.417457,
+              39.179604
+            ],
+            [
+              -84.417324,
+              39.179491
+            ],
+            [
+              -84.417089,
+              39.179442
+            ],
+            [
+              -84.416598,
+              39.179475
+            ],
+            [
+              -84.41436,
+              39.179947
+            ],
+            [
+              -84.411797,
+              39.179771
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 19063466,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Bantry Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417162,
+              39.187962
+            ],
+            [
+              -84.418171,
+              39.189434
+            ],
+            [
+              -84.418197,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063884,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dante Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415201,
+              39.189446
+            ],
+            [
+              -84.415657,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052689,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Tyne Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415902,
+              39.18715
+            ],
+            [
+              -84.41585,
+              39.187821
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "Lumford Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415705,
+                39.182816
+              ],
+              [
+                -84.415909,
+                39.182941
+              ],
+              [
+                -84.416021,
+                39.182874
+              ],
+              [
+                -84.415952,
+                39.182778
+              ],
+              [
+                -84.415705,
+                39.182816
+              ]
+            ],
+            [
+              [
+                -84.415349,
+                39.182792
+              ],
+              [
+                -84.415705,
+                39.182816
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413246,
+              39.181175
+            ],
+            [
+              -84.411578,
+              39.182402
+            ],
+            [
+              -84.410328,
+              39.18288
+            ],
+            [
+              -84.409271,
+              39.183371
+            ],
+            [
+              -84.409114,
+              39.1835
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057157,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dunloe Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.408128,
+                39.182654
+              ],
+              [
+                -84.409539,
+                39.182793
+              ]
+            ],
+            [
+              [
+                -84.407959,
+                39.182908
+              ],
+              [
+                -84.408107,
+                39.18292
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Lumford Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414349,
+              39.182708
+            ],
+            [
+              -84.415349,
+              39.182792
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053040,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Northdale Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414401,
+              39.181837
+            ],
+            [
+              -84.413748,
+              39.181794
+            ],
+            [
+              -84.413531,
+              39.181843
+            ],
+            [
+              -84.412892,
+              39.182523
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417837,
+              39.181175
+            ],
+            [
+              -84.417782,
+              39.181495
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072168,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Red Bank Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408336,
+              39.185755
+            ],
+            [
+              -84.408316,
+              39.18633
+            ],
+            [
+              -84.408183,
+              39.186887
+            ],
+            [
+              -84.407959,
+              39.187359
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056244,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Coleridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410742,
+              39.183863
+            ],
+            [
+              -84.410318,
+              39.188122
+            ],
+            [
+              -84.410396,
+              39.188416
+            ],
+            [
+              -84.41089,
+              39.189259
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061765,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Solar Vista Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.41412,
+              39.184872
+            ],
+            [
+              -84.411986,
+              39.184701
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061860,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iris Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.187873
+            ],
+            [
+              -84.415201,
+              39.189446
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.408284,
+                39.181175
+              ],
+              [
+                -84.408277,
+                39.181269
+              ]
+            ],
+            [
+              [
+                -84.408225,
+                39.181685
+              ],
+              [
+                -84.407959,
+                39.184504
+              ]
+            ],
+            [
+              [
+                -84.407959,
+                39.184952
+              ],
+              [
+                -84.408048,
+                39.18573
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063667,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Ravenwood Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415593,
+                39.183817
+              ],
+              [
+                -84.41249,
+                39.183529
+              ]
+            ],
+            [
+              [
+                -84.41249,
+                39.183529
+              ],
+              [
+                -84.412398,
+                39.183433
+              ],
+              [
+                -84.412307,
+                39.183442
+              ],
+              [
+                -84.412237,
+                39.183575
+              ],
+              [
+                -84.412388,
+                39.183608
+              ],
+              [
+                -84.41249,
+                39.183529
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19065360,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Kennedy Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414484,
+              39.188395
+            ],
+            [
+              -84.415098,
+              39.189396
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061687,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Zinsle Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416703,
+                39.185929
+              ],
+              [
+                -84.414028,
+                39.185766
+              ]
+            ],
+            [
+              [
+                -84.414003,
+                39.186056
+              ],
+              [
+                -84.410527,
+                39.185824
+              ],
+              [
+                -84.410406,
+                39.185904
+              ],
+              [
+                -84.410047,
+                39.185903
+              ],
+              [
+                -84.407959,
+                39.185722
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058084,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Walker Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408285,
+              39.181184
+            ],
+            [
+              -84.40819,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 56394807,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.412881,
+                39.187839
+              ],
+              [
+                -84.413023,
+                39.187751
+              ]
+            ],
+            [
+              [
+                -84.412881,
+                39.187839
+              ],
+              [
+                -84.412973,
+                39.186737
+              ],
+              [
+                -84.412018,
+                39.186691
+              ],
+              [
+                -84.411948,
+                39.187772
+              ],
+              [
+                -84.412758,
+                39.187897
+              ],
+              [
+                -84.412881,
+                39.187839
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19065359,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kennedy Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415098,
+              39.189396
+            ],
+            [
+              -84.415201,
+              39.189446
+            ],
+            [
+              -84.415108,
+              39.189528
+            ],
+            [
+              -84.415094,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19051875,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Glen Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418105,
+              39.18933
+            ],
+            [
+              -84.417256,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966749,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415964,
+                39.18293
+              ],
+              [
+                -84.416271,
+                39.183433
+              ],
+              [
+                -84.417142,
+                39.1835
+              ]
+            ],
+            [
+              [
+                -84.416078,
+                39.182614
+              ],
+              [
+                -84.416384,
+                39.182618
+              ]
+            ],
+            [
+              [
+                -84.416005,
+                39.182808
+              ],
+              [
+                -84.416361,
+                39.182805
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409114,
+              39.1835
+            ],
+            [
+              -84.408723,
+              39.183878
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418945,
+                39.186507
+              ],
+              [
+                -84.416806,
+                39.187418
+              ]
+            ],
+            [
+              [
+                -84.411836,
+                39.189396
+              ],
+              [
+                -84.411308,
+                39.189597
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052691,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Tyne Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416019,
+                39.185898
+              ],
+              [
+                -84.415902,
+                39.18715
+              ]
+            ],
+            [
+              [
+                -84.415593,
+                39.183817
+              ],
+              [
+                -84.415417,
+                39.185863
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070121,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Ravenal Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.411836,
+              39.189396
+            ],
+            [
+              -84.41202,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062712,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iona Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410711,
+                39.184043
+              ],
+              [
+                -84.409808,
+                39.184004
+              ],
+              [
+                -84.40898,
+                39.183898
+              ]
+            ],
+            [
+              [
+                -84.408021,
+                39.183814
+              ],
+              [
+                -84.407959,
+                39.183811
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063553,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Beechview Circle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416778,
+              39.185325
+            ],
+            [
+              -84.417006,
+              39.185185
+            ],
+            [
+              -84.417215,
+              39.185138
+            ],
+            [
+              -84.41743,
+              39.185163
+            ],
+            [
+              -84.417581,
+              39.185242
+            ],
+            [
+              -84.418448,
+              39.18672
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057452,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iberis Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408193,
+              39.182016
+            ],
+            [
+              -84.407959,
+              39.181997
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 78389929,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Odin Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410332,
+              39.187867
+            ],
+            [
+              -84.407959,
+              39.187678
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19069851,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kirkup Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410432,
+                39.186903
+              ],
+              [
+                -84.408912,
+                39.186788
+              ]
+            ],
+            [
+              [
+                -84.408218,
+                39.186718
+              ],
+              [
+                -84.407959,
+                39.1867
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417782,
+              39.181495
+            ],
+            [
+              -84.418667,
+              39.181729
+            ],
+            [
+              -84.418497,
+              39.183244
+            ],
+            [
+              -84.418945,
+              39.1839
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 196814169,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409482,
+              39.181439
+            ],
+            [
+              -84.409809,
+              39.181447
+            ],
+            [
+              -84.4101,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057740,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "McHugh Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.412261,
+              39.189231
+            ],
+            [
+              -84.411738,
+              39.187898
+            ],
+            [
+              -84.411832,
+              39.186609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068536,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Standish Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410616,
+              39.18497
+            ],
+            [
+              -84.408679,
+              39.184836
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057453,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "Iberis Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408777,
+              39.181774
+            ],
+            [
+              -84.408225,
+              39.181685
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416806,
+                39.187418
+              ],
+              [
+                -84.414484,
+                39.188395
+              ],
+              [
+                -84.411836,
+                39.189396
+              ]
+            ],
+            [
+              [
+                -84.411308,
+                39.189597
+              ],
+              [
+                -84.411053,
+                39.189691
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408723,
+              39.183878
+            ],
+            [
+              -84.40853,
+              39.184173
+            ],
+            [
+              -84.408375,
+              39.184801
+            ],
+            [
+              -84.4084,
+              39.186492
+            ],
+            [
+              -84.40815,
+              39.187213
+            ],
+            [
+              -84.407959,
+              39.187602
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413818,
+              39.188081
+            ],
+            [
+              -84.413773,
+              39.188575
+            ],
+            [
+              -84.413827,
+              39.188646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068051,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Mary Ann Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415935,
+              39.186733
+            ],
+            [
+              -84.414877,
+              39.186651
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 80319075,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413023,
+              39.187751
+            ],
+            [
+              -84.413843,
+              39.187809
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966779,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416212,
+              39.181175
+            ],
+            [
+              -84.416218,
+              39.18118
+            ],
+            [
+              -84.416226,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056244,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Coleridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.41089,
+              39.189259
+            ],
+            [
+              -84.411132,
+              39.189662
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966753,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.417782,
+                39.181495
+              ],
+              [
+                -84.417494,
+                39.182385
+              ]
+            ],
+            [
+              [
+                -84.416005,
+                39.182808
+              ],
+              [
+                -84.416078,
+                39.182614
+              ]
+            ],
+            [
+              [
+                -84.411247,
+                39.181175
+              ],
+              [
+                -84.411194,
+                39.181287
+              ]
+            ],
+            [
+              [
+                -84.409772,
+                39.181175
+              ],
+              [
+                -84.409482,
+                39.181439
+              ],
+              [
+                -84.408273,
+                39.181342
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "name": "Kennedy Ave.",
+          "sort_key": 376,
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414458,
+              39.181175
+            ],
+            [
+              -84.414445,
+              39.181321
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070220,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Rogers Park Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416832,
+              39.184584
+            ],
+            [
+              -84.416711,
+              39.185999
+            ],
+            [
+              -84.417364,
+              39.187182
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966784,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.417782,
+                39.181495
+              ],
+              [
+                -84.417473,
+                39.181412
+              ]
+            ],
+            [
+              [
+                -84.417473,
+                39.181412
+              ],
+              [
+                -84.417445,
+                39.181271
+              ]
+            ],
+            [
+              [
+                -84.417445,
+                39.181271
+              ],
+              [
+                -84.417422,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.417473,
+                39.181412
+              ],
+              [
+                -84.417269,
+                39.181467
+              ]
+            ],
+            [
+              [
+                -84.417269,
+                39.181467
+              ],
+              [
+                -84.416829,
+                39.181649
+              ],
+              [
+                -84.416636,
+                39.181595
+              ],
+              [
+                -84.41654,
+                39.181467
+              ],
+              [
+                -84.416556,
+                39.181296
+              ],
+              [
+                -84.416638,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.417269,
+                39.181467
+              ],
+              [
+                -84.417445,
+                39.181271
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 78389935,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.407959,
+              39.184751
+            ],
+            [
+              -84.408627,
+              39.184799
+            ],
+            [
+              -84.408734,
+              39.184741
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062448,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Aldon Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408161,
+              39.189674
+            ],
+            [
+              -84.409174,
+              39.189299
+            ],
+            [
+              -84.409609,
+              39.18932
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414445,
+              39.181321
+            ],
+            [
+              -84.413818,
+              39.188081
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063466,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Bantry Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416806,
+              39.187418
+            ],
+            [
+              -84.417162,
+              39.187962
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408277,
+              39.181269
+            ],
+            [
+              -84.408225,
+              39.181685
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19069141,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Hampton Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410507,
+              39.188621
+            ],
+            [
+              -84.41007,
+              39.188673
+            ],
+            [
+              -84.408905,
+              39.188587
+            ],
+            [
+              -84.408361,
+              39.188731
+            ],
+            [
+              -84.408072,
+              39.188942
+            ],
+            [
+              -84.407961,
+              39.189213
+            ],
+            [
+              -84.408033,
+              39.189522
+            ],
+            [
+              -84.408181,
+              39.189691
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 290686224,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426817,
+              39.173973
+            ],
+            [
+              -84.426905,
+              39.174468
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19051911,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Mapleleaf Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.174487
+            ],
+            [
+              -84.428655,
+              39.174416
+            ],
+            [
+              -84.426905,
+              39.174468
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056879,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "S Woodmont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.423176,
+              39.177393
+            ],
+            [
+              -84.424755,
+              39.177499
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063231,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Auten Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.17541
+            ],
+            [
+              -84.427076,
+              39.175248
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 250866988,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.42837,
+                39.172772
+              ],
+              [
+                -84.427107,
+                39.172659
+              ]
+            ],
+            [
+              [
+                -84.421928,
+                39.172929
+              ],
+              [
+                -84.423612,
+                39.173058
+              ],
+              [
+                -84.423658,
+                39.172659
+              ]
+            ],
+            [
+              [
+                -84.42007,
+                39.172659
+              ],
+              [
+                -84.420056,
+                39.172829
+              ],
+              [
+                -84.420817,
+                39.172879
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19067489,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kimberly Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.419638,
+              39.180397
+            ],
+            [
+              -84.419729,
+              39.179116
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19055905,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dryden Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.420546,
+              39.180477
+            ],
+            [
+              -84.420463,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058751,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "Pandora Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.425948,
+              39.179456
+            ],
+            [
+              -84.425824,
+              39.180734
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058751,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Pandora Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.425092,
+              39.17508
+            ],
+            [
+              -84.425233,
+              39.17512
+            ],
+            [
+              -84.425377,
+              39.175252
+            ],
+            [
+              -84.425671,
+              39.176491
+            ],
+            [
+              -84.425803,
+              39.176673
+            ],
+            [
+              -84.426056,
+              39.176853
+            ],
+            [
+              -84.42617,
+              39.177094
+            ],
+            [
+              -84.425948,
+              39.179456
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070610,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Parkview Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.180538
+            ],
+            [
+              -84.429844,
+              39.180569
+            ],
+            [
+              -84.428011,
+              39.180502
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685733,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.425824,
+              39.180734
+            ],
+            [
+              -84.418945,
+              39.18038
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19055988,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Bellewood Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.178184
+            ],
+            [
+              -84.427552,
+              39.178056
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966627,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.179955
+            ],
+            [
+              -84.429929,
+              39.179955
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068402,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Edgeview Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.420358,
+              39.176165
+            ],
+            [
+              -84.420288,
+              39.176813
+            ],
+            [
+              -84.420085,
+              39.177132
+            ],
+            [
+              -84.419481,
+              39.177462
+            ],
+            [
+              -84.418945,
+              39.177586
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057469,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "O\u2019Meara Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.421215,
+              39.180506
+            ],
+            [
+              -84.421405,
+              39.178614
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768559,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426988,
+              39.172659
+            ],
+            [
+              -84.426817,
+              39.173973
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685733,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427294,
+              39.180811
+            ],
+            [
+              -84.425824,
+              39.180734
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19060545,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Norham Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42612,
+              39.177682
+            ],
+            [
+              -84.427522,
+              39.177746
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.425167,
+              39.174206
+            ],
+            [
+              -84.424856,
+              39.174289
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966639,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.427592,
+                39.17941
+              ],
+              [
+                -84.427969,
+                39.179444
+              ],
+              [
+                -84.428226,
+                39.179406
+              ],
+              [
+                -84.428232,
+                39.179344
+              ]
+            ],
+            [
+              [
+                -84.427452,
+                39.180039
+              ],
+              [
+                -84.428173,
+                39.18008
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061033,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Beaver Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427277,
+              39.176169
+            ],
+            [
+              -84.429932,
+              39.176317
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424856,
+              39.174289
+            ],
+            [
+              -84.424357,
+              39.174501
+            ],
+            [
+              -84.423665,
+              39.174917
+            ],
+            [
+              -84.423107,
+              39.175478
+            ],
+            [
+              -84.42278,
+              39.175965
+            ],
+            [
+              -84.422388,
+              39.177412
+            ],
+            [
+              -84.422002,
+              39.177899
+            ],
+            [
+              -84.421138,
+              39.178369
+            ],
+            [
+              -84.420237,
+              39.178564
+            ],
+            [
+              -84.419658,
+              39.178593
+            ],
+            [
+              -84.419186,
+              39.178689
+            ],
+            [
+              -84.418945,
+              39.178792
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070117,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Viewpointe Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.17349
+            ],
+            [
+              -84.419846,
+              39.17365
+            ],
+            [
+              -84.420042,
+              39.173754
+            ],
+            [
+              -84.420168,
+              39.173898
+            ],
+            [
+              -84.420198,
+              39.174212
+            ],
+            [
+              -84.420093,
+              39.174442
+            ],
+            [
+              -84.420029,
+              39.175116
+            ],
+            [
+              -84.419895,
+              39.175457
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290686224,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426905,
+              39.174468
+            ],
+            [
+              -84.427426,
+              39.176859
+            ],
+            [
+              -84.427604,
+              39.178654
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052908,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Woodmont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.424755,
+                39.177499
+              ],
+              [
+                -84.424481,
+                39.180604
+              ],
+              [
+                -84.424412,
+                39.180671
+              ]
+            ],
+            [
+              [
+                -84.424315,
+                39.180667
+              ],
+              [
+                -84.424261,
+                39.18071
+              ],
+              [
+                -84.424244,
+                39.181175
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19054781,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Gloss Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427467,
+              39.177115
+            ],
+            [
+              -84.429932,
+              39.177248
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290686224,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.42755,
+              39.1796
+            ],
+            [
+              -84.427294,
+              39.180811
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 223421965,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418994,
+              39.172659
+            ],
+            [
+              -84.418945,
+              39.172684
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063601,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kimberly Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.419721,
+              39.179632
+            ],
+            [
+              -84.418945,
+              39.179573
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056665,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Acomb Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.426837,
+              39.174168
+            ],
+            [
+              -84.42542,
+              39.174305
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19066513,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "E Woodmont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.422777,
+              39.178044
+            ],
+            [
+              -84.423117,
+              39.1789
+            ],
+            [
+              -84.423185,
+              39.179649
+            ],
+            [
+              -84.423761,
+              39.179705
+            ],
+            [
+              -84.423949,
+              39.179831
+            ],
+            [
+              -84.424546,
+              39.179866
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058519,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Grand Vista Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.422106,
+              39.180549
+            ],
+            [
+              -84.422024,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056099,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "Glenedge Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.420347,
+              39.176259
+            ],
+            [
+              -84.418945,
+              39.176161
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966627,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.429735,
+                39.179981
+              ],
+              [
+                -84.429929,
+                39.179955
+              ],
+              [
+                -84.429814,
+                39.179743
+              ],
+              [
+                -84.429423,
+                39.179656
+              ],
+              [
+                -84.428795,
+                39.179639
+              ]
+            ],
+            [
+              [
+                -84.428237,
+                39.17976
+              ],
+              [
+                -84.428677,
+                39.17976
+              ],
+              [
+                -84.428795,
+                39.179639
+              ]
+            ],
+            [
+              [
+                -84.428795,
+                39.179639
+              ],
+              [
+                -84.428559,
+                39.179402
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.429932,
+              39.172973
+            ],
+            [
+              -84.427184,
+              39.173907
+            ],
+            [
+              -84.425167,
+              39.174206
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063867,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Abelia Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.424214,
+              39.175626
+            ],
+            [
+              -84.424563,
+              39.175901
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290686224,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "name": "Ridge Rd.",
+          "sort_key": 376,
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427604,
+              39.178654
+            ],
+            [
+              -84.427643,
+              39.1791
+            ],
+            [
+              -84.42755,
+              39.1796
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063855,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Woodford Rd.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.428311,
+              39.181175
+            ],
+            [
+              -84.428234,
+              39.181124
+            ],
+            [
+              -84.427294,
+              39.180811
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19064756,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Ashwood Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.425444,
+                39.176668
+              ],
+              [
+                -84.42588,
+                39.176732
+              ]
+            ],
+            [
+              [
+                -84.425444,
+                39.176668
+              ],
+              [
+                -84.425603,
+                39.176595
+              ],
+              [
+                -84.425671,
+                39.176491
+              ]
+            ],
+            [
+              [
+                -84.425092,
+                39.17508
+              ],
+              [
+                -84.424851,
+                39.175137
+              ],
+              [
+                -84.423382,
+                39.176265
+              ],
+              [
+                -84.423326,
+                39.176434
+              ],
+              [
+                -84.423523,
+                39.176565
+              ],
+              [
+                -84.425444,
+                39.176668
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 235008127,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Ridge Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.427294,
+              39.180811
+            ],
+            [
+              -84.427268,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070610,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Parkview Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.428011,
+              39.180502
+            ],
+            [
+              -84.427357,
+              39.180468
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 19063466,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Bantry Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417162,
+              39.187962
+            ],
+            [
+              -84.418171,
+              39.189434
+            ],
+            [
+              -84.418197,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063884,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dante Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415201,
+              39.189446
+            ],
+            [
+              -84.415657,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052689,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Tyne Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415902,
+              39.18715
+            ],
+            [
+              -84.41585,
+              39.187821
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "Lumford Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415705,
+                39.182816
+              ],
+              [
+                -84.415909,
+                39.182941
+              ],
+              [
+                -84.416021,
+                39.182874
+              ],
+              [
+                -84.415952,
+                39.182778
+              ],
+              [
+                -84.415705,
+                39.182816
+              ]
+            ],
+            [
+              [
+                -84.415349,
+                39.182792
+              ],
+              [
+                -84.415705,
+                39.182816
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "wood",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413246,
+              39.181175
+            ],
+            [
+              -84.411578,
+              39.182402
+            ],
+            [
+              -84.410328,
+              39.18288
+            ],
+            [
+              -84.409271,
+              39.183371
+            ],
+            [
+              -84.409114,
+              39.1835
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057157,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Dunloe Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.408128,
+                39.182654
+              ],
+              [
+                -84.409539,
+                39.182793
+              ]
+            ],
+            [
+              [
+                -84.407959,
+                39.182908
+              ],
+              [
+                -84.408107,
+                39.18292
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053679,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Lumford Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414349,
+              39.182708
+            ],
+            [
+              -84.415349,
+              39.182792
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19053040,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Northdale Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414401,
+              39.181837
+            ],
+            [
+              -84.413748,
+              39.181794
+            ],
+            [
+              -84.413531,
+              39.181843
+            ],
+            [
+              -84.412892,
+              39.182523
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417837,
+              39.181175
+            ],
+            [
+              -84.417782,
+              39.181495
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072168,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Red Bank Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408336,
+              39.185755
+            ],
+            [
+              -84.408316,
+              39.18633
+            ],
+            [
+              -84.408183,
+              39.186887
+            ],
+            [
+              -84.407959,
+              39.187359
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056244,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Coleridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410742,
+              39.183863
+            ],
+            [
+              -84.410318,
+              39.188122
+            ],
+            [
+              -84.410396,
+              39.188416
+            ],
+            [
+              -84.41089,
+              39.189259
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061765,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Solar Vista Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.41412,
+              39.184872
+            ],
+            [
+              -84.411986,
+              39.184701
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061860,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iris Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418945,
+              39.187873
+            ],
+            [
+              -84.415201,
+              39.189446
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.408284,
+                39.181175
+              ],
+              [
+                -84.408277,
+                39.181269
+              ]
+            ],
+            [
+              [
+                -84.408225,
+                39.181685
+              ],
+              [
+                -84.407959,
+                39.184504
+              ]
+            ],
+            [
+              [
+                -84.407959,
+                39.184952
+              ],
+              [
+                -84.408048,
+                39.18573
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063667,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Ravenwood Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415593,
+                39.183817
+              ],
+              [
+                -84.41249,
+                39.183529
+              ]
+            ],
+            [
+              [
+                -84.41249,
+                39.183529
+              ],
+              [
+                -84.412398,
+                39.183433
+              ],
+              [
+                -84.412307,
+                39.183442
+              ],
+              [
+                -84.412237,
+                39.183575
+              ],
+              [
+                -84.412388,
+                39.183608
+              ],
+              [
+                -84.41249,
+                39.183529
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19065360,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Kennedy Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414484,
+              39.188395
+            ],
+            [
+              -84.415098,
+              39.189396
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19061687,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Zinsle Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416703,
+                39.185929
+              ],
+              [
+                -84.414028,
+                39.185766
+              ]
+            ],
+            [
+              [
+                -84.414003,
+                39.186056
+              ],
+              [
+                -84.410527,
+                39.185824
+              ],
+              [
+                -84.410406,
+                39.185904
+              ],
+              [
+                -84.410047,
+                39.185903
+              ],
+              [
+                -84.407959,
+                39.185722
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19058084,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Walker Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408285,
+              39.181184
+            ],
+            [
+              -84.40819,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 56394807,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.412881,
+                39.187839
+              ],
+              [
+                -84.413023,
+                39.187751
+              ]
+            ],
+            [
+              [
+                -84.412881,
+                39.187839
+              ],
+              [
+                -84.412973,
+                39.186737
+              ],
+              [
+                -84.412018,
+                39.186691
+              ],
+              [
+                -84.411948,
+                39.187772
+              ],
+              [
+                -84.412758,
+                39.187897
+              ],
+              [
+                -84.412881,
+                39.187839
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19065359,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kennedy Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415098,
+              39.189396
+            ],
+            [
+              -84.415201,
+              39.189446
+            ],
+            [
+              -84.415108,
+              39.189528
+            ],
+            [
+              -84.415094,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19051875,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Glen Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.418105,
+              39.18933
+            ],
+            [
+              -84.417256,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966749,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.415964,
+                39.18293
+              ],
+              [
+                -84.416271,
+                39.183433
+              ],
+              [
+                -84.417142,
+                39.1835
+              ]
+            ],
+            [
+              [
+                -84.416078,
+                39.182614
+              ],
+              [
+                -84.416384,
+                39.182618
+              ]
+            ],
+            [
+              [
+                -84.416005,
+                39.182808
+              ],
+              [
+                -84.416361,
+                39.182805
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409114,
+              39.1835
+            ],
+            [
+              -84.408723,
+              39.183878
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.418945,
+                39.186507
+              ],
+              [
+                -84.416806,
+                39.187418
+              ]
+            ],
+            [
+              [
+                -84.411836,
+                39.189396
+              ],
+              [
+                -84.411308,
+                39.189597
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19052691,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Tyne Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416019,
+                39.185898
+              ],
+              [
+                -84.415902,
+                39.18715
+              ]
+            ],
+            [
+              [
+                -84.415593,
+                39.183817
+              ],
+              [
+                -84.415417,
+                39.185863
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070121,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Ravenal Ct.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.411836,
+              39.189396
+            ],
+            [
+              -84.41202,
+              39.189691
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062712,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iona Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410711,
+                39.184043
+              ],
+              [
+                -84.409808,
+                39.184004
+              ],
+              [
+                -84.40898,
+                39.183898
+              ]
+            ],
+            [
+              [
+                -84.408021,
+                39.183814
+              ],
+              [
+                -84.407959,
+                39.183811
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063553,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Beechview Circle",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416778,
+              39.185325
+            ],
+            [
+              -84.417006,
+              39.185185
+            ],
+            [
+              -84.417215,
+              39.185138
+            ],
+            [
+              -84.41743,
+              39.185163
+            ],
+            [
+              -84.417581,
+              39.185242
+            ],
+            [
+              -84.418448,
+              39.18672
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057452,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Iberis Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408193,
+              39.182016
+            ],
+            [
+              -84.407959,
+              39.181997
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 78389929,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Odin Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410332,
+              39.187867
+            ],
+            [
+              -84.407959,
+              39.187678
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19069851,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Kirkup Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.410432,
+                39.186903
+              ],
+              [
+                -84.408912,
+                39.186788
+              ]
+            ],
+            [
+              [
+                -84.408218,
+                39.186718
+              ],
+              [
+                -84.407959,
+                39.1867
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062976,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Robison Rd.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.417782,
+              39.181495
+            ],
+            [
+              -84.418667,
+              39.181729
+            ],
+            [
+              -84.418497,
+              39.183244
+            ],
+            [
+              -84.418945,
+              39.1839
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 196814169,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.409482,
+              39.181439
+            ],
+            [
+              -84.409809,
+              39.181447
+            ],
+            [
+              -84.4101,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057740,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "McHugh Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.412261,
+              39.189231
+            ],
+            [
+              -84.411738,
+              39.187898
+            ],
+            [
+              -84.411832,
+              39.186609
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068536,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Standish Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410616,
+              39.18497
+            ],
+            [
+              -84.408679,
+              39.184836
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19057453,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 360,
+          "name": "Iberis Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408777,
+              39.181774
+            ],
+            [
+              -84.408225,
+              39.181685
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 290606585,
+          "is_bus_route": true,
+          "ref": "US 22;SR 3",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "name": "Montgomery Rd.",
+          "sort_key": 378,
+          "network": "US:OH",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.416806,
+                39.187418
+              ],
+              [
+                -84.414484,
+                39.188395
+              ],
+              [
+                -84.411836,
+                39.189396
+              ]
+            ],
+            [
+              [
+                -84.411308,
+                39.189597
+              ],
+              [
+                -84.411053,
+                39.189691
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 22768560,
+          "railway": "rail",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 380,
+          "operator": "Indiana and Ohio Railway",
+          "kind": "rail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408723,
+              39.183878
+            ],
+            [
+              -84.40853,
+              39.184173
+            ],
+            [
+              -84.408375,
+              39.184801
+            ],
+            [
+              -84.4084,
+              39.186492
+            ],
+            [
+              -84.40815,
+              39.187213
+            ],
+            [
+              -84.407959,
+              39.187602
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413818,
+              39.188081
+            ],
+            [
+              -84.413773,
+              39.188575
+            ],
+            [
+              -84.413827,
+              39.188646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19068051,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Mary Ann Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.415935,
+              39.186733
+            ],
+            [
+              -84.414877,
+              39.186651
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 80319075,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.413023,
+              39.187751
+            ],
+            [
+              -84.413843,
+              39.187809
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966779,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416212,
+              39.181175
+            ],
+            [
+              -84.416218,
+              39.18118
+            ],
+            [
+              -84.416226,
+              39.181175
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19056244,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Coleridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.41089,
+              39.189259
+            ],
+            [
+              -84.411132,
+              39.189662
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966753,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.417782,
+                39.181495
+              ],
+              [
+                -84.417494,
+                39.182385
+              ]
+            ],
+            [
+              [
+                -84.416005,
+                39.182808
+              ],
+              [
+                -84.416078,
+                39.182614
+              ]
+            ],
+            [
+              [
+                -84.411247,
+                39.181175
+              ],
+              [
+                -84.411194,
+                39.181287
+              ]
+            ],
+            [
+              [
+                -84.409772,
+                39.181175
+              ],
+              [
+                -84.409482,
+                39.181439
+              ],
+              [
+                -84.408273,
+                39.181342
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "name": "Kennedy Ave.",
+          "sort_key": 376,
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414458,
+              39.181175
+            ],
+            [
+              -84.414445,
+              39.181321
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19070220,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Rogers Park Pl.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416832,
+              39.184584
+            ],
+            [
+              -84.416711,
+              39.185999
+            ],
+            [
+              -84.417364,
+              39.187182
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 76966784,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "park",
+          "foot": "yes",
+          "sort_key": 354,
+          "kind": "path"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -84.417782,
+                39.181495
+              ],
+              [
+                -84.417473,
+                39.181412
+              ]
+            ],
+            [
+              [
+                -84.417473,
+                39.181412
+              ],
+              [
+                -84.417445,
+                39.181271
+              ]
+            ],
+            [
+              [
+                -84.417445,
+                39.181271
+              ],
+              [
+                -84.417422,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.417473,
+                39.181412
+              ],
+              [
+                -84.417269,
+                39.181467
+              ]
+            ],
+            [
+              [
+                -84.417269,
+                39.181467
+              ],
+              [
+                -84.416829,
+                39.181649
+              ],
+              [
+                -84.416636,
+                39.181595
+              ],
+              [
+                -84.41654,
+                39.181467
+              ],
+              [
+                -84.416556,
+                39.181296
+              ],
+              [
+                -84.416638,
+                39.181175
+              ]
+            ],
+            [
+              [
+                -84.417269,
+                39.181467
+              ],
+              [
+                -84.417445,
+                39.181271
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 78389935,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 358,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.407959,
+              39.184751
+            ],
+            [
+              -84.408627,
+              39.184799
+            ],
+            [
+              -84.408734,
+              39.184741
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19062448,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Aldon Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408161,
+              39.189674
+            ],
+            [
+              -84.409174,
+              39.189299
+            ],
+            [
+              -84.409609,
+              39.18932
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 59685794,
+          "is_bus_route": true,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 376,
+          "name": "Kennedy Ave.",
+          "network": "SORTA",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.414445,
+              39.181321
+            ],
+            [
+              -84.413818,
+              39.188081
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19063466,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "retail",
+          "sort_key": 360,
+          "name": "Bantry Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.416806,
+              39.187418
+            ],
+            [
+              -84.417162,
+              39.187962
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19072173,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 376,
+          "name": "Red Bank Rd.",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.408277,
+              39.181269
+            ],
+            [
+              -84.408225,
+              39.181685
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 19069141,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "Hampton Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -84.410507,
+              39.188621
+            ],
+            [
+              -84.41007,
+              39.188673
+            ],
+            [
+              -84.408905,
+              39.188587
+            ],
+            [
+              -84.408361,
+              39.188731
+            ],
+            [
+              -84.408072,
+              39.188942
+            ],
+            [
+              -84.407961,
+              39.189213
+            ],
+            [
+              -84.408033,
+              39.189522
+            ],
+            [
+              -84.408181,
+              39.189691
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+]

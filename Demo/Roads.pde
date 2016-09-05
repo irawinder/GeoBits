@@ -29,7 +29,7 @@ public class RoadNetwork{
       
       JSONArray input = loadJSONArray(mapling);
       
-      for(int m = 0; m<MapTiles().size(); m++){
+      for(int m = 0; m<genratio; m++){
           JSONObject JSONM = input.getJSONObject(m); 
           JSONObject JSON = JSONM.getJSONObject("roads");
           JSONArray JSONlines = JSON.getJSONArray("features");
