@@ -51,6 +51,10 @@ void draw_selection() {
   noFill();
   strokeWeight(2);
   stroke(0);
+  //change the color if pulling data to show how fast or slow the pull is    
+  if (pull) {
+    fill(#00ff00);
+  }
   rect(mouseX, mouseY, boxw, boxh);
   fill(#00ff00);
   ellipse(mouseX, mouseY, 20, 20);

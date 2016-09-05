@@ -20,7 +20,6 @@ public class bbox{
       bounds.add(2,maxlon);
       bounds.add(3,maxlat);
   }
-  
 }
 
 public ArrayList<PVector> BoundingBox() {

@@ -1,0 +1,7613 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92321777,
+              33.34659044
+            ],
+            [
+              -111.92596436,
+              33.34659044
+            ],
+            [
+              -111.92596436,
+              33.34888479
+            ],
+            [
+              -111.92321777,
+              33.34888479
+            ],
+            [
+              -111.92321777,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5613892,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Rita Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92503308,
+                33.34743228
+              ],
+              [
+                -111.92503308,
+                33.34773349
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901100,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Rita Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92505887,
+                33.3481135
+              ],
+              [
+                -111.92505887,
+                33.34855796
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646403,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92441513,
+                33.3483931
+              ],
+              [
+                -111.9246469,
+                33.34847189
+              ],
+              [
+                -111.92479279,
+                33.34851496
+              ],
+              [
+                -111.92505887,
+                33.34855796
+              ],
+              [
+                -111.92535926,
+                33.34856516
+              ],
+              [
+                -111.92582279,
+                33.34855796
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 390874831,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Rita Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92441513,
+                33.3483931
+              ],
+              [
+                -111.92429503,
+                33.3482999
+              ],
+              [
+                -111.92422631,
+                33.3482067
+              ],
+              [
+                -111.92420062,
+                33.34810629
+              ],
+              [
+                -111.92420924,
+                33.34797722
+              ],
+              [
+                -111.92422631,
+                33.34783382
+              ],
+              [
+                -111.92426934,
+                33.34772629
+              ],
+              [
+                -111.92438944,
+                33.34762588
+              ],
+              [
+                -111.92450964,
+                33.34752548
+              ],
+              [
+                -111.92466415,
+                33.34744668
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598644,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92375187,
+                33.34659044
+              ],
+              [
+                -111.92396032,
+                33.34671526
+              ],
+              [
+                -111.92438082,
+                33.34690886
+              ],
+              [
+                -111.924707,
+                33.3469734
+              ],
+              [
+                -111.92585998,
+                33.34697633
+              ],
+              [
+                -111.92596436,
+                33.34697659
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34736659
+              ],
+              [
+                -111.92359982,
+                33.34706668
+              ],
+              [
+                -111.92382287,
+                33.3468874
+              ],
+              [
+                -111.92396032,
+                33.34671526
+              ],
+              [
+                -111.92405441,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646401,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34861377
+              ],
+              [
+                -111.92348816,
+                33.34861529
+              ],
+              [
+                -111.92364267,
+                33.34856516
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684622,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92596436,
+                33.34742507
+              ],
+              [
+                -111.92589996,
+                33.34742507
+              ],
+              [
+                -111.92536789,
+                33.34741081
+              ],
+              [
+                -111.92503308,
+                33.34743228
+              ],
+              [
+                -111.92466415,
+                33.34744668
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 380557558,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Rita Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92429502,
+                33.34888479
+              ],
+              [
+                -111.9242864,
+                33.3488663
+              ],
+              [
+                -111.92426071,
+                33.3487301
+              ],
+              [
+                -111.9242864,
+                33.34863675
+              ],
+              [
+                -111.92432934,
+                33.34852209
+              ],
+              [
+                -111.92441513,
+                33.3483931
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901089,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Rita Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92460396,
+                33.34799155
+              ],
+              [
+                -111.92420924,
+                33.34797722
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 380557560,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92585998,
+                33.34730178
+              ],
+              [
+                -111.92585998,
+                33.34697633
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5631357,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "S Bonarden Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92589996,
+                33.34742507
+              ],
+              [
+                -111.92591721,
+                33.34779803
+              ],
+              [
+                -111.92582279,
+                33.34795569
+              ],
+              [
+                -111.92582279,
+                33.34855796
+              ],
+              [
+                -111.92582121,
+                33.34888479
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684624,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34743707
+              ],
+              [
+                -111.92362551,
+                33.34772629
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34659044
+            ],
+            [
+              -111.92321777,
+              33.34659044
+            ],
+            [
+              -111.92321777,
+              33.34888479
+            ],
+            [
+              -111.92047119,
+              33.34888479
+            ],
+            [
+              -111.92047119,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92221368,
+                33.34888479
+              ],
+              [
+                -111.92221794,
+                33.34860816
+              ],
+              [
+                -111.92226079,
+                33.34840735
+              ],
+              [
+                -111.92234658,
+                33.34822095
+              ],
+              [
+                -111.92251834,
+                33.34797009
+              ],
+              [
+                -111.9227157,
+                33.34776208
+              ],
+              [
+                -111.92317061,
+                33.34740361
+              ],
+              [
+                -111.92321777,
+                33.34736659
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646401,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92047119,
+                33.34860289
+              ],
+              [
+                -111.92221794,
+                33.34860816
+              ],
+              [
+                -111.92321777,
+                33.34861377
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5643802,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Krista Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92047119,
+                33.34783112
+              ],
+              [
+                -111.92188323,
+                33.34784102
+              ],
+              [
+                -111.92216638,
+                33.34786249
+              ],
+              [
+                -111.92251834,
+                33.34797009
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684624,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92047119,
+                33.34705624
+              ],
+              [
+                -111.92214922,
+                33.34706668
+              ],
+              [
+                -111.92243812,
+                33.34707058
+              ],
+              [
+                -111.92267833,
+                33.34712798
+              ],
+              [
+                -111.92292734,
+                33.34723552
+              ],
+              [
+                -111.92317061,
+                33.34740361
+              ],
+              [
+                -111.92321777,
+                33.34743707
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91772461,
+              33.34659044
+            ],
+            [
+              -111.92047119,
+              33.34659044
+            ],
+            [
+              -111.92047119,
+              33.34888479
+            ],
+            [
+              -111.91772461,
+              33.34888479
+            ],
+            [
+              -111.91772461,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [
+        {
+          "properties": {
+            "id": 150952716,
+            "source": "openstreetmap.org",
+            "scalerank": 12,
+            "name": "Dusk File",
+            "kind": "hamlet"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.91875323,
+              33.34838079
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 420535651,
+            "area": 61270,
+            "source": "whosonfirst.mapzen.com",
+            "max_zoom": 16,
+            "name": "Dusk File",
+            "min_zoom": 15,
+            "kind": "neighbourhood",
+            "kind_tile_rank": 1
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.917877,
+              33.347846
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5639929,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "S Lakeshore Dr.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91984094,
+                33.34888479
+              ],
+              [
+                -111.91983184,
+                33.34860096
+              ],
+              [
+                -111.91984037,
+                33.34782669
+              ],
+              [
+                -111.91983184,
+                33.34705227
+              ],
+              [
+                -111.91984198,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646401,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91983184,
+                33.34860096
+              ],
+              [
+                -111.92047119,
+                33.34860289
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5622078,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Oak St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9192836,
+                33.34859781
+              ],
+              [
+                -111.91928252,
+                33.34784815
+              ],
+              [
+                -111.91928252,
+                33.34710247
+              ],
+              [
+                -111.91925055,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5643802,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Krista Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91984037,
+                33.34782669
+              ],
+              [
+                -111.92047119,
+                33.34783112
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646393,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9192836,
+                33.34859781
+              ],
+              [
+                -111.91772461,
+                33.34858324
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5643805,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Krista Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91928252,
+                33.34784815
+              ],
+              [
+                -111.91772461,
+                33.3478359
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684626,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91928252,
+                33.34710247
+              ],
+              [
+                -111.91772461,
+                33.3470942
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684624,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91983184,
+                33.34705227
+              ],
+              [
+                -111.92047119,
+                33.34705624
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 368050922,
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.91598364,
+            33.3484544
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91497803,
+              33.34659044
+            ],
+            [
+              -111.91772461,
+              33.34659044
+            ],
+            [
+              -111.91772461,
+              33.34888479
+            ],
+            [
+              -111.91497803,
+              33.34888479
+            ],
+            [
+              -111.91497803,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5600721,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Juniper Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9165491,
+                33.34888479
+              ],
+              [
+                -111.91655308,
+                33.34857229
+              ],
+              [
+                -111.91655308,
+                33.34782669
+              ],
+              [
+                -111.91651867,
+                33.34763309
+              ],
+              [
+                -111.91644151,
+                33.34738928
+              ],
+              [
+                -111.91634709,
+                33.34715988
+              ],
+              [
+                -111.9162269,
+                33.34694481
+              ],
+              [
+                -111.9161068,
+                33.34664359
+              ],
+              [
+                -111.91609495,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646393,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91772461,
+                33.34858324
+              ],
+              [
+                -111.91655308,
+                33.34857229
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5643805,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Krista Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91772461,
+                33.3478359
+              ],
+              [
+                -111.91655308,
+                33.34782669
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684626,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91772461,
+                33.3470942
+              ],
+              [
+                -111.91659602,
+                33.34708821
+              ],
+              [
+                -111.91634709,
+                33.34715988
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 32708961,
+          "area": 60414,
+          "source": "openstreetmap.org",
+          "sort_key": 42,
+          "min_zoom": 9.3147,
+          "kind": "retail"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91421548,
+              33.34777326
+            ],
+            [
+              -111.91421548,
+              33.34888479
+            ],
+            [
+              -111.91223145,
+              33.34888479
+            ],
+            [
+              -111.91223145,
+              33.34776379
+            ],
+            [
+              -111.91421548,
+              33.34777326
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91223145,
+              33.34659044
+            ],
+            [
+              -111.91497803,
+              33.34659044
+            ],
+            [
+              -111.91497803,
+              33.34888479
+            ],
+            [
+              -111.91223145,
+              33.34888479
+            ],
+            [
+              -111.91223145,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5630796,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Butte Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91349746,
+                33.34659044
+              ],
+              [
+                -111.91349746,
+                33.34724587
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5687269,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Willow Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91484502,
+                33.34888479
+              ],
+              [
+                -111.91484502,
+                33.34659044
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 3846086971,
+            "min_zoom": 16,
+            "kind": "fuel"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.9117046,
+              33.34869378
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 3931749670,
+            "min_zoom": 17,
+            "kind": "convenience"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.91199,
+              33.34866999
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 32708993,
+            "area": 1733440,
+            "source": "openstreetmap.org",
+            "sort_key": 20,
+            "min_zoom": 9,
+            "kind": "residential"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.91119768,
+                33.34744856
+              ],
+              [
+                -111.90948486,
+                33.34746487
+              ],
+              [
+                -111.90948486,
+                33.34659044
+              ],
+              [
+                -111.9111956,
+                33.34659044
+              ],
+              [
+                -111.91119768,
+                33.34744856
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28898945,
+            "area": 68201,
+            "source": "openstreetmap.org",
+            "sort_key": 42,
+            "min_zoom": 9.22725,
+            "kind": "retail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.90948486,
+                33.34746487
+              ],
+              [
+                -111.91119768,
+                33.34744856
+              ],
+              [
+                -111.9111984,
+                33.34775885
+              ],
+              [
+                -111.91120117,
+                33.34888479
+              ],
+              [
+                -111.90948486,
+                33.34888479
+              ],
+              [
+                -111.90948486,
+                33.34746487
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 32708961,
+            "area": 60414,
+            "source": "openstreetmap.org",
+            "sort_key": 42,
+            "min_zoom": 9.3147,
+            "kind": "retail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.91120117,
+                33.34888479
+              ],
+              [
+                -111.9111984,
+                33.34775885
+              ],
+              [
+                -111.91223145,
+                33.34776379
+              ],
+              [
+                -111.91223145,
+                33.34888479
+              ],
+              [
+                -111.91120117,
+                33.34888479
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.91223145,
+              33.34659044
+            ],
+            [
+              -111.91223145,
+              33.34888479
+            ],
+            [
+              -111.90948486,
+              33.34888479
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5646044,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Kachina Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90972139,
+                33.34659044
+              ],
+              [
+                -111.90972139,
+                33.34697137
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5658142,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Heather Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91053679,
+                33.34659044
+              ],
+              [
+                -111.91053679,
+                33.34715057
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "retail",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9111984,
+                33.34775885
+              ],
+              [
+                -111.91119768,
+                33.34744856
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "retail",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91119993,
+                33.34835558
+              ],
+              [
+                -111.9111984,
+                33.34775885
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91119768,
+                33.34744856
+              ],
+              [
+                -111.9111956,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 436892249,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "retail",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91120065,
+                33.34865251
+              ],
+              [
+                -111.91119993,
+                33.34835558
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5591698,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Alder Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91212478,
+                33.34659044
+              ],
+              [
+                -111.91211558,
+                33.34663646
+              ],
+              [
+                -111.91211558,
+                33.34722441
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 436892251,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "retail",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91120117,
+                33.34888479
+              ],
+              [
+                -111.91120065,
+                33.34865251
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 3846086970,
+          "source": "openstreetmap.org",
+          "label_placement": "yes",
+          "sort_key": 200,
+          "kind": "swimming_pool"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.90895109,
+            33.34699088
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 32708993,
+            "area": 1733440,
+            "source": "openstreetmap.org",
+            "sort_key": 20,
+            "min_zoom": 9,
+            "kind": "residential"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.90948486,
+                33.34746487
+              ],
+              [
+                -111.90844021,
+                33.34747482
+              ],
+              [
+                -111.90843919,
+                33.34888479
+              ],
+              [
+                -111.90673828,
+                33.34888479
+              ],
+              [
+                -111.90673828,
+                33.34659044
+              ],
+              [
+                -111.90948486,
+                33.34659044
+              ],
+              [
+                -111.90948486,
+                33.34746487
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28898945,
+            "area": 68201,
+            "source": "openstreetmap.org",
+            "sort_key": 42,
+            "min_zoom": 9.22725,
+            "kind": "retail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.90843919,
+                33.34888479
+              ],
+              [
+                -111.90844021,
+                33.34747482
+              ],
+              [
+                -111.90948486,
+                33.34746487
+              ],
+              [
+                -111.90948486,
+                33.34888479
+              ],
+              [
+                -111.90843919,
+                33.34888479
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28898469,
+            "area": 1828,
+            "source": "openstreetmap.org",
+            "sort_key": 95,
+            "sport": "tennis",
+            "min_zoom": 11.8379,
+            "kind": "pitch"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.90915491,
+                33.34744458
+              ],
+              [
+                -111.90876873,
+                33.34744458
+              ],
+              [
+                -111.90876873,
+                33.34712191
+              ],
+              [
+                -111.90914638,
+                33.34712191
+              ],
+              [
+                -111.90915491,
+                33.34744458
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28898469,
+            "area": 1828,
+            "source": "openstreetmap.org",
+            "label_placement": "yes",
+            "sort_key": 95,
+            "sport": "tennis",
+            "min_zoom": 11.8379,
+            "kind": "pitch"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.90895969,
+              33.34728324
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90673828,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34888479
+            ],
+            [
+              -111.90673828,
+              33.34888479
+            ],
+            [
+              -111.90673828,
+              33.34659044
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5587382,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 376,
+            "name": "S Los Feliz Dr.",
+            "oneway": "no",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34745412
+              ],
+              [
+                -111.90677743,
+                33.34763819
+              ],
+              [
+                -111.9068201,
+                33.34798338
+              ],
+              [
+                -111.90683843,
+                33.34823086
+              ],
+              [
+                -111.90684606,
+                33.3486348
+              ],
+              [
+                -111.90685045,
+                33.34888479
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5643804,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Krista Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90741263,
+                33.34791779
+              ],
+              [
+                -111.90808214,
+                33.34791059
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408523,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 356,
+            "service": "alley",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34823198
+              ],
+              [
+                -111.90683834,
+                33.34823086
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5658633,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Taylor Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90742116,
+                33.34862039
+              ],
+              [
+                -111.90741263,
+                33.34791779
+              ],
+              [
+                -111.90736107,
+                33.34753058
+              ],
+              [
+                -111.90722371,
+                33.34703591
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 390014220,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "retail",
+            "sort_key": 358,
+            "oneway": "no",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90903166,
+                33.34856231
+              ],
+              [
+                -111.90903499,
+                33.34888479
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646392,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Sunburst Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34863303
+              ],
+              [
+                -111.90684606,
+                33.3486348
+              ],
+              [
+                -111.90742116,
+                33.34862039
+              ],
+              [
+                -111.90810784,
+                33.34861319
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5591738,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Apricot Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90839961,
+                33.3471649
+              ],
+              [
+                -111.90826235,
+                33.3469785
+              ],
+              [
+                -111.90803003,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34764405
+              ],
+              [
+                -111.90677743,
+                33.34763819
+              ],
+              [
+                -111.9070692,
+                33.34758799
+              ],
+              [
+                -111.90736107,
+                33.34753058
+              ],
+              [
+                -111.90785029,
+                33.34742312
+              ],
+              [
+                -111.90815069,
+                33.34730831
+              ],
+              [
+                -111.90839961,
+                33.3471649
+              ],
+              [
+                -111.90858251,
+                33.34703366
+              ],
+              [
+                -111.90901756,
+                33.3466129
+              ],
+              [
+                -111.90905022,
+                33.34659044
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 28901045,
+            "area": 174069,
+            "source": "openstreetmap.org",
+            "sort_key": 75,
+            "min_zoom": 9,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92409476,
+                33.34429602
+              ],
+              [
+                -111.92408905,
+                33.34464318
+              ],
+              [
+                -111.92321777,
+                33.34464465
+              ],
+              [
+                -111.92321777,
+                33.34429602
+              ],
+              [
+                -111.92409476,
+                33.34429602
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901224,
+            "area": 32787,
+            "source": "openstreetmap.org",
+            "sort_key": 24,
+            "name": "Waggoner Park",
+            "min_zoom": 9.75558,
+            "kind": "park"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92429207,
+                33.34429602
+              ],
+              [
+                -111.92424347,
+                33.34460018
+              ],
+              [
+                -111.92424436,
+                33.34464378
+              ],
+              [
+                -111.92408905,
+                33.34464318
+              ],
+              [
+                -111.92409476,
+                33.34429602
+              ],
+              [
+                -111.92429207,
+                33.34429602
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92596436,
+              33.34429602
+            ],
+            [
+              -111.92596436,
+              33.34659044
+            ],
+            [
+              -111.92321777,
+              33.34659044
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5598644,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34635666
+              ],
+              [
+                -111.92350541,
+                33.34644285
+              ],
+              [
+                -111.92375187,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "park",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92424436,
+                33.34464378
+              ],
+              [
+                -111.92424347,
+                33.34460018
+              ],
+              [
+                -111.92429207,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92405441,
+                33.34659044
+              ],
+              [
+                -111.9241062,
+                33.34652172
+              ],
+              [
+                -111.92420062,
+                33.34630658
+              ],
+              [
+                -111.92423493,
+                33.34610592
+              ],
+              [
+                -111.92425766,
+                33.34583021
+              ],
+              [
+                -111.92424347,
+                33.34537448
+              ],
+              [
+                -111.92425209,
+                33.34503746
+              ],
+              [
+                -111.92424697,
+                33.34477616
+              ],
+              [
+                -111.92424436,
+                33.34464378
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5602274,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Knight Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92424347,
+                33.34460018
+              ],
+              [
+                -111.92596436,
+                33.3446114
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5602271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Knight Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34503026
+              ],
+              [
+                -111.92323933,
+                33.34503041
+              ],
+              [
+                -111.92425209,
+                33.34503746
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5631091,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Newberry Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92323933,
+                33.34503041
+              ],
+              [
+                -111.92323933,
+                33.34550355
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5619305,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Verde Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92424347,
+                33.34537448
+              ],
+              [
+                -111.92596436,
+                33.34538364
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5658076,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Derby Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92596436,
+                33.34618744
+              ],
+              [
+                -111.9249817,
+                33.34618471
+              ],
+              [
+                -111.92423493,
+                33.34610592
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92321777,
+              33.34464465
+            ],
+            [
+              -111.92047119,
+              33.34464929
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34464465
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34659044
+            ],
+            [
+              -111.92047119,
+              33.34659044
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5621011,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Kenneth Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92118794,
+                33.34628512
+              ],
+              [
+                -111.92118785,
+                33.34503041
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598644,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92047119,
+                33.34627744
+              ],
+              [
+                -111.92118794,
+                33.34628512
+              ],
+              [
+                -111.92281874,
+                33.34629952
+              ],
+              [
+                -111.92317061,
+                33.34634252
+              ],
+              [
+                -111.92321777,
+                33.34635666
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5602271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Knight Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92118785,
+                33.34503041
+              ],
+              [
+                -111.92218363,
+                33.3450232
+              ],
+              [
+                -111.92321777,
+                33.34503026
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5630675,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Stanley Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92218363,
+                33.3450232
+              ],
+              [
+                -111.922175,
+                33.34549642
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 393311211,
+            "highway": "footway",
+            "source": "openstreetmap.org",
+            "landuse_kind": "school",
+            "sort_key": 354,
+            "name": "Athletics Track",
+            "horse": "no",
+            "kind": "path",
+            "bicycle": "no"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92279308,
+                33.34429602
+              ],
+              [
+                -111.92278119,
+                33.34435982
+              ],
+              [
+                -111.92274561,
+                33.34441107
+              ],
+              [
+                -111.92266809,
+                33.34448387
+              ],
+              [
+                -111.92260674,
+                33.34452979
+              ],
+              [
+                -111.92253568,
+                33.34455681
+              ],
+              [
+                -111.92242905,
+                33.34456491
+              ],
+              [
+                -111.92126932,
+                33.34456221
+              ],
+              [
+                -111.92116916,
+                33.34452709
+              ],
+              [
+                -111.9210787,
+                33.3444624
+              ],
+              [
+                -111.92101735,
+                33.34437865
+              ],
+              [
+                -111.92099147,
+                33.34430579
+              ],
+              [
+                -111.92099069,
+                33.34429602
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34464929
+            ],
+            [
+              -111.91982322,
+              33.34465039
+            ],
+            [
+              -111.91982153,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34464929
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91772461,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34659044
+            ],
+            [
+              -111.91772461,
+              33.34659044
+            ],
+            [
+              -111.91772461,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5639929,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "S Lakeshore Dr.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91984198,
+                33.34659044
+              ],
+              [
+                -111.919849,
+                33.34627078
+              ],
+              [
+                -111.91982322,
+                33.34465039
+              ],
+              [
+                -111.91982153,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5602273,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Knight Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91982322,
+                33.34465039
+              ],
+              [
+                -111.91875889,
+                33.34463598
+              ],
+              [
+                -111.9184929,
+                33.34465039
+              ],
+              [
+                -111.91825251,
+                33.34472918
+              ],
+              [
+                -111.91805506,
+                33.34485105
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598644,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91772461,
+                33.34633532
+              ],
+              [
+                -111.91799496,
+                33.34633532
+              ],
+              [
+                -111.91870742,
+                33.34627799
+              ],
+              [
+                -111.91923105,
+                33.34627799
+              ],
+              [
+                -111.919849,
+                33.34627078
+              ],
+              [
+                -111.92047119,
+                33.34627744
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5622078,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Oak St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91925055,
+                33.34659044
+              ],
+              [
+                -111.91923105,
+                33.34627799
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91497803,
+              33.34429602
+            ],
+            [
+              -111.91772461,
+              33.34429602
+            ],
+            [
+              -111.91772461,
+              33.34659044
+            ],
+            [
+              -111.91497803,
+              33.34659044
+            ],
+            [
+              -111.91497803,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5600721,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Juniper Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91609495,
+                33.34659044
+              ],
+              [
+                -111.91603807,
+                33.34633532
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598644,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91603798,
+                33.34633532
+              ],
+              [
+                -111.91772461,
+                33.34633532
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5664190,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Juniper St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91602954,
+                33.34568996
+              ],
+              [
+                -111.91605532,
+                33.34524548
+              ],
+              [
+                -111.91603807,
+                33.34498726
+              ],
+              [
+                -111.9159866,
+                33.34477218
+              ],
+              [
+                -111.91586641,
+                33.34448537
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91622396,
+                33.34429602
+              ],
+              [
+                -111.91606377,
+                33.34439216
+              ],
+              [
+                -111.91586641,
+                33.34448537
+              ],
+              [
+                -111.91554032,
+                33.34457872
+              ],
+              [
+                -111.9151111,
+                33.34460731
+              ],
+              [
+                -111.91497803,
+                33.34459992
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91497803,
+                33.34642589
+              ],
+              [
+                -111.91548022,
+                33.34644285
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91223145,
+              33.34429602
+            ],
+            [
+              -111.91497803,
+              33.34429602
+            ],
+            [
+              -111.91497803,
+              33.34659044
+            ],
+            [
+              -111.91223145,
+              33.34659044
+            ],
+            [
+              -111.91223145,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5630796,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Butte Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91349746,
+                33.34642852
+              ],
+              [
+                -111.91349746,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5687269,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Willow Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91484502,
+                33.34659044
+              ],
+              [
+                -111.91484502,
+                33.34642139
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91497803,
+                33.34459992
+              ],
+              [
+                -111.9145961,
+                33.34457872
+              ],
+              [
+                -111.91342883,
+                33.34451411
+              ],
+              [
+                -111.9130598,
+                33.34448537
+              ],
+              [
+                -111.9127594,
+                33.34451411
+              ],
+              [
+                -111.91239891,
+                33.34456431
+              ],
+              [
+                -111.91223145,
+                33.34458828
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91223145,
+                33.34629024
+              ],
+              [
+                -111.91241598,
+                33.34636399
+              ],
+              [
+                -111.91263058,
+                33.34640698
+              ],
+              [
+                -111.91291391,
+                33.34642852
+              ],
+              [
+                -111.91349746,
+                33.34642852
+              ],
+              [
+                -111.91484502,
+                33.34642139
+              ],
+              [
+                -111.91497803,
+                33.34642589
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 32708993,
+          "area": 1733440,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91118015,
+              33.34429602
+            ],
+            [
+              -111.91118007,
+              33.34459298
+            ],
+            [
+              -111.91119454,
+              33.34615409
+            ],
+            [
+              -111.9111956,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.91118015,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.91223145,
+              33.34429602
+            ],
+            [
+              -111.91223145,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 381408515,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91019678,
+                33.3445917
+              ],
+              [
+                -111.91019289,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646044,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Kachina Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9096356,
+                33.34624722
+              ],
+              [
+                -111.90972139,
+                33.34649096
+              ],
+              [
+                -111.90972139,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5658142,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Heather Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91052089,
+                33.34539099
+              ],
+              [
+                -111.91053679,
+                33.34615402
+              ],
+              [
+                -111.91053679,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91119454,
+                33.34615409
+              ],
+              [
+                -111.91118007,
+                33.34459298
+              ],
+              [
+                -111.91118015,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9111956,
+                33.34659044
+              ],
+              [
+                -111.91119454,
+                33.34615409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91118007,
+                33.34459298
+              ],
+              [
+                -111.91023388,
+                33.3445917
+              ],
+              [
+                -111.91019678,
+                33.3445917
+              ],
+              [
+                -111.90964423,
+                33.34459088
+              ],
+              [
+                -111.90948486,
+                33.34461924
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91223145,
+                33.34458828
+              ],
+              [
+                -111.91209851,
+                33.34460731
+              ],
+              [
+                -111.91118007,
+                33.34459298
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5591698,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Alder Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91221862,
+                33.34628512
+              ],
+              [
+                -111.91214999,
+                33.34646439
+              ],
+              [
+                -111.91212478,
+                33.34659044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408525,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34502432
+              ],
+              [
+                -111.90952223,
+                33.34501667
+              ],
+              [
+                -111.91023702,
+                33.34499101
+              ],
+              [
+                -111.91023388,
+                33.3445917
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646045,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Kachina Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34543396
+              ],
+              [
+                -111.9096356,
+                33.34588867
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598646,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34542201
+              ],
+              [
+                -111.90968887,
+                33.34539099
+              ],
+              [
+                -111.91052089,
+                33.34539099
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34632266
+              ],
+              [
+                -111.9096356,
+                33.34624722
+              ],
+              [
+                -111.91003903,
+                33.34616828
+              ],
+              [
+                -111.9103141,
+                33.34616317
+              ],
+              [
+                -111.91053679,
+                33.34615402
+              ],
+              [
+                -111.91119454,
+                33.34615409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91119454,
+                33.34615409
+              ],
+              [
+                -111.91179812,
+                33.34617758
+              ],
+              [
+                -111.91221862,
+                33.34628512
+              ],
+              [
+                -111.91223145,
+                33.34629024
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 32708993,
+          "area": 1733440,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90673828,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.90673828,
+              33.34659044
+            ],
+            [
+              -111.90673828,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90673828,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34659044
+            ],
+            [
+              -111.90673828,
+              33.34659044
+            ],
+            [
+              -111.90673828,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 381408515,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90899544,
+                33.34429602
+              ],
+              [
+                -111.90892818,
+                33.34430796
+              ],
+              [
+                -111.9087592,
+                33.34436402
+              ],
+              [
+                -111.9086921,
+                33.34439306
+              ],
+              [
+                -111.90859023,
+                33.34436627
+              ],
+              [
+                -111.90854646,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5677755,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Velvet Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34476251
+              ],
+              [
+                -111.90699195,
+                33.34465526
+              ],
+              [
+                -111.90784194,
+                33.34429602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408516,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90883745,
+                33.34477016
+              ],
+              [
+                -111.90866264,
+                33.34448281
+              ],
+              [
+                -111.9085446,
+                33.34445137
+              ],
+              [
+                -111.90727052,
+                33.3449847
+              ],
+              [
+                -111.90717943,
+                33.34495776
+              ],
+              [
+                -111.90699204,
+                33.34465526
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408517,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9074076,
+                33.34536382
+              ],
+              [
+                -111.90724375,
+                33.34508098
+              ],
+              [
+                -111.9071311,
+                33.34505187
+              ],
+              [
+                -111.90673828,
+                33.34521532
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381400017,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90699195,
+                33.34465526
+              ],
+              [
+                -111.90681507,
+                33.34435412
+              ],
+              [
+                -111.90673828,
+                33.34434633
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34461924
+              ],
+              [
+                -111.9091206,
+                33.34468408
+              ],
+              [
+                -111.90883745,
+                33.34477016
+              ],
+              [
+                -111.90826702,
+                33.34500699
+              ],
+              [
+                -111.9074076,
+                33.34536382
+              ],
+              [
+                -111.90673828,
+                33.34564173
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5591738,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Apricot Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90803003,
+                33.34659044
+              ],
+              [
+                -111.90773009,
+                33.34608941
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5623967,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Peach Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90855412,
+                33.34574526
+              ],
+              [
+                -111.90881158,
+                33.34618981
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408524,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34609228
+              ],
+              [
+                -111.90810182,
+                33.34550828
+              ],
+              [
+                -111.90791703,
+                33.34517892
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408525,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90826702,
+                33.34500699
+              ],
+              [
+                -111.90845917,
+                33.34530761
+              ],
+              [
+                -111.90853633,
+                33.34532562
+              ],
+              [
+                -111.90937123,
+                33.34504759
+              ],
+              [
+                -111.90948486,
+                33.34502432
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646045,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Kachina Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948109,
+                33.34542258
+              ],
+              [
+                -111.90948486,
+                33.34543396
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5598646,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Vinedo Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90677743,
+                33.34649096
+              ],
+              [
+                -111.90773009,
+                33.34608941
+              ],
+              [
+                -111.90855412,
+                33.34574526
+              ],
+              [
+                -111.90900903,
+                33.34555886
+              ],
+              [
+                -111.90948109,
+                33.34542258
+              ],
+              [
+                -111.90948486,
+                33.34542201
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5684630,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Louis Wy.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90905022,
+                33.34659044
+              ],
+              [
+                -111.909246,
+                33.34645576
+              ],
+              [
+                -111.90940815,
+                33.34636106
+              ],
+              [
+                -111.90948486,
+                33.34632266
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 28901045,
+            "area": 174069,
+            "source": "openstreetmap.org",
+            "sort_key": 75,
+            "min_zoom": 9,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92413249,
+                33.34200154
+              ],
+              [
+                -111.92409476,
+                33.34429602
+              ],
+              [
+                -111.92321777,
+                33.34429602
+              ],
+              [
+                -111.92321777,
+                33.34200154
+              ],
+              [
+                -111.92413249,
+                33.34200154
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901224,
+            "area": 32787,
+            "source": "openstreetmap.org",
+            "sort_key": 24,
+            "name": "Waggoner Park",
+            "min_zoom": 9.75558,
+            "kind": "park"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92535834,
+                33.34200154
+              ],
+              [
+                -111.92535073,
+                33.34262839
+              ],
+              [
+                -111.92526494,
+                33.34297968
+              ],
+              [
+                -111.92511896,
+                33.3432593
+              ],
+              [
+                -111.92480141,
+                33.34358919
+              ],
+              [
+                -111.92460962,
+                33.34378671
+              ],
+              [
+                -111.92441522,
+                33.34401222
+              ],
+              [
+                -111.92429503,
+                33.3442775
+              ],
+              [
+                -111.92429207,
+                33.34429602
+              ],
+              [
+                -111.92409476,
+                33.34429602
+              ],
+              [
+                -111.92413249,
+                33.34200154
+              ],
+              [
+                -111.92535834,
+                33.34200154
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901224,
+            "area": 32787,
+            "source": "openstreetmap.org",
+            "label_placement": "yes",
+            "sort_key": 24,
+            "name": "Waggoner Park",
+            "min_zoom": 9.75558,
+            "kind": "park"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.92453464,
+              33.34342424
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92596436,
+              33.34200154
+            ],
+            [
+              -111.92596436,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5606521,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92596436,
+                33.34384367
+              ],
+              [
+                -111.92543661,
+                33.34384006
+              ],
+              [
+                -111.92507611,
+                33.34374686
+              ],
+              [
+                -111.92480141,
+                33.34358919
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "park",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92429207,
+                33.34429602
+              ],
+              [
+                -111.92429503,
+                33.3442775
+              ],
+              [
+                -111.92441522,
+                33.34401222
+              ],
+              [
+                -111.92460962,
+                33.34378671
+              ],
+              [
+                -111.92480141,
+                33.34358919
+              ],
+              [
+                -111.92511896,
+                33.3432593
+              ],
+              [
+                -111.92526494,
+                33.34297968
+              ],
+              [
+                -111.92535073,
+                33.34262839
+              ],
+              [
+                -111.92535834,
+                33.34200154
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5606333,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92526494,
+                33.34297968
+              ],
+              [
+                -111.92574554,
+                33.34308009
+              ],
+              [
+                -111.92596436,
+                33.34308096
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "name": "CI Waggoner Elementary School",
+          "min_zoom": 10.8513,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.9219614,
+            33.34373973
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [{
+        "properties": {
+          "id": 420535681,
+          "area": 229583,
+          "source": "whosonfirst.mapzen.com",
+          "max_zoom": 16,
+          "name": "Sandahl",
+          "min_zoom": 15,
+          "kind": "neighbourhood",
+          "kind_tile_rank": 1
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.921852,
+            33.343473
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 393311211,
+          "highway": "footway",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 354,
+          "name": "Athletics Track",
+          "horse": "no",
+          "kind": "path",
+          "bicycle": "no"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -111.92099069,
+              33.34429602
+            ],
+            [
+              -111.92098501,
+              33.34422489
+            ],
+            [
+              -111.92099471,
+              33.34415472
+            ],
+            [
+              -111.92103352,
+              33.34406572
+            ],
+            [
+              -111.92110781,
+              33.34399818
+            ],
+            [
+              -111.92117563,
+              33.34396306
+            ],
+            [
+              -111.92125306,
+              33.34394685
+            ],
+            [
+              -111.92245492,
+              33.34394423
+            ],
+            [
+              -111.92260027,
+              33.34397657
+            ],
+            [
+              -111.92268426,
+              33.34401439
+            ],
+            [
+              -111.92274894,
+              33.34408448
+            ],
+            [
+              -111.92279089,
+              33.34418437
+            ],
+            [
+              -111.92279727,
+              33.34427352
+            ],
+            [
+              -111.92279308,
+              33.34429602
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91982153,
+              33.34429602
+            ],
+            [
+              -111.91981459,
+              33.34283627
+            ],
+            [
+              -111.91982736,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.91982153,
+              33.34429602
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91772461,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34429602
+            ],
+            [
+              -111.91772461,
+              33.34429602
+            ],
+            [
+              -111.91772461,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5639929,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "school",
+            "sort_key": 376,
+            "name": "S Lakeshore Dr.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91982153,
+                33.34429602
+              ],
+              [
+                -111.91981459,
+                33.34283627
+              ],
+              [
+                -111.91982736,
+                33.34200154
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91981459,
+                33.34283627
+              ],
+              [
+                -111.9187332,
+                33.34283627
+              ],
+              [
+                -111.91838986,
+                33.34284347
+              ],
+              [
+                -111.91807231,
+                33.34287207
+              ],
+              [
+                -111.91773751,
+                33.34297968
+              ],
+              [
+                -111.91772461,
+                33.3429859
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91497803,
+              33.34200154
+            ],
+            [
+              -111.91772461,
+              33.34200154
+            ],
+            [
+              -111.91772461,
+              33.34429602
+            ],
+            [
+              -111.91497803,
+              33.34429602
+            ],
+            [
+              -111.91497803,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28897578,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91729122,
+                33.34323776
+              ],
+              [
+                -111.91707662,
+                33.34307289
+              ],
+              [
+                -111.91675906,
+                33.34287927
+              ],
+              [
+                -111.91642426,
+                33.34277181
+              ],
+              [
+                -111.91612386,
+                33.3427216
+              ],
+              [
+                -111.91583209,
+                33.3427216
+              ],
+              [
+                -111.91543728,
+                33.34278606
+              ],
+              [
+                -111.91497803,
+                33.34285915
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897574,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Secretariat Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91772461,
+                33.3429859
+              ],
+              [
+                -111.91751437,
+                33.34308729
+              ],
+              [
+                -111.91729122,
+                33.34323776
+              ],
+              [
+                -111.91687369,
+                33.34367152
+              ],
+              [
+                -111.91633847,
+                33.34422729
+              ],
+              [
+                -111.91622396,
+                33.34429602
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91223145,
+              33.34200154
+            ],
+            [
+              -111.91497803,
+              33.34200154
+            ],
+            [
+              -111.91497803,
+              33.34429602
+            ],
+            [
+              -111.91223145,
+              33.34429602
+            ],
+            [
+              -111.91223145,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28897578,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91497803,
+                33.34285915
+              ],
+              [
+                -111.91453609,
+                33.34292947
+              ],
+              [
+                -111.91420129,
+                33.34294381
+              ],
+              [
+                -111.91386658,
+                33.34290801
+              ],
+              [
+                -111.91365251,
+                33.34287702
+              ],
+              [
+                -111.91302539,
+                33.34278606
+              ],
+              [
+                -111.91233881,
+                33.34277181
+              ],
+              [
+                -111.91223145,
+                33.34277161
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5687257,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Willow Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91386658,
+                33.34290801
+              ],
+              [
+                -111.91391266,
+                33.342592
+              ],
+              [
+                -111.91395237,
+                33.34231996
+              ],
+              [
+                -111.91395237,
+                33.34200154
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 32708993,
+          "area": 1733440,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91117779,
+              33.34200154
+            ],
+            [
+              -111.91118052,
+              33.3427697
+            ],
+            [
+              -111.91118015,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34200154
+            ],
+            [
+              -111.91117779,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90948486,
+              33.34200154
+            ],
+            [
+              -111.91223145,
+              33.34200154
+            ],
+            [
+              -111.91223145,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90948486,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28897578,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91118052,
+                33.3427697
+              ],
+              [
+                -111.91019319,
+                33.34278509
+              ],
+              [
+                -111.90968681,
+                33.34279222
+              ],
+              [
+                -111.90948486,
+                33.34282321
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897578,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91223145,
+                33.34277161
+              ],
+              [
+                -111.91118052,
+                33.3427697
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408515,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91019289,
+                33.34429602
+              ],
+              [
+                -111.91019148,
+                33.34418917
+              ],
+              [
+                -111.90960937,
+                33.34418699
+              ],
+              [
+                -111.90948486,
+                33.3442091
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91118052,
+                33.3427697
+              ],
+              [
+                -111.91117779,
+                33.34200154
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 29122077,
+            "is_bus_route": true,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "name": "S McClintock Dr.",
+            "cycleway": "lane",
+            "sort_key": 377,
+            "is_bicycle_related": true,
+            "network": "local",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91118015,
+                33.34429602
+              ],
+              [
+                -111.91118052,
+                33.3427697
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381400015,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 356,
+            "service": "alley",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34241419
+              ],
+              [
+                -111.90960407,
+                33.34240116
+              ],
+              [
+                -111.90964431,
+                33.34234292
+              ],
+              [
+                -111.9095948,
+                33.34200154
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381400016,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91019319,
+                33.34278509
+              ],
+              [
+                -111.91019139,
+                33.3431796
+              ],
+              [
+                -111.90998217,
+                33.3431841
+              ],
+              [
+                -111.90974349,
+                33.34319979
+              ],
+              [
+                -111.90949142,
+                33.34323791
+              ],
+              [
+                -111.90948486,
+                33.34323934
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5646058,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Kachina Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91019319,
+                33.34278509
+              ],
+              [
+                -111.91018492,
+                33.34245421
+              ],
+              [
+                -111.91007326,
+                33.34211719
+              ],
+              [
+                -111.91006179,
+                33.34200154
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 32708993,
+          "area": 1733440,
+          "source": "openstreetmap.org",
+          "sort_key": 20,
+          "min_zoom": 9,
+          "kind": "residential"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90673828,
+              33.34200154
+            ],
+            [
+              -111.90948486,
+              33.34200154
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90673828,
+              33.34429602
+            ],
+            [
+              -111.90673828,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.90673828,
+              33.34200154
+            ],
+            [
+              -111.90948486,
+              33.34200154
+            ],
+            [
+              -111.90948486,
+              33.34429602
+            ],
+            [
+              -111.90673828,
+              33.34429602
+            ],
+            [
+              -111.90673828,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28897578,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Citation Ln.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34282321
+              ],
+              [
+                -111.9092663,
+                33.34285676
+              ],
+              [
+                -111.90882882,
+                33.34299191
+              ],
+              [
+                -111.90797884,
+                33.34335866
+              ],
+              [
+                -111.90673828,
+                33.34387484
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408515,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -111.90948486,
+                  33.3442091
+                ],
+                [
+                  -111.90899544,
+                  33.34429602
+                ]
+              ],
+              [
+                [
+                  -111.90854646,
+                  33.34429602
+                ],
+                [
+                  -111.90839961,
+                  33.34406032
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5677755,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Velvet Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90784194,
+                33.34429602
+              ],
+              [
+                -111.90839961,
+                33.34406032
+              ],
+              [
+                -111.90872579,
+                33.34393117
+              ],
+              [
+                -111.90916354,
+                33.3437663
+              ],
+              [
+                -111.90945531,
+                33.3437233
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28897601,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Belmont Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90809041,
+                33.34235478
+              ],
+              [
+                -111.90755852,
+                33.34262629
+              ],
+              [
+                -111.90673828,
+                33.34296884
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28898411,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "E Belmont Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9092663,
+                33.34285676
+              ],
+              [
+                -111.90913569,
+                33.34245369
+              ],
+              [
+                -111.90910344,
+                33.3423538
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381408513,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 356,
+            "service": "alley",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90686274,
+                33.34200154
+              ],
+              [
+                -111.90687364,
+                33.34225549
+              ],
+              [
+                -111.90694326,
+                33.34241009
+              ],
+              [
+                -111.9069111,
+                33.3424774
+              ],
+              [
+                -111.90673828,
+                33.3425495
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381400015,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 356,
+            "service": "alley",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90673828,
+                33.34342954
+              ],
+              [
+                -111.90777097,
+                33.34299656
+              ],
+              [
+                -111.90845072,
+                33.34271259
+              ],
+              [
+                -111.90895773,
+                33.34251102
+              ],
+              [
+                -111.90913569,
+                33.34245369
+              ],
+              [
+                -111.90925543,
+                33.34243928
+              ],
+              [
+                -111.90948486,
+                33.34241419
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 381400016,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90948486,
+                33.34323934
+              ],
+              [
+                -111.90924465,
+                33.34329172
+              ],
+              [
+                -111.90902744,
+                33.34336556
+              ],
+              [
+                -111.90874313,
+                33.34347542
+              ],
+              [
+                -111.90818779,
+                33.34370739
+              ],
+              [
+                -111.9068616,
+                33.34427637
+              ],
+              [
+                -111.90675443,
+                33.3442462
+              ],
+              [
+                -111.90673828,
+                33.34421921
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5658621,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "landuse_kind": "residential",
+            "sort_key": 360,
+            "name": "S Taylor Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.90736765,
+                33.34200154
+              ],
+              [
+                -111.90736969,
+                33.34215298
+              ],
+              [
+                -111.90739538,
+                33.34233947
+              ],
+              [
+                -111.90755852,
+                33.34262629
+              ],
+              [
+                -111.90777097,
+                33.34299656
+              ],
+              [
+                -111.90797884,
+                33.34335866
+              ],
+              [
+                -111.90818788,
+                33.34370739
+              ],
+              [
+                -111.90839961,
+                33.34406032
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 28901045,
+            "area": 174069,
+            "source": "openstreetmap.org",
+            "sort_key": 75,
+            "min_zoom": 9,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92413387,
+                33.34191779
+              ],
+              [
+                -111.92413249,
+                33.34200154
+              ],
+              [
+                -111.92321777,
+                33.34200154
+              ],
+              [
+                -111.92321777,
+                33.341915
+              ],
+              [
+                -111.92364833,
+                33.34191629
+              ],
+              [
+                -111.92413387,
+                33.34191779
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 28901224,
+            "area": 32787,
+            "source": "openstreetmap.org",
+            "sort_key": 24,
+            "name": "Waggoner Park",
+            "min_zoom": 9.75558,
+            "kind": "park"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -111.92535926,
+                33.34192567
+              ],
+              [
+                -111.92535834,
+                33.34200154
+              ],
+              [
+                -111.92413249,
+                33.34200154
+              ],
+              [
+                -111.92413387,
+                33.34191779
+              ],
+              [
+                -111.92496993,
+                33.34192319
+              ],
+              [
+                -111.92535926,
+                33.34192567
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92321777,
+              33.339707
+            ],
+            [
+              -111.92596436,
+              33.339707
+            ],
+            [
+              -111.92596436,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92321777,
+              33.339707
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5634547,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.33984743
+              ],
+              [
+                -111.9232307,
+                33.33982466
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5634541,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9257452,
+                33.339707
+              ],
+              [
+                -111.92544514,
+                33.3398104
+              ],
+              [
+                -111.92499877,
+                33.33994661
+              ],
+              [
+                -111.92462121,
+                33.34001829
+              ],
+              [
+                -111.92426934,
+                33.34003982
+              ],
+              [
+                -111.92397738,
+                33.34000395
+              ],
+              [
+                -111.92362551,
+                33.33995382
+              ],
+              [
+                -111.9232307,
+                33.33982466
+              ],
+              [
+                -111.92321777,
+                33.33981754
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5634542,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92544514,
+                33.3398104
+              ],
+              [
+                -111.92575407,
+                33.34045566
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600271,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92535834,
+                33.34200154
+              ],
+              [
+                -111.92535926,
+                33.34192567
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 32708830,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.34102386
+              ],
+              [
+                -111.92596436,
+                33.34102113
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5634545,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92426934,
+                33.34003982
+              ],
+              [
+                -111.92430356,
+                33.3404342
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5587284,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "school",
+            "cycleway": "lane",
+            "sort_key": 376,
+            "name": "E Carver Rd.",
+            "is_bicycle_related": true,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92364833,
+                33.34191629
+              ],
+              [
+                -111.92411114,
+                33.34191839
+              ],
+              [
+                -111.92413387,
+                33.34191779
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5587284,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "cycleway": "lane",
+            "sort_key": 376,
+            "name": "E Carver Rd.",
+            "is_bicycle_related": true,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -111.92413387,
+                  33.34191779
+                ],
+                [
+                  -111.92497002,
+                  33.34192319
+                ],
+                [
+                  -111.92535926,
+                  33.34192567
+                ],
+                [
+                  -111.92596436,
+                  33.34192778
+                ]
+              ],
+              [
+                [
+                  -111.92321777,
+                  33.341915
+                ],
+                [
+                  -111.92364833,
+                  33.34191629
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.34191581
+            ],
+            [
+              -111.9205045,
+              33.34191651
+            ],
+            [
+              -111.92090173,
+              33.34190811
+            ],
+            [
+              -111.92144243,
+              33.34190968
+            ],
+            [
+              -111.92264402,
+              33.34191329
+            ],
+            [
+              -111.92321777,
+              33.341915
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34191581
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.92047119,
+              33.339707
+            ],
+            [
+              -111.92321777,
+              33.339707
+            ],
+            [
+              -111.92321777,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.92047119,
+              33.339707
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5634547,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92291306,
+                33.34038399
+              ],
+              [
+                -111.92321777,
+                33.33984743
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5634541,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Buena Vista Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92321777,
+                33.33981754
+              ],
+              [
+                -111.92301701,
+                33.339707
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5600277,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Terrace Rd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92090173,
+                33.34190811
+              ],
+              [
+                -111.92090074,
+                33.3418173
+              ],
+              [
+                -111.92089311,
+                33.34116238
+              ],
+              [
+                -111.92089302,
+                33.34102617
+              ],
+              [
+                -111.92093901,
+                33.34070669
+              ],
+              [
+                -111.9210849,
+                33.34038399
+              ],
+              [
+                -111.92132529,
+                33.3400829
+              ],
+              [
+                -111.92174911,
+                33.33979052
+              ],
+              [
+                -111.92187016,
+                33.339707
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 32708830,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92089302,
+                33.34102617
+              ],
+              [
+                -111.92321777,
+                33.34102386
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5587284,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "school",
+            "cycleway": "lane",
+            "sort_key": 376,
+            "name": "E Carver Rd.",
+            "is_bicycle_related": true,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.92047119,
+                33.34191581
+              ],
+              [
+                -111.9205045,
+                33.34191651
+              ],
+              [
+                -111.92090173,
+                33.34190811
+              ],
+              [
+                -111.92144243,
+                33.34190968
+              ],
+              [
+                -111.92264402,
+                33.34191329
+              ],
+              [
+                -111.92321777,
+                33.341915
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [{
+        "properties": {
+          "id": 28901045,
+          "area": 174069,
+          "source": "openstreetmap.org",
+          "sort_key": 75,
+          "min_zoom": 9,
+          "kind": "school"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91982736,
+              33.34200154
+            ],
+            [
+              -111.91982878,
+              33.34190811
+            ],
+            [
+              -111.92010349,
+              33.34190811
+            ],
+            [
+              -111.92047119,
+              33.34191581
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.91982736,
+              33.34200154
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 263148,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -111.91772461,
+              33.339707
+            ],
+            [
+              -111.92047119,
+              33.339707
+            ],
+            [
+              -111.92047119,
+              33.34200154
+            ],
+            [
+              -111.91772461,
+              33.34200154
+            ],
+            [
+              -111.91772461,
+              33.339707
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 5639929,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "S Lakeshore Dr.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91982736,
+                33.34200154
+              ],
+              [
+                -111.91982878,
+                33.34190811
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 32708830,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91983148,
+                33.339707
+              ],
+              [
+                -111.91982878,
+                33.34190811
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5603591,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East Calle de Caballos",
+            "oneway": "no",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.9190728,
+                33.339707
+              ],
+              [
+                -111.91907429,
+                33.33971209
+              ],
+              [
+                -111.91908112,
+                33.33977821
+              ],
+              [
+                -111.91908705,
+                33.34035547
+              ],
+              [
+                -111.9190751,
+                33.34044358
+              ],
+              [
+                -111.91904959,
+                33.34052748
+              ],
+              [
+                -111.91901815,
+                33.34058009
+              ],
+              [
+                -111.9189647,
+                33.3406435
+              ],
+              [
+                -111.91892679,
+                33.34067307
+              ],
+              [
+                -111.91887909,
+                33.34070669
+              ],
+              [
+                -111.91877084,
+                33.3407554
+              ],
+              [
+                -111.91861983,
+                33.34077686
+              ],
+              [
+                -111.91772461,
+                33.34077872
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 5587284,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "landuse_kind": "school",
+            "cycleway": "lane",
+            "sort_key": 376,
+            "name": "E Carver Rd.",
+            "is_bicycle_related": true,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -111.91982878,
+                33.34190811
+              ],
+              [
+                -111.92010349,
+                33.34190811
+              ],
+              [
+                -111.92047119,
+                33.34191581
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

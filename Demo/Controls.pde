@@ -1,6 +1,4 @@
-boolean selection, whole;
-
-int size;
+boolean pull, square, generated;
 
 void keyPressed(){
 switch(key){
@@ -34,14 +32,10 @@ switch(key){
       break;  
   case 'p':
       PullData();
-      size = 5;
-      square.GenerateNetwork();
       println("DONE");
       break;     
   case 'a': 
       PullMap();
-      println("Data pulled");
-      size = MapTiles().size();
       canvas.GenerateNetwork();
       println("DONE");
       break;

@@ -30,13 +30,14 @@ public void PullMap(){
    mapling = "exports/exportedmap" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
    println(int(float(i)/MapTiles().size()*100) + "% DONE");
    }
+   pull = false;
 }
 
 public void PullData(){
    geostuff = new JSONObject();
    println("requesting map data...");
    for(int i = 0; i<5; i++){
-   link = "https://vector.mapzen.com/osm/all/" + getTileNumber(BoundingBox().get(i).x, BoundingBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
+   link = "https://vector.mapzen.com/osm/roads/" + getTileNumber(BoundingBox().get(i).x, BoundingBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
    GetRequest get = new GetRequest(link);
    println("data requested...");
    get.send();
@@ -46,6 +47,7 @@ public void PullData(){
    mapling = "exports/exportedsquare" + BoundingBox().get(4).x + "_" + BoundingBox().get(4).y+".json";
    println(int(float(i)/5*100) + "% DONE");
    }
+   square = false; 
 }
 
 //imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 

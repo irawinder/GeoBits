@@ -1,0 +1,4710 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54833984,
+              39.06184913
+            ],
+            [
+              -94.55108643,
+              39.06184913
+            ],
+            [
+              -94.55108643,
+              39.06398173
+            ],
+            [
+              -94.54833984,
+              39.06398173
+            ],
+            [
+              -94.54833984,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18532749,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Chestnut Ave.",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55092508,
+                39.06184913
+              ],
+              [
+                -94.55089037,
+                39.06256648
+              ],
+              [
+                -94.55081034,
+                39.06398173
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55108643,
+                39.06257245
+              ],
+              [
+                -94.55089037,
+                39.06256648
+              ],
+              [
+                -94.54982658,
+                39.06253069
+              ],
+              [
+                -94.54974232,
+                39.06252776
+              ],
+              [
+                -94.549663,
+                39.06252602
+              ],
+              [
+                -94.54859347,
+                39.06250147
+              ],
+              [
+                -94.54833984,
+                39.06248896
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18535464,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Benton St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5496689,
+                39.06398173
+              ],
+              [
+                -94.54973873,
+                39.06259912
+              ],
+              [
+                -94.54974232,
+                39.06252776
+              ],
+              [
+                -94.5497461,
+                39.06246576
+              ],
+              [
+                -94.5497833,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18522383,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Agnes Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5485168,
+                39.06398173
+              ],
+              [
+                -94.54859347,
+                39.06250147
+              ],
+              [
+                -94.54863061,
+                39.06184913
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54559326,
+              39.06184913
+            ],
+            [
+              -94.54833984,
+              39.06184913
+            ],
+            [
+              -94.54833984,
+              39.06398173
+            ],
+            [
+              -94.54559326,
+              39.06398173
+            ],
+            [
+              -94.54559326,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54833984,
+                39.06248896
+              ],
+              [
+                -94.54750893,
+                39.06244797
+              ],
+              [
+                -94.54635091,
+                39.06241198
+              ],
+              [
+                -94.54559326,
+                39.06238959
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18517511,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Benton Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54627234,
+                39.06398173
+              ],
+              [
+                -94.54635091,
+                39.06241198
+              ],
+              [
+                -94.54637883,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520703,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bellefontaine Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54742695,
+                39.06398173
+              ],
+              [
+                -94.54750893,
+                39.06244797
+              ],
+              [
+                -94.54754111,
+                39.06184913
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54284668,
+              39.06184913
+            ],
+            [
+              -94.54559326,
+              39.06184913
+            ],
+            [
+              -94.54559326,
+              39.06398173
+            ],
+            [
+              -94.54284668,
+              39.06398173
+            ],
+            [
+              -94.54284668,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18510181,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bales Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54284668,
+                39.06285988
+              ],
+              [
+                -94.54286087,
+                39.06229996
+              ],
+              [
+                -94.54288067,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54559326,
+                39.06238959
+              ],
+              [
+                -94.54513289,
+                39.06237599
+              ],
+              [
+                -94.54399993,
+                39.06233902
+              ],
+              [
+                -94.54286087,
+                39.06229996
+              ],
+              [
+                -94.54284668,
+                39.0622995
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18524732,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "College Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54504609,
+                39.06398173
+              ],
+              [
+                -94.54513289,
+                39.06237599
+              ],
+              [
+                -94.54516148,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 100222241,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Indiana Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54391462,
+                39.06398173
+              ],
+              [
+                -94.54399993,
+                39.06233902
+              ],
+              [
+                -94.54402508,
+                39.06184913
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 358087584,
+          "religion": "christian",
+          "name": "Palestine Missionary Baptist Church of Jesus Christ",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.54149004,
+            39.06240298
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.5401001,
+              39.06184913
+            ],
+            [
+              -94.54284668,
+              39.06184913
+            ],
+            [
+              -94.54284668,
+              39.06398173
+            ],
+            [
+              -94.5401001,
+              39.06398173
+            ],
+            [
+              -94.5401001,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18510181,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bales Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54281825,
+                39.06398173
+              ],
+              [
+                -94.54284668,
+                39.06285988
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529132,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Monroe Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54044367,
+                39.06398173
+              ],
+              [
+                -94.54052687,
+                39.06223202
+              ],
+              [
+                -94.54054469,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54284668,
+                39.0622995
+              ],
+              [
+                -94.54180894,
+                39.06226599
+              ],
+              [
+                -94.54168794,
+                39.06226299
+              ],
+              [
+                -94.54125127,
+                39.06225127
+              ],
+              [
+                -94.54052687,
+                39.06223202
+              ],
+              [
+                -94.5401001,
+                39.06222117
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 338397167,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54125118,
+                39.06225127
+              ],
+              [
+                -94.54115829,
+                39.06332856
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18527900,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Askew Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54168794,
+                39.06226299
+              ],
+              [
+                -94.54170645,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18527892,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Askew Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54167252,
+                39.06398173
+              ],
+              [
+                -94.5417139,
+                39.06337697
+              ],
+              [
+                -94.54178594,
+                39.06282399
+              ],
+              [
+                -94.54180894,
+                39.06226599
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53735352,
+              39.06184913
+            ],
+            [
+              -94.5401001,
+              39.06184913
+            ],
+            [
+              -94.5401001,
+              39.06398173
+            ],
+            [
+              -94.53735352,
+              39.06398173
+            ],
+            [
+              -94.53735352,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 37539074,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Cleveland Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53929429,
+                39.06398173
+              ],
+              [
+                -94.53938592,
+                39.06220301
+              ],
+              [
+                -94.53940416,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5401001,
+                39.06222117
+              ],
+              [
+                -94.53938592,
+                39.06220301
+              ],
+              [
+                -94.53829886,
+                39.06217399
+              ],
+              [
+                -94.53822089,
+                39.06217197
+              ],
+              [
+                -94.53735352,
+                39.06214645
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 173546202,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 34th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53823239,
+                39.06398173
+              ],
+              [
+                -94.53820292,
+                39.063981
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520403,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mersington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53822089,
+                39.06217197
+              ],
+              [
+                -94.53823786,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520425,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mersington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53820289,
+                39.06398173
+              ],
+              [
+                -94.53820292,
+                39.063981
+              ],
+              [
+                -94.53829886,
+                39.06217399
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [{
+        "properties": {
+          "id": 316806850,
+          "area": 222,
+          "source": "openstreetmap.org",
+          "sort_key": 475,
+          "min_zoom": 14,
+          "kind": "building"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53461604,
+              39.062215
+            ],
+            [
+              -94.53461469,
+              39.0622399
+            ],
+            [
+              -94.53441554,
+              39.0622353
+            ],
+            [
+              -94.53441895,
+              39.06215767
+            ],
+            [
+              -94.53455235,
+              39.0621592
+            ],
+            [
+              -94.53461604,
+              39.062215
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53460693,
+              39.06184913
+            ],
+            [
+              -94.53735352,
+              39.06184913
+            ],
+            [
+              -94.53735352,
+              39.06398173
+            ],
+            [
+              -94.53460693,
+              39.06398173
+            ],
+            [
+              -94.53460693,
+              39.06184913
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 180069816,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Jackson Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53471528,
+                39.06398173
+              ],
+              [
+                -94.53472123,
+                39.06387791
+              ],
+              [
+                -94.53478187,
+                39.06206601
+              ],
+              [
+                -94.53479343,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 314186747,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "E 35th St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53735352,
+                39.06214645
+              ],
+              [
+                -94.53594492,
+                39.06210501
+              ],
+              [
+                -94.53478187,
+                39.06206601
+              ],
+              [
+                -94.53460693,
+                39.06206037
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 37539123,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Norton Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53585424,
+                39.06398173
+              ],
+              [
+                -94.53585886,
+                39.06389437
+              ],
+              [
+                -94.53594492,
+                39.06210501
+              ],
+              [
+                -94.53595663,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18521511,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "name": "E 34 St.",
+            "service": "alley",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5351306,
+                39.063883
+              ],
+              [
+                -94.53472123,
+                39.06387791
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54833984,
+              39.05971647
+            ],
+            [
+              -94.55108643,
+              39.05971647
+            ],
+            [
+              -94.55108643,
+              39.06184913
+            ],
+            [
+              -94.54833984,
+              39.06184913
+            ],
+            [
+              -94.54833984,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18532749,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Chestnut Ave.",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55095388,
+                39.06125397
+              ],
+              [
+                -94.55092508,
+                39.06184913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 158902806,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54986189,
+                39.060504
+              ],
+              [
+                -94.54974888,
+                39.06055896
+              ],
+              [
+                -94.5496409,
+                39.06057898
+              ],
+              [
+                -94.54870288,
+                39.06057298
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18535464,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Benton St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5497833,
+                39.06184913
+              ],
+              [
+                -94.54983188,
+                39.06104402
+              ],
+              [
+                -94.54986189,
+                39.060504
+              ],
+              [
+                -94.54990522,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538973,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55108643,
+                39.0602571
+              ],
+              [
+                -94.55102089,
+                39.060248
+              ],
+              [
+                -94.55071789,
+                39.06022896
+              ],
+              [
+                -94.55039495,
+                39.060269
+              ],
+              [
+                -94.55009392,
+                39.06036798
+              ],
+              [
+                -94.54986189,
+                39.060504
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18537298,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 35th Ter.",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54983188,
+                39.06104402
+              ],
+              [
+                -94.55038588,
+                39.06117996
+              ],
+              [
+                -94.55095388,
+                39.06125397
+              ],
+              [
+                -94.55108643,
+                39.06125784
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18522383,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Agnes Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54863061,
+                39.06184913
+              ],
+              [
+                -94.54869893,
+                39.06064901
+              ],
+              [
+                -94.54870288,
+                39.06057298
+              ],
+              [
+                -94.54874964,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18532746,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Chestnut Ave.",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55104885,
+                39.05971647
+              ],
+              [
+                -94.55102089,
+                39.060248
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538953,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54869893,
+                39.06064901
+              ],
+              [
+                -94.54833984,
+                39.06064078
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54559326,
+              39.05971647
+            ],
+            [
+              -94.54833984,
+              39.05971647
+            ],
+            [
+              -94.54833984,
+              39.06184913
+            ],
+            [
+              -94.54559326,
+              39.06184913
+            ],
+            [
+              -94.54559326,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18517511,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Benton Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54637883,
+                39.06184913
+              ],
+              [
+                -94.54644092,
+                39.06059697
+              ],
+              [
+                -94.54648486,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520703,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bellefontaine Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54754111,
+                39.06184913
+              ],
+              [
+                -94.54760694,
+                39.06062397
+              ],
+              [
+                -94.54765559,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538953,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54833984,
+                39.06064078
+              ],
+              [
+                -94.54760694,
+                39.06062397
+              ],
+              [
+                -94.54644092,
+                39.06059697
+              ],
+              [
+                -94.54559326,
+                39.06057806
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54284668,
+              39.05971647
+            ],
+            [
+              -94.54559326,
+              39.05971647
+            ],
+            [
+              -94.54559326,
+              39.06184913
+            ],
+            [
+              -94.54284668,
+              39.06184913
+            ],
+            [
+              -94.54284668,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18510181,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bales Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54288067,
+                39.06184913
+              ],
+              [
+                -94.54293893,
+                39.06052297
+              ],
+              [
+                -94.5429769,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18524732,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "College Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54516148,
+                39.06184913
+              ],
+              [
+                -94.54523089,
+                39.06056998
+              ],
+              [
+                -94.54527744,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 100222241,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Indiana Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54402508,
+                39.06184913
+              ],
+              [
+                -94.54409192,
+                39.06054696
+              ],
+              [
+                -94.54413499,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538953,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54559326,
+                39.06057806
+              ],
+              [
+                -94.54523089,
+                39.06056998
+              ],
+              [
+                -94.54409192,
+                39.06054696
+              ],
+              [
+                -94.54293893,
+                39.06052297
+              ],
+              [
+                -94.54284668,
+                39.060521
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.5401001,
+              39.05971647
+            ],
+            [
+              -94.54284668,
+              39.05971647
+            ],
+            [
+              -94.54284668,
+              39.06184913
+            ],
+            [
+              -94.5401001,
+              39.06184913
+            ],
+            [
+              -94.5401001,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18529132,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Monroe Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54054469,
+                39.06184913
+              ],
+              [
+                -94.54060888,
+                39.06046996
+              ],
+              [
+                -94.54064893,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18527900,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Askew Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54170645,
+                39.06184913
+              ],
+              [
+                -94.5417669,
+                39.060498
+              ],
+              [
+                -94.54181071,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538953,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54284668,
+                39.060521
+              ],
+              [
+                -94.5417669,
+                39.060498
+              ],
+              [
+                -94.54060888,
+                39.06046996
+              ],
+              [
+                -94.5401001,
+                39.0604556
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53735352,
+              39.05971647
+            ],
+            [
+              -94.5401001,
+              39.05971647
+            ],
+            [
+              -94.5401001,
+              39.06184913
+            ],
+            [
+              -94.53735352,
+              39.06184913
+            ],
+            [
+              -94.53735352,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 37539074,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Cleveland Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53940416,
+                39.06184913
+              ],
+              [
+                -94.53947691,
+                39.06043801
+              ],
+              [
+                -94.53951486,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520403,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mersington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53823786,
+                39.06184913
+              ],
+              [
+                -94.53831387,
+                39.06040299
+              ],
+              [
+                -94.53836274,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538953,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5401001,
+                39.0604556
+              ],
+              [
+                -94.53947691,
+                39.06043801
+              ],
+              [
+                -94.53831387,
+                39.06040299
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 358087586,
+          "religion": "christian",
+          "name": "Park Avenue Baptist Church",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.53481654,
+            39.06022798
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53460693,
+              39.05971647
+            ],
+            [
+              -94.53735352,
+              39.05971647
+            ],
+            [
+              -94.53735352,
+              39.06184913
+            ],
+            [
+              -94.53460693,
+              39.06184913
+            ],
+            [
+              -94.53460693,
+              39.05971647
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 180069816,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Jackson Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53479343,
+                39.06184913
+              ],
+              [
+                -94.53487592,
+                39.06030199
+              ],
+              [
+                -94.5348779,
+                39.06025198
+              ],
+              [
+                -94.5349027,
+                39.05971647
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538950,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5348779,
+                39.06025198
+              ],
+              [
+                -94.53460693,
+                39.06024512
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18538986,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "East 36th St. S",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53602595,
+                39.06033498
+              ],
+              [
+                -94.53487592,
+                39.06030199
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 37539123,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Norton Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53595663,
+                39.06184913
+              ],
+              [
+                -94.53602595,
+                39.06033498
+              ],
+              [
+                -94.53605734,
+                39.05971647
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 358087753,
+          "religion": "christian",
+          "name": "Cornerstone Missionary Baptist Church",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.54983144,
+            39.05901051
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54833984,
+              39.05758375
+            ],
+            [
+              -94.55108643,
+              39.05758375
+            ],
+            [
+              -94.55108643,
+              39.05971647
+            ],
+            [
+              -94.54833984,
+              39.05971647
+            ],
+            [
+              -94.54833984,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18535464,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Benton St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54990522,
+                39.05971647
+              ],
+              [
+                -94.54994894,
+                39.05892199
+              ],
+              [
+                -94.54999987,
+                39.058011
+              ],
+              [
+                -94.55002328,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55108643,
+                39.05895491
+              ],
+              [
+                -94.54994894,
+                39.05892199
+              ],
+              [
+                -94.54879487,
+                39.05888802
+              ],
+              [
+                -94.54833984,
+                39.05887344
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18522383,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Agnes Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54874964,
+                39.05971647
+              ],
+              [
+                -94.54879487,
+                39.05888802
+              ],
+              [
+                -94.54886538,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18532746,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Chestnut Ave.",
+            "oneway": "yes",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55108643,
+                39.05900198
+              ],
+              [
+                -94.55104885,
+                39.05971647
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 358033990,
+            "name": "Ladd School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -94.54717691,
+              39.0594494
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 358088110,
+            "name": "Sanford B Ladd Elementary School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -94.54719793,
+              39.05914897
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54559326,
+              39.05758375
+            ],
+            [
+              -94.54833984,
+              39.05758375
+            ],
+            [
+              -94.54833984,
+              39.05971647
+            ],
+            [
+              -94.54559326,
+              39.05971647
+            ],
+            [
+              -94.54559326,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18517511,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Benton Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54648486,
+                39.05971647
+              ],
+              [
+                -94.54652995,
+                39.05881297
+              ],
+              [
+                -94.5465913,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54833984,
+                39.05887344
+              ],
+              [
+                -94.54770189,
+                39.058853
+              ],
+              [
+                -94.54652995,
+                39.05881297
+              ],
+              [
+                -94.54559326,
+                39.05878179
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520703,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bellefontaine Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54765559,
+                39.05971647
+              ],
+              [
+                -94.54770189,
+                39.058853
+              ],
+              [
+                -94.54772192,
+                39.05844899
+              ],
+              [
+                -94.54776863,
+                39.05758375
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54284668,
+              39.05758375
+            ],
+            [
+              -94.54559326,
+              39.05758375
+            ],
+            [
+              -94.54559326,
+              39.05971647
+            ],
+            [
+              -94.54284668,
+              39.05971647
+            ],
+            [
+              -94.54284668,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18510181,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bales Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5429769,
+                39.05971647
+              ],
+              [
+                -94.5430249,
+                39.05869696
+              ],
+              [
+                -94.54308927,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18524732,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "College Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54527744,
+                39.05971647
+              ],
+              [
+                -94.5453289,
+                39.058773
+              ],
+              [
+                -94.54539352,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 100222241,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Indiana Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54413499,
+                39.05971647
+              ],
+              [
+                -94.54418588,
+                39.05873498
+              ],
+              [
+                -94.54424554,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54559326,
+                39.05878179
+              ],
+              [
+                -94.5453289,
+                39.058773
+              ],
+              [
+                -94.54418588,
+                39.05873498
+              ],
+              [
+                -94.5430249,
+                39.05869696
+              ],
+              [
+                -94.54284668,
+                39.05869126
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.5401001,
+              39.05758375
+            ],
+            [
+              -94.54284668,
+              39.05758375
+            ],
+            [
+              -94.54284668,
+              39.05971647
+            ],
+            [
+              -94.5401001,
+              39.05971647
+            ],
+            [
+              -94.5401001,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18529132,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Monroe Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54064893,
+                39.05971647
+              ],
+              [
+                -94.54070689,
+                39.05862595
+              ],
+              [
+                -94.54076114,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18527900,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Askew Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54181071,
+                39.05971647
+              ],
+              [
+                -94.54186994,
+                39.05865999
+              ],
+              [
+                -94.54193053,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54284668,
+                39.05869126
+              ],
+              [
+                -94.54186994,
+                39.05865999
+              ],
+              [
+                -94.54070689,
+                39.05862595
+              ],
+              [
+                -94.5401001,
+                39.05860828
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53735352,
+              39.05758375
+            ],
+            [
+              -94.5401001,
+              39.05758375
+            ],
+            [
+              -94.5401001,
+              39.05971647
+            ],
+            [
+              -94.53735352,
+              39.05971647
+            ],
+            [
+              -94.53735352,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 37539074,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Cleveland Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53951486,
+                39.05971647
+              ],
+              [
+                -94.53957393,
+                39.05859296
+              ],
+              [
+                -94.53963333,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18528869,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Myrtle Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53748993,
+                39.05853897
+              ],
+              [
+                -94.53752758,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520403,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mersington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53836274,
+                39.05971647
+              ],
+              [
+                -94.53844493,
+                39.05856199
+              ],
+              [
+                -94.53848071,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5401001,
+                39.05860828
+              ],
+              [
+                -94.53957393,
+                39.05859296
+              ],
+              [
+                -94.53844493,
+                39.05856199
+              ],
+              [
+                -94.53748993,
+                39.05853897
+              ],
+              [
+                -94.53735352,
+                39.05853539
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53460693,
+              39.05758375
+            ],
+            [
+              -94.53735352,
+              39.05758375
+            ],
+            [
+              -94.53735352,
+              39.05971647
+            ],
+            [
+              -94.53460693,
+              39.05971647
+            ],
+            [
+              -94.53460693,
+              39.05758375
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 180069816,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Jackson Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5349027,
+                39.05971647
+              ],
+              [
+                -94.5349609,
+                39.05846001
+              ],
+              [
+                -94.53501138,
+                39.05758375
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18531839,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 37th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53735352,
+                39.05853539
+              ],
+              [
+                -94.53611892,
+                39.05850298
+              ],
+              [
+                -94.5349609,
+                39.05846001
+              ],
+              [
+                -94.53460693,
+                39.05845015
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 37539123,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Norton Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53605734,
+                39.05971647
+              ],
+              [
+                -94.53611892,
+                39.05850298
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54833984,
+              39.05545096
+            ],
+            [
+              -94.55108643,
+              39.05545096
+            ],
+            [
+              -94.55108643,
+              39.05758375
+            ],
+            [
+              -94.54833984,
+              39.05758375
+            ],
+            [
+              -94.54833984,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18535464,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Benton St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55002328,
+                39.05758375
+              ],
+              [
+                -94.55004892,
+                39.05711597
+              ],
+              [
+                -94.55013765,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18522383,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Agnes Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54886538,
+                39.05758375
+              ],
+              [
+                -94.54889288,
+                39.05707502
+              ],
+              [
+                -94.54897811,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529774,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.55108643,
+                39.05715164
+              ],
+              [
+                -94.55004892,
+                39.05711597
+              ],
+              [
+                -94.54889288,
+                39.05707502
+              ],
+              [
+                -94.54833984,
+                39.05704871
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54559326,
+              39.05545096
+            ],
+            [
+              -94.54833984,
+              39.05545096
+            ],
+            [
+              -94.54833984,
+              39.05758375
+            ],
+            [
+              -94.54559326,
+              39.05758375
+            ],
+            [
+              -94.54559326,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18517511,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Benton Blvd.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5465913,
+                39.05758375
+              ],
+              [
+                -94.54662193,
+                39.05696997
+              ],
+              [
+                -94.54669488,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520703,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bellefontaine Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54776863,
+                39.05758375
+              ],
+              [
+                -94.54779891,
+                39.05702298
+              ],
+              [
+                -94.54788203,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529774,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54833984,
+                39.05704871
+              ],
+              [
+                -94.54779891,
+                39.05702298
+              ],
+              [
+                -94.54662193,
+                39.05696997
+              ],
+              [
+                -94.54559326,
+                39.05695362
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.54284668,
+              39.05545096
+            ],
+            [
+              -94.54559326,
+              39.05545096
+            ],
+            [
+              -94.54559326,
+              39.05758375
+            ],
+            [
+              -94.54284668,
+              39.05758375
+            ],
+            [
+              -94.54284668,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [{
+        "properties": {
+          "id": 420784823,
+          "source": "whosonfirst.mapzen.com",
+          "max_zoom": 18,
+          "name": "Oak Park",
+          "min_zoom": 14,
+          "kind": "neighbourhood",
+          "kind_tile_rank": 1
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.545287,
+            39.055801
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18510181,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bales Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54308927,
+                39.05758375
+              ],
+              [
+                -94.54312991,
+                39.05688096
+              ],
+              [
+                -94.54321065,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18524732,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "College Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54539352,
+                39.05758375
+              ],
+              [
+                -94.54542789,
+                39.05695099
+              ],
+              [
+                -94.54550799,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 100222241,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Indiana Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54424554,
+                39.05758375
+              ],
+              [
+                -94.54427994,
+                39.05692002
+              ],
+              [
+                -94.5443559,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529774,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54559326,
+                39.05695362
+              ],
+              [
+                -94.54542789,
+                39.05695099
+              ],
+              [
+                -94.54427994,
+                39.05692002
+              ],
+              [
+                -94.54312991,
+                39.05688096
+              ],
+              [
+                -94.54284668,
+                39.05687314
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.5401001,
+              39.05545096
+            ],
+            [
+              -94.54284668,
+              39.05545096
+            ],
+            [
+              -94.54284668,
+              39.05758375
+            ],
+            [
+              -94.5401001,
+              39.05758375
+            ],
+            [
+              -94.5401001,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 18529132,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Monroe Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54076114,
+                39.05758375
+              ],
+              [
+                -94.54080094,
+                39.05681902
+              ],
+              [
+                -94.54087788,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18527900,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Askew Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54193053,
+                39.05758375
+              ],
+              [
+                -94.5419719,
+                39.05684901
+              ],
+              [
+                -94.54205153,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529774,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.54284668,
+                39.05687314
+              ],
+              [
+                -94.5419719,
+                39.05684901
+              ],
+              [
+                -94.54080094,
+                39.05681902
+              ],
+              [
+                -94.5401001,
+                39.05679147
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53735352,
+              39.05545096
+            ],
+            [
+              -94.5401001,
+              39.05545096
+            ],
+            [
+              -94.5401001,
+              39.05758375
+            ],
+            [
+              -94.53735352,
+              39.05758375
+            ],
+            [
+              -94.53735352,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 37539074,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Cleveland Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53963333,
+                39.05758375
+              ],
+              [
+                -94.53968092,
+                39.056775
+              ],
+              [
+                -94.5397558,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18523237,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38 St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53738186,
+                39.05667999
+              ],
+              [
+                -94.53735352,
+                39.05667692
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18528869,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Myrtle Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53752758,
+                39.05758375
+              ],
+              [
+                -94.53756287,
+                39.05668801
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18520403,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mersington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53848071,
+                39.05758375
+              ],
+              [
+                -94.53851194,
+                39.05673001
+              ],
+              [
+                -94.53858291,
+                39.05558802
+              ],
+              [
+                -94.53859513,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18528872,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Myrtle Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53756287,
+                39.05668801
+              ],
+              [
+                -94.53738186,
+                39.05667999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18528871,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Myrtle Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53738186,
+                39.05667999
+              ],
+              [
+                -94.53744548,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18529774,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38th St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.5401001,
+                39.05679147
+              ],
+              [
+                -94.53968092,
+                39.056775
+              ],
+              [
+                -94.53851194,
+                39.05673001
+              ],
+              [
+                -94.53756287,
+                39.05668801
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266489,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -94.53460693,
+              39.05545096
+            ],
+            [
+              -94.53735352,
+              39.05545096
+            ],
+            [
+              -94.53735352,
+              39.05758375
+            ],
+            [
+              -94.53460693,
+              39.05758375
+            ],
+            [
+              -94.53460693,
+              39.05545096
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 180069816,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Jackson Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53501138,
+                39.05758375
+              ],
+              [
+                -94.53513423,
+                39.05545096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 18523237,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E 38 St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -94.53735352,
+                39.05667692
+              ],
+              [
+                -94.53726194,
+                39.05666702
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

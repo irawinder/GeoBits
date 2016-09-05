@@ -1,0 +1,8062 @@
+[
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 48361360,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.10216,
+              33.495598
+            ],
+            [
+              -112.102168,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901321,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097822,
+                33.486435
+              ],
+              [
+                -112.097801,
+                33.486863
+              ]
+            ],
+            [
+              [
+                -112.097512,
+                33.486946
+              ],
+              [
+                -112.097512,
+                33.487798
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5616876,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436781518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Indian School Rd.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.495018
+              ],
+              [
+                -112.104221,
+                33.495018
+              ]
+            ],
+            [
+              [
+                -112.102077,
+                33.495016
+              ],
+              [
+                -112.093506,
+                33.494957
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5647453,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096784,
+              33.486435
+            ],
+            [
+              -112.096806,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 35351815,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099936,
+              33.48963
+            ],
+            [
+              -112.104492,
+              33.489556
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678861,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Picadilly Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104246,
+              33.493548
+            ],
+            [
+              -112.104492,
+              33.493547
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606181,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097984,
+                33.495001
+              ],
+              [
+                -112.097949,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.097819,
+                33.487802
+              ],
+              [
+                -112.097819,
+                33.494999
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5602023,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mitchell Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099939,
+                33.488719
+              ],
+              [
+                -112.103706,
+                33.488695
+              ]
+            ],
+            [
+              [
+                -112.095712,
+                33.488618
+              ],
+              [
+                -112.097819,
+                33.488636
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.093565,
+                33.492254
+              ],
+              [
+                -112.093517,
+                33.494957
+              ]
+            ],
+            [
+              [
+                -112.093534,
+                33.487759
+              ],
+              [
+                -112.093524,
+                33.48872
+              ],
+              [
+                -112.093506,
+                33.488753
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130046140,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.494608
+              ],
+              [
+                -112.10426,
+                33.494612
+              ]
+            ],
+            [
+              [
+                -112.104251,
+                33.493896
+              ],
+              [
+                -112.104492,
+                33.493895
+              ]
+            ],
+            [
+              [
+                -112.102082,
+                33.49365
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.100786,
+                33.494027
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.10079,
+                33.493611
+              ],
+              [
+                -112.10079,
+                33.493198
+              ]
+            ],
+            [
+              [
+                -112.099926,
+                33.491847
+              ],
+              [
+                -112.093506,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.099923,
+                33.49275
+              ],
+              [
+                -112.093506,
+                33.492702
+              ]
+            ],
+            [
+              [
+                -112.095152,
+                33.489517
+              ],
+              [
+                -112.095156,
+                33.488312
+              ]
+            ],
+            [
+              [
+                -112.094077,
+                33.488296
+              ],
+              [
+                -112.09409,
+                33.488965
+              ],
+              [
+                -112.09462,
+                33.4891
+              ]
+            ],
+            [
+              [
+                -112.09351,
+                33.493572
+              ],
+              [
+                -112.093506,
+                33.493572
+              ]
+            ],
+            [
+              [
+                -112.093509,
+                33.49444
+              ],
+              [
+                -112.093506,
+                33.49444
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683248,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.094625,
+              33.487783
+            ],
+            [
+              -112.094616,
+              33.489512
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5609405,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.489253
+            ],
+            [
+              -112.093871,
+              33.489444
+            ],
+            [
+              -112.094189,
+              33.489509
+            ],
+            [
+              -112.099935,
+              33.489555
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5615982,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099124,
+                33.495012
+              ],
+              [
+                -112.099128,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.098803,
+                33.493209
+              ],
+              [
+                -112.098801,
+                33.494284
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.095705,
+              33.486435
+            ],
+            [
+              -112.095708,
+              33.48779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48249681,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Indianola Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103776,
+                33.4922
+              ],
+              [
+                -112.102581,
+                33.492213
+              ],
+              [
+                -112.101074,
+                33.492436
+              ],
+              [
+                -112.099924,
+                33.49245
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.492252
+              ],
+              [
+                -112.099925,
+                33.492307
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579873,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.096223,
+                33.486435
+              ],
+              [
+                -112.096237,
+                33.487228
+              ],
+              [
+                -112.096326,
+                33.48736
+              ],
+              [
+                -112.097512,
+                33.487369
+              ]
+            ],
+            [
+              [
+                -112.097288,
+                33.486435
+              ],
+              [
+                -112.097291,
+                33.486948
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103695,
+                33.4878
+              ],
+              [
+                -112.103691,
+                33.491367
+              ],
+              [
+                -112.103771,
+                33.491826
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.1035,
+                33.486435
+              ],
+              [
+                -112.103509,
+                33.487801
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487761
+            ],
+            [
+              -112.098626,
+              33.487805
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579897,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.493152
+              ],
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.104222,
+                33.488275
+              ],
+              [
+                -112.104492,
+                33.488274
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.104492,
+                33.487256
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.101878,
+                33.491798
+              ],
+              [
+                -112.100563,
+                33.491941
+              ],
+              [
+                -112.100526,
+                33.492818
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.100516,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.491369
+              ],
+              [
+                -112.103278,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.492688
+              ],
+              [
+                -112.103267,
+                33.493211
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.101786,
+                33.492809
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103154,
+                33.491369
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.103133,
+                33.490912
+              ],
+              [
+                -112.103149,
+                33.489986
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.103128,
+                33.48914
+              ],
+              [
+                -112.10073,
+                33.489105
+              ],
+              [
+                -112.100762,
+                33.488304
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.10074,
+                33.487266
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.100757,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.100081,
+                33.490089
+              ],
+              [
+                -112.099933,
+                33.49004
+              ],
+              [
+                -112.093506,
+                33.489972
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.490884
+              ],
+              [
+                -112.09993,
+                33.490939
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488201
+              ],
+              [
+                -112.097819,
+                33.488207
+              ]
+            ],
+            [
+              [
+                -112.095717,
+                33.489074
+              ],
+              [
+                -112.097818,
+                33.489087
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.495406
+              ],
+              [
+                -112.097464,
+                33.49546
+              ],
+              [
+                -112.097566,
+                33.494996
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488324
+              ],
+              [
+                -112.093506,
+                33.48829
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.095708,
+                33.48779
+              ],
+              [
+                -112.095702,
+                33.493159
+              ]
+            ],
+            [
+              [
+                -112.095696,
+                33.494977
+              ],
+              [
+                -112.095686,
+                33.495598
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5677460,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Clarendon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.491325
+            ],
+            [
+              -112.104492,
+              33.491367
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48247567,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099945,
+                33.486759
+              ],
+              [
+                -112.104492,
+                33.486763
+              ]
+            ],
+            [
+              [
+                -112.099851,
+                33.486657
+              ],
+              [
+                -112.099943,
+                33.486656
+              ]
+            ],
+            [
+              [
+                -112.099221,
+                33.48666
+              ],
+              [
+                -112.099313,
+                33.486659
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093538,
+              33.486435
+            ],
+            [
+              -112.093534,
+              33.487759
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.098626,
+              33.487805
+            ],
+            [
+              -112.104492,
+              33.487794
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886898,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097669,
+                33.488635
+              ],
+              [
+                -112.097672,
+                33.489043
+              ]
+            ],
+            [
+              [
+                -112.0975,
+                33.48904
+              ],
+              [
+                -112.0975,
+                33.488634
+              ]
+            ],
+            [
+              [
+                -112.097327,
+                33.488632
+              ],
+              [
+                -112.09733,
+                33.489084
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886895,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100616,
+                33.486435
+              ],
+              [
+                -112.100616,
+                33.486608
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100616,
+                33.486756
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100128,
+                33.486607
+              ],
+              [
+                -112.100129,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.097329,
+                33.489037
+              ],
+              [
+                -112.097818,
+                33.489046
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096806,
+              33.486853
+            ],
+            [
+              -112.09711,
+              33.486948
+            ],
+            [
+              -112.097512,
+              33.486946
+            ],
+            [
+              -112.097801,
+              33.486863
+            ],
+            [
+              -112.098506,
+              33.486874
+            ],
+            [
+              -112.098729,
+              33.486695
+            ],
+            [
+              -112.099221,
+              33.48666
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665684,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.486842
+            ],
+            [
+              -112.095697,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.493133
+            ],
+            [
+              -112.099229,
+              33.493219
+            ],
+            [
+              -112.102087,
+              33.493199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099313,
+              33.486659
+            ],
+            [
+              -112.099851,
+              33.486657
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631142,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099918,
+              33.494029
+            ],
+            [
+              -112.102084,
+              33.4941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.103776,
+              33.493197
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325860681,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099942,
+              33.486435
+            ],
+            [
+              -112.099913,
+              33.495598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 155109502,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Indian School Rd.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104221,
+              33.495018
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631147,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104243,
+              33.494246
+            ],
+            [
+              -112.104492,
+              33.494245
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5686921,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Weldon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.490417
+            ],
+            [
+              -112.099932,
+              33.490496
+            ],
+            [
+              -112.103701,
+              33.490384
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901352,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487284
+            ],
+            [
+              -112.095699,
+              33.487311
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 5636825,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Avalon Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096875,
+                33.483216
+              ],
+              [
+                -112.097004,
+                33.483266
+              ],
+              [
+                -112.098444,
+                33.483266
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.483212
+              ],
+              [
+                -112.094389,
+                33.483227
+              ],
+              [
+                -112.094545,
+                33.483183
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5595937,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Windsor Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.101094,
+              33.479412
+            ],
+            [
+              -112.101798,
+              33.479395
+            ],
+            [
+              -112.102243,
+              33.479314
+            ],
+            [
+              -112.103435,
+              33.478731
+            ],
+            [
+              -112.103783,
+              33.478634
+            ],
+            [
+              -112.104492,
+              33.478615
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606185,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.097868,
+              33.480549
+            ],
+            [
+              -112.097815,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419659676,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102277,
+              33.477272
+            ],
+            [
+              -112.102252,
+              33.477366
+            ],
+            [
+              -112.102029,
+              33.477614
+            ],
+            [
+              -112.101621,
+              33.477721
+            ],
+            [
+              -112.101097,
+              33.477728
+            ],
+            [
+              -112.101094,
+              33.479412
+            ],
+            [
+              -112.101166,
+              33.480099
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5647443,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096892,
+                33.481491
+              ],
+              [
+                -112.096772,
+                33.481706
+              ],
+              [
+                -112.096789,
+                33.483095
+              ],
+              [
+                -112.096875,
+                33.483216
+              ]
+            ],
+            [
+              [
+                -112.096849,
+                33.485035
+              ],
+              [
+                -112.096755,
+                33.485149
+              ],
+              [
+                -112.096767,
+                33.486435
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891727,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099964,
+              33.480605
+            ],
+            [
+              -112.099968,
+              33.484199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5596161,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Cambridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099962,
+              33.478498
+            ],
+            [
+              -112.101107,
+              33.4786
+            ],
+            [
+              -112.101819,
+              33.478522
+            ],
+            [
+              -112.102549,
+              33.478276
+            ],
+            [
+              -112.103198,
+              33.477919
+            ],
+            [
+              -112.103595,
+              33.477811
+            ],
+            [
+              -112.104492,
+              33.477739
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683247,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.094518,
+              33.481436
+            ],
+            [
+              -112.094667,
+              33.481638
+            ],
+            [
+              -112.094659,
+              33.482969
+            ],
+            [
+              -112.094545,
+              33.483183
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5605025,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "West Flower Circle North",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.485933
+            ],
+            [
+              -112.094386,
+              33.485929
+            ],
+            [
+              -112.094541,
+              33.485886
+            ],
+            [
+              -112.094661,
+              33.485475
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5618685,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Edgemont Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.479571
+            ],
+            [
+              -112.09376,
+              33.479575
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5679358,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103435,
+              33.478731
+            ],
+            [
+              -112.103763,
+              33.479428
+            ],
+            [
+              -112.103828,
+              33.47993
+            ],
+            [
+              -112.103811,
+              33.480646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103507,
+              33.484741
+            ],
+            [
+              -112.103501,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891964,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Thomas Rd.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100663,
+                33.480608
+              ],
+              [
+                -112.103811,
+                33.480646
+              ]
+            ],
+            [
+              [
+                -112.099964,
+                33.480605
+              ],
+              [
+                -112.100616,
+                33.480607
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5592276,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Flower St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099943,
+              33.485757
+            ],
+            [
+              -112.104492,
+              33.485751
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 303136081,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104304,
+              33.477272
+            ],
+            [
+              -112.104303,
+              33.478597
+            ],
+            [
+              -112.104492,
+              33.478769
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.09577,
+              33.48051
+            ],
+            [
+              -112.095702,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130003613,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.477303
+              ],
+              [
+                -112.102767,
+                33.477328
+              ],
+              [
+                -112.102648,
+                33.477633
+              ],
+              [
+                -112.10247,
+                33.477834
+              ],
+              [
+                -112.102166,
+                33.477991
+              ],
+              [
+                -112.101596,
+                33.478131
+              ],
+              [
+                -112.101589,
+                33.478981
+              ]
+            ],
+            [
+              [
+                -112.101589,
+                33.478981
+              ],
+              [
+                -112.101593,
+                33.479789
+              ],
+              [
+                -112.103307,
+                33.479677
+              ],
+              [
+                -112.103241,
+                33.479303
+              ],
+              [
+                -112.103638,
+                33.479116
+              ],
+              [
+                -112.104287,
+                33.479003
+              ],
+              [
+                -112.104286,
+                33.480658
+              ]
+            ],
+            [
+              [
+                -112.104492,
+                33.478169
+              ],
+              [
+                -112.104285,
+                33.478164
+              ],
+              [
+                -112.103429,
+                33.478282
+              ],
+              [
+                -112.102189,
+                33.478882
+              ],
+              [
+                -112.101589,
+                33.478981
+              ]
+            ],
+            [
+              [
+                -112.101756,
+                33.477272
+              ],
+              [
+                -112.101609,
+                33.477311
+              ],
+              [
+                -112.100706,
+                33.477308
+              ],
+              [
+                -112.100623,
+                33.477374
+              ],
+              [
+                -112.100663,
+                33.480608
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.480038
+              ],
+              [
+                -112.093769,
+                33.480042
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.479113
+              ],
+              [
+                -112.093757,
+                33.479114
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579924,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.098909,
+                33.481068
+              ]
+            ],
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.093506,
+                33.480968
+              ]
+            ],
+            [
+              [
+                -112.098885,
+                33.484161
+              ],
+              [
+                -112.098879,
+                33.483731
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.483731
+              ],
+              [
+                -112.098879,
+                33.482832
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.482832
+              ],
+              [
+                -112.098868,
+                33.481977
+              ]
+            ],
+            [
+              [
+                -112.098868,
+                33.481977
+              ],
+              [
+                -112.098909,
+                33.481068
+              ]
+            ],
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.098906,
+                33.480579
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.482832
+              ],
+              [
+                -112.097872,
+                33.482823
+              ]
+            ],
+            [
+              [
+                -112.095755,
+                33.483681
+              ],
+              [
+                -112.096256,
+                33.483695
+              ]
+            ],
+            [
+              [
+                -112.096256,
+                33.483695
+              ],
+              [
+                -112.098879,
+                33.483731
+              ]
+            ],
+            [
+              [
+                -112.098868,
+                33.481977
+              ],
+              [
+                -112.097875,
+                33.481942
+              ]
+            ],
+            [
+              [
+                -112.097851,
+                33.484534
+              ],
+              [
+                -112.09625,
+                33.484613
+              ],
+              [
+                -112.096229,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.097318,
+                33.483266
+              ],
+              [
+                -112.097307,
+                33.481473
+              ]
+            ],
+            [
+              [
+                -112.09728,
+                33.485015
+              ],
+              [
+                -112.097288,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.096266,
+                33.481019
+              ],
+              [
+                -112.096256,
+                33.483695
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.483649
+              ],
+              [
+                -112.095161,
+                33.483678
+              ],
+              [
+                -112.095172,
+                33.480999
+              ]
+            ],
+            [
+              [
+                -112.094114,
+                33.483214
+              ],
+              [
+                -112.094078,
+                33.481393
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.484564
+              ],
+              [
+                -112.095176,
+                33.484591
+              ],
+              [
+                -112.095175,
+                33.486399
+              ],
+              [
+                -112.093506,
+                33.486403
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130003613,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104233,
+              33.484247
+            ],
+            [
+              -112.104492,
+              33.484249
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5596161,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Cambridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099962,
+              33.478498
+            ],
+            [
+              -112.099962,
+              33.478498
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5618660,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Edgemont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103818,
+              33.48012
+            ],
+            [
+              -112.102957,
+              33.480079
+            ],
+            [
+              -112.101524,
+              33.480169
+            ],
+            [
+              -112.101166,
+              33.480099
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579897,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.485253
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100764,
+                33.485263
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.100761,
+                33.48626
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.104492,
+                33.486261
+              ]
+            ],
+            [
+              [
+                -112.100759,
+                33.486435
+              ],
+              [
+                -112.100761,
+                33.48626
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100764,
+                33.485263
+              ],
+              [
+                -112.10078,
+                33.484239
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5610182,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Catalina Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097875,
+                33.482389
+              ],
+              [
+                -112.098439,
+                33.482385
+              ]
+            ],
+            [
+              [
+                -112.094676,
+                33.482332
+              ],
+              [
+                -112.096771,
+                33.482362
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5621134,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "name": "Easment Alley",
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104233,
+              33.484247
+            ],
+            [
+              -112.100131,
+              33.484238
+            ],
+            [
+              -112.099968,
+              33.484199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5624245,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Verde Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096892,
+                33.481491
+              ],
+              [
+                -112.098461,
+                33.481508
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.4814
+              ],
+              [
+                -112.094338,
+                33.481394
+              ],
+              [
+                -112.094518,
+                33.481436
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.093761,
+                33.478693
+              ],
+              [
+                -112.093774,
+                33.480505
+              ]
+            ],
+            [
+              [
+                -112.093584,
+                33.480503
+              ],
+              [
+                -112.093542,
+                33.485011
+              ]
+            ],
+            [
+              [
+                -112.093534,
+                33.485944
+              ],
+              [
+                -112.093541,
+                33.486435
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690780,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099972,
+              33.484746
+            ],
+            [
+              -112.104492,
+              33.484745
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5605217,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "West Flower Circle South",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.485014
+            ],
+            [
+              -112.094425,
+              33.485026
+            ],
+            [
+              -112.09456,
+              33.485068
+            ],
+            [
+              -112.09464,
+              33.485178
+            ],
+            [
+              -112.094661,
+              33.485475
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886894,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100618,
+                33.484741
+              ],
+              [
+                -112.100617,
+                33.485248
+              ]
+            ],
+            [
+              [
+                -112.100617,
+                33.485248
+              ],
+              [
+                -112.100616,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.100617,
+                33.485248
+              ],
+              [
+                -112.099958,
+                33.485247
+              ]
+            ],
+            [
+              [
+                -112.100129,
+                33.486435
+              ],
+              [
+                -112.100129,
+                33.486255
+              ],
+              [
+                -112.099943,
+                33.486255
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690781,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.098885,
+                33.484161
+              ],
+              [
+                -112.099968,
+                33.484199
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.48409
+              ],
+              [
+                -112.097842,
+                33.484147
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690781,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.097842,
+              33.484147
+            ],
+            [
+              -112.098885,
+              33.484161
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901337,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103198,
+                33.477919
+              ],
+              [
+                -112.103166,
+                33.477825
+              ]
+            ],
+            [
+              [
+                -112.102578,
+                33.479191
+              ],
+              [
+                -112.102635,
+                33.479284
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5621134,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 356,
+          "name": "Easment Alley",
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104286,
+              33.480658
+            ],
+            [
+              -112.104233,
+              33.484247
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891733,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099968,
+                33.484199
+              ],
+              [
+                -112.099945,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.099963,
+                33.479995
+              ],
+              [
+                -112.099964,
+                33.480605
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436781502,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099964,
+              33.477272
+            ],
+            [
+              -112.099963,
+              33.479995
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5592290,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Flower St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096849,
+                33.485035
+              ],
+              [
+                -112.097836,
+                33.484999
+              ]
+            ],
+            [
+              [
+                -112.094661,
+                33.485475
+              ],
+              [
+                -112.096749,
+                33.485515
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5595978,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Windsor Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.478686
+            ],
+            [
+              -112.093761,
+              33.478693
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891964,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Thomas Rd.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103811,
+                33.480646
+              ],
+              [
+                -112.104492,
+                33.480651
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.480607
+              ],
+              [
+                -112.100663,
+                33.480608
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.480503
+              ],
+              [
+                -112.099964,
+                33.480605
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 48361360,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.10216,
+              33.495598
+            ],
+            [
+              -112.102168,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901321,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097822,
+                33.486435
+              ],
+              [
+                -112.097801,
+                33.486863
+              ]
+            ],
+            [
+              [
+                -112.097512,
+                33.486946
+              ],
+              [
+                -112.097512,
+                33.487798
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5616876,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436781518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Indian School Rd.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.495018
+              ],
+              [
+                -112.104221,
+                33.495018
+              ]
+            ],
+            [
+              [
+                -112.102077,
+                33.495016
+              ],
+              [
+                -112.093506,
+                33.494957
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5647453,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096784,
+              33.486435
+            ],
+            [
+              -112.096806,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 35351815,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099936,
+              33.48963
+            ],
+            [
+              -112.104492,
+              33.489556
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678861,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Picadilly Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104246,
+              33.493548
+            ],
+            [
+              -112.104492,
+              33.493547
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606181,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097984,
+                33.495001
+              ],
+              [
+                -112.097949,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.097819,
+                33.487802
+              ],
+              [
+                -112.097819,
+                33.494999
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5602023,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mitchell Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099939,
+                33.488719
+              ],
+              [
+                -112.103706,
+                33.488695
+              ]
+            ],
+            [
+              [
+                -112.095712,
+                33.488618
+              ],
+              [
+                -112.097819,
+                33.488636
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.093565,
+                33.492254
+              ],
+              [
+                -112.093517,
+                33.494957
+              ]
+            ],
+            [
+              [
+                -112.093534,
+                33.487759
+              ],
+              [
+                -112.093524,
+                33.48872
+              ],
+              [
+                -112.093506,
+                33.488753
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130046140,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.494608
+              ],
+              [
+                -112.10426,
+                33.494612
+              ]
+            ],
+            [
+              [
+                -112.104251,
+                33.493896
+              ],
+              [
+                -112.104492,
+                33.493895
+              ]
+            ],
+            [
+              [
+                -112.102082,
+                33.49365
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.100786,
+                33.494027
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.10079,
+                33.493611
+              ],
+              [
+                -112.10079,
+                33.493198
+              ]
+            ],
+            [
+              [
+                -112.099926,
+                33.491847
+              ],
+              [
+                -112.093506,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.099923,
+                33.49275
+              ],
+              [
+                -112.093506,
+                33.492702
+              ]
+            ],
+            [
+              [
+                -112.095152,
+                33.489517
+              ],
+              [
+                -112.095156,
+                33.488312
+              ]
+            ],
+            [
+              [
+                -112.094077,
+                33.488296
+              ],
+              [
+                -112.09409,
+                33.488965
+              ],
+              [
+                -112.09462,
+                33.4891
+              ]
+            ],
+            [
+              [
+                -112.09351,
+                33.493572
+              ],
+              [
+                -112.093506,
+                33.493572
+              ]
+            ],
+            [
+              [
+                -112.093509,
+                33.49444
+              ],
+              [
+                -112.093506,
+                33.49444
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683248,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.094625,
+              33.487783
+            ],
+            [
+              -112.094616,
+              33.489512
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5609405,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.489253
+            ],
+            [
+              -112.093871,
+              33.489444
+            ],
+            [
+              -112.094189,
+              33.489509
+            ],
+            [
+              -112.099935,
+              33.489555
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5615982,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099124,
+                33.495012
+              ],
+              [
+                -112.099128,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.098803,
+                33.493209
+              ],
+              [
+                -112.098801,
+                33.494284
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.095705,
+              33.486435
+            ],
+            [
+              -112.095708,
+              33.48779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48249681,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Indianola Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103776,
+                33.4922
+              ],
+              [
+                -112.102581,
+                33.492213
+              ],
+              [
+                -112.101074,
+                33.492436
+              ],
+              [
+                -112.099924,
+                33.49245
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.492252
+              ],
+              [
+                -112.099925,
+                33.492307
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579873,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.096223,
+                33.486435
+              ],
+              [
+                -112.096237,
+                33.487228
+              ],
+              [
+                -112.096326,
+                33.48736
+              ],
+              [
+                -112.097512,
+                33.487369
+              ]
+            ],
+            [
+              [
+                -112.097288,
+                33.486435
+              ],
+              [
+                -112.097291,
+                33.486948
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103695,
+                33.4878
+              ],
+              [
+                -112.103691,
+                33.491367
+              ],
+              [
+                -112.103771,
+                33.491826
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.1035,
+                33.486435
+              ],
+              [
+                -112.103509,
+                33.487801
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487761
+            ],
+            [
+              -112.098626,
+              33.487805
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579897,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.493152
+              ],
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.104222,
+                33.488275
+              ],
+              [
+                -112.104492,
+                33.488274
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.104492,
+                33.487256
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.101878,
+                33.491798
+              ],
+              [
+                -112.100563,
+                33.491941
+              ],
+              [
+                -112.100526,
+                33.492818
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.100516,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.491369
+              ],
+              [
+                -112.103278,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.492688
+              ],
+              [
+                -112.103267,
+                33.493211
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.101786,
+                33.492809
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103154,
+                33.491369
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.103133,
+                33.490912
+              ],
+              [
+                -112.103149,
+                33.489986
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.103128,
+                33.48914
+              ],
+              [
+                -112.10073,
+                33.489105
+              ],
+              [
+                -112.100762,
+                33.488304
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.10074,
+                33.487266
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.100757,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.100081,
+                33.490089
+              ],
+              [
+                -112.099933,
+                33.49004
+              ],
+              [
+                -112.093506,
+                33.489972
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.490884
+              ],
+              [
+                -112.09993,
+                33.490939
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488201
+              ],
+              [
+                -112.097819,
+                33.488207
+              ]
+            ],
+            [
+              [
+                -112.095717,
+                33.489074
+              ],
+              [
+                -112.097818,
+                33.489087
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.495406
+              ],
+              [
+                -112.097464,
+                33.49546
+              ],
+              [
+                -112.097566,
+                33.494996
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488324
+              ],
+              [
+                -112.093506,
+                33.48829
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.095708,
+                33.48779
+              ],
+              [
+                -112.095702,
+                33.493159
+              ]
+            ],
+            [
+              [
+                -112.095696,
+                33.494977
+              ],
+              [
+                -112.095686,
+                33.495598
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5677460,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Clarendon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.491325
+            ],
+            [
+              -112.104492,
+              33.491367
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48247567,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099945,
+                33.486759
+              ],
+              [
+                -112.104492,
+                33.486763
+              ]
+            ],
+            [
+              [
+                -112.099851,
+                33.486657
+              ],
+              [
+                -112.099943,
+                33.486656
+              ]
+            ],
+            [
+              [
+                -112.099221,
+                33.48666
+              ],
+              [
+                -112.099313,
+                33.486659
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093538,
+              33.486435
+            ],
+            [
+              -112.093534,
+              33.487759
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.098626,
+              33.487805
+            ],
+            [
+              -112.104492,
+              33.487794
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886898,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097669,
+                33.488635
+              ],
+              [
+                -112.097672,
+                33.489043
+              ]
+            ],
+            [
+              [
+                -112.0975,
+                33.48904
+              ],
+              [
+                -112.0975,
+                33.488634
+              ]
+            ],
+            [
+              [
+                -112.097327,
+                33.488632
+              ],
+              [
+                -112.09733,
+                33.489084
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886895,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100616,
+                33.486435
+              ],
+              [
+                -112.100616,
+                33.486608
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100616,
+                33.486756
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100128,
+                33.486607
+              ],
+              [
+                -112.100129,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.097329,
+                33.489037
+              ],
+              [
+                -112.097818,
+                33.489046
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096806,
+              33.486853
+            ],
+            [
+              -112.09711,
+              33.486948
+            ],
+            [
+              -112.097512,
+              33.486946
+            ],
+            [
+              -112.097801,
+              33.486863
+            ],
+            [
+              -112.098506,
+              33.486874
+            ],
+            [
+              -112.098729,
+              33.486695
+            ],
+            [
+              -112.099221,
+              33.48666
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665684,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.486842
+            ],
+            [
+              -112.095697,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.493133
+            ],
+            [
+              -112.099229,
+              33.493219
+            ],
+            [
+              -112.102087,
+              33.493199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099313,
+              33.486659
+            ],
+            [
+              -112.099851,
+              33.486657
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631142,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099918,
+              33.494029
+            ],
+            [
+              -112.102084,
+              33.4941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.103776,
+              33.493197
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325860681,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099942,
+              33.486435
+            ],
+            [
+              -112.099913,
+              33.495598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 155109502,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Indian School Rd.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104221,
+              33.495018
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631147,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104243,
+              33.494246
+            ],
+            [
+              -112.104492,
+              33.494245
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5686921,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Weldon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.490417
+            ],
+            [
+              -112.099932,
+              33.490496
+            ],
+            [
+              -112.103701,
+              33.490384
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901352,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487284
+            ],
+            [
+              -112.095699,
+              33.487311
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 5636825,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Avalon Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096875,
+                33.483216
+              ],
+              [
+                -112.097004,
+                33.483266
+              ],
+              [
+                -112.098444,
+                33.483266
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.483212
+              ],
+              [
+                -112.094389,
+                33.483227
+              ],
+              [
+                -112.094545,
+                33.483183
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5595937,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Windsor Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.101094,
+              33.479412
+            ],
+            [
+              -112.101798,
+              33.479395
+            ],
+            [
+              -112.102243,
+              33.479314
+            ],
+            [
+              -112.103435,
+              33.478731
+            ],
+            [
+              -112.103783,
+              33.478634
+            ],
+            [
+              -112.104492,
+              33.478615
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606185,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.097868,
+              33.480549
+            ],
+            [
+              -112.097815,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419659676,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102277,
+              33.477272
+            ],
+            [
+              -112.102252,
+              33.477366
+            ],
+            [
+              -112.102029,
+              33.477614
+            ],
+            [
+              -112.101621,
+              33.477721
+            ],
+            [
+              -112.101097,
+              33.477728
+            ],
+            [
+              -112.101094,
+              33.479412
+            ],
+            [
+              -112.101166,
+              33.480099
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5647443,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096892,
+                33.481491
+              ],
+              [
+                -112.096772,
+                33.481706
+              ],
+              [
+                -112.096789,
+                33.483095
+              ],
+              [
+                -112.096875,
+                33.483216
+              ]
+            ],
+            [
+              [
+                -112.096849,
+                33.485035
+              ],
+              [
+                -112.096755,
+                33.485149
+              ],
+              [
+                -112.096767,
+                33.486435
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891727,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099964,
+              33.480605
+            ],
+            [
+              -112.099968,
+              33.484199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5596161,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Cambridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099962,
+              33.478498
+            ],
+            [
+              -112.101107,
+              33.4786
+            ],
+            [
+              -112.101819,
+              33.478522
+            ],
+            [
+              -112.102549,
+              33.478276
+            ],
+            [
+              -112.103198,
+              33.477919
+            ],
+            [
+              -112.103595,
+              33.477811
+            ],
+            [
+              -112.104492,
+              33.477739
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683247,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.094518,
+              33.481436
+            ],
+            [
+              -112.094667,
+              33.481638
+            ],
+            [
+              -112.094659,
+              33.482969
+            ],
+            [
+              -112.094545,
+              33.483183
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5605025,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "West Flower Circle North",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.485933
+            ],
+            [
+              -112.094386,
+              33.485929
+            ],
+            [
+              -112.094541,
+              33.485886
+            ],
+            [
+              -112.094661,
+              33.485475
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5618685,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Edgemont Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.479571
+            ],
+            [
+              -112.09376,
+              33.479575
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5679358,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103435,
+              33.478731
+            ],
+            [
+              -112.103763,
+              33.479428
+            ],
+            [
+              -112.103828,
+              33.47993
+            ],
+            [
+              -112.103811,
+              33.480646
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103507,
+              33.484741
+            ],
+            [
+              -112.103501,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891964,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Thomas Rd.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100663,
+                33.480608
+              ],
+              [
+                -112.103811,
+                33.480646
+              ]
+            ],
+            [
+              [
+                -112.099964,
+                33.480605
+              ],
+              [
+                -112.100616,
+                33.480607
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5592276,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Flower St.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099943,
+              33.485757
+            ],
+            [
+              -112.104492,
+              33.485751
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 303136081,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104304,
+              33.477272
+            ],
+            [
+              -112.104303,
+              33.478597
+            ],
+            [
+              -112.104492,
+              33.478769
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.09577,
+              33.48051
+            ],
+            [
+              -112.095702,
+              33.486435
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130003613,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.477303
+              ],
+              [
+                -112.102767,
+                33.477328
+              ],
+              [
+                -112.102648,
+                33.477633
+              ],
+              [
+                -112.10247,
+                33.477834
+              ],
+              [
+                -112.102166,
+                33.477991
+              ],
+              [
+                -112.101596,
+                33.478131
+              ],
+              [
+                -112.101589,
+                33.478981
+              ]
+            ],
+            [
+              [
+                -112.101589,
+                33.478981
+              ],
+              [
+                -112.101593,
+                33.479789
+              ],
+              [
+                -112.103307,
+                33.479677
+              ],
+              [
+                -112.103241,
+                33.479303
+              ],
+              [
+                -112.103638,
+                33.479116
+              ],
+              [
+                -112.104287,
+                33.479003
+              ],
+              [
+                -112.104286,
+                33.480658
+              ]
+            ],
+            [
+              [
+                -112.104492,
+                33.478169
+              ],
+              [
+                -112.104285,
+                33.478164
+              ],
+              [
+                -112.103429,
+                33.478282
+              ],
+              [
+                -112.102189,
+                33.478882
+              ],
+              [
+                -112.101589,
+                33.478981
+              ]
+            ],
+            [
+              [
+                -112.101756,
+                33.477272
+              ],
+              [
+                -112.101609,
+                33.477311
+              ],
+              [
+                -112.100706,
+                33.477308
+              ],
+              [
+                -112.100623,
+                33.477374
+              ],
+              [
+                -112.100663,
+                33.480608
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.480038
+              ],
+              [
+                -112.093769,
+                33.480042
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.479113
+              ],
+              [
+                -112.093757,
+                33.479114
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579924,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.098909,
+                33.481068
+              ]
+            ],
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.093506,
+                33.480968
+              ]
+            ],
+            [
+              [
+                -112.098885,
+                33.484161
+              ],
+              [
+                -112.098879,
+                33.483731
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.483731
+              ],
+              [
+                -112.098879,
+                33.482832
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.482832
+              ],
+              [
+                -112.098868,
+                33.481977
+              ]
+            ],
+            [
+              [
+                -112.098868,
+                33.481977
+              ],
+              [
+                -112.098909,
+                33.481068
+              ]
+            ],
+            [
+              [
+                -112.098909,
+                33.481068
+              ],
+              [
+                -112.098906,
+                33.480579
+              ]
+            ],
+            [
+              [
+                -112.098879,
+                33.482832
+              ],
+              [
+                -112.097872,
+                33.482823
+              ]
+            ],
+            [
+              [
+                -112.095755,
+                33.483681
+              ],
+              [
+                -112.096256,
+                33.483695
+              ]
+            ],
+            [
+              [
+                -112.096256,
+                33.483695
+              ],
+              [
+                -112.098879,
+                33.483731
+              ]
+            ],
+            [
+              [
+                -112.098868,
+                33.481977
+              ],
+              [
+                -112.097875,
+                33.481942
+              ]
+            ],
+            [
+              [
+                -112.097851,
+                33.484534
+              ],
+              [
+                -112.09625,
+                33.484613
+              ],
+              [
+                -112.096229,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.097318,
+                33.483266
+              ],
+              [
+                -112.097307,
+                33.481473
+              ]
+            ],
+            [
+              [
+                -112.09728,
+                33.485015
+              ],
+              [
+                -112.097288,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.096266,
+                33.481019
+              ],
+              [
+                -112.096256,
+                33.483695
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.483649
+              ],
+              [
+                -112.095161,
+                33.483678
+              ],
+              [
+                -112.095172,
+                33.480999
+              ]
+            ],
+            [
+              [
+                -112.094114,
+                33.483214
+              ],
+              [
+                -112.094078,
+                33.481393
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.484564
+              ],
+              [
+                -112.095176,
+                33.484591
+              ],
+              [
+                -112.095175,
+                33.486399
+              ],
+              [
+                -112.093506,
+                33.486403
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130003613,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104233,
+              33.484247
+            ],
+            [
+              -112.104492,
+              33.484249
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5596161,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Cambridge Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099962,
+              33.478498
+            ],
+            [
+              -112.099962,
+              33.478498
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5618660,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Edgemont Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.103818,
+              33.48012
+            ],
+            [
+              -112.102957,
+              33.480079
+            ],
+            [
+              -112.101524,
+              33.480169
+            ],
+            [
+              -112.101166,
+              33.480099
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579897,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.485253
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100764,
+                33.485263
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.100761,
+                33.48626
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.104492,
+                33.486261
+              ]
+            ],
+            [
+              [
+                -112.100759,
+                33.486435
+              ],
+              [
+                -112.100761,
+                33.48626
+              ]
+            ],
+            [
+              [
+                -112.100761,
+                33.48626
+              ],
+              [
+                -112.100764,
+                33.485263
+              ]
+            ],
+            [
+              [
+                -112.100764,
+                33.485263
+              ],
+              [
+                -112.10078,
+                33.484239
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5610182,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Catalina Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097875,
+                33.482389
+              ],
+              [
+                -112.098439,
+                33.482385
+              ]
+            ],
+            [
+              [
+                -112.094676,
+                33.482332
+              ],
+              [
+                -112.096771,
+                33.482362
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5621134,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "name": "Easment Alley",
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104233,
+              33.484247
+            ],
+            [
+              -112.100131,
+              33.484238
+            ],
+            [
+              -112.099968,
+              33.484199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5624245,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Verde Ln.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096892,
+                33.481491
+              ],
+              [
+                -112.098461,
+                33.481508
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.4814
+              ],
+              [
+                -112.094338,
+                33.481394
+              ],
+              [
+                -112.094518,
+                33.481436
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.093761,
+                33.478693
+              ],
+              [
+                -112.093774,
+                33.480505
+              ]
+            ],
+            [
+              [
+                -112.093584,
+                33.480503
+              ],
+              [
+                -112.093542,
+                33.485011
+              ]
+            ],
+            [
+              [
+                -112.093534,
+                33.485944
+              ],
+              [
+                -112.093541,
+                33.486435
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690780,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099972,
+              33.484746
+            ],
+            [
+              -112.104492,
+              33.484745
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5605217,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "West Flower Circle South",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.485014
+            ],
+            [
+              -112.094425,
+              33.485026
+            ],
+            [
+              -112.09456,
+              33.485068
+            ],
+            [
+              -112.09464,
+              33.485178
+            ],
+            [
+              -112.094661,
+              33.485475
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886894,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100618,
+                33.484741
+              ],
+              [
+                -112.100617,
+                33.485248
+              ]
+            ],
+            [
+              [
+                -112.100617,
+                33.485248
+              ],
+              [
+                -112.100616,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.100617,
+                33.485248
+              ],
+              [
+                -112.099958,
+                33.485247
+              ]
+            ],
+            [
+              [
+                -112.100129,
+                33.486435
+              ],
+              [
+                -112.100129,
+                33.486255
+              ],
+              [
+                -112.099943,
+                33.486255
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690781,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.098885,
+                33.484161
+              ],
+              [
+                -112.099968,
+                33.484199
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.48409
+              ],
+              [
+                -112.097842,
+                33.484147
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5690781,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Earll Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.097842,
+              33.484147
+            ],
+            [
+              -112.098885,
+              33.484161
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901337,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103198,
+                33.477919
+              ],
+              [
+                -112.103166,
+                33.477825
+              ]
+            ],
+            [
+              [
+                -112.102578,
+                33.479191
+              ],
+              [
+                -112.102635,
+                33.479284
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5621134,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "school",
+          "sort_key": 356,
+          "name": "Easment Alley",
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104286,
+              33.480658
+            ],
+            [
+              -112.104233,
+              33.484247
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891733,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099968,
+                33.484199
+              ],
+              [
+                -112.099945,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.099963,
+                33.479995
+              ],
+              [
+                -112.099964,
+                33.480605
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436781502,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099964,
+              33.477272
+            ],
+            [
+              -112.099963,
+              33.479995
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5592290,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Flower St.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.096849,
+                33.485035
+              ],
+              [
+                -112.097836,
+                33.484999
+              ]
+            ],
+            [
+              [
+                -112.094661,
+                33.485475
+              ],
+              [
+                -112.096749,
+                33.485515
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5595978,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Windsor Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.478686
+            ],
+            [
+              -112.093761,
+              33.478693
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436891964,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Thomas Rd.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103811,
+                33.480646
+              ],
+              [
+                -112.104492,
+                33.480651
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.480607
+              ],
+              [
+                -112.100663,
+                33.480608
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.480503
+              ],
+              [
+                -112.099964,
+                33.480605
+              ]
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "properties": {
+          "id": 48361360,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.10216,
+              33.495598
+            ],
+            [
+              -112.102168,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901321,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097822,
+                33.486435
+              ],
+              [
+                -112.097801,
+                33.486863
+              ]
+            ],
+            [
+              [
+                -112.097512,
+                33.486946
+              ],
+              [
+                -112.097512,
+                33.487798
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5616876,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 20th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 436781518,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "name": "W Indian School Rd.",
+          "sort_key": 377,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.495018
+              ],
+              [
+                -112.104221,
+                33.495018
+              ]
+            ],
+            [
+              [
+                -112.102077,
+                33.495016
+              ],
+              [
+                -112.093506,
+                33.494957
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5647453,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096784,
+              33.486435
+            ],
+            [
+              -112.096806,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 35351815,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099936,
+              33.48963
+            ],
+            [
+              -112.104492,
+              33.489556
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678861,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Picadilly Rd.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104246,
+              33.493548
+            ],
+            [
+              -112.104492,
+              33.493547
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5606181,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097984,
+                33.495001
+              ],
+              [
+                -112.097949,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.097819,
+                33.487802
+              ],
+              [
+                -112.097819,
+                33.494999
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5602023,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mitchell Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099939,
+                33.488719
+              ],
+              [
+                -112.103706,
+                33.488695
+              ]
+            ],
+            [
+              [
+                -112.095712,
+                33.488618
+              ],
+              [
+                -112.097819,
+                33.488636
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.093565,
+                33.492254
+              ],
+              [
+                -112.093517,
+                33.494957
+              ]
+            ],
+            [
+              [
+                -112.093534,
+                33.487759
+              ],
+              [
+                -112.093524,
+                33.48872
+              ],
+              [
+                -112.093506,
+                33.488753
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 130046140,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.494608
+              ],
+              [
+                -112.10426,
+                33.494612
+              ]
+            ],
+            [
+              [
+                -112.104251,
+                33.493896
+              ],
+              [
+                -112.104492,
+                33.493895
+              ]
+            ],
+            [
+              [
+                -112.102082,
+                33.49365
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.100786,
+                33.494027
+              ],
+              [
+                -112.10079,
+                33.493611
+              ]
+            ],
+            [
+              [
+                -112.10079,
+                33.493611
+              ],
+              [
+                -112.10079,
+                33.493198
+              ]
+            ],
+            [
+              [
+                -112.099926,
+                33.491847
+              ],
+              [
+                -112.093506,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.099923,
+                33.49275
+              ],
+              [
+                -112.093506,
+                33.492702
+              ]
+            ],
+            [
+              [
+                -112.095152,
+                33.489517
+              ],
+              [
+                -112.095156,
+                33.488312
+              ]
+            ],
+            [
+              [
+                -112.094077,
+                33.488296
+              ],
+              [
+                -112.09409,
+                33.488965
+              ],
+              [
+                -112.09462,
+                33.4891
+              ]
+            ],
+            [
+              [
+                -112.09351,
+                33.493572
+              ],
+              [
+                -112.093506,
+                33.493572
+              ]
+            ],
+            [
+              [
+                -112.093509,
+                33.49444
+              ],
+              [
+                -112.093506,
+                33.49444
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5683248,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 16th Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.094625,
+              33.487783
+            ],
+            [
+              -112.094616,
+              33.489512
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5609405,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Whitton Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.489253
+            ],
+            [
+              -112.093871,
+              33.489444
+            ],
+            [
+              -112.094189,
+              33.489509
+            ],
+            [
+              -112.099935,
+              33.489555
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5615982,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 18th Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099124,
+                33.495012
+              ],
+              [
+                -112.099128,
+                33.495598
+              ]
+            ],
+            [
+              [
+                -112.098803,
+                33.493209
+              ],
+              [
+                -112.098801,
+                33.494284
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.095705,
+              33.486435
+            ],
+            [
+              -112.095708,
+              33.48779
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48249681,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Indianola Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103776,
+                33.4922
+              ],
+              [
+                -112.102581,
+                33.492213
+              ],
+              [
+                -112.101074,
+                33.492436
+              ],
+              [
+                -112.099924,
+                33.49245
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.492252
+              ],
+              [
+                -112.099925,
+                33.492307
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579873,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.096223,
+                33.486435
+              ],
+              [
+                -112.096237,
+                33.487228
+              ],
+              [
+                -112.096326,
+                33.48736
+              ],
+              [
+                -112.097512,
+                33.487369
+              ]
+            ],
+            [
+              [
+                -112.097288,
+                33.486435
+              ],
+              [
+                -112.097291,
+                33.486948
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5672932,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 21st Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.103695,
+                33.4878
+              ],
+              [
+                -112.103691,
+                33.491367
+              ],
+              [
+                -112.103771,
+                33.491826
+              ],
+              [
+                -112.103776,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.1035,
+                33.486435
+              ],
+              [
+                -112.103509,
+                33.487801
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487761
+            ],
+            [
+              -112.098626,
+              33.487805
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 86579897,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "alley",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.104492,
+                33.493152
+              ],
+              [
+                -112.104235,
+                33.49315
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.104222,
+                33.488275
+              ]
+            ],
+            [
+              [
+                -112.104222,
+                33.488275
+              ],
+              [
+                -112.104492,
+                33.488274
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.104492,
+                33.487256
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.101878,
+                33.491798
+              ],
+              [
+                -112.100563,
+                33.491941
+              ],
+              [
+                -112.100526,
+                33.492818
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.100516,
+                33.493197
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.491369
+              ],
+              [
+                -112.103278,
+                33.491784
+              ]
+            ],
+            [
+              [
+                -112.103278,
+                33.491784
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103267,
+                33.492688
+              ],
+              [
+                -112.103267,
+                33.493211
+              ]
+            ],
+            [
+              [
+                -112.100526,
+                33.492818
+              ],
+              [
+                -112.101786,
+                33.492809
+              ],
+              [
+                -112.103267,
+                33.492688
+              ]
+            ],
+            [
+              [
+                -112.103154,
+                33.491369
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.103133,
+                33.490912
+              ],
+              [
+                -112.103149,
+                33.489986
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.103128,
+                33.48914
+              ],
+              [
+                -112.10073,
+                33.489105
+              ],
+              [
+                -112.100762,
+                33.488304
+              ]
+            ],
+            [
+              [
+                -112.100762,
+                33.488304
+              ],
+              [
+                -112.10074,
+                33.487266
+              ]
+            ],
+            [
+              [
+                -112.10074,
+                33.487266
+              ],
+              [
+                -112.100757,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.103149,
+                33.489986
+              ],
+              [
+                -112.100081,
+                33.490089
+              ],
+              [
+                -112.099933,
+                33.49004
+              ],
+              [
+                -112.093506,
+                33.489972
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.490884
+              ],
+              [
+                -112.09993,
+                33.490939
+              ],
+              [
+                -112.103133,
+                33.490912
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488201
+              ],
+              [
+                -112.097819,
+                33.488207
+              ]
+            ],
+            [
+              [
+                -112.095717,
+                33.489074
+              ],
+              [
+                -112.097818,
+                33.489087
+              ]
+            ],
+            [
+              [
+                -112.093506,
+                33.495406
+              ],
+              [
+                -112.097464,
+                33.49546
+              ],
+              [
+                -112.097566,
+                33.494996
+              ]
+            ],
+            [
+              [
+                -112.095714,
+                33.488324
+              ],
+              [
+                -112.093506,
+                33.48829
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5639484,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "N 17th Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.095708,
+                33.48779
+              ],
+              [
+                -112.095702,
+                33.493159
+              ]
+            ],
+            [
+              [
+                -112.095696,
+                33.494977
+              ],
+              [
+                -112.095686,
+                33.495598
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5677460,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Clarendon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.491325
+            ],
+            [
+              -112.104492,
+              33.491367
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 48247567,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.099945,
+                33.486759
+              ],
+              [
+                -112.104492,
+                33.486763
+              ]
+            ],
+            [
+              [
+                -112.099851,
+                33.486657
+              ],
+              [
+                -112.099943,
+                33.486656
+              ]
+            ],
+            [
+              [
+                -112.099221,
+                33.48666
+              ],
+              [
+                -112.099313,
+                33.486659
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5678417,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "N 16th Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093538,
+              33.486435
+            ],
+            [
+              -112.093534,
+              33.487759
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 419646691,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "cycleway": "lane",
+          "sort_key": 376,
+          "name": "W Osborn Rd.",
+          "oneway": "no",
+          "is_bicycle_related": true,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.098626,
+              33.487805
+            ],
+            [
+              -112.104492,
+              33.487794
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886898,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "yes",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.097669,
+                33.488635
+              ],
+              [
+                -112.097672,
+                33.489043
+              ]
+            ],
+            [
+              [
+                -112.0975,
+                33.48904
+              ],
+              [
+                -112.0975,
+                33.488634
+              ]
+            ],
+            [
+              [
+                -112.097327,
+                33.488632
+              ],
+              [
+                -112.09733,
+                33.489084
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 430886895,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "sort_key": 356,
+          "service": "parking_aisle",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [
+            [
+              [
+                -112.100616,
+                33.486435
+              ],
+              [
+                -112.100616,
+                33.486608
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100616,
+                33.486756
+              ]
+            ],
+            [
+              [
+                -112.100616,
+                33.486608
+              ],
+              [
+                -112.100128,
+                33.486607
+              ],
+              [
+                -112.100129,
+                33.486435
+              ]
+            ],
+            [
+              [
+                -112.097329,
+                33.489037
+              ],
+              [
+                -112.097818,
+                33.489046
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.096806,
+              33.486853
+            ],
+            [
+              -112.09711,
+              33.486948
+            ],
+            [
+              -112.097512,
+              33.486946
+            ],
+            [
+              -112.097801,
+              33.486863
+            ],
+            [
+              -112.098506,
+              33.486874
+            ],
+            [
+              -112.098729,
+              33.486695
+            ],
+            [
+              -112.099221,
+              33.48666
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665684,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.486842
+            ],
+            [
+              -112.095697,
+              33.486853
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.493133
+            ],
+            [
+              -112.099229,
+              33.493219
+            ],
+            [
+              -112.102087,
+              33.493199
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665677,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "commercial",
+          "sort_key": 360,
+          "name": "W Mulberry Dr.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099313,
+              33.486659
+            ],
+            [
+              -112.099851,
+              33.486657
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631142,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099918,
+              33.494029
+            ],
+            [
+              -112.102084,
+              33.4941
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5665797,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 360,
+          "name": "W Fairmount Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.102087,
+              33.493199
+            ],
+            [
+              -112.103776,
+              33.493197
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 325860681,
+          "is_bus_route": true,
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "name": "N 19th Ave.",
+          "sort_key": 378,
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.099942,
+              33.486435
+            ],
+            [
+              -112.099913,
+              33.495598
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 155109502,
+          "is_bus_route": true,
+          "highway": "secondary",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 377,
+          "name": "W Indian School Rd.",
+          "oneway": "no",
+          "network": "local",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104221,
+              33.495018
+            ],
+            [
+              -112.102077,
+              33.495016
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5631147,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Amelia Ave.",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.104243,
+              33.494246
+            ],
+            [
+              -112.104492,
+              33.494245
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 5686921,
+          "highway": "residential",
+          "source": "openstreetmap.org",
+          "sort_key": 360,
+          "name": "W Weldon Ave.",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.490417
+            ],
+            [
+              -112.099932,
+              33.490496
+            ],
+            [
+              -112.103701,
+              33.490384
+            ]
+          ]
+        }
+      },
+      {
+        "properties": {
+          "id": 129901352,
+          "highway": "service",
+          "source": "openstreetmap.org",
+          "landuse_kind": "residential",
+          "sort_key": 356,
+          "service": "alley",
+          "oneway": "no",
+          "kind": "minor_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -112.093506,
+              33.487284
+            ],
+            [
+              -112.095699,
+              33.487311
+            ]
+          ]
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+]

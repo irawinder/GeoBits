@@ -17,12 +17,11 @@ MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
 
-RoadNetwork canvas, square;
+RoadNetwork canvas;
 
 void setup(){
    size(1366, 768, P3D);
     canvas = new RoadNetwork("Canvas");
-    square = new RoadNetwork("Square");
    
    initGraphics();
   

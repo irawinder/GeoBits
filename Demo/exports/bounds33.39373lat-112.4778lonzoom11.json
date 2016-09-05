@@ -1,0 +1,4506 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": 5695386,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 377,
+        "name": "W Arlington Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.45262,
+            33.32666
+          ],
+          [
+            -112.45036,
+            33.32671
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29267939,
+        "railway": "rail",
+        "source": "openstreetmap.org",
+        "sort_key": 380,
+        "kind": "rail"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.34667,
+              33.43144
+            ],
+            [
+              -112.3582,
+              33.42491
+            ]
+          ],
+          [
+            [
+              -112.3582,
+              33.42491
+            ],
+            [
+              -112.38524,
+              33.41003
+            ],
+            [
+              -112.5,
+              33.39617
+            ]
+          ],
+          [
+            [
+              -112.36218,
+              33.43144
+            ],
+            [
+              -112.36191,
+              33.42599
+            ],
+            [
+              -112.36017,
+              33.42466
+            ],
+            [
+              -112.3582,
+              33.42491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192113392,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Elliot Rd.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.45211,
+              33.35122
+            ],
+            [
+              -112.45211,
+              33.35122
+            ]
+          ],
+          [
+            [
+              -112.45209,
+              33.35134
+            ],
+            [
+              -112.45211,
+              33.35134
+            ]
+          ],
+          [
+            [
+              -112.42778,
+              33.35551
+            ],
+            [
+              -112.42789,
+              33.35555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5695386,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Arlington Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.5,
+            33.32671
+          ],
+          [
+            -112.45262,
+            33.32666
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442701,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Village Blvd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.40515,
+            33.43144
+          ],
+          [
+            -112.40462,
+            33.42956
+          ],
+          [
+            -112.40516,
+            33.4255
+          ],
+          [
+            -112.40249,
+            33.4218
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 59584389,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Cotton Ln.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42684,
+              33.43144
+            ],
+            [
+              -112.42679,
+              33.40662
+            ]
+          ],
+          [
+            [
+              -112.42679,
+              33.40662
+            ],
+            [
+              -112.42702,
+              33.39504
+            ],
+            [
+              -112.42641,
+              33.39243
+            ],
+            [
+              -112.42475,
+              33.38908
+            ]
+          ],
+          [
+            [
+              -112.42455,
+              33.38914
+            ],
+            [
+              -112.42676,
+              33.3947
+            ],
+            [
+              -112.42679,
+              33.40662
+            ]
+          ],
+          [
+            [
+              -112.42139,
+              33.38267
+            ],
+            [
+              -112.41999,
+              33.37761
+            ],
+            [
+              -112.42252,
+              33.36439
+            ]
+          ],
+          [
+            [
+              -112.42252,
+              33.36439
+            ],
+            [
+              -112.42217,
+              33.35821
+            ]
+          ],
+          [
+            [
+              -112.42193,
+              33.35822
+            ],
+            [
+              -112.42252,
+              33.36439
+            ]
+          ],
+          [
+            [
+              -112.42223,
+              33.38424
+            ],
+            [
+              -112.42139,
+              33.38267
+            ],
+            [
+              -112.42207,
+              33.38435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 235637798,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "W Las Brisas Dr.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4559,
+            33.41135
+          ],
+          [
+            -112.45581,
+            33.41127
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 30406474,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Goodyear Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.35798,
+            33.42714
+          ],
+          [
+            -112.35812,
+            33.42713
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194458948,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S 173rd Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43111,
+            33.4211
+          ],
+          [
+            -112.43112,
+            33.4241
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194458948,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S 173rd Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43112,
+            33.4241
+          ],
+          [
+            -112.43113,
+            33.42477
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28460635,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Tuthill Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.48734,
+            33.3484
+          ],
+          [
+            -112.48715,
+            33.29029
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 47023427,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 377,
+        "name": "S Jackrabbit Tr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.47831,
+              33.39487
+            ],
+            [
+              -112.47828,
+              33.39207
+            ]
+          ],
+          [
+            [
+              -112.47827,
+              33.38845
+            ],
+            [
+              -112.47827,
+              33.38655
+            ]
+          ],
+          [
+            [
+              -112.47827,
+              33.38629
+            ],
+            [
+              -112.47827,
+              33.38487
+            ]
+          ],
+          [
+            [
+              -112.47827,
+              33.38474
+            ],
+            [
+              -112.47788,
+              33.37405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192113397,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42853,
+              33.35313
+            ],
+            [
+              -112.42806,
+              33.3486
+            ],
+            [
+              -112.42377,
+              33.33808
+            ],
+            [
+              -112.42506,
+              33.33343
+            ],
+            [
+              -112.42541,
+              33.32332
+            ],
+            [
+              -112.43169,
+              33.31808
+            ],
+            [
+              -112.43335,
+              33.31511
+            ],
+            [
+              -112.43387,
+              33.3105
+            ],
+            [
+              -112.43255,
+              33.30703
+            ]
+          ],
+          [
+            [
+              -112.43231,
+              33.30711
+            ],
+            [
+              -112.43364,
+              33.31054
+            ],
+            [
+              -112.43311,
+              33.31509
+            ],
+            [
+              -112.43122,
+              33.31828
+            ],
+            [
+              -112.42535,
+              33.32291
+            ],
+            [
+              -112.42488,
+              33.32902
+            ]
+          ],
+          [
+            [
+              -112.4279,
+              33.35552
+            ],
+            [
+              -112.42795,
+              33.35543
+            ]
+          ],
+          [
+            [
+              -112.42487,
+              33.33063
+            ],
+            [
+              -112.42353,
+              33.3388
+            ],
+            [
+              -112.42802,
+              33.34934
+            ],
+            [
+              -112.42768,
+              33.35545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 235968938,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "W Pima St.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.42064,
+            33.4311
+          ],
+          [
+            -112.42267,
+            33.43144
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 383576644,
+        "aeroway": "taxiway",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.36607,
+              33.43144
+            ],
+            [
+              -112.36705,
+              33.43038
+            ]
+          ],
+          [
+            [
+              -112.36705,
+              33.43038
+            ],
+            [
+              -112.36961,
+              33.42764
+            ]
+          ],
+          [
+            [
+              -112.36961,
+              33.42764
+            ],
+            [
+              -112.37296,
+              33.42406
+            ]
+          ],
+          [
+            [
+              -112.37296,
+              33.42406
+            ],
+            [
+              -112.37501,
+              33.42186
+            ]
+          ],
+          [
+            [
+              -112.37501,
+              33.42186
+            ],
+            [
+              -112.37642,
+              33.42035
+            ]
+          ],
+          [
+            [
+              -112.37642,
+              33.42035
+            ],
+            [
+              -112.37862,
+              33.41801
+            ]
+          ],
+          [
+            [
+              -112.37862,
+              33.41801
+            ],
+            [
+              -112.38203,
+              33.41433
+            ],
+            [
+              -112.38323,
+              33.41484
+            ]
+          ],
+          [
+            [
+              -112.37969,
+              33.41864
+            ],
+            [
+              -112.37862,
+              33.41801
+            ]
+          ],
+          [
+            [
+              -112.37643,
+              33.42212
+            ],
+            [
+              -112.37811,
+              33.42323
+            ]
+          ],
+          [
+            [
+              -112.37501,
+              33.42186
+            ],
+            [
+              -112.37654,
+              33.42165
+            ]
+          ],
+          [
+            [
+              -112.37654,
+              33.42165
+            ],
+            [
+              -112.37719,
+              33.42131
+            ]
+          ],
+          [
+            [
+              -112.37642,
+              33.42035
+            ],
+            [
+              -112.37654,
+              33.42165
+            ]
+          ],
+          [
+            [
+              -112.37654,
+              33.42165
+            ],
+            [
+              -112.37632,
+              33.42224
+            ]
+          ],
+          [
+            [
+              -112.37296,
+              33.42406
+            ],
+            [
+              -112.3736,
+              33.42517
+            ]
+          ],
+          [
+            [
+              -112.37059,
+              33.42837
+            ],
+            [
+              -112.37228,
+              33.42947
+            ]
+          ],
+          [
+            [
+              -112.36961,
+              33.42764
+            ],
+            [
+              -112.37064,
+              33.42832
+            ]
+          ],
+          [
+            [
+              -112.36705,
+              33.43038
+            ],
+            [
+              -112.36808,
+              33.43107
+            ]
+          ],
+          [
+            [
+              -112.36344,
+              33.43144
+            ],
+            [
+              -112.36336,
+              33.4314
+            ],
+            [
+              -112.36331,
+              33.43144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 351530788,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "retail",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Elliot Rd.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.42789,
+            33.35555
+          ],
+          [
+            -112.43032,
+            33.35599
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28799544,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Citrus Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.44414,
+            33.40661
+          ],
+          [
+            -112.44415,
+            33.42914
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5663356,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Rainbow Valley Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.45057,
+              33.29345
+            ],
+            [
+              -112.45055,
+              33.29379
+            ]
+          ],
+          [
+            [
+              -112.45055,
+              33.29379
+            ],
+            [
+              -112.46984,
+              33.31489
+            ],
+            [
+              -112.46988,
+              33.34846
+            ]
+          ],
+          [
+            [
+              -112.44438,
+              33.28462
+            ],
+            [
+              -112.44476,
+              33.28694
+            ],
+            [
+              -112.45055,
+              33.29379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28839245,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 377,
+        "name": "W Broadway Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44633,
+              33.4066
+            ],
+            [
+              -112.44848,
+              33.4066
+            ]
+          ],
+          [
+            [
+              -112.43549,
+              33.40664
+            ],
+            [
+              -112.44391,
+              33.40661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865914,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "protected_area",
+        "sort_key": 377,
+        "name": "W Vineyard Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.39213,
+            33.38785
+          ],
+          [
+            -112.36886,
+            33.38506
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 56383254,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S Golf Club Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43089,
+              33.34115
+            ],
+            [
+              -112.43204,
+              33.33891
+            ],
+            [
+              -112.43143,
+              33.33646
+            ],
+            [
+              -112.4275,
+              33.33154
+            ]
+          ],
+          [
+            [
+              -112.42742,
+              33.33161
+            ],
+            [
+              -112.43133,
+              33.3365
+            ],
+            [
+              -112.43189,
+              33.33893
+            ],
+            [
+              -112.43074,
+              33.34115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5662602,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S San Miquel Ave.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44347,
+              33.34805
+            ],
+            [
+              -112.44354,
+              33.34748
+            ]
+          ],
+          [
+            [
+              -112.44332,
+              33.34674
+            ],
+            [
+              -112.44238,
+              33.34587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29272038,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S 127th Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.33237,
+            33.4155
+          ],
+          [
+            -112.33218,
+            33.42065
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29247482,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "S Litchfield Rd.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.3582,
+              33.43144
+            ],
+            [
+              -112.35794,
+              33.42472
+            ]
+          ],
+          [
+            [
+              -112.35794,
+              33.42472
+            ],
+            [
+              -112.35794,
+              33.42472
+            ]
+          ],
+          [
+            [
+              -112.35794,
+              33.42472
+            ],
+            [
+              -112.35794,
+              33.42472
+            ]
+          ],
+          [
+            [
+              -112.35794,
+              33.42472
+            ],
+            [
+              -112.35809,
+              33.43144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 273586886,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Wood Blvd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.38874,
+            33.43103
+          ],
+          [
+            -112.38793,
+            33.42095
+          ],
+          [
+            -112.39027,
+            33.4177
+          ],
+          [
+            -112.39231,
+            33.41729
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28544504,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 377,
+        "name": "W Southern Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.46957,
+              33.392
+            ],
+            [
+              -112.44917,
+              33.39194
+            ]
+          ],
+          [
+            [
+              -112.44794,
+              33.39194
+            ],
+            [
+              -112.44699,
+              33.39194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 370370251,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S San Gabriel Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43111,
+            33.35778
+          ],
+          [
+            -112.43111,
+            33.35778
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865916,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "scrub",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.39224,
+            33.39429
+          ],
+          [
+            -112.39244,
+            33.3886
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28512243,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 376,
+        "name": "E Beloat Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.48665,
+              33.36297
+            ],
+            [
+              -112.49786,
+              33.36298
+            ]
+          ],
+          [
+            [
+              -112.48061,
+              33.363
+            ],
+            [
+              -112.48646,
+              33.36297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865918,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42789,
+              33.35555
+            ],
+            [
+              -112.4279,
+              33.35552
+            ]
+          ],
+          [
+            [
+              -112.42768,
+              33.35545
+            ],
+            [
+              -112.42565,
+              33.35719
+            ],
+            [
+              -112.42228,
+              33.35786
+            ]
+          ],
+          [
+            [
+              -112.42576,
+              33.35734
+            ],
+            [
+              -112.42628,
+              33.35708
+            ]
+          ],
+          [
+            [
+              -112.42228,
+              33.35815
+            ],
+            [
+              -112.42563,
+              33.35739
+            ]
+          ],
+          [
+            [
+              -112.40088,
+              33.37385
+            ],
+            [
+              -112.40495,
+              33.36626
+            ],
+            [
+              -112.40967,
+              33.3617
+            ],
+            [
+              -112.41572,
+              33.35867
+            ],
+            [
+              -112.42228,
+              33.35815
+            ]
+          ],
+          [
+            [
+              -112.42228,
+              33.35815
+            ],
+            [
+              -112.42228,
+              33.35786
+            ]
+          ],
+          [
+            [
+              -112.42228,
+              33.35786
+            ],
+            [
+              -112.41562,
+              33.35857
+            ],
+            [
+              -112.40957,
+              33.3616
+            ],
+            [
+              -112.40689,
+              33.36378
+            ],
+            [
+              -112.40482,
+              33.3662
+            ],
+            [
+              -112.40285,
+              33.36929
+            ],
+            [
+              -112.40088,
+              33.37359
+            ]
+          ],
+          [
+            [
+              -112.39247,
+              33.38784
+            ],
+            [
+              -112.39294,
+              33.38298
+            ],
+            [
+              -112.39659,
+              33.38026
+            ],
+            [
+              -112.39755,
+              33.37787
+            ]
+          ],
+          [
+            [
+              -112.39738,
+              33.37787
+            ],
+            [
+              -112.39645,
+              33.38019
+            ],
+            [
+              -112.3937,
+              33.38196
+            ],
+            [
+              -112.39278,
+              33.38295
+            ],
+            [
+              -112.39246,
+              33.38401
+            ],
+            [
+              -112.39247,
+              33.38784
+            ]
+          ],
+          [
+            [
+              -112.3926,
+              33.43144
+            ],
+            [
+              -112.39226,
+              33.40493
+            ]
+          ],
+          [
+            [
+              -112.39226,
+              33.40493
+            ],
+            [
+              -112.39247,
+              33.43144
+            ]
+          ],
+          [
+            [
+              -112.39244,
+              33.3886
+            ],
+            [
+              -112.39247,
+              33.38784
+            ]
+          ],
+          [
+            [
+              -112.39226,
+              33.40493
+            ],
+            [
+              -112.39224,
+              33.39429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 355383475,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 377,
+        "name": "E Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.34923,
+              33.42082
+            ],
+            [
+              -112.34758,
+              33.42084
+            ]
+          ],
+          [
+            [
+              -112.32796,
+              33.42058
+            ],
+            [
+              -112.32583,
+              33.42057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 303671355,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 377,
+        "name": "S Perryville Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.46145,
+            33.41971
+          ],
+          [
+            -112.46143,
+            33.41021
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 56235553,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "W Westar Dr.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.44803,
+            33.33411
+          ],
+          [
+            -112.44801,
+            33.32715
+          ],
+          [
+            -112.44779,
+            33.32629
+          ],
+          [
+            -112.44687,
+            33.32509
+          ],
+          [
+            -112.44439,
+            33.32365
+          ],
+          [
+            -112.44341,
+            33.32331
+          ],
+          [
+            -112.44777,
+            33.32654
+          ],
+          [
+            -112.44803,
+            33.33411
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 211551364,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S 185th Ave.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.45711,
+            33.42109
+          ],
+          [
+            -112.45717,
+            33.41375
+          ],
+          [
+            -112.4559,
+            33.41135
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865912,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43255,
+              33.30703
+            ],
+            [
+              -112.42438,
+              33.29081
+            ],
+            [
+              -112.4244,
+              33.29138
+            ]
+          ],
+          [
+            [
+              -112.42798,
+              33.29864
+            ],
+            [
+              -112.43231,
+              33.30711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865912,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4244,
+            33.29138
+          ],
+          [
+            -112.42798,
+            33.29864
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28862488,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S 167th Ave.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.41982,
+            33.43144
+          ],
+          [
+            -112.42337,
+            33.42536
+          ],
+          [
+            -112.42248,
+            33.42114
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 234367368,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Indian Springs Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.32422,
+            33.3755
+          ],
+          [
+            -112.36581,
+            33.37544
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 303671355,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Perryville Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.46148,
+              33.43144
+            ],
+            [
+              -112.46145,
+              33.41971
+            ]
+          ],
+          [
+            [
+              -112.46143,
+              33.41021
+            ],
+            [
+              -112.46107,
+              33.40658
+            ]
+          ],
+          [
+            [
+              -112.46107,
+              33.40658
+            ],
+            [
+              -112.46101,
+              33.39758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29055907,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Dysart Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.34047,
+              33.40255
+            ],
+            [
+              -112.34053,
+              33.40871
+            ]
+          ],
+          [
+            [
+              -112.34046,
+              33.39182
+            ],
+            [
+              -112.34047,
+              33.3955
+            ]
+          ],
+          [
+            [
+              -112.34044,
+              33.39823
+            ],
+            [
+              -112.34044,
+              33.39881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 406524291,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "quarry",
+        "sort_key": 376,
+        "name": "W Southern Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.32422,
+            33.3918
+          ],
+          [
+            -112.32761,
+            33.3918
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5662602,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S San Miquel Ave.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44496,
+              33.35371
+            ],
+            [
+              -112.44224,
+              33.35088
+            ],
+            [
+              -112.44347,
+              33.34805
+            ]
+          ],
+          [
+            [
+              -112.44354,
+              33.34748
+            ],
+            [
+              -112.44332,
+              33.34674
+            ]
+          ],
+          [
+            [
+              -112.44238,
+              33.34587
+            ],
+            [
+              -112.43746,
+              33.34199
+            ],
+            [
+              -112.43045,
+              33.34119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29056615,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.46147,
+              33.42114
+            ],
+            [
+              -112.5,
+              33.42119
+            ]
+          ],
+          [
+            [
+              -112.4493,
+              33.42116
+            ],
+            [
+              -112.45276,
+              33.4211
+            ]
+          ],
+          [
+            [
+              -112.43111,
+              33.4211
+            ],
+            [
+              -112.4444,
+              33.4211
+            ]
+          ],
+          [
+            [
+              -112.40945,
+              33.42089
+            ],
+            [
+              -112.42784,
+              33.42112
+            ]
+          ],
+          [
+            [
+              -112.39755,
+              33.42484
+            ],
+            [
+              -112.4034,
+              33.42342
+            ],
+            [
+              -112.40725,
+              33.42108
+            ],
+            [
+              -112.40945,
+              33.42089
+            ]
+          ],
+          [
+            [
+              -112.40945,
+              33.42089
+            ],
+            [
+              -112.40799,
+              33.42083
+            ],
+            [
+              -112.40692,
+              33.42106
+            ],
+            [
+              -112.40282,
+              33.42349
+            ],
+            [
+              -112.39987,
+              33.42373
+            ],
+            [
+              -112.39518,
+              33.4257
+            ],
+            [
+              -112.3923,
+              33.42589
+            ]
+          ],
+          [
+            [
+              -112.3923,
+              33.42589
+            ],
+            [
+              -112.3953,
+              33.42579
+            ]
+          ],
+          [
+            [
+              -112.3923,
+              33.42589
+            ],
+            [
+              -112.38401,
+              33.42618
+            ]
+          ],
+          [
+            [
+              -112.35161,
+              33.42082
+            ],
+            [
+              -112.36358,
+              33.42142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 370370253,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "protected_area",
+        "sort_key": 377,
+        "name": "W Indian Springs Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.36581,
+            33.37544
+          ],
+          [
+            -112.36654,
+            33.37543
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29055901,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Vermeersch Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.33237,
+            33.4155
+          ],
+          [
+            -112.33961,
+            33.41062
+          ],
+          [
+            -112.34053,
+            33.40871
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29015351,
+        "aeroway": "runway",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "kind": "minor_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.36772,
+            33.43144
+          ],
+          [
+            -112.38323,
+            33.41484
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5640635,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Ray Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.46986,
+            33.31941
+          ],
+          [
+            -112.5,
+            33.31943
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 57765780,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Willow Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.44234,
+            33.29854
+          ],
+          [
+            -112.44853,
+            33.29162
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29335473,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "protected_area",
+        "sort_key": 377,
+        "name": "S 143rd Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.36654,
+            33.37538
+          ],
+          [
+            -112.36664,
+            33.37782
+          ],
+          [
+            -112.36878,
+            33.38173
+          ],
+          [
+            -112.36886,
+            33.38506
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28856886,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 377,
+        "name": "W Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4444,
+            33.4211
+          ],
+          [
+            -112.4493,
+            33.42116
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28839245,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Broadway Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44848,
+              33.4066
+            ],
+            [
+              -112.5,
+              33.40668
+            ]
+          ],
+          [
+            [
+              -112.44391,
+              33.40661
+            ],
+            [
+              -112.44633,
+              33.4066
+            ]
+          ],
+          [
+            [
+              -112.4354,
+              33.40669
+            ],
+            [
+              -112.43549,
+              33.40664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192113402,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S San Miquel Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43045,
+            33.34119
+          ],
+          [
+            -112.42519,
+            33.34291
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29038834,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "scrub",
+        "sort_key": 377,
+        "name": "S Bullard Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.37542,
+            33.39183
+          ],
+          [
+            -112.37621,
+            33.38797
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442722,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S 157th Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.3975,
+              33.42474
+            ],
+            [
+              -112.39753,
+              33.4248
+            ]
+          ],
+          [
+            [
+              -112.39735,
+              33.42813
+            ],
+            [
+              -112.39832,
+              33.43005
+            ],
+            [
+              -112.3967,
+              33.43144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 232678467,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42795,
+              33.35543
+            ],
+            [
+              -112.42853,
+              33.35313
+            ]
+          ],
+          [
+            [
+              -112.42488,
+              33.32907
+            ],
+            [
+              -112.42487,
+              33.33063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28865914,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Vineyard Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.39247,
+            33.38784
+          ],
+          [
+            -112.39213,
+            33.38785
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29038834,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "protected_area",
+        "sort_key": 377,
+        "name": "S Bullard Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.37621,
+            33.38797
+          ],
+          [
+            -112.37648,
+            33.38649
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 78288360,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S Westar Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44803,
+              33.33411
+            ],
+            [
+              -112.44769,
+              33.33639
+            ],
+            [
+              -112.44473,
+              33.33969
+            ],
+            [
+              -112.43971,
+              33.34094
+            ],
+            [
+              -112.43832,
+              33.3427
+            ]
+          ],
+          [
+            [
+              -112.42824,
+              33.33086
+            ],
+            [
+              -112.43132,
+              33.32706
+            ],
+            [
+              -112.43687,
+              33.32628
+            ],
+            [
+              -112.43781,
+              33.32574
+            ],
+            [
+              -112.43878,
+              33.32451
+            ],
+            [
+              -112.43683,
+              33.32618
+            ],
+            [
+              -112.43126,
+              33.32697
+            ],
+            [
+              -112.4281,
+              33.33078
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 406524291,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 376,
+        "name": "W Southern Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.32864,
+            33.39181
+          ],
+          [
+            -112.34046,
+            33.39182
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442704,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S 161st Ln.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4058,
+            33.41682
+          ],
+          [
+            -112.40682,
+            33.42116
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 47884519,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42181,
+              33.35788
+            ],
+            [
+              -112.42185,
+              33.35815
+            ]
+          ],
+          [
+            [
+              -112.36358,
+              33.42142
+            ],
+            [
+              -112.36367,
+              33.42151
+            ]
+          ],
+          [
+            [
+              -112.3583,
+              33.4245
+            ],
+            [
+              -112.35792,
+              33.42434
+            ]
+          ],
+          [
+            [
+              -112.35818,
+              33.43061
+            ],
+            [
+              -112.35803,
+              33.4306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442722,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 376,
+        "name": "S 157th Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.39753,
+            33.4248
+          ],
+          [
+            -112.39735,
+            33.42813
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 278818075,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Village Blvd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.40249,
+            33.4218
+          ],
+          [
+            -112.40407,
+            33.41721
+          ],
+          [
+            -112.40944,
+            33.41614
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 152264740,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Bullard Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.37538,
+              33.39203
+            ],
+            [
+              -112.37542,
+              33.39183
+            ]
+          ],
+          [
+            [
+              -112.38401,
+              33.42618
+            ],
+            [
+              -112.38015,
+              33.43133
+            ],
+            [
+              -112.37998,
+              33.43144
+            ]
+          ],
+          [
+            [
+              -112.3802,
+              33.43144
+            ],
+            [
+              -112.38026,
+              33.4314
+            ],
+            [
+              -112.38308,
+              33.42827
+            ],
+            [
+              -112.38401,
+              33.42618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28799544,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 377,
+        "name": "S Citrus Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.44415,
+            33.42914
+          ],
+          [
+            -112.44415,
+            33.43144
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5619188,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 376,
+        "name": "S San Gabriel Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43035,
+              33.35592
+            ],
+            [
+              -112.43034,
+              33.35588
+            ]
+          ],
+          [
+            [
+              -112.43024,
+              33.3559
+            ],
+            [
+              -112.43025,
+              33.35593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 406524291,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "W Southern Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.32761,
+            33.3918
+          ],
+          [
+            -112.32864,
+            33.39181
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29035327,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Litchfield Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.3578,
+            33.42084
+          ],
+          [
+            -112.35752,
+            33.40667
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28513515,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "scrub",
+        "sort_key": 377,
+        "name": "S Jackrabbit Tr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4871,
+            33.35262
+          ],
+          [
+            -112.48685,
+            33.35677
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192113391,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Elliot Rd.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43082,
+            33.35577
+          ],
+          [
+            -112.42885,
+            33.35581
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28478055,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Jackrabbit Tr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.48734,
+              33.3484
+            ],
+            [
+              -112.4871,
+              33.35262
+            ]
+          ],
+          [
+            [
+              -112.48685,
+              33.35677
+            ],
+            [
+              -112.48615,
+              33.35911
+            ],
+            [
+              -112.48014,
+              33.36275
+            ],
+            [
+              -112.47846,
+              33.36478
+            ],
+            [
+              -112.47787,
+              33.37397
+            ]
+          ],
+          [
+            [
+              -112.47877,
+              33.43144
+            ],
+            [
+              -112.47846,
+              33.39563
+            ]
+          ],
+          [
+            [
+              -112.47841,
+              33.39549
+            ],
+            [
+              -112.47831,
+              33.39487
+            ]
+          ],
+          [
+            [
+              -112.47828,
+              33.39207
+            ],
+            [
+              -112.47827,
+              33.38845
+            ]
+          ],
+          [
+            [
+              -112.47827,
+              33.38655
+            ],
+            [
+              -112.47827,
+              33.38629
+            ]
+          ],
+          [
+            [
+              -112.47827,
+              33.38487
+            ],
+            [
+              -112.47827,
+              33.38474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28460635,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 376,
+        "name": "S Tuthill Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.48715,
+            33.29029
+          ],
+          [
+            -112.48715,
+            33.28462
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 278818082,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "West Goodyear Blvd. S",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.39656,
+            33.43144
+          ],
+          [
+            -112.39533,
+            33.43057
+          ],
+          [
+            -112.39258,
+            33.43057
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 437468036,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "S Sarival Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.40945,
+              33.42089
+            ],
+            [
+              -112.40945,
+              33.4284
+            ]
+          ],
+          [
+            [
+              -112.40945,
+              33.42089
+            ],
+            [
+              -112.40938,
+              33.40656
+            ]
+          ],
+          [
+            [
+              -112.40944,
+              33.43144
+            ],
+            [
+              -112.40945,
+              33.4284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29056642,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S Central Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.34957,
+            33.43144
+          ],
+          [
+            -112.34947,
+            33.42852
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192527301,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 377,
+        "name": "W Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.3953,
+            33.42579
+          ],
+          [
+            -112.39755,
+            33.42484
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442728,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "W Supai Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.40938,
+              33.43084
+            ],
+            [
+              -112.4086,
+              33.4309
+            ]
+          ],
+          [
+            [
+              -112.4086,
+              33.4309
+            ],
+            [
+              -112.40938,
+              33.43097
+            ]
+          ],
+          [
+            [
+              -112.4086,
+              33.4309
+            ],
+            [
+              -112.40566,
+              33.43084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5619188,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "retail",
+        "sort_key": 376,
+        "name": "S San Gabriel Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.43025,
+            33.35593
+          ],
+          [
+            -112.43111,
+            33.35778
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 406524287,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Southern Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.47828,
+              33.39207
+            ],
+            [
+              -112.46957,
+              33.392
+            ]
+          ],
+          [
+            [
+              -112.44917,
+              33.39194
+            ],
+            [
+              -112.44794,
+              33.39194
+            ]
+          ],
+          [
+            [
+              -112.44699,
+              33.39194
+            ],
+            [
+              -112.44663,
+              33.39194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 47023584,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "MC 85",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.49973,
+              33.37754
+            ],
+            [
+              -112.5,
+              33.37754
+            ]
+          ],
+          [
+            [
+              -112.49091,
+              33.37754
+            ],
+            [
+              -112.49314,
+              33.37754
+            ]
+          ],
+          [
+            [
+              -112.48424,
+              33.37757
+            ],
+            [
+              -112.48641,
+              33.37757
+            ]
+          ],
+          [
+            [
+              -112.48206,
+              33.37757
+            ],
+            [
+              -112.48261,
+              33.37757
+            ]
+          ],
+          [
+            [
+              -112.47228,
+              33.37753
+            ],
+            [
+              -112.47401,
+              33.37754
+            ]
+          ],
+          [
+            [
+              -112.46304,
+              33.37744
+            ],
+            [
+              -112.46445,
+              33.37745
+            ]
+          ],
+          [
+            [
+              -112.44319,
+              33.39556
+            ],
+            [
+              -112.45915,
+              33.37877
+            ],
+            [
+              -112.46171,
+              33.37753
+            ]
+          ],
+          [
+            [
+              -112.39432,
+              33.40845
+            ],
+            [
+              -112.43127,
+              33.40381
+            ],
+            [
+              -112.43668,
+              33.40153
+            ],
+            [
+              -112.44163,
+              33.3972
+            ]
+          ],
+          [
+            [
+              -112.39432,
+              33.40845
+            ],
+            [
+              -112.38364,
+              33.41007
+            ],
+            [
+              -112.36124,
+              33.4228
+            ]
+          ],
+          [
+            [
+              -112.36124,
+              33.4228
+            ],
+            [
+              -112.38372,
+              33.41019
+            ],
+            [
+              -112.39432,
+              33.40845
+            ]
+          ],
+          [
+            [
+              -112.36124,
+              33.4228
+            ],
+            [
+              -112.35794,
+              33.42472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28512243,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "E Beloat Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.49786,
+              33.36298
+            ],
+            [
+              -112.5,
+              33.363
+            ]
+          ],
+          [
+            [
+              -112.48646,
+              33.36297
+            ],
+            [
+              -112.48665,
+              33.36297
+            ]
+          ],
+          [
+            [
+              -112.48014,
+              33.36275
+            ],
+            [
+              -112.48061,
+              33.363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194442723,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "S 161st Ave.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.40513,
+            33.41684
+          ],
+          [
+            -112.40516,
+            33.41366
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 414747749,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "school",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.42488,
+            33.32902
+          ],
+          [
+            -112.42488,
+            33.32907
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 239144400,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 378,
+        "name": "MC 85",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.49314,
+              33.37754
+            ],
+            [
+              -112.49973,
+              33.37754
+            ]
+          ],
+          [
+            [
+              -112.48641,
+              33.37757
+            ],
+            [
+              -112.49091,
+              33.37754
+            ]
+          ],
+          [
+            [
+              -112.48261,
+              33.37757
+            ],
+            [
+              -112.48424,
+              33.37757
+            ]
+          ],
+          [
+            [
+              -112.47401,
+              33.37754
+            ],
+            [
+              -112.48206,
+              33.37757
+            ]
+          ],
+          [
+            [
+              -112.46445,
+              33.37745
+            ],
+            [
+              -112.47228,
+              33.37753
+            ]
+          ],
+          [
+            [
+              -112.46171,
+              33.37753
+            ],
+            [
+              -112.46304,
+              33.37744
+            ]
+          ],
+          [
+            [
+              -112.44163,
+              33.3972
+            ],
+            [
+              -112.44319,
+              33.39556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 28856886,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 377,
+        "name": "W Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.45276,
+              33.4211
+            ],
+            [
+              -112.46147,
+              33.42114
+            ]
+          ],
+          [
+            [
+              -112.42784,
+              33.42112
+            ],
+            [
+              -112.43111,
+              33.4211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 232678467,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "retail",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42628,
+              33.35708
+            ],
+            [
+              -112.42789,
+              33.35555
+            ]
+          ],
+          [
+            [
+              -112.42563,
+              33.35739
+            ],
+            [
+              -112.42576,
+              33.35734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29056615,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "park",
+        "sort_key": 377,
+        "name": "W Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.34923,
+            33.42082
+          ],
+          [
+            -112.35161,
+            33.42082
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 211551399,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "W Las Brisas Dr.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.46143,
+            33.41021
+          ],
+          [
+            -112.4559,
+            33.41135
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 57753648,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "W Calistoga Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43115,
+              33.31835
+            ],
+            [
+              -112.43282,
+              33.31948
+            ],
+            [
+              -112.43414,
+              33.31995
+            ],
+            [
+              -112.4357,
+              33.31985
+            ],
+            [
+              -112.43693,
+              33.31923
+            ],
+            [
+              -112.44041,
+              33.31634
+            ],
+            [
+              -112.44105,
+              33.31176
+            ],
+            [
+              -112.44245,
+              33.30993
+            ]
+          ],
+          [
+            [
+              -112.44235,
+              33.3098
+            ],
+            [
+              -112.44082,
+              33.31188
+            ],
+            [
+              -112.44034,
+              33.31609
+            ],
+            [
+              -112.4367,
+              33.31919
+            ],
+            [
+              -112.43413,
+              33.31978
+            ],
+            [
+              -112.43122,
+              33.31828
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 5619188,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "S San Gabriel Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43111,
+              33.35778
+            ],
+            [
+              -112.43165,
+              33.35999
+            ]
+          ],
+          [
+            [
+              -112.43096,
+              33.35758
+            ],
+            [
+              -112.43035,
+              33.35592
+            ]
+          ],
+          [
+            [
+              -112.43025,
+              33.35593
+            ],
+            [
+              -112.43025,
+              33.35593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 47884381,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "scrub",
+        "sort_key": 377,
+        "name": "S Cotton Ln.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.42475,
+              33.38908
+            ],
+            [
+              -112.42223,
+              33.38424
+            ]
+          ],
+          [
+            [
+              -112.42207,
+              33.38435
+            ],
+            [
+              -112.42455,
+              33.38914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 355389497,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "W Narramore Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.5,
+            33.33398
+          ],
+          [
+            -112.46986,
+            33.33396
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29247475,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "W Main St.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.34946,
+            33.4292
+          ],
+          [
+            -112.35794,
+            33.42472
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 355383475,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "E Lower Buckeye Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.34758,
+              33.42084
+            ],
+            [
+              -112.34166,
+              33.42083
+            ]
+          ],
+          [
+            [
+              -112.34166,
+              33.42083
+            ],
+            [
+              -112.34166,
+              33.42083
+            ]
+          ],
+          [
+            [
+              -112.34166,
+              33.42083
+            ],
+            [
+              -112.34166,
+              33.42083
+            ]
+          ],
+          [
+            [
+              -112.34166,
+              33.42083
+            ],
+            [
+              -112.32796,
+              33.42058
+            ]
+          ],
+          [
+            [
+              -112.32583,
+              33.42057
+            ],
+            [
+              -112.32422,
+              33.42057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29247502,
+        "highway": "primary",
+        "source": "openstreetmap.org",
+        "sort_key": 378,
+        "name": "E Main St.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.34544,
+            33.43144
+          ],
+          [
+            -112.34946,
+            33.4292
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 29055906,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "farm",
+        "sort_key": 376,
+        "name": "S Dysart Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.34047,
+              33.3955
+            ],
+            [
+              -112.34044,
+              33.39823
+            ]
+          ],
+          [
+            [
+              -112.34044,
+              33.39881
+            ],
+            [
+              -112.34047,
+              33.40255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 232678470,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "protected_area",
+        "sort_key": 377,
+        "name": "S Estrella Pkwy.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.39755,
+              33.37787
+            ],
+            [
+              -112.40088,
+              33.37385
+            ]
+          ],
+          [
+            [
+              -112.40088,
+              33.37359
+            ],
+            [
+              -112.39738,
+              33.37787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 152264746,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "sort_key": 376,
+        "name": "Goodyear Blvd. E",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.38874,
+            33.43103
+          ],
+          [
+            -112.39258,
+            33.43057
+          ],
+          [
+            -112.38862,
+            33.43092
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192113390,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 377,
+        "name": "Elliot Rd.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.45211,
+              33.35122
+            ],
+            [
+              -112.44937,
+              33.35125
+            ],
+            [
+              -112.44782,
+              33.35165
+            ],
+            [
+              -112.44197,
+              33.35533
+            ],
+            [
+              -112.43372,
+              33.35449
+            ],
+            [
+              -112.43299,
+              33.35466
+            ],
+            [
+              -112.43082,
+              33.35577
+            ]
+          ],
+          [
+            [
+              -112.43032,
+              33.35599
+            ],
+            [
+              -112.43394,
+              33.3546
+            ],
+            [
+              -112.44229,
+              33.3554
+            ],
+            [
+              -112.44784,
+              33.35177
+            ],
+            [
+              -112.45209,
+              33.35134
+            ]
+          ],
+          [
+            [
+              -112.42885,
+              33.35581
+            ],
+            [
+              -112.42784,
+              33.3554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 56005990,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S San Gabriel Dr.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44761,
+              33.35842
+            ],
+            [
+              -112.44461,
+              33.36088
+            ],
+            [
+              -112.43854,
+              33.36095
+            ],
+            [
+              -112.43376,
+              33.36153
+            ],
+            [
+              -112.43162,
+              33.36012
+            ],
+            [
+              -112.43378,
+              33.36163
+            ],
+            [
+              -112.44462,
+              33.36098
+            ],
+            [
+              -112.44671,
+              33.36008
+            ],
+            [
+              -112.44761,
+              33.35842
+            ]
+          ],
+          [
+            [
+              -112.44761,
+              33.35842
+            ],
+            [
+              -112.44726,
+              33.35614
+            ],
+            [
+              -112.44496,
+              33.35371
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 194458950,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "cycleway": "lane",
+        "sort_key": 376,
+        "name": "S 173rd Ave.",
+        "is_bicycle_related": true,
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.4319,
+            33.43144
+          ],
+          [
+            -112.43199,
+            33.43013
+          ],
+          [
+            -112.4318,
+            33.42729
+          ],
+          [
+            -112.43113,
+            33.42477
+          ],
+          [
+            -112.43116,
+            33.43144
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 370370240,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "sort_key": 377,
+        "name": "Elliot Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.45518,
+              33.35021
+            ],
+            [
+              -112.45829,
+              33.34849
+            ],
+            [
+              -112.5,
+              33.34845
+            ]
+          ],
+          [
+            [
+              -112.45518,
+              33.35021
+            ],
+            [
+              -112.45211,
+              33.35122
+            ]
+          ],
+          [
+            [
+              -112.45211,
+              33.35134
+            ],
+            [
+              -112.45518,
+              33.35021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 192102018,
+        "highway": "tertiary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 376,
+        "name": "W Westar Dr.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.43878,
+              33.32451
+            ],
+            [
+              -112.44341,
+              33.32331
+            ]
+          ],
+          [
+            [
+              -112.42488,
+              33.33239
+            ],
+            [
+              -112.42824,
+              33.33086
+            ]
+          ],
+          [
+            [
+              -112.4281,
+              33.33078
+            ],
+            [
+              -112.42487,
+              33.33229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": 57765778,
+        "highway": "secondary",
+        "source": "openstreetmap.org",
+        "landuse_kind": "residential",
+        "sort_key": 377,
+        "name": "W Willow Rd.",
+        "kind": "major_road"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -112.44102,
+              33.30033
+            ],
+            [
+              -112.44234,
+              33.29854
+            ]
+          ],
+          [
+            [
+              -112.44102,
+              33.30033
+            ],
+            [
+              -112.43684,
+              33.30506
+            ],
+            [
+              -112.43231,
+              33.30711
+            ]
+          ],
+          [
+            [
+              -112.43238,
+              33.30727
+            ],
+            [
+              -112.43557,
+              33.30606
+            ],
+            [
+              -112.4374,
+              33.30489
+            ],
+            [
+              -112.44102,
+              33.30033
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
