@@ -9,6 +9,7 @@ public class Road{
     start = _start;
     end = _end;
     OSMid = _id;
+
   }
  
 }
@@ -38,6 +39,7 @@ public class RoadNetwork{
                 for(int i=0; i<JSONlines.size(); i++) {
                   String type = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
                   int OSMid = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id");
+  
                 if(type.equals("LineString")){
                  JSONArray linestring = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
                    for(int j = 0; j<linestring.size(); j++){
@@ -75,25 +77,26 @@ public class RoadNetwork{
             }
                 }
               println("Nodes: ", Roads.size());
+              println("Bounding Box: ");
+              bounds.printbox();
       }
 
   void drawRoads(PGraphics p){
+         p.beginDraw();
      for(int j = 0; j<bounds.boxcorners().size(); j++){
             PVector coord = mercatorMap.getScreenLocation(bounds.boxcorners().get(j));
             p.fill(255);     
             p.ellipse(coord.x, coord.y, 5, 5);
         }
-    
       for(int i = 0; i<Roads.size(); i++){
-        p.beginDraw();
         p.stroke(#ff0000);
         p.strokeWeight(1);
         p.fill(255);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
         p.line(start.x, start.y, end.x, end.y);  
-        p.endDraw();
       }
-  }
+   p.endDraw();  
+}
   
 }

@@ -12,8 +12,8 @@ Supervisor: Ira Winder, jiw@mit.edu
 Write date: 8/13/16 
 Last Updated: 8/15/16
 */
-boolean lines = false;
-MercatorMap mercatorMap;
+  boolean lines = false;
+  MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
   boolean initialized;
@@ -25,6 +25,7 @@ void setup(){
    size(1366, 768, P3D);
    
    initGraphics();
+   draw_directions(direction);
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     
@@ -49,7 +50,7 @@ void draw(){
     
         
     if(directions){
-      draw_directions();
+      image(direction, 0, 0);
     }
         
     if(select){

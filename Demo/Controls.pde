@@ -19,8 +19,8 @@ switch(key){
        directions = !directions;
        break;    
   case 'W':
-        boxw+=10;
-        boxh+=10;
+        boxw+=50;
+        boxh+=50;
         break;  
   case 'w':
         boxw-=10;
@@ -48,16 +48,17 @@ switch(key){
       break;  
   case 'p':
       Selection.clear();
-      PullData(5);
-      selection.GenerateNetwork(5);
-      selection.bounds.printbox();
+      Canvas.clear();
+      PullData(MapTiles(width, height, 0, 0).size(), width, height);
+      selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+      canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
       println("DONE");
       break;     
-  case 'a': 
-      Canvas.clear();
-      PullData(MapTiles().size());
-      canvas.GenerateNetwork(MapTiles().size());
-      println("DONE");
-      break;
+//  case 'a': 
+//      Canvas.clear();
+//      PullData(MapTiles(width, height, 0, 0).size(), width, height);
+//      canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+//      println("DONE");
+//      break;
 }
 }

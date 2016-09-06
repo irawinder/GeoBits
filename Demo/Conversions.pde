@@ -98,16 +98,16 @@ public ArrayList<PVector> CanvasBox() {
     return("" + zoom + "/" + xtile + "/" + ytile);
    }
    
- public ArrayList<String> MapTiles(){
-     int numcols = int(width/256) + 1;
-     int numrows = int(height/256) + 1;
+ public ArrayList<String> MapTiles(float w, float h, int offsetx, int offsety){
+     int numcols = int(w/256) + 1;
+     int numrows = int(h/256) + 2;
      int numcells = numcols*numrows;
      ArrayList<String>Tiles = new ArrayList<String>();
      ArrayList<PVector> Coords = new ArrayList<PVector>();
      
-       for(int k = 0; k<numrows; k++){
-         for(int j = -1; j<numcols; j++){
-             PVector coord = new PVector(j*256 + 128, k*256 + 128);
+       for(int k = offsety-1; k<numrows+2; k++){
+         for(int j = offsetx-1; j<numcols+1; j++){
+             PVector coord = new PVector(j*256 + 128 + offsetx, k*256 + 128 + offsety);
              Coords.add(map.getLocation(coord.x, coord.y));
          }
      }
@@ -118,4 +118,3 @@ public ArrayList<PVector> CanvasBox() {
     
     return Tiles;
  }  
-

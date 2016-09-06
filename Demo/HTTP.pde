@@ -18,22 +18,16 @@ ArrayList<PVector>PullBox = new ArrayList<PVector>();
  JSONArray masterexport = new JSONArray();
  JSONObject exportjson;
 
-public void PullData(int amount){
+public void PullData(int amount, float w, float h){
    geostuff = new JSONObject();
    println("requesting map data...");
    for(int i = 0; i<amount; i++){
-   if(amount !=5){
-   link = "https://vector.mapzen.com/osm/all/" + MapTiles().get(i) +".json?api_key=vector-tiles-i5Sxwwo";
+   //if(amount !=5){
+   link = "https://vector.mapzen.com/osm/all/" + MapTiles(width, height, 0 , 0).get(i) +".json?api_key=vector-tiles-i5Sxwwo";
    bbox Bounds = new bbox(map.getLocation(0, height).x, map.getLocation(0, height).y, map.getLocation(width, 0).x, map.getLocation(width, 0).y);
        canvas = new RoadNetwork("Canvas", Bounds);
-   }
-   else{
-   link = "https://vector.mapzen.com/osm/all/" + getTileNumber(SelectionBox().get(i).x, SelectionBox().get(i).y, map.getZoomLevel())+".json?api_key=vector-tiles-i5Sxwwo";
-   //  bbox(float _minlon, float _minlat, float _maxlon, float _maxlat){
-//   bbox Bounds = new bbox(SelectionBox().get(0).x, SelectionBox().get(1).y, SelectionBox().get(1).x, SelectionBox().get(0).y);
-     bbox Bounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
-   selection = new RoadNetwork("Selection", Bounds);
-   }
+   bbox SelBounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
+       selection = new RoadNetwork("Selection", SelBounds);
    GetRequest get = new GetRequest(link);
    println("data requested...");
    get.send();
