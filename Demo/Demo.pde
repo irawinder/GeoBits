@@ -25,7 +25,8 @@ void setup(){
    size(1366, 768, P3D);
    
    initGraphics();
-   draw_directions(direction);
+   draw_directions(direction);       
+   draw_popup(popup);
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     
@@ -41,7 +42,7 @@ void draw(){
     
     if(lines){
     Handler.clear();
-    handler.drawRoads(Handler);
+    handler.drawRoads(Handler, c);
     image(Handler, posx, posy);
     }
     if(!lines){
@@ -51,6 +52,10 @@ void draw(){
         
     if(directions){
       image(direction, 0, 0);
+    }
+    
+    if(map.getZoomLevel() >= 14){
+       image(popup, 0, 0);
     }
         
     if(select){

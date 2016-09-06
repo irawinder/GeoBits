@@ -1,4 +1,5 @@
-boolean pull, square, generated;
+boolean pull, square, generated, showid;
+color c;
 
 void keyPressed(){
 switch(key){
@@ -19,12 +20,12 @@ switch(key){
        directions = !directions;
        break;    
   case 'W':
-        boxw+=50;
-        boxh+=50;
+        boxw+=30;
+        boxh+=30;
         break;  
   case 'w':
-        boxw-=10;
-        boxh-=10;
+        boxw-=30;
+        boxh-=30;
         break;     
   case 'A': 
       println("drawing lines...");
@@ -32,7 +33,8 @@ switch(key){
       Handler = Canvas;
       posx = 0;
       posy = 0;
-      canvas.drawRoads(Canvas);
+      c = #ff0000;
+      canvas.drawRoads(Canvas, #ff0000);
       lines = !lines;
       println("DONE");
       break;  
@@ -42,23 +44,24 @@ switch(key){
       Handler = Selection;
       posx = 0;
       posy = 0;
-      selection.drawRoads(Selection);
+      c = #00ff00;
+      selection.drawRoads(Selection, #00ff00);
       lines = !lines;
       println("DONE");
       break;  
   case 'p':
       Selection.clear();
       Canvas.clear();
-      PullData(MapTiles(width, height, 0, 0).size(), width, height);
+      PullMap(MapTiles(width, height, 0, 0).size(), width, height);
+      PullOSM();
       selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
       canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+      pull = true;
+      draw_popup(popup);
       println("DONE");
       break;     
-//  case 'a': 
-//      Canvas.clear();
-//      PullData(MapTiles(width, height, 0, 0).size(), width, height);
-//      canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-//      println("DONE");
-//      break;
+  case 'a': 
+      showid = !showid;
+      break;
 }
 }

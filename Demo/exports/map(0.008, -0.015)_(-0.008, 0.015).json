@@ -1,0 +1,2957 @@
+[
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01647949,
+              0.00549316
+            ],
+            [
+              -0.02197266,
+              0.00549316
+            ],
+            [
+              -0.02197266,
+              0.01098633
+            ],
+            [
+              -0.01647949,
+              0.01098633
+            ],
+            [
+              -0.01647949,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01098633,
+              0.00549316
+            ],
+            [
+              -0.01647949,
+              0.00549316
+            ],
+            [
+              -0.01647949,
+              0.01098633
+            ],
+            [
+              -0.01098633,
+              0.01098633
+            ],
+            [
+              -0.01098633,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.00549316,
+              0.00549316
+            ],
+            [
+              -0.01098633,
+              0.00549316
+            ],
+            [
+              -0.01098633,
+              0.01098633
+            ],
+            [
+              -0.00549316,
+              0.01098633
+            ],
+            [
+              -0.00549316,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -4.4916E-4,
+                0.00549316
+              ],
+              [
+                -4.4916E-4,
+                0.01098633
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                -4.4916E-4,
+                0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0,
+                0.00549316
+              ],
+              [
+                -0.00549316,
+                0.00549316
+              ],
+              [
+                -0.00549316,
+                0.01098633
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0,
+                0.00549316
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.00549316,
+                0.00549316
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0.00549316,
+                0.01098633
+              ],
+              [
+                0.00549316,
+                0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                4.4916E-4,
+                0.01098633
+              ],
+              [
+                4.4916E-4,
+                0.00549316
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                4.4916E-4,
+                0.01098633
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.01098633,
+              0.00549316
+            ],
+            [
+              0.00549316,
+              0.00549316
+            ],
+            [
+              0.00549316,
+              0.01098633
+            ],
+            [
+              0.01098633,
+              0.01098633
+            ],
+            [
+              0.01098633,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.01647949,
+              0.00549316
+            ],
+            [
+              0.01098633,
+              0.00549316
+            ],
+            [
+              0.01098633,
+              0.01098633
+            ],
+            [
+              0.01647949,
+              0.01098633
+            ],
+            [
+              0.01647949,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.02197266,
+              0.00549316
+            ],
+            [
+              0.01647949,
+              0.00549316
+            ],
+            [
+              0.01647949,
+              0.01098633
+            ],
+            [
+              0.02197266,
+              0.01098633
+            ],
+            [
+              0.02197266,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01647949,
+              0.00549316
+            ],
+            [
+              -0.02197266,
+              0.00549316
+            ],
+            [
+              -0.02197266,
+              0.01098633
+            ],
+            [
+              -0.01647949,
+              0.01098633
+            ],
+            [
+              -0.01647949,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01098633,
+              0.00549316
+            ],
+            [
+              -0.01647949,
+              0.00549316
+            ],
+            [
+              -0.01647949,
+              0.01098633
+            ],
+            [
+              -0.01098633,
+              0.01098633
+            ],
+            [
+              -0.01098633,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 16091,
+          "area": 358717456384,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.00549316,
+              0.00549316
+            ],
+            [
+              -0.01098633,
+              0.00549316
+            ],
+            [
+              -0.01098633,
+              0.01098633
+            ],
+            [
+              -0.00549316,
+              0.01098633
+            ],
+            [
+              -0.00549316,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -4.4916E-4,
+                0.00549316
+              ],
+              [
+                -4.4916E-4,
+                0.01098633
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                -4.4916E-4,
+                0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0,
+                0.00549316
+              ],
+              [
+                -0.00549316,
+                0.00549316
+              ],
+              [
+                -0.00549316,
+                0.01098633
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0,
+                0.00549316
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.00549316,
+                0.00549316
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                0.00549316,
+                0.01098633
+              ],
+              [
+                0.00549316,
+                0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                4.4916E-4,
+                0.01098633
+              ],
+              [
+                4.4916E-4,
+                0.00549316
+              ],
+              [
+                0,
+                0.00549316
+              ],
+              [
+                0,
+                0.01098633
+              ],
+              [
+                4.4916E-4,
+                0.01098633
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.01098633,
+              0.00549316
+            ],
+            [
+              0.00549316,
+              0.00549316
+            ],
+            [
+              0.00549316,
+              0.01098633
+            ],
+            [
+              0.01098633,
+              0.01098633
+            ],
+            [
+              0.01098633,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.01647949,
+              0.00549316
+            ],
+            [
+              0.01098633,
+              0.00549316
+            ],
+            [
+              0.01098633,
+              0.01098633
+            ],
+            [
+              0.01647949,
+              0.01098633
+            ],
+            [
+              0.01647949,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 20517,
+          "area": 389441421312,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.02197266,
+              0.00549316
+            ],
+            [
+              0.01647949,
+              0.00549316
+            ],
+            [
+              0.01647949,
+              0.01098633
+            ],
+            [
+              0.02197266,
+              0.01098633
+            ],
+            [
+              0.02197266,
+              0.00549316
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.01647949,
+                -0.00549316
+              ],
+              [
+                -0.02197266,
+                -0.00549316
+              ],
+              [
+                -0.02197266,
+                -0
+              ],
+              [
+                -0.01647949,
+                -0
+              ],
+              [
+                -0.01647949,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.01647949,
+                -4.4916E-4
+              ],
+              [
+                -0.02197266,
+                -4.4916E-4
+              ],
+              [
+                -0.02197266,
+                -0
+              ],
+              [
+                -0.01647949,
+                -0
+              ],
+              [
+                -0.01647949,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.01098633,
+                -0.00549316
+              ],
+              [
+                -0.01647949,
+                -0.00549316
+              ],
+              [
+                -0.01647949,
+                -0
+              ],
+              [
+                -0.01098633,
+                -0
+              ],
+              [
+                -0.01098633,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.01098633,
+                -4.4916E-4
+              ],
+              [
+                -0.01647949,
+                -4.4916E-4
+              ],
+              [
+                -0.01647949,
+                -0
+              ],
+              [
+                -0.01098633,
+                -0
+              ],
+              [
+                -0.01098633,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.00549316,
+                -0.00549316
+              ],
+              [
+                -0.01098633,
+                -0.00549316
+              ],
+              [
+                -0.01098633,
+                -0
+              ],
+              [
+                -0.00549316,
+                -0
+              ],
+              [
+                -0.00549316,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -0.00549316,
+                -4.4916E-4
+              ],
+              [
+                -0.01098633,
+                -4.4916E-4
+              ],
+              [
+                -0.01098633,
+                -0
+              ],
+              [
+                -0.00549316,
+                -0
+              ],
+              [
+                -0.00549316,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                -0.00549316,
+                -0.00549316
+              ],
+              [
+                -0.00549316,
+                -0
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -4.4916E-4,
+                -0.00549316
+              ],
+              [
+                -4.4916E-4,
+                -0
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                -4.4916E-4,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -4.4916E-4,
+                -4.4916E-4
+              ],
+              [
+                -4.4916E-4,
+                -0
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0,
+                -4.4916E-4
+              ],
+              [
+                -4.4916E-4,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0,
+                -4.4916E-4
+              ],
+              [
+                -0.00549316,
+                -4.4916E-4
+              ],
+              [
+                -0.00549316,
+                -0
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                4.4916E-4,
+                -0
+              ],
+              [
+                4.4916E-4,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                4.4916E-4,
+                -0
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.00549316,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0.00549316,
+                -0
+              ],
+              [
+                0.00549316,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.00549316,
+                -4.4916E-4
+              ],
+              [
+                0,
+                -4.4916E-4
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                0.00549316,
+                -0
+              ],
+              [
+                0.00549316,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 16091,
+            "area": 358717456384,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                4.4916E-4,
+                -0
+              ],
+              [
+                4.4916E-4,
+                -4.4916E-4
+              ],
+              [
+                0,
+                -4.4916E-4
+              ],
+              [
+                0,
+                -0
+              ],
+              [
+                4.4916E-4,
+                -0
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.01098633,
+                -0.00549316
+              ],
+              [
+                0.00549316,
+                -0.00549316
+              ],
+              [
+                0.00549316,
+                -0
+              ],
+              [
+                0.01098633,
+                -0
+              ],
+              [
+                0.01098633,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.01098633,
+                -4.4916E-4
+              ],
+              [
+                0.00549316,
+                -4.4916E-4
+              ],
+              [
+                0.00549316,
+                -0
+              ],
+              [
+                0.01098633,
+                -0
+              ],
+              [
+                0.01098633,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.01647949,
+                -0.00549316
+              ],
+              [
+                0.01098633,
+                -0.00549316
+              ],
+              [
+                0.01098633,
+                -0
+              ],
+              [
+                0.01647949,
+                -0
+              ],
+              [
+                0.01647949,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "name": "",
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.01647949,
+                -4.4916E-4
+              ],
+              [
+                0.01098633,
+                -4.4916E-4
+              ],
+              [
+                0.01098633,
+                -0
+              ],
+              [
+                0.01647949,
+                -0
+              ],
+              [
+                0.01647949,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.02197266,
+                -0.00549316
+              ],
+              [
+                0.01647949,
+                -0.00549316
+              ],
+              [
+                0.01647949,
+                -0
+              ],
+              [
+                0.02197266,
+                -0
+              ],
+              [
+                0.02197266,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 20517,
+            "area": 389441421312,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.02197266,
+                -4.4916E-4
+              ],
+              [
+                0.01647949,
+                -4.4916E-4
+              ],
+              [
+                0.01647949,
+                -0
+              ],
+              [
+                0.02197266,
+                -0
+              ],
+              [
+                0.02197266,
+                -4.4916E-4
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 2640,
+          "area": 12547155558400,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "name": "",
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01647949,
+              -0.01098633
+            ],
+            [
+              -0.02197266,
+              -0.01098633
+            ],
+            [
+              -0.02197266,
+              -0.00549316
+            ],
+            [
+              -0.01647949,
+              -0.00549316
+            ],
+            [
+              -0.01647949,
+              -0.01098633
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 2640,
+          "area": 12547155558400,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.01098633,
+              -0.01098633
+            ],
+            [
+              -0.01647949,
+              -0.01098633
+            ],
+            [
+              -0.01647949,
+              -0.00549316
+            ],
+            [
+              -0.01098633,
+              -0.00549316
+            ],
+            [
+              -0.01098633,
+              -0.01098633
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 2640,
+          "area": 12547155558400,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -0.00549316,
+              -0.01098633
+            ],
+            [
+              -0.01098633,
+              -0.01098633
+            ],
+            [
+              -0.01098633,
+              -0.00549316
+            ],
+            [
+              -0.00549316,
+              -0.00549316
+            ],
+            [
+              -0.00549316,
+              -0.01098633
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0,
+                -0.01098633
+              ],
+              [
+                -0.00549316,
+                -0.01098633
+              ],
+              [
+                -0.00549316,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.01098633
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -4.4916E-4,
+                -0.01098633
+              ],
+              [
+                -4.4916E-4,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                0,
+                -0.01098633
+              ],
+              [
+                -4.4916E-4,
+                -0.01098633
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [
+        {
+          "properties": {
+            "id": 2640,
+            "area": 12547155558400,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                4.4916E-4,
+                -0.00549316
+              ],
+              [
+                4.4916E-4,
+                -0.01098633
+              ],
+              [
+                0,
+                -0.01098633
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                4.4916E-4,
+                -0.00549316
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 18573,
+            "area": 784368533504,
+            "source": "openstreetmapdata.com",
+            "sort_key": 200,
+            "kind": "ocean"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                0.00549316,
+                -0.01098633
+              ],
+              [
+                0,
+                -0.01098633
+              ],
+              [
+                0,
+                -0.00549316
+              ],
+              [
+                0.00549316,
+                -0.00549316
+              ],
+              [
+                0.00549316,
+                -0.01098633
+              ]
+            ]]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 18573,
+          "area": 784368533504,
+          "source": "openstreetmapdata.com",
+          "sort_key": 200,
+          "kind": "ocean"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              0.01098633,
+              -0.01098633
+            ],
+            [
+              0.00549316,
+              -0.01098633
+            ],
+            [
+              0.00549316,
+              -0.00549316
+            ],
+            [
+              0.01098633,
+              -0.00549316
+            ],
+            [
+              0.01098633,
+              -0.01098633
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

@@ -156,6 +156,72 @@ public class MercatorMap {
   private float getLongitude(float screenX) {
     return leftLongitude + (rightLongitude - leftLongitude) * screenX / lg_width;
   }
+
+//additional utilities by Anisha Nakagawa, modified by Nina Lutz
+  public float Haversine(PVector p1, PVector p2)
+  {
+    int R = 6371000; // meters
+    float phi1 = radians(p1.x); // convert to radians
+    float phi2 = radians(p2.x); // convert to radians
+    float deltaPhi = radians(p2.x - p1.x);
+    float deltaLambda = radians(p2.y - p1.y);
+
+    float a = sin(deltaPhi/2) * sin(deltaPhi/2) + cos(phi1) * cos(phi2) * sin(deltaLambda/2) * sin(deltaLambda/2);
+    float c = 2 * atan2(sqrt(a), sqrt(1-a));
+
+    float d = R * c;
+    return d;    
+  }
+  
+  // Find an intermediate point at a given fraction between two points
+  // Smaller fractions are closer to p1
+  public PVector intermediate(PVector p1, PVector p2, float fraction)
+  {
+    int R = 6371000; // meters
+
+    float angularDist = Haversine(p1, p2)/R;
+    float phi1 = radians(p1.x); // convert to radians
+    float phi2 = radians(p2.x); // convert to radians
+    float lambda1 = radians(p1.y); // convert to radians
+    float lambda2 = radians(p2.y); // convert to radians
+    
+    float a = sin((1-fraction)*angularDist)/sin(angularDist);
+    float b = sin(fraction*angularDist)/sin(angularDist);
+    float x = (a*cos(phi1)*cos(lambda1)) + (b*cos(phi2)*cos(lambda2));
+    float y = (a*cos(phi1)*sin(lambda1)) + (b*cos(phi2)*sin(lambda2));
+    float z = (a*sin(phi1)) + (b*sin(phi2));
+    
+    float phiNew = atan2(z, sqrt(x*x + y*y));
+    float lambdaNew = atan2(y,x);
+    
+    float xNew = degrees(phiNew);
+    float yNew = degrees(lambdaNew);
+    
+    return new PVector(xNew, yNew);
+    
+  }
+  
+  // Find a point a distance (in meters away) in the direction given by the bearing
+  // from the point p1
+  public  PVector endpoint(PVector p1, float distance, float bearing)
+  {
+    int R = 6371000; // meters
+
+    float angularDist = distance/R;
+    float phi1 = radians(p1.x); // convert to radians
+    float lambda1 = radians(p1.y); // convert to radians
+    
+    bearing = radians(bearing);
+    
+    float phi2 = asin(sin(phi1)*cos(angularDist) + cos(phi1)*sin(angularDist)*cos(bearing));
+    float lambda2 = lambda1 + atan2(sin(bearing)*sin(angularDist)*cos(phi1), cos(angularDist) - sin(phi1)*sin(phi2));
+  
+    
+    float xNew = degrees(phi2);
+    float yNew = degrees(lambda2);
+    
+    return new PVector(xNew, yNew);
+  }
   
 //  private float getLatitudeRelative(float screenY) {
 //    return (bottomLatitudeRelative - topLatitudeRelative) * screenY / lg_height;

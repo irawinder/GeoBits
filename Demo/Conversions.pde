@@ -6,7 +6,7 @@ Lots of conversion functions
 //left, bottom, right, top
 
 public class bbox{
-  public float minlon, minlat, maxlon, maxlat;
+  public float minlon, minlat, maxlon, maxlat, w;
   FloatList bounds = new FloatList();
   
   bbox(float _minlon, float _minlat, float _maxlon, float _maxlat){
@@ -15,6 +15,7 @@ public class bbox{
       maxlon = _maxlon;
       maxlat = _maxlat;
       
+      w = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(minlat, maxlon));
    bounds.append(minlon);
    bounds.append(minlat);
    bounds.append(maxlon);

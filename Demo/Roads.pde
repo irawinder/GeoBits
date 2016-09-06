@@ -1,16 +1,115 @@
 PGraphics Canvas, Handler, Selection;
 
+import java.util.Set;
+import java.util.HashSet;
+
 public class Road{
   public String name, kind;
   public int OSMid; 
-  public PVector start, end;
+  public PVector start, end, org, dest;
+  public ArrayList<PVector>Brez = new ArrayList<PVector>();
+  public float dx, dy, Steps, xInc, yInc, inc, x1, x2, y1, y2, x, y;
   
   Road(PVector _start, PVector _end, int _id){
     start = _start;
     end = _end;
     OSMid = _id;
-
   }
+  
+  public void bresenham(){
+      int inc = 15;
+      PVector starting = mercatorMap.getScreenLocation(new PVector(start.x, start.y));
+      PVector ending = mercatorMap.getScreenLocation(new PVector(end.x, end.y));
+      
+        x1 = starting.x;
+        x2 = ending.x;
+        y1 = starting.y;
+        y2 = ending.y;
+        
+        org = new PVector(x1, y1);
+        dest = new PVector(x2, y2);
+        
+        
+     //these are what will be rendered between the start and end points, initialize at start
+        x = org.x;
+        y = org.y;
+        
+        //calculating the change in x and y across the line
+        dx = abs(dest.x - org.x);
+        dy = abs(dest.y - org.y);
+        
+        //number of steps needed, based on what change is biggest
+        //depending on your need for accuracy, you can adjust this, the smaller the Steps number, the fewer points rendered
+        if(dx > dy){
+          Steps = dx*inc;
+        }
+        else{
+          Steps = dy*inc;        
+        }
+        
+         //x and y increments for the points in the line      
+        float xInc = (dx)/(Steps);
+        float yInc = (dy)/(Steps);
+        
+        //this is the code to render vertical and horizontal lines, which need to be handled differently at different resolution for my implementation
+                if(x1 == x2 || y1 == y2){
+                       if (y2 < y1 || x2 < x1) {
+                          org = new PVector(x2, y2);
+                          dest = new PVector(x1, y1);
+                        }
+            
+                        else{
+                          org = new PVector(x1, y1);
+                          dest = new PVector(x2, y2);
+                        }
+        
+                        //slopes of the lines
+                        dx = abs(dest.x - org.x);
+                        dy = abs(dest.y - org.y);
+                      
+                        //steps needed to render the lines
+                        if (dx > dy) {
+                          Steps = dx*inc;
+                        } else {
+                          Steps = dy*inc;
+                        }
+                      
+                        //increments for the points on the line 
+                         xInc =  dx/(Steps);
+                         yInc = dy/(Steps);
+                      
+                        //sets a starting point
+                        x = org.x;
+                        y = org.y;  
+                 }
+                 
+          for(int v = 0; v< (int)Steps; v++){       
+                //there are four main cases that need to be handled
+                      if(dest.x < org.x && dest.y < org.y){
+                           x = x - xInc;    y = y - yInc;
+                                }
+                      else if(dest.y < org.y){
+                           x = x + xInc;    y = y - yInc;
+                                }  
+                      else if(dest.x < org.x){
+                           x = x - xInc;    y = y + yInc;
+                                }
+                      else{ 
+                           x = x + xInc;    y = y + yInc;
+                             }
+  
+                        if(x <= max(x1, x2) && y<= max(y1, y2) && x >= min(x1, x2) && y >= min(y1, y2) 
+                        && x >= 0 && x <= width && y >= 0 && y<= height){
+                            PVector coord = mercatorMap.getGeo(new PVector(int(x), int(y), 0));
+                            //Brez.add(new PVector(int(x), int(y), 0));
+                            Brez.add(coord);
+                        }
+              }
+            HashSet set = new HashSet(Brez);
+            Brez.clear();
+            Brez.addAll(set);
+        
+}
  
 }
 
@@ -81,19 +180,40 @@ public class RoadNetwork{
               bounds.printbox();
       }
 
-  void drawRoads(PGraphics p){
+  void drawRoads(PGraphics p, color c){
          p.beginDraw();
      for(int j = 0; j<bounds.boxcorners().size(); j++){
+            PVector coord2;
             PVector coord = mercatorMap.getScreenLocation(bounds.boxcorners().get(j));
-            p.fill(255);     
-            p.ellipse(coord.x, coord.y, 5, 5);
+            if(j<bounds.boxcorners().size()-1){
+            coord2 = mercatorMap.getScreenLocation(bounds.boxcorners().get(j+1));
+            }
+            else{
+              coord2 = mercatorMap.getScreenLocation(bounds.boxcorners().get(0));
+            }
+            p.stroke(0);
+            p.line(coord.x, coord.y, coord2.x, coord2.y);
+            if(showid){
+              p.text(j, coord.x+24, coord.y);
+            }
         }
       for(int i = 0; i<Roads.size(); i++){
-        p.stroke(#ff0000);
+        p.stroke(c);
         p.strokeWeight(1);
-        p.fill(255);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
+        p.fill(0);
+        if(showid){
+        p.text(Roads.get(i).OSMid, start.x+5, start.y);
+        Roads.get(i).bresenham();
+            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
+                PVector coord = mercatorMap.getScreenLocation(new PVector (Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
+                p.noFill();
+                p.stroke(0);
+                p.ellipse(coord.x, coord.y, 5, 5);
+            }
+        }
+        p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  
       }
    p.endDraw();  
