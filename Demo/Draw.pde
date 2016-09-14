@@ -1,4 +1,4 @@
-PGraphics direction, popup;
+PGraphics direction, popup, loading;
 //toggling booleans for displays
 boolean showFrameRate = false;
 boolean select = false;
@@ -13,17 +13,21 @@ int numcols = 20;
 int numrows = 22;
 
 void initGraphics(){
+  //handler and graphics for road lines
   Selection = createGraphics(width, height);
   Canvas = createGraphics(width, height);
   Handler = createGraphics(width, height);
+  
   direction = createGraphics(width, height);
   popup = createGraphics(width, height);
+  loading = createGraphics(width, height);
 }
 
 //draws info
 void draw_info() {
   textSize(20);
   fill(0);
+  stroke(0);
   if (showFrameRate) {
     text("frameRate: " + frameRate, 20, 50);
     text("zoom level " + map.getZoomLevel(), 20, 80);
@@ -50,6 +54,18 @@ void draw_directions(PGraphics p) {
   p.text("W = make box bigger, w = smaller", 15, 200);
   p.text("+/- = zoom in and out", 15, 220);
   p.endDraw();
+}
+
+void draw_loading(PGraphics p){
+  p.beginDraw();
+  p.fill(0);
+  p.rect(0, 0, width, height);
+  p.fill(255);
+  p.textSize(25);
+  p.textAlign(CENTER);
+  p.text("Pulling Data...",width/2, height/2);
+  p.endDraw();
+
 }
 
 void draw_popup(PGraphics p){

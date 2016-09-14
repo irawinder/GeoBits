@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid;
+boolean pull, square, generated, showid, pulling;
 color c;
 
 void keyPressed(){
@@ -50,18 +50,17 @@ switch(key){
       println("DONE");
       break;  
   case 'p':
-      Selection.clear();
-      Canvas.clear();
-      PullMap(MapTiles(width, height, 0, 0).size(), width, height);
-      PullOSM();
-      selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-      canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-      pull = true;
-      draw_popup(popup);
-      println("DONE");
+      pulling = true;
       break;     
   case 'a': 
       showid = !showid;
       break;
 }
+}
+
+void pull_stuff(){
+       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
+       PullOSM();
+       selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+       canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
 }

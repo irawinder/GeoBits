@@ -194,24 +194,28 @@ public class RoadNetwork{
             p.stroke(0);
             p.line(coord.x, coord.y, coord2.x, coord2.y);
             if(showid){
-              p.text(j, coord.x+24, coord.y);
+              //p.text(j, coord.x+24, coord.y);
             }
         }
       for(int i = 0; i<Roads.size(); i++){
-        p.stroke(c);
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
-        p.fill(0);
         if(showid){
-        p.text(Roads.get(i).OSMid, start.x+5, start.y);
+        //p.text(Roads.get(i).OSMid, start.x+5, start.y);
         Roads.get(i).bresenham();
             for(int j = 0; j<Roads.get(i).Brez.size(); j++){
                 PVector coord = mercatorMap.getScreenLocation(new PVector (Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
                 p.noFill();
-                p.stroke(0);
+                p.stroke(100);
+                if(showid){
                 p.ellipse(coord.x, coord.y, 5, 5);
+                }
             }
+        }
+        if(showid){
+            p.stroke(0);
+            p.ellipse(start.x, start.y, 3, 3);
         }
         p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  

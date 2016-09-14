@@ -27,6 +27,7 @@ void setup(){
    initGraphics();
    draw_directions(direction);       
    draw_popup(popup);
+   draw_loading(loading);
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     
@@ -36,7 +37,26 @@ void setup(){
 
 void draw(){
     background(0);
-    map.draw();       
+    
+    
+  if(!pulling){
+    map.draw();    
+    }
+    
+ 
+    if(pull){
+      Selection.clear();
+      Canvas.clear();
+       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
+       PullOSM();
+       selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+       canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+       draw_popup(popup);
+       println("DONE");
+       pulling = false;
+       pull = false;
+    }
+     
    
     mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
     
@@ -57,12 +77,19 @@ void draw(){
     if(map.getZoomLevel() >= 14){
        image(popup, 0, 0);
     }
+    
         
-    if(select){
+    if(select && !pulling){
     draw_selection();
     }
     
     
   draw_info();
+  
+   if(pulling){
+      image(loading, 0, 0);
+       pull = true;
+    }
+    
     
 }

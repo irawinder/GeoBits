@@ -6,7 +6,7 @@ GetRequest is based off code by Chris Allick and Daniel Shiffman
 
 */
 
-String output, file, link, export, linegrab;
+String output, file, link, export, linegrab, progress;
 JSONObject geostuff;
 
 //bbox Bounds;
@@ -20,6 +20,7 @@ ArrayList<PVector>PullBox = new ArrayList<PVector>();
  bbox Bounds, SelBounds;
 
 public void PullMap(int amount, float w, float h){
+   pulling = true;
    geostuff = new JSONObject();
    println("requesting map data...");
    for(int i = 0; i<amount; i++){
@@ -42,6 +43,7 @@ public void PullMap(int amount, float w, float h){
    saveJSONArray(masterexport, "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json");
    mapling = "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json";
    }
+   progress = int(float(i)/amount*100) + "% DONE";
    println(int(float(i)/amount*100) + "% DONE");
    }
 }
