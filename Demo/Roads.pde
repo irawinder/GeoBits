@@ -8,6 +8,7 @@ public class Road{
   public int OSMid; 
   public PVector start, end, org, dest;
   public ArrayList<PVector>Brez = new ArrayList<PVector>();
+  public ArrayList<PVector>SnapGrid = new ArrayList<PVector>();
   public float dx, dy, Steps, xInc, yInc, inc, x1, x2, y1, y2, x, y;
   
   Road(PVector _start, PVector _end, int _id){
@@ -17,6 +18,7 @@ public class Road{
   }
   
   public void bresenham(){
+
       int inc = 15;
       PVector starting = mercatorMap.getScreenLocation(new PVector(start.x, start.y));
       PVector ending = mercatorMap.getScreenLocation(new PVector(end.x, end.y));
@@ -193,23 +195,20 @@ public class RoadNetwork{
             }
             p.stroke(0);
             p.line(coord.x, coord.y, coord2.x, coord2.y);
-            if(showid){
-              //p.text(j, coord.x+24, coord.y);
-            }
         }
       for(int i = 0; i<Roads.size(); i++){
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
         if(showid){
-        //p.text(Roads.get(i).OSMid, start.x+5, start.y);
-        Roads.get(i).bresenham();
             for(int j = 0; j<Roads.get(i).Brez.size(); j++){
-                PVector coord = mercatorMap.getScreenLocation(new PVector (Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
+               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
                 p.noFill();
-                p.stroke(100);
+                p.stroke(150);
                 if(showid){
-                p.ellipse(coord.x, coord.y, 5, 5);
+                  if(int(coord.x) % 2 == 0 && int(coord.y) % 2 == 0){
+                p.ellipse(coord.x, coord.y, 7, 7);
+                  }
                 }
             }
         }
