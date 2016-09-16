@@ -1,0 +1,5898 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [
+        {
+          "properties": {
+            "id": 259758990,
+            "addr_street": "West Magnolia Avenue",
+            "area": 591,
+            "source": "openstreetmap.org",
+            "sort_key": 475,
+            "min_zoom": 14,
+            "addr_housenumber": "1001",
+            "kind": "building"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -97.33532558,
+                32.73051937
+              ],
+              [
+                -97.33524437,
+                32.73051801
+              ],
+              [
+                -97.3351682,
+                32.73045105
+              ],
+              [
+                -97.33516478,
+                32.73024739
+              ],
+              [
+                -97.33532235,
+                32.73024588
+              ],
+              [
+                -97.33532558,
+                32.73051937
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 259758990,
+            "addr_street": "West Magnolia Avenue",
+            "source": "openstreetmap.org",
+            "addr_housenumber": "1001",
+            "kind": "address"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33524503,
+              32.73034922
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 259758990,
+            "area": 591,
+            "name": "Zio Carlo Magnolia Brew Pub",
+            "min_zoom": 15.1524,
+            "kind": "pub"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33524503,
+              32.73034922
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356704513,
+            "name": "DeZavala School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33473871,
+              32.72846441
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356811929,
+            "name": "De Zavala Elementary School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33501647,
+              32.72929772
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356855382,
+            "religion": "christian",
+            "name": "College Avenue Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33511313,
+              32.72934646
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.33337402,
+              32.72721987
+            ],
+            [
+              -97.33886719,
+              32.72721987
+            ],
+            [
+              -97.33886719,
+              32.7318409
+            ],
+            [
+              -97.33337402,
+              32.7318409
+            ],
+            [
+              -97.33337402,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 10073082,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Smith St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33810192,
+                32.72778398
+              ],
+              [
+                -97.3381062,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 70260943,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Henderson St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33767339,
+                32.72721987
+              ],
+              [
+                -97.33765994,
+                32.727791
+              ],
+              [
+                -97.33764988,
+                32.72828697
+              ],
+              [
+                -97.33767989,
+                32.72939702
+              ],
+              [
+                -97.33767989,
+                32.73067398
+              ],
+              [
+                -97.3376704,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359604180,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Magnolia Green Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33419694,
+                32.7312226
+              ],
+              [
+                -97.33337402,
+                32.73121622
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060772,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33337402,
+                32.72939622
+              ],
+              [
+                -97.3340559,
+                32.72939898
+              ],
+              [
+                -97.33418787,
+                32.72939596
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10070618,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Maddox Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33539592,
+                32.72749295
+              ],
+              [
+                -97.33591892,
+                32.72751101
+              ],
+              [
+                -97.33680987,
+                32.72751396
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 331961736,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "College Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33503251,
+                32.7318409
+              ],
+              [
+                -97.33502492,
+                32.73065199
+              ],
+              [
+                -97.33504989,
+                32.72932001
+              ],
+              [
+                -97.33502887,
+                32.72827095
+              ],
+              [
+                -97.33503192,
+                32.72745199
+              ],
+              [
+                -97.33503327,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977290,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "5th Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33850681,
+                32.7318409
+              ],
+              [
+                -97.3385429,
+                32.73066899
+              ],
+              [
+                -97.33852592,
+                32.72939898
+              ],
+              [
+                -97.33852592,
+                32.72828796
+              ],
+              [
+                -97.33851694,
+                32.72809102
+              ],
+              [
+                -97.3385429,
+                32.72796897
+              ],
+              [
+                -97.33858593,
+                32.72786695
+              ],
+              [
+                -97.33865591,
+                32.72777997
+              ],
+              [
+                -97.33879991,
+                32.72770697
+              ],
+              [
+                -97.33886719,
+                32.72764309
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977333,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Washington Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33588383,
+                32.7318409
+              ],
+              [
+                -97.33586493,
+                32.73066
+              ],
+              [
+                -97.33588586,
+                32.72933996
+              ],
+              [
+                -97.33590589,
+                32.728281
+              ],
+              [
+                -97.33591892,
+                32.72751101
+              ],
+              [
+                -97.33592111,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10070619,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Maddox Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33679091,
+                32.72778896
+              ],
+              [
+                -97.33708592,
+                32.727791
+              ],
+              [
+                -97.33765994,
+                32.727791
+              ],
+              [
+                -97.33810192,
+                32.72778398
+              ],
+              [
+                -97.33865591,
+                32.72777997
+              ],
+              [
+                -97.33886719,
+                32.72778669
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977326,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Alston Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33418923,
+                32.7318409
+              ],
+              [
+                -97.33419694,
+                32.7312226
+              ],
+              [
+                -97.33420395,
+                32.73066597
+              ],
+              [
+                -97.33418787,
+                32.72939596
+              ],
+              [
+                -97.33420395,
+                32.72930596
+              ],
+              [
+                -97.33416792,
+                32.72824798
+              ],
+              [
+                -97.33418414,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10041583,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33502887,
+                32.72827095
+              ],
+              [
+                -97.33590589,
+                32.728281
+              ],
+              [
+                -97.33677888,
+                32.72829196
+              ],
+              [
+                -97.33764988,
+                32.72828697
+              ],
+              [
+                -97.33852592,
+                32.72828796
+              ],
+              [
+                -97.33886719,
+                32.7282911
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977300,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Adams St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33678896,
+                32.7318409
+              ],
+              [
+                -97.33681095,
+                32.73066597
+              ],
+              [
+                -97.33679091,
+                32.72937102
+              ],
+              [
+                -97.33677888,
+                32.72829196
+              ],
+              [
+                -97.33679091,
+                32.72778896
+              ],
+              [
+                -97.33680987,
+                32.72751396
+              ],
+              [
+                -97.33680987,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060766,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33420395,
+                32.72930596
+              ],
+              [
+                -97.33504989,
+                32.72932001
+              ],
+              [
+                -97.33588586,
+                32.72933996
+              ],
+              [
+                -97.33679091,
+                32.72937102
+              ],
+              [
+                -97.33767989,
+                32.72939702
+              ],
+              [
+                -97.33852592,
+                32.72939898
+              ],
+              [
+                -97.33886719,
+                32.72939588
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10052046,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33337402,
+                32.73066597
+              ],
+              [
+                -97.33420395,
+                32.73066597
+              ],
+              [
+                -97.33502492,
+                32.73065199
+              ],
+              [
+                -97.33586493,
+                32.73066
+              ],
+              [
+                -97.33681095,
+                32.73066597
+              ],
+              [
+                -97.33767989,
+                32.73067398
+              ],
+              [
+                -97.3385429,
+                32.73066899
+              ],
+              [
+                -97.33886719,
+                32.73066899
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10055281,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Feliks Gwozdz Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33337402,
+                32.72823784
+              ],
+              [
+                -97.33416792,
+                32.72824798
+              ],
+              [
+                -97.33502887,
+                32.72827095
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 356709712,
+            "name": "Laneri High School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33196094,
+              32.72874221
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356721005,
+            "name": "Saint Marys School",
+            "min_zoom": 15,
+            "kind": "school"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33057197,
+              32.72985315
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356840407,
+            "religion": "christian",
+            "name": "Saint Marys Catholic Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33001645,
+              32.7306866
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356852309,
+            "religion": "christian",
+            "name": "Saint Mary of the Assumption Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33057197,
+              32.73040881
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356858662,
+            "religion": "christian",
+            "name": "Saint Marys Catholic Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.33053612,
+              32.73049292
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.32788086,
+              32.72721987
+            ],
+            [
+              -97.33337402,
+              32.72721987
+            ],
+            [
+              -97.33337402,
+              32.7318409
+            ],
+            [
+              -97.32788086,
+              32.7318409
+            ],
+            [
+              -97.32788086,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 10070794,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Travis Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33245591,
+                32.73067201
+              ],
+              [
+                -97.33244792,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10070786,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Travis Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33236294,
+                32.730673
+              ],
+              [
+                -97.33240687,
+                32.72939596
+              ],
+              [
+                -97.33238989,
+                32.72853295
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359209149,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "Reynolds St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33243768,
+                32.72774052
+              ],
+              [
+                -97.33154358,
+                32.72773742
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359209150,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "Reynolds St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3333077,
+                32.72773758
+              ],
+              [
+                -97.3326389,
+                32.72773947
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 345412323,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "May St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32895994,
+                32.73065199
+              ],
+              [
+                -97.32894494,
+                32.72969695
+              ],
+              [
+                -97.32894889,
+                32.72940797
+              ],
+              [
+                -97.32896488,
+                32.72818896
+              ],
+              [
+                -97.32897431,
+                32.72756792
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10041585,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32808292,
+                32.728178
+              ],
+              [
+                -97.32896488,
+                32.72818896
+              ],
+              [
+                -97.32987389,
+                32.72817498
+              ],
+              [
+                -97.33019692,
+                32.728195
+              ],
+              [
+                -97.33090291,
+                32.728195
+              ],
+              [
+                -97.33144989,
+                32.72820596
+              ],
+              [
+                -97.33154493,
+                32.72821601
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060771,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32807887,
+                32.72940699
+              ],
+              [
+                -97.32894889,
+                32.72940797
+              ],
+              [
+                -97.33019288,
+                32.729402
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10052046,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.7306522
+              ],
+              [
+                -97.32809594,
+                32.73065199
+              ],
+              [
+                -97.32895994,
+                32.73065199
+              ],
+              [
+                -97.32985574,
+                32.73065902
+              ],
+              [
+                -97.33019387,
+                32.73066302
+              ],
+              [
+                -97.33070788,
+                32.73066521
+              ],
+              [
+                -97.33150388,
+                32.73066997
+              ],
+              [
+                -97.33155787,
+                32.73067602
+              ],
+              [
+                -97.33161994,
+                32.73066997
+              ],
+              [
+                -97.33236294,
+                32.730673
+              ],
+              [
+                -97.33245591,
+                32.73067201
+              ],
+              [
+                -97.33331794,
+                32.73066597
+              ],
+              [
+                -97.33337402,
+                32.73066597
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 331961746,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Lipscomb St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33332423,
+                32.7318409
+              ],
+              [
+                -97.33333024,
+                32.73121588
+              ],
+              [
+                -97.33331794,
+                32.73066597
+              ],
+              [
+                -97.33330994,
+                32.72939596
+              ],
+              [
+                -97.33330087,
+                32.72853295
+              ],
+              [
+                -97.33330994,
+                32.72823702
+              ],
+              [
+                -97.3333077,
+                32.72773758
+              ],
+              [
+                -97.33330544,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10055281,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Feliks Gwozdz Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33154493,
+                32.72821601
+              ],
+              [
+                -97.33160692,
+                32.72821896
+              ],
+              [
+                -97.33238351,
+                32.72821677
+              ],
+              [
+                -97.33330994,
+                32.72823702
+              ],
+              [
+                -97.33337402,
+                32.72823784
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10047506,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Ingram St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33238989,
+                32.72853295
+              ],
+              [
+                -97.33330087,
+                32.72853295
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10063705,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Grainger St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33072223,
+                32.7318409
+              ],
+              [
+                -97.33070779,
+                32.73066521
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571502,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32791044,
+                32.73041433
+              ],
+              [
+                -97.32788086,
+                32.73042367
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064076,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Jennings Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33019387,
+                32.73066302
+              ],
+              [
+                -97.33019288,
+                32.729402
+              ],
+              [
+                -97.33019692,
+                32.728195
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571514,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.72936604
+              ],
+              [
+                -97.32789301,
+                32.72936989
+              ],
+              [
+                -97.32792014,
+                32.72939641
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064074,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Jennings Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32987389,
+                32.72817498
+              ],
+              [
+                -97.32987697,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10038077,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Saint Louis Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32809594,
+                32.73178898
+              ],
+              [
+                -97.32809594,
+                32.73065199
+              ],
+              [
+                -97.3280839,
+                32.729982
+              ],
+              [
+                -97.32808148,
+                32.72971509
+              ],
+              [
+                -97.32807887,
+                32.72940699
+              ],
+              [
+                -97.32807294,
+                32.72904796
+              ],
+              [
+                -97.32808292,
+                32.728178
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10051249,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Saint Louis Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32810307,
+                32.7318409
+              ],
+              [
+                -97.32809594,
+                32.73178898
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359604180,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Magnolia Green Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33337402,
+                32.73121622
+              ],
+              [
+                -97.33333024,
+                32.73121588
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060772,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33154592,
+                32.72939097
+              ],
+              [
+                -97.33164087,
+                32.72939097
+              ],
+              [
+                -97.33240687,
+                32.72939596
+              ],
+              [
+                -97.33330994,
+                32.72939596
+              ],
+              [
+                -97.33337402,
+                32.72939622
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571511,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32792616,
+                32.72971456
+              ],
+              [
+                -97.32792616,
+                32.73039097
+              ],
+              [
+                -97.32791044,
+                32.73041433
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571508,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32792014,
+                32.72939641
+              ],
+              [
+                -97.32792616,
+                32.72971456
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 331961752,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "S Jennings Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32985916,
+                32.7318409
+              ],
+              [
+                -97.32985565,
+                32.73065902
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359194780,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Lucy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.72971443
+              ],
+              [
+                -97.32792616,
+                32.72971456
+              ],
+              [
+                -97.32808157,
+                32.72971509
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 331961742,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Hemphill St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.33156465,
+                32.7318409
+              ],
+              [
+                -97.33155787,
+                32.73067602
+              ],
+              [
+                -97.33154592,
+                32.72939097
+              ],
+              [
+                -97.33154493,
+                32.72821601
+              ],
+              [
+                -97.33154358,
+                32.72773742
+              ],
+              [
+                -97.33154213,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10055282,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Feliks Gwozdz Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.72817759
+              ],
+              [
+                -97.32808292,
+                32.728178
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066777,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Oleander St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.73176627
+              ],
+              [
+                -97.32794287,
+                32.73176601
+              ],
+              [
+                -97.32809594,
+                32.73178898
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 82441268,
+            "min_zoom": 15,
+            "kind": "mini_roundabout"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.32426984,
+              32.73174205
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356720871,
+            "name": "Saint Josephs Hospital",
+            "min_zoom": 14,
+            "kind": "hospital"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.32557194,
+              32.72846441
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356814960,
+            "name": "John Peter Smith Hospital",
+            "min_zoom": 14,
+            "kind": "hospital"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.3272385,
+              32.7273533
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 369121171,
+            "name": "Saint Joseph Hospital Heliport",
+            "min_zoom": 16,
+            "kind": "helipad"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.3247384,
+              32.72846441
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [
+        {
+          "properties": {
+            "id": 369886267,
+            "area": 5867,
+            "source": "openstreetmap.org",
+            "sort_key": 74,
+            "name": "Emanuel Hebrew Rest Cemetery",
+            "min_zoom": 10.9967,
+            "kind": "cemetery"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [
+                -97.32729743,
+                32.72873858
+              ],
+              [
+                -97.32667813,
+                32.72872067
+              ],
+              [
+                -97.32667948,
+                32.72877168
+              ],
+              [
+                -97.32649191,
+                32.72877168
+              ],
+              [
+                -97.32649308,
+                32.72824337
+              ],
+              [
+                -97.32729599,
+                32.7282448
+              ],
+              [
+                -97.32729743,
+                32.72873858
+              ]
+            ]]
+          }
+        },
+        {
+          "properties": {
+            "id": 369886267,
+            "area": 5867,
+            "source": "openstreetmap.org",
+            "label_placement": "yes",
+            "sort_key": 74,
+            "name": "Emanuel Hebrew Rest Cemetery",
+            "min_zoom": 10.9967,
+            "kind": "cemetery"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.32689462,
+              32.72848274
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.3223877,
+              32.72721987
+            ],
+            [
+              -97.32788086,
+              32.72721987
+            ],
+            [
+              -97.32788086,
+              32.7318409
+            ],
+            [
+              -97.3223877,
+              32.7318409
+            ],
+            [
+              -97.3223877,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [{
+        "properties": {
+          "id": -2795760,
+          "colour": "#005480",
+          "ref": "21-22; 421-422",
+          "osm_relation": true,
+          "route_name": "Texas Eagle",
+          "sort_key": 275,
+          "service": "long_distance",
+          "operator": "Amtrak",
+          "kind": "train"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -97.3233127,
+              32.7318409
+            ],
+            [
+              -97.32333523,
+              32.7317385
+            ],
+            [
+              -97.32347806,
+              32.73118066
+            ],
+            [
+              -97.32357032,
+              32.73070126
+            ],
+            [
+              -97.32365404,
+              32.73017961
+            ],
+            [
+              -97.32376552,
+              32.72945029
+            ],
+            [
+              -97.3238514,
+              32.72895932
+            ],
+            [
+              -97.32389695,
+              32.72861699
+            ],
+            [
+              -97.32408308,
+              32.7276741
+            ],
+            [
+              -97.32416042,
+              32.72732745
+            ],
+            [
+              -97.32419303,
+              32.72721987
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 10051053,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "name": "Fort Worth Subdivision",
+            "operator": "UP",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3223877,
+                32.72836908
+              ],
+              [
+                -97.32245227,
+                32.72733471
+              ],
+              [
+                -97.3224648,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977317,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Galveston Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32725229,
+                32.7318409
+              ],
+              [
+                -97.32725287,
+                32.73176895
+              ],
+              [
+                -97.32724712,
+                32.73065282
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 150977319,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Oak Grove St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32643281,
+                32.7318409
+              ],
+              [
+                -97.32643172,
+                32.73176389
+              ],
+              [
+                -97.32642436,
+                32.73064352
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066430,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Oleander St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32587836,
+                32.73176079
+              ],
+              [
+                -97.32426975,
+                32.73174205
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066777,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Oleander St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32587836,
+                32.73176079
+              ],
+              [
+                -97.32643172,
+                32.73176389
+              ],
+              [
+                -97.32725287,
+                32.73176895
+              ],
+              [
+                -97.32788086,
+                32.73176627
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359194780,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Lucy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32606207,
+                32.7295901
+              ],
+              [
+                -97.32626931,
+                32.729707
+              ],
+              [
+                -97.32637378,
+                32.72970972
+              ],
+              [
+                -97.32653233,
+                32.72971018
+              ],
+              [
+                -97.32672862,
+                32.72971078
+              ],
+              [
+                -97.32692499,
+                32.72971139
+              ],
+              [
+                -97.32713798,
+                32.72971207
+              ],
+              [
+                -97.32733552,
+                32.72971267
+              ],
+              [
+                -97.32751662,
+                32.72971327
+              ],
+              [
+                -97.32752731,
+                32.72971327
+              ],
+              [
+                -97.32772098,
+                32.72971395
+              ],
+              [
+                -97.32788086,
+                32.72971443
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571506,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32734621,
+                32.73042098
+              ],
+              [
+                -97.32733552,
+                32.72971267
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 89733815,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "name": "S Main St.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32587848,
+                32.7318409
+              ],
+              [
+                -97.32587845,
+                32.73176079
+              ],
+              [
+                -97.32586992,
+                32.73130497
+              ],
+              [
+                -97.32589291,
+                32.73059599
+              ],
+              [
+                -97.32588492,
+                32.730514
+              ],
+              [
+                -97.32589291,
+                32.73018399
+              ],
+              [
+                -97.32589291,
+                32.73001298
+              ],
+              [
+                -97.32590989,
+                32.72987099
+              ],
+              [
+                -97.32597394,
+                32.72972302
+              ],
+              [
+                -97.32606207,
+                32.7295901
+              ],
+              [
+                -97.3261139,
+                32.72951196
+              ],
+              [
+                -97.32619232,
+                32.72943306
+              ],
+              [
+                -97.32627892,
+                32.72931397
+              ],
+              [
+                -97.32635303,
+                32.72914839
+              ],
+              [
+                -97.32637809,
+                32.72906398
+              ],
+              [
+                -97.32638618,
+                32.7289866
+              ],
+              [
+                -97.32639561,
+                32.72817135
+              ],
+              [
+                -97.32639006,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28072822,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "name": "Fort Worth Subdivision",
+            "operator": "UP",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3223877,
+                32.72765908
+              ],
+              [
+                -97.32242633,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28073129,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 359,
+            "service": "yard",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32252324,
+                32.72767606
+              ],
+              [
+                -97.32255522,
+                32.72749295
+              ],
+              [
+                -97.32258864,
+                32.72734332
+              ],
+              [
+                -97.32260847,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 102656188,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 359,
+            "service": "yard",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3223877,
+                32.72925615
+              ],
+              [
+                -97.32243844,
+                32.72882911
+              ],
+              [
+                -97.32246135,
+                32.72849691
+              ],
+              [
+                -97.32250384,
+                32.72816508
+              ],
+              [
+                -97.32257247,
+                32.72795567
+              ],
+              [
+                -97.32268503,
+                32.72775209
+              ],
+              [
+                -97.32279399,
+                32.72758757
+              ],
+              [
+                -97.32295219,
+                32.72740061
+              ],
+              [
+                -97.32313336,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 345412324,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32419599,
+                32.73051929
+              ],
+              [
+                -97.32376741,
+                32.73053901
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10052046,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32589291,
+                32.73059599
+              ],
+              [
+                -97.3260529,
+                32.73063196
+              ],
+              [
+                -97.32622592,
+                32.730643
+              ],
+              [
+                -97.32642445,
+                32.73064352
+              ],
+              [
+                -97.32693388,
+                32.73063997
+              ],
+              [
+                -97.32706836,
+                32.73064322
+              ],
+              [
+                -97.32724721,
+                32.73065282
+              ],
+              [
+                -97.32788086,
+                32.7306522
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571504,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32692499,
+                32.72971139
+              ],
+              [
+                -97.32692687,
+                32.73041727
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10038273,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Crawford St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32426659,
+                32.7318409
+              ],
+              [
+                -97.32426984,
+                32.73174205
+              ],
+              [
+                -97.32438051,
+                32.73153727
+              ],
+              [
+                -97.32438428,
+                32.7305236
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 50717400,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bryan St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32503493,
+                32.73053697
+              ],
+              [
+                -97.32503592,
+                32.73033702
+              ],
+              [
+                -97.32500394,
+                32.72948302
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571510,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3267323,
+                32.73041591
+              ],
+              [
+                -97.32672862,
+                32.72971078
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571512,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32772359,
+                32.73042407
+              ],
+              [
+                -97.32772098,
+                32.72971395
+              ],
+              [
+                -97.32772332,
+                32.72935999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571514,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32752264,
+                32.729398
+              ],
+              [
+                -97.32753593,
+                32.72937616
+              ],
+              [
+                -97.3275636,
+                32.72935976
+              ],
+              [
+                -97.32772332,
+                32.72935999
+              ],
+              [
+                -97.32786274,
+                32.72936029
+              ],
+              [
+                -97.32788086,
+                32.72936604
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 345411283,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "name": "Saint Joseph Ct.",
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32448792,
+                32.72721987
+              ],
+              [
+                -97.32438293,
+                32.72755802
+              ],
+              [
+                -97.32436191,
+                32.72764598
+              ],
+              [
+                -97.32438293,
+                32.72773599
+              ],
+              [
+                -97.32444689,
+                32.7278
+              ],
+              [
+                -97.32451094,
+                32.72782599
+              ],
+              [
+                -97.32481987,
+                32.72785297
+              ],
+              [
+                -97.3249159,
+                32.72789801
+              ],
+              [
+                -97.32491734,
+                32.72797736
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053915,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3261139,
+                32.72951196
+              ],
+              [
+                -97.32576589,
+                32.72949496
+              ],
+              [
+                -97.32500394,
+                32.72948302
+              ],
+              [
+                -97.32466492,
+                32.72950501
+              ],
+              [
+                -97.32419222,
+                32.72949201
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064395,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32589291,
+                32.73059599
+              ],
+              [
+                -97.32578188,
+                32.730561
+              ],
+              [
+                -97.32566591,
+                32.73053697
+              ],
+              [
+                -97.32545588,
+                32.73052201
+              ],
+              [
+                -97.32524693,
+                32.73051702
+              ],
+              [
+                -97.32503493,
+                32.73053697
+              ],
+              [
+                -97.32458092,
+                32.73052798
+              ],
+              [
+                -97.32438428,
+                32.7305236
+              ],
+              [
+                -97.32419599,
+                32.73051929
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359194778,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "Galveston Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32707186,
+                32.7305672
+              ],
+              [
+                -97.32704204,
+                32.73053561
+              ],
+              [
+                -97.32704123,
+                32.73045219
+              ],
+              [
+                -97.32707644,
+                32.73042831
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571502,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32788086,
+                32.73042367
+              ],
+              [
+                -97.32787504,
+                32.73042551
+              ],
+              [
+                -97.32772359,
+                32.73042407
+              ],
+              [
+                -97.32751931,
+                32.73042226
+              ],
+              [
+                -97.32734621,
+                32.73042098
+              ],
+              [
+                -97.32708435,
+                32.73041841
+              ],
+              [
+                -97.32692687,
+                32.73041727
+              ],
+              [
+                -97.3267323,
+                32.73041591
+              ],
+              [
+                -97.32653063,
+                32.7304144
+              ],
+              [
+                -97.32636309,
+                32.73041319
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571509,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32653233,
+                32.72971018
+              ],
+              [
+                -97.32653063,
+                32.7304144
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571513,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32626931,
+                32.729707
+              ],
+              [
+                -97.32621909,
+                32.72978401
+              ],
+              [
+                -97.32618199,
+                32.72984416
+              ],
+              [
+                -97.32615989,
+                32.72988988
+              ],
+              [
+                -97.32614606,
+                32.72995139
+              ],
+              [
+                -97.32614794,
+                32.73027309
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571515,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32636309,
+                32.73041319
+              ],
+              [
+                -97.32633659,
+                32.73039997
+              ],
+              [
+                -97.32632276,
+                32.7303782
+              ],
+              [
+                -97.32632662,
+                32.73027732
+              ],
+              [
+                -97.32634045,
+                32.72991315
+              ],
+              [
+                -97.32633407,
+                32.72988285
+              ],
+              [
+                -97.32631889,
+                32.72985527
+              ],
+              [
+                -97.32629123,
+                32.72983199
+              ],
+              [
+                -97.32621909,
+                32.72978401
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571503,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32752731,
+                32.72971327
+              ],
+              [
+                -97.32752264,
+                32.729398
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571507,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32751662,
+                32.72971327
+              ],
+              [
+                -97.32751931,
+                32.73042226
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 359194779,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 358,
+            "name": "Galveston Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32713798,
+                32.72971207
+              ],
+              [
+                -97.32712145,
+                32.73037291
+              ],
+              [
+                -97.32708435,
+                32.73041841
+              ],
+              [
+                -97.32707644,
+                32.73042831
+              ],
+              [
+                -97.32709953,
+                32.73045219
+              ],
+              [
+                -97.32710124,
+                32.73053206
+              ],
+              [
+                -97.32707186,
+                32.7305672
+              ],
+              [
+                -97.32706845,
+                32.73064322
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10055282,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Feliks Gwozdz Pl.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32639552,
+                32.72817135
+              ],
+              [
+                -97.32660995,
+                32.72817498
+              ],
+              [
+                -97.32788086,
+                32.72817759
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28072819,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 359,
+            "service": "yard",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32246126,
+                32.72849691
+              ],
+              [
+                -97.32251147,
+                32.72786688
+              ],
+              [
+                -97.32252315,
+                32.72767606
+              ],
+              [
+                -97.32255042,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 102657211,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "name": "Ney Bypass",
+            "service": "spur",
+            "operator": "UP",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32398026,
+                32.72721987
+              ],
+              [
+                -97.32393719,
+                32.72730576
+              ],
+              [
+                -97.32380837,
+                32.72762346
+              ],
+              [
+                -97.32368566,
+                32.72805928
+              ],
+              [
+                -97.32357131,
+                32.72868659
+              ],
+              [
+                -97.32347591,
+                32.7292356
+              ],
+              [
+                -97.32324279,
+                32.73051151
+              ],
+              [
+                -97.3231332,
+                32.73119547
+              ],
+              [
+                -97.32305651,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 345412325,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Crawford St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32419599,
+                32.73051929
+              ],
+              [
+                -97.32419222,
+                32.72949201
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 366571505,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "parking_aisle",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32614794,
+                32.73027309
+              ],
+              [
+                -97.32632662,
+                32.73027732
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 20700432,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "name": "Fort Worth Subdivision",
+            "operator": "BNSF",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3233127,
+                32.7318409
+              ],
+              [
+                -97.32333523,
+                32.7317385
+              ],
+              [
+                -97.32347806,
+                32.73118066
+              ],
+              [
+                -97.32357032,
+                32.73070126
+              ],
+              [
+                -97.32365404,
+                32.73017961
+              ],
+              [
+                -97.32376552,
+                32.72945029
+              ],
+              [
+                -97.3238514,
+                32.72895932
+              ],
+              [
+                -97.32389695,
+                32.72861699
+              ],
+              [
+                -97.32408308,
+                32.7276741
+              ],
+              [
+                -97.32416042,
+                32.72732745
+              ],
+              [
+                -97.32419303,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 345411284,
+            "highway": "service",
+            "source": "openstreetmap.org",
+            "sort_key": 356,
+            "service": "driveway",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32536188,
+                32.72721987
+              ],
+              [
+                -97.32536389,
+                32.72790066
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 356841394,
+            "religion": "christian",
+            "name": "Mount Ephraim Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.31807164,
+              32.7298533
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356841443,
+            "religion": "christian",
+            "name": "Jerusalem Missionary Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.31946062,
+              32.73013109
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.31689453,
+              32.72721987
+            ],
+            [
+              -97.3223877,
+              32.72721987
+            ],
+            [
+              -97.3223877,
+              32.7318409
+            ],
+            [
+              -97.31689453,
+              32.7318409
+            ],
+            [
+              -97.31689453,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 89644405,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "name": "Evans Ave.",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31828765,
+                32.7318409
+              ],
+              [
+                -97.31827888,
+                32.73159099
+              ],
+              [
+                -97.31828095,
+                32.73096998
+              ],
+              [
+                -97.31828894,
+                32.73029296
+              ],
+              [
+                -97.31830287,
+                32.72904199
+              ],
+              [
+                -97.31830592,
+                32.72774196
+              ],
+              [
+                -97.31830444,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10051053,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "name": "Fort Worth Subdivision",
+            "operator": "UP",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32216642,
+                32.7318409
+              ],
+              [
+                -97.3222135,
+                32.73100308
+              ],
+              [
+                -97.32225779,
+                32.73036196
+              ],
+              [
+                -97.32228429,
+                32.7300253
+              ],
+              [
+                -97.3223877,
+                32.72836908
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419217290,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "name": "South Fwy.",
+            "oneway": "yes",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32078994,
+                32.73074267
+              ],
+              [
+                -97.32078886,
+                32.73033301
+              ],
+              [
+                -97.32080737,
+                32.72909852
+              ],
+              [
+                -97.32082845,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 56994130,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Veal St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31698811,
+                32.7318409
+              ],
+              [
+                -97.31698558,
+                32.73177772
+              ],
+              [
+                -97.31701351,
+                32.731582
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28072822,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "name": "Fort Worth Subdivision",
+            "operator": "UP",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32212155,
+                32.7318409
+              ],
+              [
+                -97.32216679,
+                32.73109988
+              ],
+              [
+                -97.32224144,
+                32.72999726
+              ],
+              [
+                -97.32230657,
+                32.72879216
+              ],
+              [
+                -97.3223602,
+                32.72797169
+              ],
+              [
+                -97.3223877,
+                32.72765908
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 102656188,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 359,
+            "service": "yard",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32228429,
+                32.7300253
+              ],
+              [
+                -97.32232328,
+                32.72976005
+              ],
+              [
+                -97.32236029,
+                32.72948679
+              ],
+              [
+                -97.3223877,
+                32.72925615
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10056281,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3201269,
+                32.72772496
+              ],
+              [
+                -97.31918789,
+                32.72773297
+              ],
+              [
+                -97.31830592,
+                32.72774196
+              ],
+              [
+                -97.31739692,
+                32.72774596
+              ],
+              [
+                -97.31689453,
+                32.7277436
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 89644195,
+            "is_link": "yes",
+            "highway": "motorway_link",
+            "source": "openstreetmap.org",
+            "sort_key": 375,
+            "oneway": "yes",
+            "kind": "highway"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32025189,
+                32.72721987
+              ],
+              [
+                -97.32020658,
+                32.72802437
+              ],
+              [
+                -97.32009689,
+                32.73029198
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 50715765,
+            "ref": "I 35W",
+            "highway": "motorway",
+            "source": "openstreetmap.org",
+            "name": "South Fwy.",
+            "sort_key": 381,
+            "oneway": "yes",
+            "network": "US:I",
+            "kind": "highway"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32037705,
+                32.72721987
+              ],
+              [
+                -97.32034689,
+                32.728904
+              ],
+              [
+                -97.32031393,
+                32.72998903
+              ],
+              [
+                -97.32031087,
+                32.73025495
+              ],
+              [
+                -97.32030988,
+                32.73070398
+              ],
+              [
+                -97.32032752,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 122732987,
+            "ref": "I 35W",
+            "highway": "motorway",
+            "source": "openstreetmap.org",
+            "name": "South Fwy.",
+            "sort_key": 381,
+            "oneway": "yes",
+            "network": "US:I",
+            "kind": "highway"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32057812,
+                32.73154928
+              ],
+              [
+                -97.32057192,
+                32.730162
+              ],
+              [
+                -97.32056788,
+                32.72986698
+              ],
+              [
+                -97.32055288,
+                32.72905801
+              ],
+              [
+                -97.32060006,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10062013,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Stewart St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31740392,
+                32.73029198
+              ],
+              [
+                -97.31739988,
+                32.72903602
+              ],
+              [
+                -97.31739692,
+                32.72774596
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 56868720,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Short St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31766032,
+                32.7318409
+              ],
+              [
+                -97.31766381,
+                32.73157648
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10072984,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Missouri Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3192019,
+                32.73029901
+              ],
+              [
+                -97.31919992,
+                32.72902801
+              ],
+              [
+                -97.31917792,
+                32.72818102
+              ],
+              [
+                -97.31918789,
+                32.72773297
+              ],
+              [
+                -97.31919961,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066429,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Oleander St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31827888,
+                32.73159099
+              ],
+              [
+                -97.31766381,
+                32.73157648
+              ],
+              [
+                -97.31701351,
+                32.731582
+              ],
+              [
+                -97.31689453,
+                32.731582
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10072982,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Missouri Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31903024,
+                32.7318409
+              ],
+              [
+                -97.31902188,
+                32.73096401
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066738,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Winder St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31929389,
+                32.73133202
+              ],
+              [
+                -97.31919894,
+                32.73096303
+              ],
+              [
+                -97.31930188,
+                32.73029697
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 50707265,
+            "ref": "I 35W",
+            "highway": "motorway",
+            "source": "openstreetmap.org",
+            "name": "South Fwy.",
+            "sort_key": 381,
+            "oneway": "yes",
+            "network": "US:I",
+            "kind": "highway"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3205794,
+                32.7318409
+              ],
+              [
+                -97.32057812,
+                32.73154928
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419217289,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "name": "South Fwy.",
+            "oneway": "yes",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32013979,
+                32.72721987
+              ],
+              [
+                -97.3201269,
+                32.72772496
+              ],
+              [
+                -97.3200959,
+                32.729007
+              ],
+              [
+                -97.32009689,
+                32.73029198
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064396,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32009689,
+                32.73029198
+              ],
+              [
+                -97.31955287,
+                32.73029599
+              ],
+              [
+                -97.31930188,
+                32.73029697
+              ],
+              [
+                -97.3192019,
+                32.73029901
+              ],
+              [
+                -97.31828894,
+                32.73029296
+              ],
+              [
+                -97.31740392,
+                32.73029198
+              ],
+              [
+                -97.31689453,
+                32.73029675
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 173063197,
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "South Fwy.",
+            "oneway": "yes",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32080128,
+                32.7318409
+              ],
+              [
+                -97.32078994,
+                32.73074267
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 89644191,
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "South Fwy.",
+            "oneway": "yes",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32010552,
+                32.73174719
+              ],
+              [
+                -97.32010477,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053920,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32169589,
+                32.72908295
+              ],
+              [
+                -97.32080737,
+                32.72909852
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10050710,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Arizona Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3217109,
+                32.730604
+              ],
+              [
+                -97.32170793,
+                32.73031699
+              ],
+              [
+                -97.32169589,
+                32.72908295
+              ],
+              [
+                -97.32167523,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 337536588,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32202989,
+                32.73031609
+              ],
+              [
+                -97.32170793,
+                32.73031699
+              ],
+              [
+                -97.32149494,
+                32.73030997
+              ],
+              [
+                -97.32078886,
+                32.73033301
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10031925,
+            "is_link": "yes",
+            "highway": "motorway_link",
+            "source": "openstreetmap.org",
+            "sort_key": 375,
+            "oneway": "yes",
+            "kind": "highway"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32078994,
+                32.73074267
+              ],
+              [
+                -97.32074359,
+                32.73029009
+              ],
+              [
+                -97.32074988,
+                32.72807938
+              ],
+              [
+                -97.32068808,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419224420,
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "South Fwy.",
+            "oneway": "yes",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32009689,
+                32.73029198
+              ],
+              [
+                -97.32010291,
+                32.73095298
+              ],
+              [
+                -97.32010552,
+                32.73174719
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053918,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3200959,
+                32.729007
+              ],
+              [
+                -97.31919992,
+                32.72902801
+              ],
+              [
+                -97.31830287,
+                32.72904199
+              ],
+              [
+                -97.31739988,
+                32.72903602
+              ],
+              [
+                -97.31689453,
+                32.72903244
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10057562,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Irma St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.32010291,
+                32.73095298
+              ],
+              [
+                -97.31919894,
+                32.73096303
+              ],
+              [
+                -97.31902188,
+                32.73096401
+              ],
+              [
+                -97.31828095,
+                32.73096998
+              ],
+              [
+                -97.31689453,
+                32.73097576
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 356856917,
+          "religion": "christian",
+          "name": "Holy Spirit Deliverance Church",
+          "min_zoom": 17,
+          "kind": "place_of_worship"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.31507827,
+            32.73166701
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.31140137,
+              32.72721987
+            ],
+            [
+              -97.31689453,
+              32.72721987
+            ],
+            [
+              -97.31689453,
+              32.7318409
+            ],
+            [
+              -97.31140137,
+              32.7318409
+            ],
+            [
+              -97.31140137,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 10060996,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Stone St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31284538,
+                32.7318409
+              ],
+              [
+                -97.31284551,
+                32.73159099
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10056281,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31689453,
+                32.7277436
+              ],
+              [
+                -97.31654486,
+                32.72774196
+              ],
+              [
+                -97.3156099,
+                32.72774997
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10069035,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Illinois Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31454536,
+                32.7318409
+              ],
+              [
+                -97.31452689,
+                32.73150999
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10046066,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Bransford St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31386591,
+                32.73034699
+              ],
+              [
+                -97.31385692,
+                32.72968101
+              ],
+              [
+                -97.31383689,
+                32.72943601
+              ],
+              [
+                -97.31380392,
+                32.72940699
+              ],
+              [
+                -97.31378093,
+                32.72939702
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10066429,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Oleander St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31689453,
+                32.731582
+              ],
+              [
+                -97.31607388,
+                32.731582
+              ],
+              [
+                -97.31578192,
+                32.73156099
+              ],
+              [
+                -97.31564188,
+                32.731535
+              ],
+              [
+                -97.31557387,
+                32.73152699
+              ],
+              [
+                -97.31550695,
+                32.73152397
+              ],
+              [
+                -97.31528893,
+                32.73150999
+              ],
+              [
+                -97.31452689,
+                32.73150999
+              ],
+              [
+                -97.31431686,
+                32.73150198
+              ],
+              [
+                -97.31413486,
+                32.73151301
+              ],
+              [
+                -97.31391693,
+                32.73154301
+              ],
+              [
+                -97.31367295,
+                32.731595
+              ],
+              [
+                -97.31355392,
+                32.731612
+              ],
+              [
+                -97.31302787,
+                32.73161397
+              ],
+              [
+                -97.31284551,
+                32.73159099
+              ],
+              [
+                -97.3116009,
+                32.731612
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10071980,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "New York Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31565677,
+                32.7318409
+              ],
+              [
+                -97.31564188,
+                32.731535
+              ],
+              [
+                -97.31564089,
+                32.73148399
+              ],
+              [
+                -97.31563694,
+                32.73098101
+              ],
+              [
+                -97.31563487,
+                32.73031299
+              ],
+              [
+                -97.31562193,
+                32.72902499
+              ],
+              [
+                -97.31561187,
+                32.72791902
+              ],
+              [
+                -97.3156099,
+                32.72774997
+              ],
+              [
+                -97.31560604,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053918,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31689453,
+                32.72903244
+              ],
+              [
+                -97.31654693,
+                32.72902998
+              ],
+              [
+                -97.31562193,
+                32.72902499
+              ],
+              [
+                -97.31475794,
+                32.72902801
+              ],
+              [
+                -97.31452689,
+                32.72902401
+              ],
+              [
+                -97.31384588,
+                32.72896801
+              ],
+              [
+                -97.31351395,
+                32.72892698
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10046403,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Hillside Park Dr.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31347092,
+                32.730325
+              ],
+              [
+                -97.31340094,
+                32.729913
+              ],
+              [
+                -97.31338495,
+                32.72975695
+              ],
+              [
+                -97.31340094,
+                32.72946397
+              ],
+              [
+                -97.31341388,
+                32.729385
+              ],
+              [
+                -97.31345394,
+                32.72914598
+              ],
+              [
+                -97.31351395,
+                32.72892698
+              ],
+              [
+                -97.31365193,
+                32.728543
+              ],
+              [
+                -97.31373188,
+                32.72818896
+              ],
+              [
+                -97.31375389,
+                32.72791396
+              ],
+              [
+                -97.31372793,
+                32.72766201
+              ],
+              [
+                -97.31367203,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10073535,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Dreiss St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31654792,
+                32.73029999
+              ],
+              [
+                -97.31654693,
+                32.72902998
+              ],
+              [
+                -97.31654486,
+                32.72774196
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053917,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31159793,
+                32.72920296
+              ],
+              [
+                -97.31140137,
+                32.72920109
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064396,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31689453,
+                32.73029675
+              ],
+              [
+                -97.31654792,
+                32.73029999
+              ],
+              [
+                -97.31563487,
+                32.73031299
+              ],
+              [
+                -97.31476494,
+                32.73032999
+              ],
+              [
+                -97.31386591,
+                32.73034699
+              ],
+              [
+                -97.3136469,
+                32.730351
+              ],
+              [
+                -97.31347092,
+                32.730325
+              ],
+              [
+                -97.31328587,
+                32.73028896
+              ],
+              [
+                -97.31310989,
+                32.73023697
+              ],
+              [
+                -97.31289294,
+                32.73014696
+              ],
+              [
+                -97.31250289,
+                32.72994799
+              ],
+              [
+                -97.31217187,
+                32.72983502
+              ],
+              [
+                -97.31206092,
+                32.72980502
+              ],
+              [
+                -97.31183787,
+                32.72978499
+              ],
+              [
+                -97.31140137,
+                32.72978081
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060997,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Stone St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31302787,
+                32.73161397
+              ],
+              [
+                -97.31259488,
+                32.73096998
+              ],
+              [
+                -97.31143192,
+                32.73070398
+              ],
+              [
+                -97.31140137,
+                32.73070167
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10057562,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Irma St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31689453,
+                32.73097576
+              ],
+              [
+                -97.31563694,
+                32.73098101
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10056282,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31561187,
+                32.72791902
+              ],
+              [
+                -97.31464286,
+                32.72793202
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10069034,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Illinois Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31476494,
+                32.73032999
+              ],
+              [
+                -97.31475794,
+                32.72902801
+              ],
+              [
+                -97.31476288,
+                32.728797
+              ],
+              [
+                -97.31474689,
+                32.728715
+              ],
+              [
+                -97.31466595,
+                32.728526
+              ],
+              [
+                -97.31464286,
+                32.72793202
+              ],
+              [
+                -97.3146371,
+                32.72721987
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [
+        {
+          "properties": {
+            "id": 356837381,
+            "religion": "christian",
+            "name": "Four Corners Missionary Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.30807133,
+              32.72985338
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356840756,
+            "religion": "christian",
+            "name": "Pure Fountain Missionary Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.30807133,
+              32.72957559
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356841314,
+            "religion": "christian",
+            "name": "Mansfield Avenue Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.30973797,
+              32.73124217
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 356858220,
+            "religion": "christian",
+            "name": "Light House Baptist Church",
+            "min_zoom": 17,
+            "kind": "place_of_worship"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -97.3079461,
+              32.72956047
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 266483,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -97.3059082,
+              32.72721987
+            ],
+            [
+              -97.31140137,
+              32.72721987
+            ],
+            [
+              -97.31140137,
+              32.7318409
+            ],
+            [
+              -97.3059082,
+              32.7318409
+            ],
+            [
+              -97.3059082,
+              32.72721987
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 10065281,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Freeman St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30941117,
+                32.7318409
+              ],
+              [
+                -97.30946273,
+                32.7317388
+              ],
+              [
+                -97.30960987,
+                32.73149601
+              ],
+              [
+                -97.30996488,
+                32.73100096
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10062050,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "W Argyle Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3059082,
+                32.73011514
+              ],
+              [
+                -97.30638995,
+                32.72973602
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10074827,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Yuma St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30737792,
+                32.72888095
+              ],
+              [
+                -97.30736893,
+                32.72801197
+              ],
+              [
+                -97.3073742,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 340311340,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "service": "spur",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3073816,
+                32.73170147
+              ],
+              [
+                -97.30751849,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10056284,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Myrtle St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31061994,
+                32.728079
+              ],
+              [
+                -97.30931387,
+                32.72805301
+              ],
+              [
+                -97.30736893,
+                32.72801197
+              ],
+              [
+                -97.30627389,
+                32.72800903
+              ],
+              [
+                -97.3059082,
+                32.72800903
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10072089,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Mansfield Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31101359,
+                32.7318409
+              ],
+              [
+                -97.31038592,
+                32.731329
+              ],
+              [
+                -97.31033095,
+                32.73128396
+              ],
+              [
+                -97.30996488,
+                32.73100096
+              ],
+              [
+                -97.30906693,
+                32.73030997
+              ],
+              [
+                -97.30838592,
+                32.72975401
+              ],
+              [
+                -97.30779087,
+                32.72926696
+              ],
+              [
+                -97.30737792,
+                32.72888095
+              ],
+              [
+                -97.30627389,
+                32.72800903
+              ],
+              [
+                -97.3059082,
+                32.72772011
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10025965,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Milano Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30931091,
+                32.72976398
+              ],
+              [
+                -97.30931091,
+                32.72889599
+              ],
+              [
+                -97.30931387,
+                32.72805301
+              ],
+              [
+                -97.30933275,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10043387,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Deming St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30660294,
+                32.73006595
+              ],
+              [
+                -97.30659988,
+                32.729737
+              ],
+              [
+                -97.30659288,
+                32.72887597
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10048371,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Kuroki St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3112139,
+                32.72977902
+              ],
+              [
+                -97.31086491,
+                32.729196
+              ],
+              [
+                -97.3106759,
+                32.72889501
+              ],
+              [
+                -97.31063188,
+                32.72876601
+              ],
+              [
+                -97.31062191,
+                32.72866497
+              ],
+              [
+                -97.31061994,
+                32.728079
+              ],
+              [
+                -97.3106172,
+                32.72721987
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 340311342,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 411,
+            "service": "spur",
+            "is_bridge": "yes",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30689049,
+                32.73123817
+              ],
+              [
+                -97.30738151,
+                32.73170147
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053917,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31140137,
+                32.72920109
+              ],
+              [
+                -97.31086491,
+                32.729196
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10064396,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Magnolia Ave.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31140137,
+                32.72978081
+              ],
+              [
+                -97.3112139,
+                32.72977902
+              ],
+              [
+                -97.31001887,
+                32.72977101
+              ],
+              [
+                -97.30931091,
+                32.72976398
+              ],
+              [
+                -97.30838592,
+                32.72975401
+              ],
+              [
+                -97.30659988,
+                32.729737
+              ],
+              [
+                -97.30638995,
+                32.72973602
+              ],
+              [
+                -97.3059082,
+                32.72972976
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10060997,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "Stone St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.31140137,
+                32.73070167
+              ],
+              [
+                -97.30996192,
+                32.73059297
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 10053914,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "name": "E Morphy St.",
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3106759,
+                32.72889501
+              ],
+              [
+                -97.30931091,
+                32.72889599
+              ],
+              [
+                -97.30856791,
+                32.72889599
+              ],
+              [
+                -97.30737792,
+                32.72888095
+              ],
+              [
+                -97.30659288,
+                32.72887597
+              ],
+              [
+                -97.3059082,
+                32.72887564
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419040661,
+            "ref": "US 287-P Business",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "E Rosedale St.",
+            "oneway": "yes",
+            "network": "US:US",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3059082,
+                32.73158607
+              ],
+              [
+                -97.30776949,
+                32.73157898
+              ],
+              [
+                -97.30834702,
+                32.73161971
+              ],
+              [
+                -97.3088719,
+                32.73173079
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 156270305,
+            "ref": "US 287-P Business",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "E Rosedale St.",
+            "oneway": "yes",
+            "network": "US:US",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30946282,
+                32.7317388
+              ],
+              [
+                -97.30890029,
+                32.73158457
+              ],
+              [
+                -97.30857115,
+                32.7315152
+              ],
+              [
+                -97.30833103,
+                32.73147681
+              ],
+              [
+                -97.30808561,
+                32.73144862
+              ],
+              [
+                -97.30756863,
+                32.73141477
+              ],
+              [
+                -97.3059082,
+                32.73141696
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419283723,
+            "ref": "US 287-P Business",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "E Rosedale St.",
+            "oneway": "yes",
+            "network": "US:US",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.30975446,
+                32.7318409
+              ],
+              [
+                -97.30946282,
+                32.7317388
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 419040652,
+            "ref": "US 287-P Business",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "E Rosedale St.",
+            "oneway": "yes",
+            "network": "US:US",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3088719,
+                32.73173079
+              ],
+              [
+                -97.30924946,
+                32.7318409
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 340311344,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "service": "spur",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -97.3059082,
+                32.7304465
+              ],
+              [
+                -97.30612468,
+                32.73063612
+              ],
+              [
+                -97.30632168,
+                32.73076927
+              ],
+              [
+                -97.30662414,
+                32.73100512
+              ],
+              [
+                -97.30689049,
+                32.73123817
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

@@ -9,7 +9,7 @@ boolean showoutput = true;
 //dimensions for box
 int boxw = 200;
 int boxh = int(boxw*(22.0/20.0));
-int numcols = 20;
+int numcols = 18;
 int numrows = 22;
 
 void initGraphics(){

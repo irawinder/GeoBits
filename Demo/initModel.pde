@@ -1,0 +1,7 @@
+class PedstrianModel{
+  
+}
+
+class CarModel{
+  
+}

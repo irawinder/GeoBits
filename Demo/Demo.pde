@@ -19,7 +19,7 @@ Last Updated: 8/15/16
   boolean initialized;
 
 RoadNetwork canvas, selection, handler;
-int posx, posy;
+int posx, posy, zoom;
 
 void setup(){
    size(1366, 768, P3D);
@@ -59,18 +59,21 @@ void draw(){
      
    
     mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
+    println(zoom);
     
-    if(lines && mercatorMap.getGeo(new PVector(0, 0)).x == left){
-//    Handler.clear();
-//    handler.drawRoads(Handler, c);
+    if(lines){
     image(Handler, 0, 0);
     }
-    else if(lines){
+    
+  if(map.getZoomLevel() != zoom){
+      if(lines){
       Handler.clear();
       handler.drawRoads(Handler, c);
       image(Handler, 0, 0);
-       left = mercatorMap.getGeo(new PVector(0, 0)).x;
+      zoom = map.getZoomLevel();
+      }
     }
+    
     if(!lines){
       Handler.clear();
     }
@@ -98,4 +101,13 @@ void draw(){
     }
     
     
+}
+
+void mouseDragged(){
+  if(lines){
+       Handler.clear();
+      handler.drawRoads(Handler, c);
+      image(Handler, 0, 0);
+       left = mercatorMap.getGeo(new PVector(0, 0)).x; 
+  }
 }

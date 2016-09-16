@@ -1,0 +1,7457 @@
+[
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.33789,
+              25.87899
+            ],
+            [
+              -101.42578,
+              25.87899
+            ],
+            [
+              -101.42578,
+              25.95804
+            ],
+            [
+              -101.33789,
+              25.95804
+            ],
+            [
+              -101.33789,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.25,
+              25.87899
+            ],
+            [
+              -101.33789,
+              25.87899
+            ],
+            [
+              -101.33789,
+              25.95804
+            ],
+            [
+              -101.25,
+              25.95804
+            ],
+            [
+              -101.25,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265802208,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.25,
+                25.89023
+              ],
+              [
+                -101.25025,
+                25.89016
+              ],
+              [
+                -101.25416,
+                25.89191
+              ],
+              [
+                -101.25668,
+                25.8915
+              ],
+              [
+                -101.26644,
+                25.87899
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 264047582,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.26651,
+                25.95804
+              ],
+              [
+                -101.2822,
+                25.87899
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.16211,
+              25.87899
+            ],
+            [
+              -101.25,
+              25.87899
+            ],
+            [
+              -101.25,
+              25.95804
+            ],
+            [
+              -101.16211,
+              25.95804
+            ],
+            [
+              -101.16211,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265802209,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Monclova-Saltillo",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.16211,
+                25.9254
+              ],
+              [
+                -101.16477,
+                25.92814
+              ],
+              [
+                -101.16682,
+                25.929
+              ],
+              [
+                -101.19214,
+                25.92688
+              ],
+              [
+                -101.20095,
+                25.9297
+              ],
+              [
+                -101.22046,
+                25.93164
+              ],
+              [
+                -101.22187,
+                25.93219
+              ],
+              [
+                -101.23288,
+                25.94338
+              ],
+              [
+                -101.24624,
+                25.95804
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265802208,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.16211,
+                25.92011
+              ],
+              [
+                -101.1636,
+                25.91916
+              ],
+              [
+                -101.16565,
+                25.91901
+              ],
+              [
+                -101.16786,
+                25.9202
+              ],
+              [
+                -101.17013,
+                25.92424
+              ],
+              [
+                -101.17182,
+                25.92593
+              ],
+              [
+                -101.17461,
+                25.92708
+              ],
+              [
+                -101.17757,
+                25.92708
+              ],
+              [
+                -101.18008,
+                25.9261
+              ],
+              [
+                -101.18199,
+                25.92429
+              ],
+              [
+                -101.18338,
+                25.91943
+              ],
+              [
+                -101.18518,
+                25.91777
+              ],
+              [
+                -101.18712,
+                25.91756
+              ],
+              [
+                -101.19334,
+                25.91956
+              ],
+              [
+                -101.19768,
+                25.91933
+              ],
+              [
+                -101.20976,
+                25.91401
+              ],
+              [
+                -101.21216,
+                25.91494
+              ],
+              [
+                -101.21275,
+                25.91728
+              ],
+              [
+                -101.21157,
+                25.91878
+              ],
+              [
+                -101.20861,
+                25.9202
+              ],
+              [
+                -101.20781,
+                25.92236
+              ],
+              [
+                -101.2091,
+                25.92422
+              ],
+              [
+                -101.21179,
+                25.9244
+              ],
+              [
+                -101.21308,
+                25.9234
+              ],
+              [
+                -101.21429,
+                25.92049
+              ],
+              [
+                -101.21796,
+                25.9194
+              ],
+              [
+                -101.21946,
+                25.91834
+              ],
+              [
+                -101.22077,
+                25.91293
+              ],
+              [
+                -101.22465,
+                25.91055
+              ],
+              [
+                -101.23089,
+                25.90937
+              ],
+              [
+                -101.23263,
+                25.90861
+              ],
+              [
+                -101.24777,
+                25.89115
+              ],
+              [
+                -101.24964,
+                25.89017
+              ],
+              [
+                -101.25,
+                25.89026
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.07422,
+              25.87899
+            ],
+            [
+              -101.16211,
+              25.87899
+            ],
+            [
+              -101.16211,
+              25.95804
+            ],
+            [
+              -101.07422,
+              25.95804
+            ],
+            [
+              -101.07422,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265802209,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Monclova-Saltillo",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.16049,
+                25.92373
+              ],
+              [
+                -101.16211,
+                25.92544
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298574,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -101.1523,
+                  25.91327
+                ],
+                [
+                  -101.15133,
+                  25.91393
+                ]
+              ],
+              [
+                [
+                  -101.15133,
+                  25.91393
+                ],
+                [
+                  -101.15252,
+                  25.91388
+                ]
+              ],
+              [
+                [
+                  -101.07422,
+                  25.93288
+                ],
+                [
+                  -101.09113,
+                  25.93032
+                ],
+                [
+                  -101.0937,
+                  25.92913
+                ],
+                [
+                  -101.09891,
+                  25.92521
+                ],
+                [
+                  -101.10162,
+                  25.92401
+                ],
+                [
+                  -101.11752,
+                  25.92372
+                ],
+                [
+                  -101.13417,
+                  25.9197
+                ],
+                [
+                  -101.13975,
+                  25.91616
+                ],
+                [
+                  -101.15133,
+                  25.91393
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265802213,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.14313,
+                25.87899
+              ],
+              [
+                -101.14579,
+                25.88497
+              ],
+              [
+                -101.14457,
+                25.89326
+              ],
+              [
+                -101.14487,
+                25.89458
+              ],
+              [
+                -101.15283,
+                25.91468
+              ],
+              [
+                -101.16049,
+                25.92373
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298567,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.13821,
+                25.91714
+              ],
+              [
+                -101.13893,
+                25.92621
+              ],
+              [
+                -101.14067,
+                25.92767
+              ],
+              [
+                -101.14114,
+                25.93399
+              ],
+              [
+                -101.13955,
+                25.94
+              ],
+              [
+                -101.13636,
+                25.94377
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265802210,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "service": "siding",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.08394,
+                25.93292
+              ],
+              [
+                -101.1109,
+                25.92792
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265802215,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.07422,
+                25.93447
+              ],
+              [
+                -101.07752,
+                25.93411
+              ],
+              [
+                -101.11914,
+                25.92639
+              ],
+              [
+                -101.15793,
+                25.92488
+              ],
+              [
+                -101.15999,
+                25.92404
+              ],
+              [
+                -101.16173,
+                25.92056
+              ],
+              [
+                -101.16211,
+                25.9203
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.98633,
+              25.87899
+            ],
+            [
+              -101.07422,
+              25.87899
+            ],
+            [
+              -101.07422,
+              25.95804
+            ],
+            [
+              -100.98633,
+              25.95804
+            ],
+            [
+              -100.98633,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 232005937,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.94473
+              ],
+              [
+                -101.00321,
+                25.94232
+              ],
+              [
+                -101.00886,
+                25.94109
+              ],
+              [
+                -101.02196,
+                25.94061
+              ],
+              [
+                -101.03227,
+                25.93914
+              ],
+              [
+                -101.05074,
+                25.9352
+              ],
+              [
+                -101.06793,
+                25.93379
+              ],
+              [
+                -101.07422,
+                25.9329
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265794119,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.94578
+              ],
+              [
+                -101.04701,
+                25.93744
+              ],
+              [
+                -101.07422,
+                25.93447
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [{
+        "properties": {
+          "id": 237588720,
+          "source": "openstreetmap.org",
+          "sort_key": 200,
+          "kind": "stream"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.9085,
+              25.95804
+            ],
+            [
+              -100.90798,
+              25.95754
+            ],
+            [
+              -100.9067,
+              25.95698
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5606043,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina - Ramos Arizpe",
+            "name:left": "Mina",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.90551,
+                25.95804
+              ],
+              [
+                -100.90553,
+                25.95695
+              ],
+              [
+                -100.89844,
+                25.95454
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5606043,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina - Ramos Arizpe",
+            "name:left": "Mina",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.89844,
+                25.95454
+              ],
+              [
+                -100.90553,
+                25.95695
+              ],
+              [
+                -100.90551,
+                25.95804
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "osm_relation": true,
+            "name:left:uk": "Коауїла",
+            "name:right:uk": "Нуево-Леон",
+            "name:left": "Coahuila de Zaragoza",
+            "kind": "state",
+            "id": -1661524,
+            "name:right:ru": "Нуэво-Леон",
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "id:left": -1661524,
+            "name": "Coahuila de Zaragoza - Nuevo León",
+            "sort_key": 256,
+            "name:left:pl": "Coahuila",
+            "id:right": -1661523,
+            "name:right": "Nuevo León",
+            "name:left:ru": "Коауила"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.89844,
+                25.95454
+              ],
+              [
+                -100.90553,
+                25.95695
+              ],
+              [
+                -100.90551,
+                25.95804
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "name:right:en": "Coahuila",
+            "name:right:uk": "Коауїла",
+            "osm_relation:right": true,
+            "name:right:pl": "Coahuila",
+            "kind": "state",
+            "name:right:ru": "Коауила",
+            "id": 139929208,
+            "admin_level": 4,
+            "id:left": 139929208,
+            "name": "Coahuila de Zaragoza",
+            "sort_key": 256,
+            "name:right": "Coahuila de Zaragoza",
+            "id:right": -1661524
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.90551,
+                25.95804
+              ],
+              [
+                -100.90553,
+                25.95695
+              ],
+              [
+                -100.89844,
+                25.95454
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [{
+        "properties": {
+          "id": 2714283737,
+          "min_zoom": 10,
+          "kind": "station",
+          "kind_tile_rank": 1
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -100.93675,
+            25.95098
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.89844,
+              25.87899
+            ],
+            [
+              -100.98633,
+              25.87899
+            ],
+            [
+              -100.98633,
+              25.95804
+            ],
+            [
+              -100.89844,
+              25.95804
+            ],
+            [
+              -100.89844,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 232007067,
+            "highway": "residential",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.93858,
+                  25.9491
+                ],
+                [
+                  -100.93899,
+                  25.94846
+                ]
+              ],
+              [
+                [
+                  -100.93899,
+                  25.94846
+                ],
+                [
+                  -100.93994,
+                  25.94685
+                ]
+              ],
+              [
+                [
+                  -100.93994,
+                  25.94685
+                ],
+                [
+                  -100.93952,
+                  25.94632
+                ]
+              ],
+              [
+                [
+                  -100.93952,
+                  25.94632
+                ],
+                [
+                  -100.93871,
+                  25.94532
+                ],
+                [
+                  -100.93832,
+                  25.94635
+                ]
+              ],
+              [
+                [
+                  -100.93832,
+                  25.94635
+                ],
+                [
+                  -100.93812,
+                  25.94687
+                ]
+              ],
+              [
+                [
+                  -100.93812,
+                  25.94687
+                ],
+                [
+                  -100.93771,
+                  25.94798
+                ],
+                [
+                  -100.93899,
+                  25.94846
+                ]
+              ],
+              [
+                [
+                  -100.93899,
+                  25.94846
+                ],
+                [
+                  -100.93939,
+                  25.94862
+                ]
+              ],
+              [
+                [
+                  -100.93939,
+                  25.94862
+                ],
+                [
+                  -100.93947,
+                  25.94864
+                ]
+              ],
+              [
+                [
+                  -100.93947,
+                  25.94864
+                ],
+                [
+                  -100.94031,
+                  25.94896
+                ]
+              ],
+              [
+                [
+                  -100.94031,
+                  25.94896
+                ],
+                [
+                  -100.94113,
+                  25.94927
+                ]
+              ],
+              [
+                [
+                  -100.94113,
+                  25.94927
+                ],
+                [
+                  -100.94193,
+                  25.94958
+                ]
+              ],
+              [
+                [
+                  -100.94113,
+                  25.94798
+                ],
+                [
+                  -100.94031,
+                  25.94896
+                ]
+              ],
+              [
+                [
+                  -100.94031,
+                  25.94896
+                ],
+                [
+                  -100.93956,
+                  25.94985
+                ]
+              ],
+              [
+                [
+                  -100.94092,
+                  25.94846
+                ],
+                [
+                  -100.94143,
+                  25.94861
+                ],
+                [
+                  -100.94113,
+                  25.94927
+                ]
+              ],
+              [
+                [
+                  -100.94113,
+                  25.94927
+                ],
+                [
+                  -100.94054,
+                  25.95045
+                ]
+              ],
+              [
+                [
+                  -100.93994,
+                  25.94685
+                ],
+                [
+                  -100.93812,
+                  25.94687
+                ]
+              ],
+              [
+                [
+                  -100.93812,
+                  25.94687
+                ],
+                [
+                  -100.93773,
+                  25.94688
+                ]
+              ],
+              [
+                [
+                  -100.93939,
+                  25.94862
+                ],
+                [
+                  -100.93969,
+                  25.94813
+                ]
+              ],
+              [
+                [
+                  -100.93952,
+                  25.94632
+                ],
+                [
+                  -100.93832,
+                  25.94635
+                ]
+              ],
+              [
+                [
+                  -100.93832,
+                  25.94635
+                ],
+                [
+                  -100.93802,
+                  25.94636
+                ]
+              ],
+              [
+                [
+                  -100.93947,
+                  25.94864
+                ],
+                [
+                  -100.93897,
+                  25.9494
+                ]
+              ],
+              [
+                [
+                  -100.93502,
+                  25.94366
+                ],
+                [
+                  -100.93618,
+                  25.94372
+                ]
+              ],
+              [
+                [
+                  -100.93618,
+                  25.94372
+                ],
+                [
+                  -100.93835,
+                  25.94386
+                ]
+              ],
+              [
+                [
+                  -100.9323,
+                  25.94546
+                ],
+                [
+                  -100.93315,
+                  25.94545
+                ]
+              ],
+              [
+                [
+                  -100.93315,
+                  25.94545
+                ],
+                [
+                  -100.93411,
+                  25.94544
+                ]
+              ],
+              [
+                [
+                  -100.93411,
+                  25.94544
+                ],
+                [
+                  -100.93505,
+                  25.94542
+                ]
+              ],
+              [
+                [
+                  -100.93505,
+                  25.94542
+                ],
+                [
+                  -100.9362,
+                  25.9454
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.9454
+                ],
+                [
+                  -100.93773,
+                  25.94538
+                ]
+              ],
+              [
+                [
+                  -100.93772,
+                  25.94548
+                ],
+                [
+                  -100.93725,
+                  25.94586
+                ]
+              ],
+              [
+                [
+                  -100.93768,
+                  25.94585
+                ],
+                [
+                  -100.93725,
+                  25.94586
+                ]
+              ],
+              [
+                [
+                  -100.93725,
+                  25.94586
+                ],
+                [
+                  -100.9362,
+                  25.94588
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.94588
+                ],
+                [
+                  -100.93506,
+                  25.94591
+                ]
+              ],
+              [
+                [
+                  -100.93506,
+                  25.94591
+                ],
+                [
+                  -100.9341,
+                  25.94593
+                ]
+              ],
+              [
+                [
+                  -100.9341,
+                  25.94593
+                ],
+                [
+                  -100.93316,
+                  25.94595
+                ]
+              ],
+              [
+                [
+                  -100.93316,
+                  25.94595
+                ],
+                [
+                  -100.93229,
+                  25.94595
+                ]
+              ],
+              [
+                [
+                  -100.93229,
+                  25.94595
+                ],
+                [
+                  -100.93145,
+                  25.94597
+                ]
+              ],
+              [
+                [
+                  -100.93145,
+                  25.94597
+                ],
+                [
+                  -100.93036,
+                  25.94601
+                ]
+              ],
+              [
+                [
+                  -100.93036,
+                  25.94601
+                ],
+                [
+                  -100.92895,
+                  25.94605
+                ]
+              ],
+              [
+                [
+                  -100.92895,
+                  25.94605
+                ],
+                [
+                  -100.9262,
+                  25.94613
+                ]
+              ],
+              [
+                [
+                  -100.92673,
+                  25.94676
+                ],
+                [
+                  -100.92891,
+                  25.94668
+                ]
+              ],
+              [
+                [
+                  -100.92891,
+                  25.94668
+                ],
+                [
+                  -100.93023,
+                  25.94664
+                ]
+              ],
+              [
+                [
+                  -100.93023,
+                  25.94664
+                ],
+                [
+                  -100.93133,
+                  25.9466
+                ]
+              ],
+              [
+                [
+                  -100.93133,
+                  25.9466
+                ],
+                [
+                  -100.93317,
+                  25.94653
+                ]
+              ],
+              [
+                [
+                  -100.93317,
+                  25.94653
+                ],
+                [
+                  -100.9341,
+                  25.94649
+                ]
+              ],
+              [
+                [
+                  -100.9341,
+                  25.94649
+                ],
+                [
+                  -100.93509,
+                  25.94646
+                ]
+              ],
+              [
+                [
+                  -100.93509,
+                  25.94646
+                ],
+                [
+                  -100.9362,
+                  25.94641
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.94641
+                ],
+                [
+                  -100.93754,
+                  25.94636
+                ]
+              ],
+              [
+                [
+                  -100.92884,
+                  25.9472
+                ],
+                [
+                  -100.93017,
+                  25.94715
+                ]
+              ],
+              [
+                [
+                  -100.93017,
+                  25.94715
+                ],
+                [
+                  -100.93123,
+                  25.94712
+                ]
+              ],
+              [
+                [
+                  -100.93123,
+                  25.94712
+                ],
+                [
+                  -100.93318,
+                  25.94703
+                ]
+              ],
+              [
+                [
+                  -100.93318,
+                  25.94703
+                ],
+                [
+                  -100.93409,
+                  25.947
+                ]
+              ],
+              [
+                [
+                  -100.93409,
+                  25.947
+                ],
+                [
+                  -100.93511,
+                  25.94697
+                ]
+              ],
+              [
+                [
+                  -100.93511,
+                  25.94697
+                ],
+                [
+                  -100.93621,
+                  25.94694
+                ]
+              ],
+              [
+                [
+                  -100.93621,
+                  25.94694
+                ],
+                [
+                  -100.9373,
+                  25.94691
+                ]
+              ],
+              [
+                [
+                  -100.93714,
+                  25.94744
+                ],
+                [
+                  -100.9373,
+                  25.94691
+                ]
+              ],
+              [
+                [
+                  -100.9373,
+                  25.94691
+                ],
+                [
+                  -100.93754,
+                  25.94636
+                ]
+              ],
+              [
+                [
+                  -100.93754,
+                  25.94636
+                ],
+                [
+                  -100.93768,
+                  25.94585
+                ]
+              ],
+              [
+                [
+                  -100.93768,
+                  25.94585
+                ],
+                [
+                  -100.93772,
+                  25.94548
+                ]
+              ],
+              [
+                [
+                  -100.93772,
+                  25.94548
+                ],
+                [
+                  -100.93773,
+                  25.94538
+                ]
+              ],
+              [
+                [
+                  -100.93773,
+                  25.94538
+                ],
+                [
+                  -100.93794,
+                  25.94485
+                ],
+                [
+                  -100.93619,
+                  25.94476
+                ]
+              ],
+              [
+                [
+                  -100.93619,
+                  25.94476
+                ],
+                [
+                  -100.93503,
+                  25.94468
+                ]
+              ],
+              [
+                [
+                  -100.93503,
+                  25.94468
+                ],
+                [
+                  -100.93413,
+                  25.94464
+                ]
+              ],
+              [
+                [
+                  -100.93413,
+                  25.94464
+                ],
+                [
+                  -100.93314,
+                  25.94456
+                ]
+              ],
+              [
+                [
+                  -100.93314,
+                  25.94456
+                ],
+                [
+                  -100.93269,
+                  25.94453
+                ]
+              ],
+              [
+                [
+                  -100.93618,
+                  25.94372
+                ],
+                [
+                  -100.93619,
+                  25.94476
+                ]
+              ],
+              [
+                [
+                  -100.93619,
+                  25.94476
+                ],
+                [
+                  -100.9362,
+                  25.9454
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.9454
+                ],
+                [
+                  -100.9362,
+                  25.94588
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.94588
+                ],
+                [
+                  -100.9362,
+                  25.94641
+                ]
+              ],
+              [
+                [
+                  -100.9362,
+                  25.94641
+                ],
+                [
+                  -100.93621,
+                  25.94694
+                ]
+              ],
+              [
+                [
+                  -100.93621,
+                  25.94694
+                ],
+                [
+                  -100.93621,
+                  25.94748
+                ]
+              ],
+              [
+                [
+                  -100.93502,
+                  25.9416
+                ],
+                [
+                  -100.93502,
+                  25.94366
+                ]
+              ],
+              [
+                [
+                  -100.93502,
+                  25.94366
+                ],
+                [
+                  -100.93503,
+                  25.94468
+                ]
+              ],
+              [
+                [
+                  -100.93503,
+                  25.94468
+                ],
+                [
+                  -100.93505,
+                  25.94542
+                ]
+              ],
+              [
+                [
+                  -100.93505,
+                  25.94542
+                ],
+                [
+                  -100.93506,
+                  25.94591
+                ]
+              ],
+              [
+                [
+                  -100.93506,
+                  25.94591
+                ],
+                [
+                  -100.93509,
+                  25.94646
+                ]
+              ],
+              [
+                [
+                  -100.93509,
+                  25.94646
+                ],
+                [
+                  -100.93511,
+                  25.94697
+                ]
+              ],
+              [
+                [
+                  -100.93511,
+                  25.94697
+                ],
+                [
+                  -100.93512,
+                  25.94816
+                ]
+              ],
+              [
+                [
+                  -100.93445,
+                  25.94814
+                ],
+                [
+                  -100.93437,
+                  25.94755
+                ]
+              ],
+              [
+                [
+                  -100.93413,
+                  25.94464
+                ],
+                [
+                  -100.93411,
+                  25.94544
+                ]
+              ],
+              [
+                [
+                  -100.93411,
+                  25.94544
+                ],
+                [
+                  -100.9341,
+                  25.94593
+                ]
+              ],
+              [
+                [
+                  -100.9341,
+                  25.94593
+                ],
+                [
+                  -100.9341,
+                  25.94649
+                ]
+              ],
+              [
+                [
+                  -100.9341,
+                  25.94649
+                ],
+                [
+                  -100.93409,
+                  25.947
+                ]
+              ],
+              [
+                [
+                  -100.93409,
+                  25.947
+                ],
+                [
+                  -100.9341,
+                  25.94756
+                ]
+              ],
+              [
+                [
+                  -100.92924,
+                  25.94458
+                ],
+                [
+                  -100.92895,
+                  25.94605
+                ]
+              ],
+              [
+                [
+                  -100.92895,
+                  25.94605
+                ],
+                [
+                  -100.92891,
+                  25.94668
+                ]
+              ],
+              [
+                [
+                  -100.92891,
+                  25.94668
+                ],
+                [
+                  -100.92884,
+                  25.9472
+                ]
+              ],
+              [
+                [
+                  -100.92884,
+                  25.9472
+                ],
+                [
+                  -100.92883,
+                  25.94777
+                ],
+                [
+                  -100.92999,
+                  25.94782
+                ]
+              ],
+              [
+                [
+                  -100.92999,
+                  25.94782
+                ],
+                [
+                  -100.93105,
+                  25.94795
+                ]
+              ],
+              [
+                [
+                  -100.93105,
+                  25.94795
+                ],
+                [
+                  -100.93188,
+                  25.94804
+                ]
+              ],
+              [
+                [
+                  -100.93188,
+                  25.94804
+                ],
+                [
+                  -100.9323,
+                  25.94809
+                ]
+              ],
+              [
+                [
+                  -100.9323,
+                  25.94809
+                ],
+                [
+                  -100.93319,
+                  25.94769
+                ],
+                [
+                  -100.93318,
+                  25.94703
+                ]
+              ],
+              [
+                [
+                  -100.93318,
+                  25.94703
+                ],
+                [
+                  -100.93317,
+                  25.94653
+                ]
+              ],
+              [
+                [
+                  -100.93317,
+                  25.94653
+                ],
+                [
+                  -100.93316,
+                  25.94595
+                ]
+              ],
+              [
+                [
+                  -100.93316,
+                  25.94595
+                ],
+                [
+                  -100.93315,
+                  25.94545
+                ]
+              ],
+              [
+                [
+                  -100.93315,
+                  25.94545
+                ],
+                [
+                  -100.93314,
+                  25.94456
+                ]
+              ],
+              [
+                [
+                  -100.93188,
+                  25.94804
+                ],
+                [
+                  -100.93195,
+                  25.94766
+                ]
+              ],
+              [
+                [
+                  -100.93195,
+                  25.94766
+                ],
+                [
+                  -100.9323,
+                  25.94809
+                ]
+              ],
+              [
+                [
+                  -100.9323,
+                  25.9446
+                ],
+                [
+                  -100.9323,
+                  25.94546
+                ]
+              ],
+              [
+                [
+                  -100.9323,
+                  25.94546
+                ],
+                [
+                  -100.93229,
+                  25.94595
+                ]
+              ],
+              [
+                [
+                  -100.93195,
+                  25.94766
+                ],
+                [
+                  -100.93168,
+                  25.94746
+                ]
+              ],
+              [
+                [
+                  -100.93105,
+                  25.94795
+                ],
+                [
+                  -100.93123,
+                  25.94712
+                ]
+              ],
+              [
+                [
+                  -100.93123,
+                  25.94712
+                ],
+                [
+                  -100.93133,
+                  25.9466
+                ]
+              ],
+              [
+                [
+                  -100.93133,
+                  25.9466
+                ],
+                [
+                  -100.93145,
+                  25.94597
+                ]
+              ],
+              [
+                [
+                  -100.92999,
+                  25.94782
+                ],
+                [
+                  -100.93017,
+                  25.94715
+                ]
+              ],
+              [
+                [
+                  -100.93017,
+                  25.94715
+                ],
+                [
+                  -100.93023,
+                  25.94664
+                ]
+              ],
+              [
+                [
+                  -100.93023,
+                  25.94664
+                ],
+                [
+                  -100.93036,
+                  25.94601
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28087911,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.94416,
+                  25.95606
+                ],
+                [
+                  -100.94401,
+                  25.95426
+                ],
+                [
+                  -100.94475,
+                  25.95373
+                ],
+                [
+                  -100.94595,
+                  25.95374
+                ]
+              ],
+              [
+                [
+                  -100.93422,
+                  25.95032
+                ],
+                [
+                  -100.93557,
+                  25.95012
+                ],
+                [
+                  -100.93666,
+                  25.94901
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232005947,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.89844,
+                25.91299
+              ],
+              [
+                -100.90114,
+                25.91594
+              ],
+              [
+                -100.90515,
+                25.91885
+              ],
+              [
+                -100.90586,
+                25.92024
+              ],
+              [
+                -100.90583,
+                25.92145
+              ],
+              [
+                -100.90092,
+                25.93129
+              ],
+              [
+                -100.9012,
+                25.93311
+              ],
+              [
+                -100.90187,
+                25.93396
+              ],
+              [
+                -100.90294,
+                25.93483
+              ],
+              [
+                -100.91441,
+                25.93834
+              ],
+              [
+                -100.91802,
+                25.93867
+              ],
+              [
+                -100.92079,
+                25.94077
+              ],
+              [
+                -100.93229,
+                25.94595
+              ],
+              [
+                -100.9323,
+                25.94763
+              ],
+              [
+                -100.93714,
+                25.94744
+              ],
+              [
+                -100.94092,
+                25.94846
+              ],
+              [
+                -100.95032,
+                25.94898
+              ],
+              [
+                -100.96159,
+                25.95135
+              ],
+              [
+                -100.97288,
+                25.94681
+              ],
+              [
+                -100.98633,
+                25.94475
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 237588719,
+            "highway": "road",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.9395,
+                25.94993
+              ],
+              [
+                -100.93884,
+                25.9506
+              ],
+              [
+                -100.94007,
+                25.95142
+              ],
+              [
+                -100.93989,
+                25.95219
+              ],
+              [
+                -100.93807,
+                25.95177
+              ],
+              [
+                -100.93698,
+                25.95203
+              ],
+              [
+                -100.93177,
+                25.95048
+              ],
+              [
+                -100.93057,
+                25.95104
+              ],
+              [
+                -100.92698,
+                25.95517
+              ],
+              [
+                -100.92418,
+                25.95516
+              ],
+              [
+                -100.9219,
+                25.95674
+              ],
+              [
+                -100.91536,
+                25.95784
+              ],
+              [
+                -100.91494,
+                25.95804
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265802216,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "service": "siding",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.92923,
+                  25.94897
+                ],
+                [
+                  -100.93922,
+                  25.95184
+                ]
+              ],
+              [
+                [
+                  -100.93922,
+                  25.95184
+                ],
+                [
+                  -100.94561,
+                  25.95368
+                ]
+              ],
+              [
+                [
+                  -100.92851,
+                  25.94868
+                ],
+                [
+                  -100.92923,
+                  25.94897
+                ]
+              ],
+              [
+                [
+                  -100.92923,
+                  25.94897
+                ],
+                [
+                  -100.92965,
+                  25.94914
+                ]
+              ],
+              [
+                [
+                  -100.92965,
+                  25.94914
+                ],
+                [
+                  -100.93842,
+                  25.95169
+                ]
+              ],
+              [
+                [
+                  -100.93842,
+                  25.95169
+                ],
+                [
+                  -100.93922,
+                  25.95184
+                ]
+              ],
+              [
+                [
+                  -100.93683,
+                  25.95086
+                ],
+                [
+                  -100.93486,
+                  25.95043
+                ]
+              ],
+              [
+                [
+                  -100.9368,
+                  25.95091
+                ],
+                [
+                  -100.93446,
+                  25.95039
+                ]
+              ],
+              [
+                [
+                  -100.93488,
+                  25.95032
+                ],
+                [
+                  -100.93064,
+                  25.94929
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298559,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.96222,
+                25.87899
+              ],
+              [
+                -100.96243,
+                25.89267
+              ],
+              [
+                -100.96157,
+                25.89608
+              ],
+              [
+                -100.96068,
+                25.89796
+              ],
+              [
+                -100.95742,
+                25.90148
+              ],
+              [
+                -100.95404,
+                25.90654
+              ],
+              [
+                -100.93794,
+                25.94485
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 183873137,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.94483,
+                  25.95804
+                ],
+                [
+                  -100.94377,
+                  25.95542
+                ],
+                [
+                  -100.94023,
+                  25.9521
+                ]
+              ],
+              [
+                [
+                  -100.89844,
+                  25.94085
+                ],
+                [
+                  -100.91945,
+                  25.94608
+                ],
+                [
+                  -100.93844,
+                  25.95155
+                ]
+              ],
+              [
+                [
+                  -100.93844,
+                  25.95155
+                ],
+                [
+                  -100.95328,
+                  25.95592
+                ],
+                [
+                  -100.97205,
+                  25.94791
+                ],
+                [
+                  -100.98633,
+                  25.9458
+                ]
+              ],
+              [
+                [
+                  -100.93844,
+                  25.95155
+                ],
+                [
+                  -100.93709,
+                  25.95077
+                ],
+                [
+                  -100.93666,
+                  25.94901
+                ],
+                [
+                  -100.94953,
+                  25.91808
+                ],
+                [
+                  -100.96195,
+                  25.89713
+                ],
+                [
+                  -100.96265,
+                  25.89521
+                ],
+                [
+                  -100.96303,
+                  25.89291
+                ],
+                [
+                  -100.96252,
+                  25.88063
+                ],
+                [
+                  -100.96283,
+                  25.87899
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Mina",
+            "name:left": "García",
+            "name:right": "Mina",
+            "id:right": -5606043,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.94135
+              ],
+              [
+                -100.81615,
+                25.93995
+              ],
+              [
+                -100.81826,
+                25.95009
+              ],
+              [
+                -100.8243,
+                25.94411
+              ],
+              [
+                -100.83442,
+                25.94504
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.83442,
+                25.94504
+              ],
+              [
+                -100.82724,
+                25.9205
+              ],
+              [
+                -100.82267,
+                25.91688
+              ],
+              [
+                -100.83245,
+                25.88198
+              ],
+              [
+                -100.83302,
+                25.87899
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5606043,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina - Ramos Arizpe",
+            "name:left": "Mina",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.89844,
+                25.95454
+              ],
+              [
+                -100.87688,
+                25.94722
+              ],
+              [
+                -100.83442,
+                25.94504
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.83302,
+                25.87899
+              ],
+              [
+                -100.83245,
+                25.88198
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5606043,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina",
+            "name:left": "Mina",
+            "id:right": 376220731,
+            "osm_relation:left": true,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.94135
+              ],
+              [
+                -100.81491,
+                25.94027
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5606043,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina - Ramos Arizpe",
+            "name:left": "Mina",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.87688,
+                25.94722
+              ],
+              [
+                -100.89844,
+                25.95454
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "osm_relation": true,
+            "name:left:uk": "Коауїла",
+            "name:right:uk": "Нуево-Леон",
+            "name:left": "Coahuila de Zaragoza",
+            "kind": "state",
+            "id": -1661524,
+            "name:right:ru": "Нуэво-Леон",
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "id:left": -1661524,
+            "name": "Coahuila de Zaragoza - Nuevo León",
+            "sort_key": 256,
+            "name:left:pl": "Coahuila",
+            "id:right": -1661523,
+            "name:right": "Nuevo León",
+            "name:left:ru": "Коауила"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.83302,
+                25.87899
+              ],
+              [
+                -100.83245,
+                25.88198
+              ],
+              [
+                -100.82267,
+                25.91688
+              ],
+              [
+                -100.82724,
+                25.9205
+              ],
+              [
+                -100.83442,
+                25.94504
+              ],
+              [
+                -100.87688,
+                25.94722
+              ],
+              [
+                -100.89844,
+                25.95454
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "name:right:en": "Coahuila",
+            "name:right:uk": "Коауїла",
+            "osm_relation:right": true,
+            "name:right:pl": "Coahuila",
+            "kind": "state",
+            "name:right:ru": "Коауила",
+            "id": 139929208,
+            "admin_level": 4,
+            "id:left": 139929208,
+            "name": "Coahuila de Zaragoza",
+            "sort_key": 256,
+            "name:right": "Coahuila de Zaragoza",
+            "id:right": -1661524
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.89844,
+                25.95454
+              ],
+              [
+                -100.87688,
+                25.94722
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -1661524,
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "name:left:uk": "Коауїла",
+            "id:left": -1661524,
+            "name:left:pl": "Coahuila",
+            "sort_key": 256,
+            "name": "Coahuila de Zaragoza",
+            "name:left": "Coahuila de Zaragoza",
+            "name:left:ru": "Коауила",
+            "id:right": 139929207,
+            "osm_relation:left": true,
+            "kind": "state"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.83245,
+                25.88198
+              ],
+              [
+                -100.83302,
+                25.87899
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.81055,
+              25.87899
+            ],
+            [
+              -100.89844,
+              25.87899
+            ],
+            [
+              -100.89844,
+              25.95804
+            ],
+            [
+              -100.81055,
+              25.95804
+            ],
+            [
+              -100.81055,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 232005947,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.91086
+              ],
+              [
+                -100.81298,
+                25.91081
+              ],
+              [
+                -100.81528,
+                25.91222
+              ],
+              [
+                -100.82013,
+                25.91319
+              ],
+              [
+                -100.82298,
+                25.91444
+              ],
+              [
+                -100.82771,
+                25.91394
+              ],
+              [
+                -100.83102,
+                25.91669
+              ],
+              [
+                -100.83405,
+                25.91684
+              ],
+              [
+                -100.85256,
+                25.90853
+              ],
+              [
+                -100.8543,
+                25.9067
+              ],
+              [
+                -100.86267,
+                25.89371
+              ],
+              [
+                -100.86752,
+                25.89052
+              ],
+              [
+                -100.87105,
+                25.8897
+              ],
+              [
+                -100.8739,
+                25.8901
+              ],
+              [
+                -100.87985,
+                25.8929
+              ],
+              [
+                -100.89844,
+                25.913
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265793875,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 361,
+            "service": "siding",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.86174,
+                25.93171
+              ],
+              [
+                -100.87627,
+                25.93532
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265793873,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.92304
+              ],
+              [
+                -100.8498,
+                25.93023
+              ],
+              [
+                -100.85664,
+                25.93044
+              ],
+              [
+                -100.89844,
+                25.94085
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 237820788,
+            "highway": "road",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.8277,
+                  25.95804
+                ],
+                [
+                  -100.82148,
+                  25.95357
+                ],
+                [
+                  -100.82029,
+                  25.95171
+                ]
+              ],
+              [
+                [
+                  -100.82029,
+                  25.95171
+                ],
+                [
+                  -100.81937,
+                  25.95302
+                ],
+                [
+                  -100.81888,
+                  25.95505
+                ],
+                [
+                  -100.81653,
+                  25.95599
+                ],
+                [
+                  -100.816,
+                  25.95804
+                ]
+              ],
+              [
+                [
+                  -100.82029,
+                  25.95171
+                ],
+                [
+                  -100.81834,
+                  25.95005
+                ],
+                [
+                  -100.8174,
+                  25.9485
+                ],
+                [
+                  -100.81871,
+                  25.94624
+                ],
+                [
+                  -100.81844,
+                  25.94458
+                ],
+                [
+                  -100.81784,
+                  25.94373
+                ],
+                [
+                  -100.81622,
+                  25.94354
+                ],
+                [
+                  -100.81467,
+                  25.94159
+                ],
+                [
+                  -100.81516,
+                  25.93944
+                ],
+                [
+                  -100.81465,
+                  25.93371
+                ],
+                [
+                  -100.81542,
+                  25.92377
+                ],
+                [
+                  -100.81055,
+                  25.92281
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232005943,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.8739,
+                  25.8901
+                ],
+                [
+                  -100.87153,
+                  25.88907
+                ],
+                [
+                  -100.87152,
+                  25.88795
+                ]
+              ],
+              [
+                [
+                  -100.87152,
+                  25.88795
+                ],
+                [
+                  -100.87206,
+                  25.88596
+                ]
+              ],
+              [
+                [
+                  -100.87152,
+                  25.88795
+                ],
+                [
+                  -100.86752,
+                  25.89052
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Mina",
+            "name:left": "García",
+            "name:right": "Mina",
+            "id:right": -5606043,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.75884,
+                  25.95804
+                ],
+                [
+                  -100.775,
+                  25.95022
+                ],
+                [
+                  -100.81055,
+                  25.94135
+                ]
+              ],
+              [
+                [
+                  -100.72266,
+                  25.94987
+                ],
+                [
+                  -100.72625,
+                  25.95804
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5606043,
+            "admin_level": 6,
+            "id:left": -5606043,
+            "sort_key": 254,
+            "name": "Mina",
+            "name:left": "Mina",
+            "id:right": 376220731,
+            "osm_relation:left": true,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.75884,
+                  25.95804
+                ],
+                [
+                  -100.775,
+                  25.95022
+                ],
+                [
+                  -100.81055,
+                  25.94135
+                ]
+              ],
+              [
+                [
+                  -100.72266,
+                  25.94987
+                ],
+                [
+                  -100.72625,
+                  25.95804
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.72266,
+              25.87899
+            ],
+            [
+              -100.81055,
+              25.87899
+            ],
+            [
+              -100.81055,
+              25.95804
+            ],
+            [
+              -100.72266,
+              25.95804
+            ],
+            [
+              -100.72266,
+              25.87899
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 232005947,
+            "highway": "tertiary",
+            "source": "openstreetmap.org",
+            "sort_key": 376,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.80827,
+                25.9147
+              ],
+              [
+                -100.80963,
+                25.91088
+              ],
+              [
+                -100.81055,
+                25.91085
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 265793588,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.72266,
+                25.9448
+              ],
+              [
+                -100.73871,
+                25.94375
+              ],
+              [
+                -100.75615,
+                25.93939
+              ],
+              [
+                -100.76382,
+                25.93673
+              ],
+              [
+                -100.7663,
+                25.93545
+              ],
+              [
+                -100.7792,
+                25.92493
+              ],
+              [
+                -100.78116,
+                25.92391
+              ],
+              [
+                -100.78494,
+                25.92353
+              ],
+              [
+                -100.79738,
+                25.92391
+              ],
+              [
+                -100.80443,
+                25.92206
+              ],
+              [
+                -100.81055,
+                25.92306
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 237820788,
+            "highway": "road",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.92276
+              ],
+              [
+                -100.80953,
+                25.92257
+              ],
+              [
+                -100.80684,
+                25.91815
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232005935,
+            "ref": "NL 129",
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "name": "Carretera Villa de García-Icamole-La Azufrosa",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.80814,
+                25.91502
+              ],
+              [
+                -100.80864,
+                25.91657
+              ],
+              [
+                -100.8038,
+                25.92186
+              ],
+              [
+                -100.78485,
+                25.92138
+              ],
+              [
+                -100.78007,
+                25.92317
+              ],
+              [
+                -100.77136,
+                25.93059
+              ],
+              [
+                -100.76262,
+                25.93512
+              ],
+              [
+                -100.75484,
+                25.93805
+              ],
+              [
+                -100.73354,
+                25.93943
+              ],
+              [
+                -100.72789,
+                25.93775
+              ],
+              [
+                -100.72598,
+                25.93688
+              ],
+              [
+                -100.72266,
+                25.93044
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232005948,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.80827,
+                25.9147
+              ],
+              [
+                -100.80814,
+                25.91502
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.33789,
+              25.79989
+            ],
+            [
+              -101.42578,
+              25.79989
+            ],
+            [
+              -101.42578,
+              25.87899
+            ],
+            [
+              -101.33789,
+              25.87899
+            ],
+            [
+              -101.33789,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.25,
+              25.79989
+            ],
+            [
+              -101.33789,
+              25.79989
+            ],
+            [
+              -101.33789,
+              25.87899
+            ],
+            [
+              -101.25,
+              25.87899
+            ],
+            [
+              -101.25,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265807560,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.26647,
+                25.87899
+              ],
+              [
+                -101.27346,
+                25.86991
+              ],
+              [
+                -101.30877,
+                25.83292
+              ],
+              [
+                -101.31919,
+                25.81975
+              ],
+              [
+                -101.32052,
+                25.8174
+              ],
+              [
+                -101.32115,
+                25.81489
+              ],
+              [
+                -101.32059,
+                25.80833
+              ],
+              [
+                -101.32089,
+                25.80601
+              ],
+              [
+                -101.32204,
+                25.80331
+              ],
+              [
+                -101.32458,
+                25.79989
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 264047582,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.28231,
+                25.87899
+              ],
+              [
+                -101.28344,
+                25.87444
+              ],
+              [
+                -101.29422,
+                25.85287
+              ],
+              [
+                -101.2983,
+                25.84992
+              ],
+              [
+                -101.29959,
+                25.84837
+              ],
+              [
+                -101.30006,
+                25.845
+              ],
+              [
+                -101.2983,
+                25.8415
+              ],
+              [
+                -101.29833,
+                25.83928
+              ],
+              [
+                -101.30335,
+                25.83445
+              ],
+              [
+                -101.31494,
+                25.81151
+              ],
+              [
+                -101.31689,
+                25.80517
+              ],
+              [
+                -101.31977,
+                25.79989
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.16211,
+              25.79989
+            ],
+            [
+              -101.25,
+              25.79989
+            ],
+            [
+              -101.25,
+              25.87899
+            ],
+            [
+              -101.16211,
+              25.87899
+            ],
+            [
+              -101.16211,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.07422,
+              25.79989
+            ],
+            [
+              -101.16211,
+              25.79989
+            ],
+            [
+              -101.16211,
+              25.87899
+            ],
+            [
+              -101.07422,
+              25.87899
+            ],
+            [
+              -101.07422,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 27061004,
+          "ref": "MEX 57",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "network": "MEX",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.11675,
+              25.79989
+            ],
+            [
+              -101.11857,
+              25.80673
+            ],
+            [
+              -101.13839,
+              25.85912
+            ],
+            [
+              -101.14088,
+              25.87376
+            ],
+            [
+              -101.14328,
+              25.87899
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.98633,
+              25.79989
+            ],
+            [
+              -101.07422,
+              25.79989
+            ],
+            [
+              -101.07422,
+              25.87899
+            ],
+            [
+              -100.98633,
+              25.87899
+            ],
+            [
+              -100.98633,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28087913,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.84137
+              ],
+              [
+                -101.00333,
+                25.81326
+              ],
+              [
+                -101.00794,
+                25.80471
+              ],
+              [
+                -101.00966,
+                25.80312
+              ],
+              [
+                -101.01093,
+                25.80265
+              ],
+              [
+                -101.01213,
+                25.80256
+              ],
+              [
+                -101.01387,
+                25.80344
+              ],
+              [
+                -101.01484,
+                25.80522
+              ],
+              [
+                -101.01458,
+                25.81219
+              ],
+              [
+                -101.01619,
+                25.81341
+              ],
+              [
+                -101.0186,
+                25.81324
+              ],
+              [
+                -101.01964,
+                25.81237
+              ],
+              [
+                -101.02252,
+                25.80714
+              ],
+              [
+                -101.02326,
+                25.79989
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298559,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.99267,
+                25.79989
+              ],
+              [
+                -100.9901,
+                25.80269
+              ],
+              [
+                -100.98886,
+                25.80314
+              ],
+              [
+                -100.98646,
+                25.81678
+              ],
+              [
+                -100.98633,
+                25.81702
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.89844,
+              25.79989
+            ],
+            [
+              -100.98633,
+              25.79989
+            ],
+            [
+              -100.98633,
+              25.87899
+            ],
+            [
+              -100.89844,
+              25.87899
+            ],
+            [
+              -100.89844,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28087913,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.96283,
+                25.87899
+              ],
+              [
+                -100.96315,
+                25.87738
+              ],
+              [
+                -100.9657,
+                25.87214
+              ],
+              [
+                -100.97375,
+                25.86217
+              ],
+              [
+                -100.98633,
+                25.84137
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298559,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.81703
+              ],
+              [
+                -100.97822,
+                25.83273
+              ],
+              [
+                -100.96297,
+                25.86831
+              ],
+              [
+                -100.96232,
+                25.87046
+              ],
+              [
+                -100.96262,
+                25.87575
+              ],
+              [
+                -100.96217,
+                25.87899
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.83306,
+                25.87899
+              ],
+              [
+                -100.83577,
+                25.86659
+              ],
+              [
+                -100.83712,
+                25.86381
+              ],
+              [
+                -100.84636,
+                25.85874
+              ],
+              [
+                -100.84707,
+                25.85789
+              ],
+              [
+                -100.8619,
+                25.81848
+              ],
+              [
+                -100.85166,
+                25.79989
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.85166,
+                  25.79989
+                ],
+                [
+                  -100.85429,
+                  25.80466
+                ]
+              ],
+              [
+                [
+                  -100.83404,
+                  25.87363
+                ],
+                [
+                  -100.83302,
+                  25.87899
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "osm_relation": true,
+            "name:left:uk": "Коауїла",
+            "name:right:uk": "Нуево-Леон",
+            "name:left": "Coahuila de Zaragoza",
+            "kind": "state",
+            "id": -1661524,
+            "name:right:ru": "Нуэво-Леон",
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "id:left": -1661524,
+            "name": "Coahuila de Zaragoza - Nuevo León",
+            "sort_key": 256,
+            "name:left:pl": "Coahuila",
+            "id:right": -1661523,
+            "name:right": "Nuevo León",
+            "name:left:ru": "Коауила"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.85166,
+                25.79989
+              ],
+              [
+                -100.8619,
+                25.81848
+              ],
+              [
+                -100.84707,
+                25.85789
+              ],
+              [
+                -100.84636,
+                25.85874
+              ],
+              [
+                -100.83712,
+                25.86381
+              ],
+              [
+                -100.83577,
+                25.86659
+              ],
+              [
+                -100.83306,
+                25.87899
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -1661524,
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "name:left:uk": "Коауїла",
+            "id:left": -1661524,
+            "name:left:pl": "Coahuila",
+            "sort_key": 256,
+            "name": "Coahuila de Zaragoza",
+            "name:left": "Coahuila de Zaragoza",
+            "name:left:ru": "Коауила",
+            "id:right": 139929207,
+            "osm_relation:left": true,
+            "kind": "state"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.85429,
+                  25.80466
+                ],
+                [
+                  -100.85166,
+                  25.79989
+                ]
+              ],
+              [
+                [
+                  -100.83302,
+                  25.87899
+                ],
+                [
+                  -100.83404,
+                  25.87363
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.81055,
+              25.79989
+            ],
+            [
+              -100.89844,
+              25.79989
+            ],
+            [
+              -100.89844,
+              25.87899
+            ],
+            [
+              -100.81055,
+              25.87899
+            ],
+            [
+              -100.81055,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.72266,
+              25.79989
+            ],
+            [
+              -100.81055,
+              25.79989
+            ],
+            [
+              -100.81055,
+              25.87899
+            ],
+            [
+              -100.72266,
+              25.87899
+            ],
+            [
+              -100.72266,
+              25.79989
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605803,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda - Ramos Arizpe",
+            "name:left": "General Cepeda",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.40273,
+                25.72074
+              ],
+              [
+                -101.40118,
+                25.72912
+              ],
+              [
+                -101.39342,
+                25.75205
+              ],
+              [
+                -101.42578,
+                25.75597
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605803,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda",
+            "name:left": "General Cepeda",
+            "id:right": 376225917,
+            "osm_relation:left": true,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -101.42578,
+                  25.75597
+                ],
+                [
+                  -101.39342,
+                  25.75205
+                ]
+              ],
+              [
+                [
+                  -101.40118,
+                  25.72912
+                ],
+                [
+                  -101.40273,
+                  25.72074
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.33789,
+              25.72074
+            ],
+            [
+              -101.42578,
+              25.72074
+            ],
+            [
+              -101.42578,
+              25.79989
+            ],
+            [
+              -101.33789,
+              25.79989
+            ],
+            [
+              -101.33789,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265807555,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.33789,
+                25.78193
+              ],
+              [
+                -101.36197,
+                25.74947
+              ],
+              [
+                -101.36247,
+                25.74713
+              ],
+              [
+                -101.36148,
+                25.74419
+              ],
+              [
+                -101.36224,
+                25.74215
+              ],
+              [
+                -101.37514,
+                25.73422
+              ],
+              [
+                -101.39004,
+                25.72164
+              ],
+              [
+                -101.39066,
+                25.72074
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 264047582,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.33789,
+                25.76679
+              ],
+              [
+                -101.35024,
+                25.74367
+              ],
+              [
+                -101.36993,
+                25.72074
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.25,
+              25.72074
+            ],
+            [
+              -101.33789,
+              25.72074
+            ],
+            [
+              -101.33789,
+              25.79989
+            ],
+            [
+              -101.25,
+              25.79989
+            ],
+            [
+              -101.25,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265807555,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.32458,
+                25.79989
+              ],
+              [
+                -101.33789,
+                25.78192
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 264047582,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.31973,
+                25.79989
+              ],
+              [
+                -101.32895,
+                25.78373
+              ],
+              [
+                -101.33789,
+                25.76672
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.16211,
+              25.72074
+            ],
+            [
+              -101.25,
+              25.72074
+            ],
+            [
+              -101.25,
+              25.79989
+            ],
+            [
+              -101.16211,
+              25.79989
+            ],
+            [
+              -101.16211,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.07422,
+              25.72074
+            ],
+            [
+              -101.16211,
+              25.72074
+            ],
+            [
+              -101.16211,
+              25.79989
+            ],
+            [
+              -101.07422,
+              25.79989
+            ],
+            [
+              -101.07422,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 222369293,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Monclova-Saltillo",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.11785,
+                25.72074
+              ],
+              [
+                -101.11765,
+                25.72267
+              ],
+              [
+                -101.11589,
+                25.72379
+              ],
+              [
+                -101.11411,
+                25.72674
+              ],
+              [
+                -101.11181,
+                25.73829
+              ],
+              [
+                -101.11188,
+                25.78426
+              ],
+              [
+                -101.10932,
+                25.7884
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 423719219,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Ojo Caliente-Santa Cruz",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.07422,
+                25.7608
+              ],
+              [
+                -101.08431,
+                25.76992
+              ],
+              [
+                -101.09965,
+                25.78036
+              ],
+              [
+                -101.11161,
+                25.79051
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 27061004,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.11161,
+                25.79051
+              ],
+              [
+                -101.11442,
+                25.79331
+              ],
+              [
+                -101.11672,
+                25.79989
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298559,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.10415,
+                25.78423
+              ],
+              [
+                -101.09501,
+                25.78432
+              ],
+              [
+                -101.08758,
+                25.78293
+              ],
+              [
+                -101.08353,
+                25.78422
+              ],
+              [
+                -101.07422,
+                25.78532
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 222369304,
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.1092,
+                25.78873
+              ],
+              [
+                -101.10925,
+                25.79007
+              ],
+              [
+                -101.10989,
+                25.79092
+              ],
+              [
+                -101.11369,
+                25.7924
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 222369294,
+            "ref": "MEX 57",
+            "highway": "secondary",
+            "source": "openstreetmap.org",
+            "sort_key": 377,
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.10932,
+                25.7884
+              ],
+              [
+                -101.1092,
+                25.78873
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.98633,
+              25.72074
+            ],
+            [
+              -101.07422,
+              25.72074
+            ],
+            [
+              -101.07422,
+              25.79989
+            ],
+            [
+              -100.98633,
+              25.79989
+            ],
+            [
+              -100.98633,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28087913,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.02326,
+                25.79989
+              ],
+              [
+                -101.02348,
+                25.79783
+              ],
+              [
+                -101.02293,
+                25.78097
+              ],
+              [
+                -101.02537,
+                25.76998
+              ],
+              [
+                -101.02651,
+                25.76717
+              ],
+              [
+                -101.0287,
+                25.76406
+              ],
+              [
+                -101.02897,
+                25.76155
+              ],
+              [
+                -101.02863,
+                25.75983
+              ],
+              [
+                -101.01606,
+                25.73352
+              ],
+              [
+                -101.01505,
+                25.72352
+              ],
+              [
+                -101.01373,
+                25.72074
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 423719219,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Ojo Caliente-Santa Cruz",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.0263,
+                25.72074
+              ],
+              [
+                -101.02973,
+                25.72359
+              ],
+              [
+                -101.04108,
+                25.73838
+              ],
+              [
+                -101.06698,
+                25.75465
+              ],
+              [
+                -101.07422,
+                25.76095
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 232298559,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -101.07422,
+                  25.78532
+                ],
+                [
+                  -101.0587,
+                  25.78714
+                ],
+                [
+                  -101.05437,
+                  25.78676
+                ],
+                [
+                  -101.0533,
+                  25.78809
+                ],
+                [
+                  -101.04673,
+                  25.78962
+                ]
+              ],
+              [
+                [
+                  -101.04673,
+                  25.78962
+                ],
+                [
+                  -101.03289,
+                  25.79337
+                ],
+                [
+                  -101.02307,
+                  25.7913
+                ],
+                [
+                  -101.02151,
+                  25.79151
+                ],
+                [
+                  -101.01641,
+                  25.78954
+                ],
+                [
+                  -101.01291,
+                  25.78909
+                ],
+                [
+                  -100.99294,
+                  25.7996
+                ],
+                [
+                  -100.99263,
+                  25.79989
+                ]
+              ],
+              [
+                [
+                  -101.04673,
+                  25.78962
+                ],
+                [
+                  -101.04278,
+                  25.78494
+                ],
+                [
+                  -101.04248,
+                  25.78368
+                ],
+                [
+                  -101.04317,
+                  25.78042
+                ],
+                [
+                  -101.04613,
+                  25.77292
+                ],
+                [
+                  -101.04604,
+                  25.77064
+                ],
+                [
+                  -101.04156,
+                  25.76647
+                ],
+                [
+                  -101.0372,
+                  25.75739
+                ],
+                [
+                  -101.02192,
+                  25.7437
+                ],
+                [
+                  -101.02111,
+                  25.74219
+                ],
+                [
+                  -101.02079,
+                  25.73937
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.89844,
+              25.72074
+            ],
+            [
+              -100.98633,
+              25.72074
+            ],
+            [
+              -100.98633,
+              25.79989
+            ],
+            [
+              -100.89844,
+              25.79989
+            ],
+            [
+              -100.89844,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.85166,
+                25.79989
+              ],
+              [
+                -100.82512,
+                25.75172
+              ],
+              [
+                -100.81055,
+                25.73124
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.84392,
+                  25.78586
+                ],
+                [
+                  -100.85166,
+                  25.79989
+                ]
+              ],
+              [
+                [
+                  -100.81055,
+                  25.73124
+                ],
+                [
+                  -100.82391,
+                  25.75002
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "osm_relation": true,
+            "name:left:uk": "Коауїла",
+            "name:right:uk": "Нуево-Леон",
+            "name:left": "Coahuila de Zaragoza",
+            "kind": "state",
+            "id": -1661524,
+            "name:right:ru": "Нуэво-Леон",
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "id:left": -1661524,
+            "name": "Coahuila de Zaragoza - Nuevo León",
+            "sort_key": 256,
+            "name:left:pl": "Coahuila",
+            "id:right": -1661523,
+            "name:right": "Nuevo León",
+            "name:left:ru": "Коауила"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.73124
+              ],
+              [
+                -100.82512,
+                25.75172
+              ],
+              [
+                -100.85166,
+                25.79989
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -1661524,
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "name:left:uk": "Коауїла",
+            "id:left": -1661524,
+            "name:left:pl": "Coahuila",
+            "sort_key": 256,
+            "name": "Coahuila de Zaragoza",
+            "name:left": "Coahuila de Zaragoza",
+            "name:left:ru": "Коауила",
+            "id:right": 139929207,
+            "osm_relation:left": true,
+            "kind": "state"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -100.85166,
+                  25.79989
+                ],
+                [
+                  -100.84392,
+                  25.78586
+                ]
+              ],
+              [
+                [
+                  -100.82391,
+                  25.75002
+                ],
+                [
+                  -100.81055,
+                  25.73124
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.81055,
+              25.72074
+            ],
+            [
+              -100.89844,
+              25.72074
+            ],
+            [
+              -100.89844,
+              25.79989
+            ],
+            [
+              -100.81055,
+              25.79989
+            ],
+            [
+              -100.81055,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.73124
+              ],
+              [
+                -100.80561,
+                25.7243
+              ],
+              [
+                -100.80517,
+                25.72074
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605799,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605799,
+            "sort_key": 254,
+            "name": "García - Ramos Arizpe",
+            "name:left": "García",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.80517,
+                25.72074
+              ],
+              [
+                -100.80561,
+                25.7243
+              ],
+              [
+                -100.81055,
+                25.73124
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "osm_relation": true,
+            "name:left:uk": "Коауїла",
+            "name:right:uk": "Нуево-Леон",
+            "name:left": "Coahuila de Zaragoza",
+            "kind": "state",
+            "id": -1661524,
+            "name:right:ru": "Нуэво-Леон",
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "id:left": -1661524,
+            "name": "Coahuila de Zaragoza - Nuevo León",
+            "sort_key": 256,
+            "name:left:pl": "Coahuila",
+            "id:right": -1661523,
+            "name:right": "Nuevo León",
+            "name:left:ru": "Коауила"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.80517,
+                25.72074
+              ],
+              [
+                -100.80561,
+                25.7243
+              ],
+              [
+                -100.81055,
+                25.73124
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -1661524,
+            "name:left:en": "Coahuila",
+            "admin_level": 4,
+            "name:left:uk": "Коауїла",
+            "id:left": -1661524,
+            "name:left:pl": "Coahuila",
+            "sort_key": 256,
+            "name": "Coahuila de Zaragoza",
+            "name:left": "Coahuila de Zaragoza",
+            "name:left:ru": "Коауила",
+            "id:right": 139929207,
+            "osm_relation:left": true,
+            "kind": "state"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.81055,
+                25.73124
+              ],
+              [
+                -100.80561,
+                25.7243
+              ],
+              [
+                -100.80517,
+                25.72074
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.72266,
+              25.72074
+            ],
+            [
+              -100.81055,
+              25.72074
+            ],
+            [
+              -100.81055,
+              25.79989
+            ],
+            [
+              -100.72266,
+              25.79989
+            ],
+            [
+              -100.72266,
+              25.72074
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 289704966,
+          "highway": "tertiary",
+          "source": "openstreetmap.org",
+          "sort_key": 376,
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -100.72266,
+              25.79097
+            ],
+            [
+              -100.73615,
+              25.79392
+            ],
+            [
+              -100.74013,
+              25.79387
+            ],
+            [
+              -100.74556,
+              25.79572
+            ],
+            [
+              -100.75742,
+              25.79301
+            ],
+            [
+              -100.77205,
+              25.79211
+            ],
+            [
+              -100.77291,
+              25.79239
+            ],
+            [
+              -100.77318,
+              25.79324
+            ],
+            [
+              -100.77256,
+              25.79587
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605803,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda - Ramos Arizpe",
+            "name:left": "General Cepeda",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -101.42578,
+                  25.67715
+                ],
+                [
+                  -101.41564,
+                  25.68309
+                ],
+                [
+                  -101.41217,
+                  25.69755
+                ],
+                [
+                  -101.40698,
+                  25.69938
+                ],
+                [
+                  -101.40275,
+                  25.72074
+                ]
+              ],
+              [
+                [
+                  -101.33789,
+                  25.64378
+                ],
+                [
+                  -101.34222,
+                  25.65278
+                ],
+                [
+                  -101.36224,
+                  25.66108
+                ],
+                [
+                  -101.36353,
+                  25.64153
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605803,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda",
+            "name:left": "General Cepeda",
+            "id:right": 376225917,
+            "osm_relation:left": true,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -101.41564,
+                  25.68309
+                ],
+                [
+                  -101.42578,
+                  25.67715
+                ]
+              ],
+              [
+                [
+                  -101.40273,
+                  25.72074
+                ],
+                [
+                  -101.40377,
+                  25.71507
+                ]
+              ],
+              [
+                [
+                  -101.34222,
+                  25.65278
+                ],
+                [
+                  -101.33789,
+                  25.64378
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.33789,
+              25.64153
+            ],
+            [
+              -101.42578,
+              25.64153
+            ],
+            [
+              -101.42578,
+              25.72074
+            ],
+            [
+              -101.33789,
+              25.72074
+            ],
+            [
+              -101.33789,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 265807555,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.39074,
+                25.72074
+              ],
+              [
+                -101.3912,
+                25.72024
+              ],
+              [
+                -101.39207,
+                25.71814
+              ],
+              [
+                -101.39193,
+                25.70888
+              ],
+              [
+                -101.39296,
+                25.70656
+              ],
+              [
+                -101.39571,
+                25.70284
+              ],
+              [
+                -101.42578,
+                25.69155
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 264047582,
+            "highway": "unclassified",
+            "source": "openstreetmap.org",
+            "sort_key": 360,
+            "kind": "minor_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.36994,
+                25.72074
+              ],
+              [
+                -101.37712,
+                25.71251
+              ],
+              [
+                -101.39101,
+                25.70529
+              ],
+              [
+                -101.3978,
+                25.70043
+              ],
+              [
+                -101.40079,
+                25.69683
+              ],
+              [
+                -101.4051,
+                25.69548
+              ],
+              [
+                -101.41116,
+                25.69129
+              ],
+              [
+                -101.42578,
+                25.68741
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [
+        {
+          "properties": {
+            "id": -5605803,
+            "osm_relation": true,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda - Ramos Arizpe",
+            "name:left": "General Cepeda",
+            "name:right": "Ramos Arizpe",
+            "id:right": -5606182,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.33681,
+                25.64153
+              ],
+              [
+                -101.33789,
+                25.64378
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": -5605803,
+            "admin_level": 6,
+            "id:left": -5605803,
+            "sort_key": 254,
+            "name": "General Cepeda",
+            "name:left": "General Cepeda",
+            "id:right": 376225917,
+            "osm_relation:left": true,
+            "kind": "county"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.33789,
+                25.64378
+              ],
+              [
+                -101.33681,
+                25.64153
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.25,
+              25.64153
+            ],
+            [
+              -101.33789,
+              25.64153
+            ],
+            [
+              -101.33789,
+              25.72074
+            ],
+            [
+              -101.25,
+              25.72074
+            ],
+            [
+              -101.25,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.16211,
+              25.64153
+            ],
+            [
+              -101.25,
+              25.64153
+            ],
+            [
+              -101.25,
+              25.72074
+            ],
+            [
+              -101.16211,
+              25.72074
+            ],
+            [
+              -101.16211,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -101.07422,
+              25.64153
+            ],
+            [
+              -101.16211,
+              25.64153
+            ],
+            [
+              -101.16211,
+              25.72074
+            ],
+            [
+              -101.07422,
+              25.72074
+            ],
+            [
+              -101.07422,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [{
+        "properties": {
+          "id": 222369293,
+          "ref": "MEX 57",
+          "highway": "primary",
+          "source": "openstreetmap.org",
+          "sort_key": 378,
+          "name": "Carretera Monclova-Saltillo",
+          "kind": "major_road"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -101.11037,
+              25.64153
+            ],
+            [
+              -101.11074,
+              25.64311
+            ],
+            [
+              -101.11001,
+              25.65688
+            ],
+            [
+              -101.1122,
+              25.65752
+            ],
+            [
+              -101.11067,
+              25.6599
+            ],
+            [
+              -101.11299,
+              25.66891
+            ],
+            [
+              -101.11973,
+              25.67578
+            ],
+            [
+              -101.12198,
+              25.67914
+            ],
+            [
+              -101.12458,
+              25.69152
+            ],
+            [
+              -101.11861,
+              25.71331
+            ],
+            [
+              -101.11792,
+              25.72074
+            ]
+          ]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.98633,
+              25.64153
+            ],
+            [
+              -101.07422,
+              25.64153
+            ],
+            [
+              -101.07422,
+              25.72074
+            ],
+            [
+              -100.98633,
+              25.72074
+            ],
+            [
+              -100.98633,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28242467,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.9991,
+                25.67866
+              ],
+              [
+                -100.98824,
+                25.64919
+              ],
+              [
+                -100.98633,
+                25.64791
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 28087913,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "operator": "Ferromex",
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -101.01375,
+                25.72074
+              ],
+              [
+                -101.00957,
+                25.71345
+              ],
+              [
+                -101.00597,
+                25.70449
+              ],
+              [
+                -101.00288,
+                25.7017
+              ],
+              [
+                -101.00477,
+                25.69211
+              ],
+              [
+                -100.9991,
+                25.67866
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 423719219,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Ojo Caliente-Santa Cruz",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.68093
+              ],
+              [
+                -100.99219,
+                25.68674
+              ],
+              [
+                -101.00145,
+                25.697
+              ],
+              [
+                -101.01033,
+                25.7095
+              ],
+              [
+                -101.01345,
+                25.71207
+              ],
+              [
+                -101.02655,
+                25.72055
+              ],
+              [
+                -101.02675,
+                25.72074
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  },
+  {
+    "water": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "boundaries": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "buildings": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "pois": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "landuse": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "earth": {
+      "features": [{
+        "properties": {
+          "id": 265170,
+          "source": "openstreetmapdata.com",
+          "sort_key": 10,
+          "kind": "earth"
+        },
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [
+              -100.89844,
+              25.64153
+            ],
+            [
+              -100.98633,
+              25.64153
+            ],
+            [
+              -100.98633,
+              25.72074
+            ],
+            [
+              -100.89844,
+              25.72074
+            ],
+            [
+              -100.89844,
+              25.64153
+            ]
+          ]]
+        }
+      }],
+      "type": "FeatureCollection"
+    },
+    "places": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "transit": {
+      "features": [],
+      "type": "FeatureCollection"
+    },
+    "roads": {
+      "features": [
+        {
+          "properties": {
+            "id": 28242462,
+            "railway": "rail",
+            "source": "openstreetmap.org",
+            "sort_key": 380,
+            "kind": "rail"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.98633,
+                25.64781
+              ],
+              [
+                -100.98456,
+                25.64667
+              ],
+              [
+                -100.98549,
+                25.64326
+              ],
+              [
+                -100.98492,
+                25.64153
+              ]
+            ]
+          }
+        },
+        {
+          "properties": {
+            "id": 423719219,
+            "ref": "MEX 57",
+            "highway": "primary",
+            "source": "openstreetmap.org",
+            "sort_key": 378,
+            "name": "Carretera Ojo Caliente-Santa Cruz",
+            "network": "MEX",
+            "kind": "major_road"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -100.966,
+                25.64153
+              ],
+              [
+                -100.96801,
+                25.64552
+              ],
+              [
+                -100.97214,
+                25.66468
+              ],
+              [
+                -100.97325,
+                25.6675
+              ],
+              [
+                -100.98633,
+                25.68088
+              ]
+            ]
+          }
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "landuse_labels": {
+      "features": [],
+      "type": "FeatureCollection"
+    }
+  }
+]

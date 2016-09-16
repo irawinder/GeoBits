@@ -19,7 +19,7 @@ public class Road{
   
   public void bresenham(){
 
-      int inc = 15;
+      int inc = 5;
       PVector starting = mercatorMap.getScreenLocation(new PVector(start.x, start.y));
       PVector ending = mercatorMap.getScreenLocation(new PVector(end.x, end.y));
       
@@ -110,6 +110,40 @@ public class Road{
             HashSet set = new HashSet(Brez);
             Brez.clear();
             Brez.addAll(set);
+            
+//            
+//         int scale  =  12;   
+//         int SCALE = scale;
+//         int U = int(boxw/5);
+//         int V = int(boxh/5);
+//         
+//         for (int i=0; i<U; i++) {
+//            for (int j=0; j<V; j++) {
+//                float a = (i*SCALE + scale);
+//                float b = (j*SCALE + scale);
+//                
+//                //this is where I chose to render the grid as ellipses
+//                stroke(50);
+//                noFill();
+//                strokeWeight(.5);
+//                ellipse(a, b, scale, scale);  
+//
+//                //compare grid values to Coordinates and color the grid cells that correspond to the lines 
+//                 for(int k = 0; k<Brez.size()-1; k++){
+//                     PVector coord = mercatorMap.getScreenLocation(Brez.get(k));
+//                      if(abs(a - coord.x) <= scale/2 && abs(b - coord.y) <= scale/2){
+//                            SnapGrid.add(coord);
+//                      }
+//                            HashSet set1  = new HashSet(SnapGrid);
+//                            SnapGrid.clear();
+//                            SnapGrid.addAll(set1);
+//                    }  
+//              }
+//            }
+        
+        
+        
+        
         
 }
  
@@ -195,15 +229,43 @@ public class RoadNetwork{
               coord2 = mercatorMap.getScreenLocation(bounds.boxcorners().get(0));
             }
             p.stroke(0);
+            p.fill(#0000ff);
+            p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y, 10, 10); 
+            p.fill(#00ff00);
+            p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 10, 10);
+            p.fill(#ffff00);
+             p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y, 10, 10);
+             p.fill(#ff0000);
+             p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).y, 10, 10);
             p.line(coord.x, coord.y, coord2.x, coord2.y);
         }
+        p.stroke(0);
+          for(int i = 0; i<numcols+1; i++){
+                float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
+                float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
+//                p.line(int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
+//                int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y +hh);
+          }
+//        for(int i = 0; i<numrows+1; i++){
+//                float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
+//                float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
+//                p.line(int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
+//                int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y +hh);
+//                line(mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, int(i*hh/numrows) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
+//                mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x + ww, int(i*hh/numrows) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y);
+//          }
+              
+//              for(int i = 0; i<numrows+1; i++)
+//                line(mouseX, int(i*boxh/numrows) + int(mouseY), mouseX + boxw, int(i*boxh/numrows) + int(mouseY));
+   
+     
       for(int i = 0; i<Roads.size(); i++){
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
         if(showid){
-            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
-               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
+            for(int j = 0; j<Roads.get(i).SnapGrid.size(); j++){
+               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).SnapGrid.get(j).x, Roads.get(i).SnapGrid.get(j).y));
                 p.noFill();
                 p.stroke(150);
                 if(showid){

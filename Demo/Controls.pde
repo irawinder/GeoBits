@@ -38,7 +38,7 @@ switch(key){
       lines = !lines;
       break;  
   case 'P':
-      left = mercatorMap.getGeo(new PVector(0, 0)).x;
+      zoom = map.getZoomLevel();
       handler = selection;
       Handler = Selection;
       c = #00ff00;
