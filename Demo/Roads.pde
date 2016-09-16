@@ -183,6 +183,7 @@ public class RoadNetwork{
       }
 
   void drawRoads(PGraphics p, color c){
+    println("Drawing roads...");
          p.beginDraw();
      for(int j = 0; j<bounds.boxcorners().size(); j++){
             PVector coord2;
@@ -206,9 +207,9 @@ public class RoadNetwork{
                 p.noFill();
                 p.stroke(150);
                 if(showid){
-                  if(int(coord.x) % 2 == 0 && int(coord.y) % 2 == 0){
-                p.ellipse(coord.x, coord.y, 7, 7);
-                  }
+                  //if(int(coord.x) % 2 == 0 && int(coord.y) % 2 == 0){
+                p.ellipse(coord.x, coord.y, 5, 5);
+                  //}
                 }
             }
         }
@@ -220,6 +221,7 @@ public class RoadNetwork{
         p.line(start.x, start.y, end.x, end.y);  
       }
    p.endDraw();  
+   println("DONE", millis());
 }
   
 }

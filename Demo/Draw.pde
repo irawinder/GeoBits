@@ -47,10 +47,11 @@ void draw_directions(PGraphics p) {
   p.fill(#ff0000);
   p.text("This is GeoBits. GeoBits is a developing geospatial sandbox.", 15, 50);
   p.text("Currently you can navigate the map, select a region,", 15, 70); 
-  p.text("and export a geojson of all the features in this region and render these lines.", 15, 90); 
-  p.text("KEYS: ", 15, 120);
-  p.text("d = toggle info", 15, 140);
-  p.text("s = toggle selection box", 15, 160);
+  p.text("and export a geojson of all the features in this region.", 15, 90); 
+  p.text("Zoom in until you are prompted to model.", 15, 110); 
+  p.text("KEYS: ", 15, 140);
+  p.text("d = toggle info", 15, 160);
+  p.text("s = toggle selection box", 15, 180);
   p.text("W = make box bigger, w = smaller", 15, 200);
   p.text("+/- = zoom in and out", 15, 220);
   p.endDraw();
@@ -75,7 +76,7 @@ void draw_popup(PGraphics p){
   p.rect(width*2/3, 30, width/3, 70, 5);
   p.textSize(12);
   p.fill(#ff0000);
-  p.text("Press 's' to see selection window, Press 'p' to export data", width*2/3 + 20, 50);
+  p.text("Press 's' to toggle selection window, Press 'p' to export data", width*2/3 + 20, 50);
       if(pull){
         p.text("Press 'P' to render selection, 'A' to render canvas", width*2/3 + 20, 70);
       }

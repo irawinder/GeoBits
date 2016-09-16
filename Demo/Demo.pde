@@ -60,10 +60,16 @@ void draw(){
    
     mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
     
-    if(lines){
-    Handler.clear();
-    handler.drawRoads(Handler, c);
-    image(Handler, posx, posy);
+    if(lines && mercatorMap.getGeo(new PVector(0, 0)).x == left){
+//    Handler.clear();
+//    handler.drawRoads(Handler, c);
+    image(Handler, 0, 0);
+    }
+    else if(lines){
+      Handler.clear();
+      handler.drawRoads(Handler, c);
+      image(Handler, 0, 0);
+       left = mercatorMap.getGeo(new PVector(0, 0)).x;
     }
     if(!lines){
       Handler.clear();

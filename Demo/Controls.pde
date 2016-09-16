@@ -1,6 +1,8 @@
 boolean pull, square, generated, showid, pulling;
 color c;
 
+float left;
+
 void keyPressed(){
 switch(key){
     case '+':
@@ -28,32 +30,31 @@ switch(key){
         boxh-=30;
         break;     
   case 'A': 
-      println("drawing lines...");
+      left = mercatorMap.getGeo(new PVector(0, 0)).x;
       handler = canvas;
       Handler = Canvas;
-      posx = 0;
-      posy = 0;
       c = #ff0000;
-      canvas.drawRoads(Canvas, #ff0000);
+      canvas.drawRoads(Canvas, c);
       lines = !lines;
-      println("DONE");
       break;  
   case 'P':
-      println("drawing lines...");
+      left = mercatorMap.getGeo(new PVector(0, 0)).x;
       handler = selection;
       Handler = Selection;
-      posx = 0;
-      posy = 0;
       c = #00ff00;
-      selection.drawRoads(Selection, #00ff00);
+      selection.drawRoads(Selection, c);
       lines = !lines;
-      println("DONE");
       break;  
   case 'p':
       pulling = true;
       break;     
   case 'a': 
+      Handler.clear();
+      for(int i = 0; i<handler.Roads.size(); i++){
+        handler.Roads.get(i).bresenham();
+      }
       showid = !showid;
+      handler.drawRoads(Handler, c);
       break;
 }
 }
