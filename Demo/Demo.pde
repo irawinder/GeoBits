@@ -48,7 +48,7 @@ void draw(){
       Selection.clear();
       Canvas.clear();
        PullMap(MapTiles(width, height, 0, 0).size(), width, height);
-       PullOSM();
+//       PullOSM();
        selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        draw_popup(popup);

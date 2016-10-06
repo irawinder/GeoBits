@@ -21,11 +21,9 @@ ArrayList<PVector>PullBox = new ArrayList<PVector>();
 
 public void PullMap(int amount, float w, float h){
    pulling = true;
-   geostuff = new JSONObject();
    println("requesting map data...");
    for(int i = 0; i<amount; i++){
-   //if(amount !=5){
-   link = "https://vector.mapzen.com/osm/all/" + MapTiles(width, height, 0 , 0).get(i) +".json?api_key=vector-tiles-i5Sxwwo";
+   link = "http://vector.mapzen.com/osm/all/" + MapTiles(width, height, 0 , 0).get(i) +".json?api_key=vector-tiles-i5Sxwwo";
    Bounds = new bbox(map.getLocation(0, height).x, map.getLocation(0, height).y, map.getLocation(width, 0).x, map.getLocation(width, 0).y);
        canvas = new RoadNetwork("Canvas", Bounds);
    SelBounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
@@ -34,18 +32,20 @@ public void PullMap(int amount, float w, float h){
    println("data requested...");
    get.send();
    output = get.getContent();
-   masterexport.setJSONObject(i, parseJSONObject(output));
-   if(amount !=5){
-   saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
-   mapling = "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
-   }
-   else{
-   saveJSONArray(masterexport, "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json");
-   mapling = "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json";
-   }
-   progress = int(float(i)/amount*100) + "% DONE";
+   println("gotten");
+   masterexport.setJSONObject(i, parseJSONObject(output)); 
+   //if(amount !=5){
+//   saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
+//   mapling = "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
+//   }
+//   else{
+//   saveJSONArray(masterexport, "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json");
+//   mapling = "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json";
+//   }
    println(int(float(i)/amount*100) + "% DONE");
    }
+   saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
+   mapling = "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
 }
 
 public void PullOSM(){
