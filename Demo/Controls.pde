@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling;
+boolean pull, square, generated, showid, pulling, Yasushi;
 color c;
 
 float left;
@@ -45,6 +45,9 @@ switch(key){
       selection.drawRoads(Selection, c);
       lines = !lines;
       break;  
+  case 'y':
+      Yasushi = !Yasushi;
+      break;
   case 'p':
       pulling = true;
       break;     

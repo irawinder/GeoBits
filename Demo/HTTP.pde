@@ -32,16 +32,7 @@ public void PullMap(int amount, float w, float h){
    println("data requested...");
    get.send();
    output = get.getContent();
-   println("gotten");
    masterexport.setJSONObject(i, parseJSONObject(output)); 
-   //if(amount !=5){
-//   saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
-//   mapling = "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
-//   }
-//   else{
-//   saveJSONArray(masterexport, "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json");
-//   mapling = "exports/selection" + SelectionBox().get(4).x + "_" + SelectionBox().get(4).y+".json";
-//   }
    println(int(float(i)/amount*100) + "% DONE");
    }
    saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
@@ -49,18 +40,51 @@ public void PullMap(int amount, float w, float h){
 }
 
 public void PullOSM(){
-   
-  link = "http://api.openstreetmap.org/api/0.6/map?bbox=" + SelBounds.minlon + "," +SelBounds.minlat + "," +SelBounds.maxlon + "," + SelBounds.maxlon;
+   String APIbox = SelectionBox().get(0).y + ","+ SelectionBox().get(1).x +","+ SelectionBox().get(1).y + "," +SelectionBox().get(0).x;
+   link = "http://api.openstreetmap.org/api/0.6/map?bbox=" + APIbox;
+   println(link);
   GetRequest get = new GetRequest(link);
    println("data requested...");
    get.send();
    output = get.getContent();
-   String[] test = split(output, ' ');
-   saveStrings( "exports/" + "OSM.txt", test);
-   println("DONE");
+   String[] test = split(output, "fhajksdhfjajksdkfoiijhedjifkm"); //just gets into a text array without splitting because that char string won't exist
+   saveStrings( "exports/" + "OSM"+ map.getLocation(0, 0) + "_" + map.getLocation(width, height)+ ".xml", test);
+   println("DONE: OSM Raw Data Pulled");
 }
 
-public void PullCensus(){}
+XML xml; 
+public void PullWidths(){
+  int numwidths = 0;
+  JSONArray mapjson = loadJSONArray(mapling);
+  XML[] widthtag;
+  xml = loadXML("exports/" + "OSM"+ map.getLocation(0, 0) + "_" + map.getLocation(width, height)+ ".xml");
+  XML[] children = xml.getChildren("way");
+  for(int i = 0; i<children.length; i++){
+      widthtag = children[i].getChildren("tag"); 
+  for(int j = 0; j<widthtag.length; j++){
+    try{
+      if(widthtag[j].getString("k").equals("width")){
+          for(int m = 0; m<MapTiles(width, height, 0, 0).size(); m++){ //iterates over all the tiles
+          JSONObject JSONM = mapjson.getJSONObject(m); 
+          JSONObject JSON = JSONM.getJSONObject("roads");
+          JSONArray JSONlines = JSON.getJSONArray("features");
+              for(int d = 0; d<JSONlines.size(); d++){
+              JSONObject properties = JSON.getJSONArray("features").getJSONObject(d).getJSONObject("properties");
+              int OSMid = JSON.getJSONArray("features").getJSONObject(d).getJSONObject("properties").getInt("id");
+              if(children[i].getInt("id") == OSMid){
+                numwidths+=1;
+                properties.setFloat("width", float(widthtag[j].getString("v")));
+              }
+              }
+      }
+      }
+        }
+          catch( Exception e ){}
+      }
+  }
+  saveJSONArray(mapjson, "exports/widths"+ map.getLocation(0, 0) + "_" + map.getLocation(width, height) + ".json");
+  println("DONE: Width property extracted " + numwidths + " widths (in meters) of ways available.");
+}
 
 //imports the needed Java classes that Processing doesn't have natively, as we want to avoid using the net library and just do a basic HTTP request 
 import java.util.Iterator;

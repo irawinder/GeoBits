@@ -48,18 +48,20 @@ void draw(){
       Selection.clear();
       Canvas.clear();
        PullMap(MapTiles(width, height, 0, 0).size(), width, height);
-//       PullOSM();
+       if(Yasushi){
+       PullOSM();
+       PullWidths();
+       }
        selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        draw_popup(popup);
-       println("DONE");
+       println("DONE: Data Acquired");
        pulling = false;
        pull = false;
     }
      
    
     mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
-    println(zoom);
     
     if(lines){
     image(Handler, 0, 0);

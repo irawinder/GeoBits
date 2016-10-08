@@ -42,7 +42,7 @@ void draw_directions(PGraphics p) {
   p.beginDraw();
   p.noStroke();
   p.fill(255, 200);
-  p.rect(10, 30, width/3+20, height/4+20, 5);
+  p.rect(10, 30, width/3+20, height/4+30, 5);
   p.textSize(12);
   p.fill(#ff0000);
   p.text("This is GeoBits. GeoBits is a developing geospatial sandbox.", 15, 50);
@@ -52,8 +52,9 @@ void draw_directions(PGraphics p) {
   p.text("KEYS: ", 15, 140);
   p.text("d = toggle info", 15, 160);
   p.text("s = toggle selection box", 15, 180);
-  p.text("W = make box bigger, w = smaller", 15, 200);
-  p.text("+/- = zoom in and out", 15, 220);
+  p.text("p = export data", 15, 200);
+  p.text("W = make box bigger, w = smaller", 15, 220);
+  p.text("+/- = zoom in and out", 15, 240);
   p.endDraw();
 }
 
