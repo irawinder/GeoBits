@@ -18,8 +18,8 @@ public class Road{
   }
   
   public void bresenham(){
-
-      int inc = 5;
+      println("running brez");
+      int inc = 1;
       PVector starting = mercatorMap.getScreenLocation(new PVector(start.x, start.y));
       PVector ending = mercatorMap.getScreenLocation(new PVector(end.x, end.y));
       
@@ -43,10 +43,10 @@ public class Road{
         //number of steps needed, based on what change is biggest
         //depending on your need for accuracy, you can adjust this, the smaller the Steps number, the fewer points rendered
         if(dx > dy){
-          Steps = dx*inc;
+          Steps = dx/1.75;
         }
         else{
-          Steps = dy*inc;        
+          Steps = dy/1.75;        
         }
         
          //x and y increments for the points in the line      
@@ -104,46 +104,14 @@ public class Road{
                         && x >= 0 && x <= width && y >= 0 && y<= height){
                             PVector coord = mercatorMap.getGeo(new PVector(int(x), int(y), 0));
                             //Brez.add(new PVector(int(x), int(y), 0));
+//                            if(v%4 == 0){
                             Brez.add(coord);
+                            //}
                         }
               }
             HashSet set = new HashSet(Brez);
             Brez.clear();
             Brez.addAll(set);
-            
-//            
-//         int scale  =  12;   
-//         int SCALE = scale;
-//         int U = int(boxw/5);
-//         int V = int(boxh/5);
-//         
-//         for (int i=0; i<U; i++) {
-//            for (int j=0; j<V; j++) {
-//                float a = (i*SCALE + scale);
-//                float b = (j*SCALE + scale);
-//                
-//                //this is where I chose to render the grid as ellipses
-//                stroke(50);
-//                noFill();
-//                strokeWeight(.5);
-//                ellipse(a, b, scale, scale);  
-//
-//                //compare grid values to Coordinates and color the grid cells that correspond to the lines 
-//                 for(int k = 0; k<Brez.size()-1; k++){
-//                     PVector coord = mercatorMap.getScreenLocation(Brez.get(k));
-//                      if(abs(a - coord.x) <= scale/2 && abs(b - coord.y) <= scale/2){
-//                            SnapGrid.add(coord);
-//                      }
-//                            HashSet set1  = new HashSet(SnapGrid);
-//                            SnapGrid.clear();
-//                            SnapGrid.addAll(set1);
-//                    }  
-//              }
-//            }
-        
-        
-        
-        
         
 }
  
@@ -215,6 +183,8 @@ public class RoadNetwork{
               println("Bounding Box: ");
               bounds.printbox();
       }
+      
+  
 
   void drawRoads(PGraphics p, color c){
     println("Drawing roads...");
@@ -243,46 +213,37 @@ public class RoadNetwork{
           for(int i = 0; i<numcols+1; i++){
                 float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
                 float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
-//                p.line(int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
-//                int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y +hh);
           }
-//        for(int i = 0; i<numrows+1; i++){
-//                float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
-//                float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
-//                p.line(int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
-//                int(i*ww/numcols) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y +hh);
-//                line(mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, int(i*hh/numrows) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 
-//                mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x + ww, int(i*hh/numrows) + mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y);
-//          }
-              
-//              for(int i = 0; i<numrows+1; i++)
-//                line(mouseX, int(i*boxh/numrows) + int(mouseY), mouseX + boxw, int(i*boxh/numrows) + int(mouseY));
-   
-     
+  
       for(int i = 0; i<Roads.size(); i++){
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
         if(showid){
-            for(int j = 0; j<Roads.get(i).SnapGrid.size(); j++){
-               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).SnapGrid.get(j).x, Roads.get(i).SnapGrid.get(j).y));
+            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
+               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
                 p.noFill();
-                p.stroke(150);
-                if(showid){
-                  //if(int(coord.x) % 2 == 0 && int(coord.y) % 2 == 0){
-                p.ellipse(coord.x, coord.y, 5, 5);
-                  //}
+                p.stroke(#ff0000);
+                PVector nextcoord = new PVector(0, 0);
+                if(j < Roads.get(i).Brez.size()-1){
+                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
                 }
+                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
+                      TableRow newRow = table.addRow();
+                      newRow.setFloat("x", coord.x);
+                      newRow.setFloat("y", coord.y);
+                    p.ellipse(coord.x, coord.y, 5, 5);
+                  }
+                //p.ellipse(coord.x, coord.y, 5, 5);
             }
-        }
-        if(showid){
             p.stroke(0);
             p.ellipse(start.x, start.y, 3, 3);
         }
         p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  
       }
-   p.endDraw();  
+   p.endDraw(); 
+   saveTable(table, "data/coords.csv"); 
    println("DONE: Roads Drawn", millis());
 }
   

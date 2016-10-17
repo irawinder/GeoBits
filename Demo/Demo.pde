@@ -21,8 +21,15 @@ Last Updated: 8/15/16
 RoadNetwork canvas, selection, handler;
 int posx, posy, zoom;
 
+Table table;
+
 void setup(){
    size(1366, 768, P3D);
+   
+   table = new Table();
+   
+   table.addColumn("x");
+   table.addColumn("y");
    
    initGraphics();
    draw_directions(direction);       
@@ -37,7 +44,6 @@ void setup(){
 
 void draw(){
     background(0);
-    
     
   if(!pulling){
     map.draw();    
@@ -54,7 +60,7 @@ void draw(){
        }
        selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-       draw_popup(popup);
+      draw_popup(popup);
        println("DONE: Data Acquired");
        pulling = false;
        pull = false;
