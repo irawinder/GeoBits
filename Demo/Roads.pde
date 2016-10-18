@@ -237,8 +237,6 @@ public class RoadNetwork{
                 }
                   if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
                     p.ellipse(coord.x, coord.y, 5, 5);
-                    BresenhamMaster.add(coord);
-                    println(BresenhamMaster.size());
                   }
             }
             p.stroke(0);
@@ -251,4 +249,15 @@ public class RoadNetwork{
    println("DONE: Roads Drawn", millis());
 }
   
+}
+
+ArrayList<PVector> BresenhamMaster = new ArrayList<PVector>();
+
+void test_Bresen(){
+  for(int i = 0; i<canvas.Roads.size(); i++){
+        for(int j = 0; j<canvas.Roads.get(i).Brez.size(); j++){
+             BresenhamMaster.add(canvas.Roads.get(i).Brez.get(j));
+        }
+  }
+  println("Brez", BresenhamMaster.size());
 }

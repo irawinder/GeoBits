@@ -30,9 +30,14 @@ switch(key){
         boxh-=30;
         break;     
   case 'A': 
-      left = mercatorMap.getGeo(new PVector(0, 0)).x;
       handler = canvas;
       Handler = Canvas;
+      BresenhamMaster.clear();
+      for(int i = 0; i<handler.Roads.size(); i++){
+        handler.Roads.get(i).bresenham();
+      }
+      test_Bresen();
+      left = mercatorMap.getGeo(new PVector(0, 0)).x;
       c = #ff0000;
       canvas.drawRoads(Canvas, c);
       lines = !lines;

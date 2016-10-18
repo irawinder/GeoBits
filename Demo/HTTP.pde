@@ -33,7 +33,10 @@ public void PullMap(int amount, float w, float h){
    println("data requested...");
    get.send();
    output = get.getContent();
+   try{
    masterexport.setJSONObject(i, parseJSONObject(output)); 
+   }
+   catch(Exception e){}
    println(int(float(i)/amount*100) + "% DONE");
    }
    saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
