@@ -11,10 +11,10 @@ switch(key){
     case '-':
        map.zoomOut();
        break; 
-   case 'f':
-       showFrameRate = !showFrameRate;
-       println(map.getZoomLevel());
-       break;    
+//   case 'f':
+//       showFrameRate = !showFrameRate;
+//       println(map.getZoomLevel());
+//       break;    
   case 's':
        select = !select;
        break;  

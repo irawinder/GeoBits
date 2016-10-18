@@ -189,6 +189,13 @@ public class RoadNetwork{
   void drawRoads(PGraphics p, color c){
     println("Drawing roads...");
          p.beginDraw();
+         
+     println(places.POIs.size());
+     
+     for(int i =0; i<places.POIs.size(); i++){
+         PVector loc = mercatorMap.getScreenLocation(places.POIs.get(i).location);
+         p.ellipse(loc.x, loc.y, 10, 10);
+     }  
      for(int j = 0; j<bounds.boxcorners().size(); j++){
             PVector coord2;
             PVector coord = mercatorMap.getScreenLocation(bounds.boxcorners().get(j));
@@ -229,12 +236,10 @@ public class RoadNetwork{
                  nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
                 }
                   if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
-                      TableRow newRow = table.addRow();
-                      newRow.setFloat("x", coord.x);
-                      newRow.setFloat("y", coord.y);
                     p.ellipse(coord.x, coord.y, 5, 5);
+                    BresenhamMaster.add(coord);
+                    println(BresenhamMaster.size());
                   }
-                //p.ellipse(coord.x, coord.y, 5, 5);
             }
             p.stroke(0);
             p.ellipse(start.x, start.y, 3, 3);
@@ -243,7 +248,6 @@ public class RoadNetwork{
         p.line(start.x, start.y, end.x, end.y);  
       }
    p.endDraw(); 
-   saveTable(table, "data/coords.csv"); 
    println("DONE: Roads Drawn", millis());
 }
   

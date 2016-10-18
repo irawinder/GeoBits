@@ -28,6 +28,7 @@ public void PullMap(int amount, float w, float h){
        canvas = new RoadNetwork("Canvas", Bounds);
    SelBounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
        selection = new RoadNetwork("Selection", SelBounds);
+   places = new ODPOIs("Places");
    GetRequest get = new GetRequest(link);
    println("data requested...");
    get.send();
@@ -63,17 +64,24 @@ public void PullWidths(){
       widthtag = children[i].getChildren("tag"); 
   for(int j = 0; j<widthtag.length; j++){
     try{
-      if(widthtag[j].getString("k").equals("width")){
+      if(widthtag[j].getString("k").equals("lanes")){
           for(int m = 0; m<MapTiles(width, height, 0, 0).size(); m++){ //iterates over all the tiles
           JSONObject JSONM = mapjson.getJSONObject(m); 
           JSONObject JSON = JSONM.getJSONObject("roads");
           JSONArray JSONlines = JSON.getJSONArray("features");
               for(int d = 0; d<JSONlines.size(); d++){
               JSONObject properties = JSON.getJSONArray("features").getJSONObject(d).getJSONObject("properties");
+              String kind = properties.getString("highway");
+              if(kind.equals("residential") || kind.equals("secondary")){
+                  properties.setInt("speed", 40);
+              }
+               if(kind.equals("trunk")){
+                  properties.setInt("speed", 65);
+              }
               int OSMid = JSON.getJSONArray("features").getJSONObject(d).getJSONObject("properties").getInt("id");
               if(children[i].getInt("id") == OSMid){
                 numwidths+=1;
-                properties.setFloat("width", float(widthtag[j].getString("v")));
+                properties.setFloat("lanes", float(widthtag[j].getString("v")));
               }
               }
       }

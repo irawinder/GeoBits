@@ -16,20 +16,17 @@ Last Updated: 8/15/16
   MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
-  boolean initialized;
+//  boolean initialized;
 
 RoadNetwork canvas, selection, handler;
+ODPOIs places;
 int posx, posy, zoom;
 
-Table table;
+Table table, net;
 
 void setup(){
+
    size(1366, 768, P3D);
-   
-   table = new Table();
-   
-   table.addColumn("x");
-   table.addColumn("y");
    
    initGraphics();
    draw_directions(direction);       
@@ -60,7 +57,8 @@ void draw(){
        }
        selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
        canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-      draw_popup(popup);
+        draw_popup(popup);
+        places.generate_POIs();
        println("DONE: Data Acquired");
        pulling = false;
        pull = false;
