@@ -6,30 +6,32 @@ float left;
 void keyPressed(){
 switch(key){
     case '+':
+       initialized = false;
        map.zoomIn();
        break;  
     case '-':
+        initialized = false;
        map.zoomOut();
        break; 
-//   case 'f':
-//       showFrameRate = !showFrameRate;
-//       println(map.getZoomLevel());
-//       break;    
+   case 'f':
+       showFrameRate = !showFrameRate;
+       println(map.getZoomLevel());
+       break;    
   case 's':
        select = !select;
-       break;  
+       break; 
   case 'd':
        directions = !directions;
        break;    
   case 'W':
         boxw+=30;
         boxh+=30;
-        break;  
+        break;
   case 'w':
         boxw-=30;
         boxh-=30;
         break;     
-  case 'A': 
+  case 'A':
       handler = canvas;
       Handler = Canvas;
       BresenhamMaster.clear();
@@ -63,6 +65,17 @@ switch(key){
       }
       showid = !showid;
       handler.drawRoads(Handler, c);
+      break;
+    case 't': 
+      handler = canvas;
+      tableCanvas.clear();
+      Handler = Canvas;
+      BresenhamMaster.clear();
+      for(int i = 0; i<handler.Roads.size(); i++){
+        handler.Roads.get(i).bresenham();
+      }
+      test_Bresen();
+       agentstriggered = !agentstriggered;
       break;
 }
 }

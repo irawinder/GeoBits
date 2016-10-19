@@ -1,4 +1,4 @@
-PGraphics direction, popup, loading;
+PGraphics direction, popup, loading, agents;
 //toggling booleans for displays
 boolean showFrameRate = false;
 boolean select = false;
@@ -21,6 +21,7 @@ void initGraphics(){
   direction = createGraphics(width, height);
   popup = createGraphics(width, height);
   loading = createGraphics(width, height);
+  agents = createGraphics(width, height);
 }
 
 //draws info
@@ -69,6 +70,19 @@ void draw_loading(PGraphics p){
   p.endDraw();
 
 }
+
+void draw_agents(PGraphics p){
+  p.beginDraw();
+  p.fill(0);
+  p.rect(0, 0, width, height);
+  p.fill(255);
+  p.textSize(25);
+  p.textAlign(CENTER);
+  p.text("Computing Agent Model...",width/2, height/2);
+  p.endDraw();
+
+}
+
 
 void draw_popup(PGraphics p){
   p.beginDraw();

@@ -10,13 +10,15 @@ Author: Nina Lutz, nlutz@mit.edu
 Supervisor: Ira Winder, jiw@mit.edu
 
 Write date: 8/13/16 
-Last Updated: 8/15/16
+Last Updated: 10/18/16
 */
   boolean lines = false;
+  boolean agentstriggered, initagents;
+  boolean bw = true;
   MercatorMap mercatorMap;
   BufferedReader reader;
   String line;
-//  boolean initialized;
+  boolean initialized;
 
 RoadNetwork canvas, selection, handler;
 ODPOIs places;
@@ -27,11 +29,13 @@ Table table, net;
 void setup(){
 
    size(1366, 768, P3D);
-   
+   initCanvas();
+   renderTableCanvas();
    initGraphics();
    draw_directions(direction);       
    draw_popup(popup);
    draw_loading(loading);
+   draw_agents(agents);
   
     map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
     
@@ -41,7 +45,7 @@ void setup(){
 
 void draw(){
     background(0);
-    
+   
   if(!pulling){
     map.draw();    
     }
@@ -105,6 +109,30 @@ void draw(){
       image(loading, 0, 0);
        pull = true;
     }
+  
+
+  if(agentstriggered){  
+  if (initialized) {
+      mainDraw();
+    } 
+    
+  else if (!initialized) {
+    initContent(tableCanvas);
+    initialized = true;
+    initagents = false;
+  }
+
+    else {
+    mainDraw();
+    // Print Framerate of animation to console
+    if (showFrameRate) {
+      println(frameRate);
+    }
+  }
+  
+  
+  }
+     
     
     
 }
@@ -115,5 +143,23 @@ void mouseDragged(){
       handler.drawRoads(Handler, c);
       image(Handler, 0, 0);
        left = mercatorMap.getGeo(new PVector(0, 0)).x; 
+        initialized = false;
   }
+}
+
+void renderTableCanvas() {
+  // most likely, you'll want a black background
+//  background(0);
+  // Renders the tableCanvas as either a projection map or on-screen 
+  image(tableCanvas, 0, 0, tableCanvas.width, tableCanvas.height);
+}  
+
+void mainDraw() {
+  // Draw Functions Located here should exclusively be drawn onto 'tableCanvas',
+  // a PGraphics set up to hold all information that will eventually be 
+  // projection-mapped onto a big giant table:
+  drawTableCanvas(tableCanvas);
+  
+  // Renders the finished tableCanvas onto main canvas as a projection map or screen
+  renderTableCanvas();
 }

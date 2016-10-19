@@ -22,6 +22,7 @@ ArrayList<PVector>PullBox = new ArrayList<PVector>();
 public void PullMap(int amount, float w, float h){
    pulling = true;
    println("requesting map data...");
+    
    for(int i = 0; i<amount; i++){
    link = "http://vector.mapzen.com/osm/all/" + MapTiles(width, height, 0 , 0).get(i) +".json?api_key=vector-tiles-i5Sxwwo";
    Bounds = new bbox(map.getLocation(0, height).x, map.getLocation(0, height).y, map.getLocation(width, 0).x, map.getLocation(width, 0).y);
@@ -33,14 +34,19 @@ public void PullMap(int amount, float w, float h){
    println("data requested...");
    get.send();
    output = get.getContent();
-   try{
+try{
    masterexport.setJSONObject(i, parseJSONObject(output)); 
-   }
-   catch(Exception e){}
+}
+  catch(Exception e){}
    println(int(float(i)/amount*100) + "% DONE");
    }
+   try{
    saveJSONArray(masterexport, "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
    mapling = "exports/map" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json";
+   }
+   catch(Exception e){
+   }
+
 }
 
 public void PullOSM(){

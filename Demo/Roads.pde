@@ -190,7 +190,7 @@ public class RoadNetwork{
     println("Drawing roads...");
          p.beginDraw();
          
-     println(places.POIs.size());
+//     println(places.POIs.size());
      
      for(int i =0; i<places.POIs.size(); i++){
          PVector loc = mercatorMap.getScreenLocation(places.POIs.get(i).location);
