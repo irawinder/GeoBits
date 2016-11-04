@@ -1,6 +1,6 @@
 // Graphics object in memory that holds visualization
 PGraphics tableCanvas;
-
+    boolean surge = true; 
 void initCanvas() {
   
   println("Initializing Canvas Objects ... ");
@@ -55,6 +55,7 @@ void AgentNetworkModel(){
 // ---------------------Initialize Pedestrian-based Objects---
 
 Horde swarmHorde;
+Horde swarmHorde2;
 
 PVector[] origin, destination, nodes;
 float[] weight;
@@ -70,7 +71,8 @@ void initPedestrians(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
   
-  swarmHorde = new Horde(1500);
+  swarmHorde = new Horde(1000);
+  swarmHorde2 = new Horde(1500);
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Random(p, 10);
   
@@ -83,6 +85,9 @@ void initPedestrians(PGraphics p) {
 void swarmPaths(PGraphics p, boolean enable) {
   // Applyies pathfinding network to swarms
   swarmHorde.solvePaths(pFinder, enable);
+  if(surge){
+  swarmHorde2.solvePaths(pFinder, enable);
+  }
   pFinderPaths_Viz(p, enable);
 }
 
@@ -101,12 +106,17 @@ void hurrySwarms(int frames) {
   showPaths = false;
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
+    if(surge){
+      swarmHorde2.update();
+    }
   }
   showSwarm = true;
   //speed = 1.5;
 }
 
 void testNetwork_Random(PGraphics p, int _numNodes) {
+  PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).x), 
+        random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).y,  mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(0)).y));
   
   int numNodes, numEdges, numSwarm;
   
@@ -119,7 +129,10 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   destination = new PVector[numSwarm];
   weight = new float[numSwarm];
   swarmHorde.clearHorde();
-
+  
+  if(surge){
+  swarmHorde2.clearHorde();
+  }
   
   for (int i=0; i<numNodes; i++) {
     int a = int(random(0, places.POIs.size()));
@@ -143,18 +156,22 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
     // rate, life, origin, destination
   colorMode(HSB);
   for (int i=0; i<numSwarm; i++) {
-    
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-    swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4);
+      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4);
+    if(surge){
+      swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000);
+      }
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die
     swarmHorde.getSwarm(i).temperStandingPedestrians();
+    swarmHorde2.getSwarm(i).temperStandingPedestrians();
   }
   colorMode(RGB);
   
   swarmHorde.popScaler(1.0);
+  swarmHorde2.popScaler(1.0);
 }
 
 
@@ -219,6 +236,12 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   pFinderPaths.beginDraw();
   swarmHorde.solvePaths(pFinder, enable);
   swarmHorde.displayPaths(pFinderPaths);
+  
+  if(surge){
+      swarmHorde2.solvePaths(pFinder, enable);
+      swarmHorde2.displayPaths(pFinderPaths);
+  }
+  
   pFinderPaths.endDraw();
   
 }

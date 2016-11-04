@@ -21,6 +21,9 @@ void drawTableCanvas(PGraphics p) {
   //Updates Pedestrian Data to Display
   if (showSwarm) {
     swarmHorde.update();
+    if(surge){
+      swarmHorde2.update();
+    }
   }
 
   // holds time from last frame
@@ -54,6 +57,9 @@ void drawTableCanvas(PGraphics p) {
       // Renders Pedestrian 'dots' and corresponding obstacles and heatmaps
       if (showSwarm) {
           swarmHorde.display(p);
+          if(surge){
+            swarmHorde2.display(p);
+          }
       }
 
   p.endDraw();
