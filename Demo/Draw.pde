@@ -1,13 +1,13 @@
-PGraphics direction, popup, loading, agents;
+PGraphics direction, popup, loading, agents, notenough;
 //toggling booleans for displays
 boolean showFrameRate = false;
-boolean select = false;
+boolean select = true;
 boolean directions = false;
 boolean showoutput = true;
 
 
 //dimensions for box
-int boxw = 200;
+int boxw = 350;
 int boxh = int(boxw*(22.0/20.0));
 int numcols = 18;
 int numrows = 22;
@@ -18,10 +18,17 @@ void initGraphics(){
   Canvas = createGraphics(width, height);
   Handler = createGraphics(width, height);
   
+  notenough = createGraphics(width, height);
+  
   direction = createGraphics(width, height);
   popup = createGraphics(width, height);
   loading = createGraphics(width, height);
   agents = createGraphics(width, height);
+  projector = createGraphics(width, height);
+  
+    draw_directions(direction);       
+  draw_loading(loading);
+  draw_notenough(notenough);
 }
 
 //draws info
@@ -38,6 +45,16 @@ void draw_info() {
   text("Nina Lutz. This demo is under development, please be patient. Press 'd' for instructions.", 20, 20);
 }
 
+void draw_notenough(PGraphics p){
+    p.beginDraw();
+    p.fill(#ff0000);
+    p.textSize(20);
+    p.textAlign(CENTER);
+    p.text("Not Enough Data. Please try again.", width/2, height/2);
+    p.endDraw();
+}
+
+
 //user directions
 void draw_directions(PGraphics p) {
   p.beginDraw();
@@ -48,14 +65,14 @@ void draw_directions(PGraphics p) {
   p.fill(#ff0000);
   p.text("This is GeoBits. GeoBits is a developing geospatial sandbox.", 15, 50);
   p.text("Currently you can navigate the map, select a region,", 15, 70); 
-  p.text("and export a geojson of all the features in this region.", 15, 90); 
-  p.text("Zoom in until you are prompted to model.", 15, 110); 
+  p.text("and visualize a general flow model of that region.", 15, 90); 
+   p.text("Use your mouse to navigate the map.", 15, 110); 
   p.text("KEYS: ", 15, 140);
   p.text("d = toggle info", 15, 160);
   p.text("s = toggle selection box", 15, 180);
   p.text("p = export data", 15, 200);
   p.text("W = make box bigger, w = smaller", 15, 220);
-  p.text("+/- = zoom in and out", 15, 240);
+  p.text("` for projection", 15, 240);
   p.endDraw();
 }
 
@@ -71,17 +88,17 @@ void draw_loading(PGraphics p){
 
 }
 
-void draw_agents(PGraphics p){
-  p.beginDraw();
-  p.fill(0);
-  p.rect(0, 0, width, height);
-  p.fill(255);
-  p.textSize(25);
-  p.textAlign(CENTER);
-  p.text("Computing Agent Model...",width/2, height/2);
-  p.endDraw();
-
-}
+//void draw_agents(PGraphics p){
+//  p.beginDraw();
+//  p.fill(0);
+//  p.rect(0, 0, width, height);
+//  p.fill(255);
+//  p.textSize(25);
+//  p.textAlign(CENTER);
+//  p.text("Computing Agent Model...",width/2, height/2);
+//  p.endDraw();
+//
+//}
 
 
 void draw_popup(PGraphics p){

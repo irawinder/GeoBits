@@ -18,7 +18,6 @@ void initContent(PGraphics p) {
       showGrid = false;
       finderMode = 0;
       showSource = true;
-      showPaths = true;
  
   initPathfinder(p, p.width/100);
   initPedestrians(p);
@@ -28,8 +27,30 @@ void initContent(PGraphics p) {
 }
 
 
-
-
+void AgentNetworkModel(){
+    if(places.POIs.size() > 2){
+      current = map.getZoomLevel();
+      notenoughdata = false;
+      handler = canvas;
+      initialized = false;
+      tableCanvas.clear();
+      Handler = Canvas;
+      BresenhamMaster.clear();
+      for(int i = 0; i<handler.Roads.size(); i++){
+        handler.Roads.get(i).bresenham();
+      }
+      test_Bresen();
+       agentstriggered = !agentstriggered;
+      handler = selection;
+      Handler = Selection;
+      c = #ff0000;
+      selection.drawRoads(Selection, c);
+      lines = true;
+          }
+   else{
+     notenoughdata = true;
+     }  
+}
 
 // ---------------------Initialize Pedestrian-based Objects---
 
@@ -46,13 +67,12 @@ boolean enablePathfinding = true;
 PGraphics sources_Viz;
 
 void initPedestrians(PGraphics p) {
-  Table POIs = loadTable("data/POIS.csv", "header");
-  
+
   println("Initializing Pedestrian Objects ... ");
   
-  swarmHorde = new Horde(2000);
+  swarmHorde = new Horde(1500);
   sources_Viz = createGraphics(p.width, p.height);
-  testNetwork_Random(p, 20);
+  testNetwork_Random(p, 10);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
@@ -125,7 +145,9 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     
     // delay, origin, destination, speed, color
+    if(origin[i] != destination[i]){
     swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4);
+    }
     
     // Makes sure that Pedestrians 'staying put' eventually die
     swarmHorde.getSwarm(i).temperStandingPedestrians();
@@ -196,7 +218,7 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   pFinderPaths = createGraphics(p.width, p.height);
   pFinderPaths.beginDraw();
   swarmHorde.solvePaths(pFinder, enable);
-//  swarmHorde.displayPaths(pFinderPaths);
+  swarmHorde.displayPaths(pFinderPaths);
   pFinderPaths.endDraw();
   
 }

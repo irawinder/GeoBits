@@ -1,21 +1,20 @@
-boolean pull, square, generated, showid, pulling, Yasushi;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection;
 color c;
 
 float left;
 
 void keyPressed(){
 switch(key){
-    case '+':
-       initialized = false;
-       map.zoomIn();
-       break;  
-    case '-':
-        initialized = false;
-       map.zoomOut();
-       break; 
+//    case '+':
+//       initialized = false;
+//       map.zoomIn();
+//       break;  
+//    case '-':
+//        initialized = false;
+//       map.zoomOut();
+//       break; 
    case 'f':
        showFrameRate = !showFrameRate;
-       println(map.getZoomLevel());
        break;    
   case 's':
        select = !select;
@@ -48,7 +47,7 @@ switch(key){
       zoom = map.getZoomLevel();
       handler = selection;
       Handler = Selection;
-      c = #00ff00;
+      c = #ff0000;
       selection.drawRoads(Selection, c);
       lines = !lines;
       break;  
@@ -57,6 +56,22 @@ switch(key){
       break;
   case 'p':
       pulling = true;
+      select = false;
+      break;
+ case 'S': //toggles display of swarms of Pedestrians
+      showSwarm = toggle(showSwarm);
+      break;
+ case 'L': //speed it up
+      updateSpeed(1);
+      break;
+ case 'l': //slow it down
+      updateSpeed(-1);
+      break;
+ case 'r': //toggle display of shortest paths
+      showPaths = toggle(showPaths);
+      break;
+    case 'G': //toggle display for pathing grip
+      showGrid = toggle(showGrid);
       break;     
   case 'a': 
       Handler.clear();
@@ -68,6 +83,7 @@ switch(key){
       break;
     case 't': 
       handler = canvas;
+      initialized = false;
       tableCanvas.clear();
       Handler = Canvas;
       BresenhamMaster.clear();
@@ -76,13 +92,36 @@ switch(key){
       }
       test_Bresen();
        agentstriggered = !agentstriggered;
+      handler = selection;
+      Handler = Selection;
+      c = #ff0000;
+      selection.drawRoads(Selection, c);
+      lines = true;
       break;
+  case '`': 
+      pullprojection = !pullprojection;
+        if (displayProjection2D) {
+          displayProjection2D = false;
+          closeProjection2D();
+        } else {
+          displayProjection2D = true;
+          showProjection2D();
+        }
+        break;    
+    case 'c':
+        // enter/leave calibration mode, where surfaces can be warped 
+        // and moved
+        ks.toggleCalibration();
+        break;
+        
 }
+notenoughdata = false;
 }
 
-void pull_stuff(){
-       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
-       PullOSM();
-       selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
-       canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+boolean toggle(boolean bool) {
+  if (bool) {
+    return false;
+  } else {
+    return true;
+  }
 }
