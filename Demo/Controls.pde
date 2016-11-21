@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling, Yasushi, pullprojection;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, gendermode;
 color c;
 
 float left;
@@ -112,6 +112,19 @@ switch(key){
         // enter/leave calibration mode, where surfaces can be warped 
         // and moved
         ks.toggleCalibration();
+        break;
+    case 'g':
+        gendermode = !gendermode;
+        agents.clear();
+        tableCanvas.clear();
+        initialized = false;
+        break;
+    case 'j':
+        popmode = !popmode;
+        gendermode = false;
+        agents.clear();
+        tableCanvas.clear();
+        initialized = false;
         break;
         
 }

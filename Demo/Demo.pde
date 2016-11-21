@@ -56,8 +56,8 @@ void draw() {
 
 
   if (pull) {
-      PullCensus();
-      createGrid();
+//      PullCensus();
+//      createGrid();
     //Sets up Bounding Boxes for current model's map
       MapArch();
     
@@ -139,7 +139,6 @@ void draw() {
   if(initialized && pullprojection){
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
   }
-
   
 }
 
