@@ -184,20 +184,24 @@ class Pathfinder {
   }
 
 }
+
+
+
 class Graph {
   
   ArrayList<Node> nodes;
   int U, V;
-//  float SCALE;
-//  
-  float SCALE = 7;
   
+  float SCALE = 7;
+
+
   // Using the canvas width and height in pixels, a gridded graph is generated with a pixel spacing of 'scale'
   Graph (int w, int h, float scale) {
     
     nodes = new ArrayList<Node>();
      PVector nextcoord = new PVector(0, 0);
-    
+     
+     if(!gendermode){
     for(int i = 0; i<BresenhamMaster.size(); i++){
          PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
          
@@ -208,6 +212,21 @@ class Graph {
        if(abs(nextcoord.x - coord.x) > 2 || abs(nextcoord.y - coord.y) > 2){
         nodes.add(new Node(coord.x, coord.y));
          }
+    }
+    }
+    
+    if(gendermode){
+        for(int i = 0; i<BresenhamMaster.size()/2; i++){
+         PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
+         
+        if(i < BresenhamMaster.size()-1){
+              nextcoord = mercatorMap.getScreenLocation(BresenhamMaster.get(i+1));
+          }
+         
+       if(abs(nextcoord.x - coord.x) > 2 || abs(nextcoord.y - coord.y) > 2){
+        nodes.add(new Node(coord.x, coord.y));
+         }
+    }
     }
     
   }
