@@ -13,7 +13,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 10
   },
   null,
   null,
@@ -36,7 +36,7 @@
       },
       "Population": 1
     }]},
-    "responseTime": 7
+    "responseTime": 4
   },
   null,
   {
@@ -53,7 +53,7 @@
       },
       "Population": 115
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -78,7 +78,7 @@
       },
       "Population": 511
     }]},
-    "responseTime": 8
+    "responseTime": 3
   },
   null,
   null,
@@ -101,7 +101,7 @@
       },
       "Population": 359
     }]},
-    "responseTime": 5
+    "responseTime": 3
   },
   null,
   null,
@@ -122,7 +122,7 @@
       },
       "Population": 182
     }]},
-    "responseTime": 3
+    "responseTime": 4
   },
   null,
   null,
@@ -141,7 +141,7 @@
       },
       "Population": 132
     }]},
-    "responseTime": 4
+    "responseTime": 3
   },
   null,
   null,
@@ -160,7 +160,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 6
+    "responseTime": 4
   },
   null,
   null,
@@ -181,7 +181,7 @@
       },
       "Population": 758
     }]},
-    "responseTime": 75
+    "responseTime": 3
   },
   null,
   null,
@@ -208,7 +208,7 @@
       },
       "Population": 35
     }]},
-    "responseTime": 4
+    "responseTime": 3
   },
   null,
   null,
@@ -234,7 +234,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 7
+    "responseTime": 4
   },
   {
     "message": [],
@@ -250,7 +250,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 6
   },
   null,
   {
@@ -267,7 +267,7 @@
       },
       "Population": 23
     }]},
-    "responseTime": 5
+    "responseTime": 3
   },
   null,
   null,
@@ -288,7 +288,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 3
+    "responseTime": 36
   },
   null,
   null,
@@ -312,7 +312,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -330,7 +330,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   {
     "message": [],
@@ -366,7 +366,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -392,7 +392,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   {
@@ -409,7 +409,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 3
+    "responseTime": 5
   },
   null,
   null,
@@ -428,7 +428,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -452,7 +452,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 14
   },
   null,
   null,
@@ -476,7 +476,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 6
+    "responseTime": 4
   },
   null,
   null,
@@ -496,7 +496,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 3
+    "responseTime": 4
   },
   null,
   null,
@@ -516,7 +516,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 6
+    "responseTime": 3
   },
   null,
   null,
@@ -535,7 +535,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   {
     "message": [],
@@ -551,7 +551,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -575,7 +575,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 8
+    "responseTime": 5
   },
   null,
   null,
@@ -621,7 +621,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -653,7 +653,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 9
   },
   null,
   null,
@@ -672,7 +672,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 16
   },
   {
     "message": [],
@@ -688,7 +688,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 6
   },
   null,
   null,
@@ -756,7 +756,7 @@
       },
       "Population": 66
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -825,7 +825,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 3
   },
   null,
   null,
@@ -853,7 +853,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 3
   },
   null,
   null,
@@ -872,7 +872,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 16
   },
   null,
   null,
@@ -895,7 +895,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 3
   },
   null,
   null,
@@ -916,7 +916,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 3
   },
   null,
   null,
@@ -939,7 +939,7 @@
       },
       "Population": 87
     }]},
-    "responseTime": 4
+    "responseTime": 6
   },
   null,
   null,
@@ -964,7 +964,7 @@
       },
       "Population": 193
     }]},
-    "responseTime": 3
+    "responseTime": 5
   },
   null,
   {
@@ -1015,7 +1015,7 @@
       },
       "Population": 88
     }]},
-    "responseTime": 7
+    "responseTime": 4
   },
   null,
   null,
@@ -1040,7 +1040,7 @@
       },
       "Population": 182
     }]},
-    "responseTime": 3
+    "responseTime": 5
   },
   null,
   null,
@@ -1065,7 +1065,7 @@
       },
       "Population": 197
     }]},
-    "responseTime": 2
+    "responseTime": 4
   },
   null,
   null,
@@ -1091,7 +1091,7 @@
       },
       "Population": 225
     }]},
-    "responseTime": 3
+    "responseTime": 5
   },
   null,
   null,
@@ -1114,7 +1114,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 3
+    "responseTime": 4
   },
   null,
   {
@@ -1131,7 +1131,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -1164,7 +1164,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -1561,7 +1561,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 6
   },
   null,
   null,
@@ -1650,7 +1650,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -1785,7 +1785,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 5
+    "responseTime": 4
   },
   null,
   null,
@@ -1858,7 +1858,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -2098,7 +2098,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 7
+    "responseTime": 8
   },
   null,
   null,
@@ -2333,7 +2333,7 @@
       },
       "Population": 23
     }]},
-    "responseTime": 6
+    "responseTime": 4
   },
   null,
   null,
@@ -2354,7 +2354,7 @@
       },
       "Population": 215
     }]},
-    "responseTime": 7
+    "responseTime": 4
   },
   null,
   null,
@@ -2376,7 +2376,7 @@
       },
       "Population": 2
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -2404,7 +2404,7 @@
       },
       "Population": 57
     }]},
-    "responseTime": 9
+    "responseTime": 4
   },
   {
     "message": [],
@@ -2420,7 +2420,7 @@
       },
       "Population": 0
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -2452,7 +2452,7 @@
       },
       "Population": 206
     }]},
-    "responseTime": 11
+    "responseTime": 5
   },
   null,
   null,
@@ -2497,7 +2497,7 @@
       },
       "Population": 372
     }]},
-    "responseTime": 5
+    "responseTime": 6
   },
   null,
   null,
@@ -2586,7 +2586,7 @@
       },
       "Population": 25
     }]},
-    "responseTime": 4
+    "responseTime": 5
   },
   null,
   null,
@@ -2607,6 +2607,6 @@
       },
       "Population": 457
     }]},
-    "responseTime": 5
+    "responseTime": 6
   }
 ]

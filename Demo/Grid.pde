@@ -41,28 +41,31 @@ class Grid{
 Grid grid = new Grid(numrows*2, numcols*2);
 
 public void createGrid(){
-    int size = numrows*2*numcols*2;
+    int size = numrows*2*2*numcols;
     for (int i = 0; i<size; i++){
         float horzstep = float(boxw*2)/float(size*2);
         float vertstep = float(boxh*2)/float(size*2);
         PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
-        Cell cell = new Cell(i, map.getLocation(xy.x + i*horzstep, xy.y + i*vertstep));
-        println(cell.center);
-        for(int j = 0; j<grid.Blocks.size(); j++){
-            PVector central = new PVector(cell.center.y, cell.center.x);
+        Cell cell = new Cell(i, mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep)));
+        PVector central = new PVector(cell.center.y, cell.center.x);
+         
+         for(int j = 0; j<grid.Blocks.size(); j++){
             if (grid.Blocks.get(j).envelope.inbbox(central)){
                 grid.Blocks.get(j).GridCells.add(cell);
             }
         }
     }
     
+    int gridtot = 0;
+    
     for (int j = 0; j<grid.Blocks.size(); j++){
         float totalpop = grid.Blocks.get(j).population;
         int cellnum = grid.Blocks.get(j).GridCells.size();
+        gridtot +=cellnum;
             for(int i = 0; i<cellnum; i++){
                 grid.Blocks.get(j).GridCells.get(i).population = totalpop/cellnum;
             }
     }
     
-    println("blocks:", grid.Blocks.size());
+    println("blocks:", grid.Blocks.size(), "cells:",gridtot);
 }
