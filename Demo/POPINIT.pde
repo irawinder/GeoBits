@@ -9,7 +9,7 @@ void initPop(PGraphics p) {
   Ped_Family = new Horde(1000);
   
   sources_Viz = createGraphics(p.width, p.height);
-  testNetwork_Gender(p, 15);
+  testNetwork_Pop(p, 6);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
