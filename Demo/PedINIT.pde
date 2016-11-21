@@ -20,7 +20,17 @@ void initContent(PGraphics p) {
       showSource = true;
  
   initPathfinder(p, p.width/100);
+  
+  
+  if(gendermode == false && popmode == false){
   initPedestrians(p);
+  }
+  if(gendermode){
+    initGender(p);
+  }
+  if(popmode){
+    initPop(p);
+  }
   
   //hurrySwarms(1000);
   println("Initialization Complete.");
@@ -74,7 +84,7 @@ void initPedestrians(PGraphics p) {
   swarmHorde = new Horde(1000);
   swarmHorde2 = new Horde(1500);
   sources_Viz = createGraphics(p.width, p.height);
-  testNetwork_Random(p, 10);
+  testNetwork_Random(p, 15);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);

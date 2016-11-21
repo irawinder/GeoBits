@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, gendermode;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, gendermode, popmode;
 color c;
 
 float left;
