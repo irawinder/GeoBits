@@ -67,6 +67,80 @@ public ArrayList<PVector> SelectionBox() {
       return box;
 };
 
+public ArrayList<PVector> BleedZone() {
+ ArrayList<PVector> box = new ArrayList<PVector>();
+         float a = mouseX - boxw/2;
+         float b = mouseY - boxh/2;
+         float c = mouseX + boxw + boxw/2;
+         float d = mouseY + boxh + boxh/2;
+         
+         PVector topleft = new PVector(0, 0);
+          PVector topright = new PVector(0, 0);
+           PVector bottomleft = new PVector(0, 0);
+            PVector bottomright = new PVector(0, 0);
+         
+         if (a >= 0 && b >= 0){
+           topleft = map.getLocation(a, b);
+         }
+         if (a >= 0 && b < 0){
+           topleft = map.getLocation(a, 0);
+         }
+         if  (a < 0 && b >= 0){
+            topleft = map.getLocation(0, b);
+         }
+         if (a < 0 && b < 0){
+            topleft = map.getLocation(0, 0);
+         }  
+         
+         if (a >= 0 && d <= height){
+             bottomleft = map.getLocation(a, d);
+         }
+         if (a < 0 && d <= height){
+           bottomleft = map.getLocation(0, d);
+         }
+         if (a >= 0 && d > height){
+            bottomleft = map.getLocation(a, height);
+         }
+         if (a < 0 && d > height){
+           bottomleft = map.getLocation(0, height);
+         }
+         
+         if (c <= width && d <= height){
+           bottomright = map.getLocation(c, d);
+         }
+         if (c > width && d <= height){
+           bottomright = map.getLocation(width, d);
+         }
+         if (c <= width && d > height){
+           bottomright = map.getLocation(c, height);
+         }
+         if (c > width && d > height){
+          bottomright = map.getLocation(width, height);
+         }
+
+         if (c <= width && b >= 0){
+            topright = map.getLocation(c, b);
+         }
+         if (c > width && b >= 0){
+           topright = map.getLocation(width, b);
+         }
+         if (c <= width && b < 0){
+           topright = map.getLocation(c, 0);
+         }
+         if (c > width && b < 0){
+             topright = map.getLocation(width, 0);
+         }
+           
+         PVector center = map.getLocation(mouseX + boxw/2, mouseY + boxh/2);
+         
+         box.add(topleft);
+         box.add(bottomright);
+         box.add(topright);
+         box.add(bottomleft);
+         box.add(center);
+      return box;
+};
+
 
 public ArrayList<PVector> CanvasBox() {
       ArrayList<PVector> canvas = new ArrayList<PVector>();

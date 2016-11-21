@@ -88,18 +88,6 @@ void draw_loading(PGraphics p){
 
 }
 
-//void draw_agents(PGraphics p){
-//  p.beginDraw();
-//  p.fill(0);
-//  p.rect(0, 0, width, height);
-//  p.fill(255);
-//  p.textSize(25);
-//  p.textAlign(CENTER);
-//  p.text("Computing Agent Model...",width/2, height/2);
-//  p.endDraw();
-//
-//}
-
 
 void draw_popup(PGraphics p){
   p.beginDraw();

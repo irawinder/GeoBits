@@ -1,60 +1,68 @@
-class GridCell{
-  float cellwidth, population;
-  bbox bounds;
-  ArrayList<PVector> Nodes;
-      GridCell(float _cellwidth, float _pop, bbox _bounds){
-          population = _pop;
-          cellwidth = _cellwidth;
-          bounds = _bounds;
-      }
-   
- void PopulateNodes(RoadNetwork network){
-    for(int i = 0; i<network.Roads.size(); i++){
-        network.Roads.get(i).bresenham();
-        for(int j = 0; j<network.Roads.get(i).Brez.size(); j++){
-          PVector coord = network.Roads.get(i).Brez.get(j);
-          if(bounds.inbbox(coord) == true){
-                Nodes.add(coord);
-            }
-        }
-    }
- }
-      
+class Cell{
+  public int id, block;
+  public float population;
+  public PVector center;
+  public ArrayList<POI>POIs = new ArrayList<POI>(); 
+  public boolean surgetile;
+  
+  Cell(int _id, PVector _center){
+    center = _center;
+    id = _id;
+  }
+  
+}
+
+class Block{
+  public int id;
+  public bbox envelope; 
+  public float population;
+  public ArrayList<Cell>GridCells = new ArrayList<Cell>();
+  
+  Block(int _id, int _population, bbox _envelope){
+      envelope = _envelope;
+      population = _population;
+      id = _id;
+  }
+
 }
 
 class Grid{
-  bbox bounds;
-  ArrayList<GridCell> cells;
-  int w, h, numcells;
-  String name;
-  Grid(String _name, ArrayList<GridCell> _cells){
-      name = _name;
-      cells = _cells;
-      numcells = numrows*numcols;
-  }
-  void generategrid(RoadNetwork network, int numrows, int numcols, PGraphics p){
-      for(int i = 0; i<numcells; i++){
-        PVector upperleft = mercatorMap.getScreenLocation(network.bounds.boxcorners().get(1));
-        PVector bottomright = mercatorMap.getScreenLocation(network.bounds.boxcorners().get(3));
-        
-          bbox cellbb = new bbox(upperleft.x + (i)*boxw/numcols, upperleft.y + (i)*boxw/numcols, upperleft.x + (i+1)*boxw/numcols, upperleft.y + (i+1)*boxw/numcols);
-          p.stroke(#0000ff);
-          p.rect(upperleft.x + (i)*boxw/numcols, upperleft.y + (i)*boxw/numcols, upperleft.x + (i+1)*boxw/numcols, upperleft.y + (i+1)*boxw/numcols);
-          
-          GridCell cell = new GridCell(boxw/numcols, random(50), cellbb);
-          
-          //for(int i = 0; i<numcols+1; i++)
-          //    line(int(i*boxw/numcols) + int(mouseX), mouseY, int(i*boxw/numcols) + int(mouseX), mouseY+boxh);
-          //  
-          //  for(int i = 0; i<numrows+1; i++)
-          //    line(mouseX, int(i*boxh/numrows) + int(mouseY), mouseX + boxw, int(i*boxh/numrows) + int(mouseY));
-      }
-      //pull network
-      //make grid cells with bounding box blehhhh
-      //run populate nodes function
+  public int rows, cols;
+  public bbox bounds; 
+  public ArrayList<Block>Blocks = new ArrayList<Block>();
+  
+  Grid(int _rows, int _cols){
+    rows = _rows;
+    cols = _cols;
   }
   
-  void drawgrid(){
-        
+}
+
+Grid grid = new Grid(numrows*2, numcols*2);
+
+public void createGrid(){
+    int size = numrows*2*numcols*2;
+    for (int i = 0; i<size; i++){
+        float horzstep = float(boxw*2)/float(size*2);
+        float vertstep = float(boxh*2)/float(size*2);
+        PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
+        Cell cell = new Cell(i, map.getLocation(xy.x + i*horzstep, xy.y + i*vertstep));
+        println(cell.center);
+        for(int j = 0; j<grid.Blocks.size(); j++){
+            PVector central = new PVector(cell.center.y, cell.center.x);
+            if (grid.Blocks.get(j).envelope.inbbox(central)){
+                grid.Blocks.get(j).GridCells.add(cell);
+            }
+        }
     }
+    
+    for (int j = 0; j<grid.Blocks.size(); j++){
+        float totalpop = grid.Blocks.get(j).population;
+        int cellnum = grid.Blocks.get(j).GridCells.size();
+            for(int i = 0; i<cellnum; i++){
+                grid.Blocks.get(j).GridCells.get(i).population = totalpop/cellnum;
+            }
+    }
+    
+    println("blocks:", grid.Blocks.size());
 }

@@ -1,0 +1,13 @@
+The dataset is made available in the form of a single .zip archive
+which contains comma-separated value (CSV) files for each city. The
+CSV files have three fields — latitude, longitude and q-score. You can
+locate the image scored by StreetScore by querying the Google Street
+View Image API using the (latitude, longitude) pair. q-score is the
+perceived safety value for an image between -5 and 45 as predicted by
+the StreetScore algorithm. 
+
+Source: 
+
+"StreetScore - Predicting the Perceived Safety of One Million
+Streetscapes", Nikhil Naik, Jade Philipoom, Ramesh Raskar and César
+A. Hidalgo. CVPR Workshop on Web-scale Vision and Social Media (2014)

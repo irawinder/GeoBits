@@ -217,7 +217,7 @@ public class RoadNetwork{
                 float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
                 float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
           }
-  
+//  
 //      for(int i = 0; i<Roads.size(); i++){
 //        p.strokeWeight(1);
 //        PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
@@ -239,8 +239,9 @@ public class RoadNetwork{
 //            p.ellipse(start.x, start.y, 3, 3);
 //        }
 //        p.stroke(c);
-//        //p.line(start.x, start.y, end.x, end.y);  
+//        p.line(start.x, start.y, end.x, end.y);  
 //      }
+
    p.endDraw(); 
    println("DONE: Roads Drawn", millis());
 }

@@ -41,6 +41,7 @@ void setup() {
   map.zoomAndPanTo(Boston, 17);
   pulling = true;
   }
+
   
   smooth();
   
@@ -55,6 +56,8 @@ void draw() {
 
 
   if (pull) {
+      PullCensus();
+      createGrid();
     //Sets up Bounding Boxes for current model's map
       MapArch();
     
