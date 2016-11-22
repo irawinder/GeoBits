@@ -6,6 +6,24 @@ float speed = 1;
 
 int num = 0;
 
+class General{}
+
+class Car{}
+
+class Bus{}
+
+/*
+Pedestrian needs gender, income, age added to it
+*/
+
+/*
+Bus needs capacity added to it
+*/
+
+/*
+Car needs number of people, income, age added to it
+*/
+
 class Pedestrian {
   
   PVector location;
