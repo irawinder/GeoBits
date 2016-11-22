@@ -56,10 +56,13 @@ void draw() {
 
 
   if (pull) {
-//      PullCensus();
-//      createGrid();
+
     //Sets up Bounding Boxes for current model's map
       MapArch();
+      
+             PullCensus();
+      createGrid();
+      
     
     //Use HTTP requests to get data    
     if(!demo){

@@ -47,10 +47,9 @@ public void createGrid(){
         float vertstep = float(boxh*2)/float(size*2);
         PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
         Cell cell = new Cell(i, mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep)));
-        PVector central = new PVector(cell.center.y, cell.center.x);
-         
+
          for(int j = 0; j<grid.Blocks.size(); j++){
-            if (grid.Blocks.get(j).envelope.inbbox(central)){
+            if (grid.Blocks.get(j).envelope.inbbox(cell.center)){
                 grid.Blocks.get(j).GridCells.add(cell);
             }
         }
@@ -61,6 +60,7 @@ public void createGrid(){
     for (int j = 0; j<grid.Blocks.size(); j++){
         float totalpop = grid.Blocks.get(j).population;
         int cellnum = grid.Blocks.get(j).GridCells.size();
+        println(cellnum);
         gridtot +=cellnum;
             for(int i = 0; i<cellnum; i++){
                 grid.Blocks.get(j).GridCells.get(i).population = totalpop/cellnum;

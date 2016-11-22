@@ -167,6 +167,7 @@ public class RoadNetwork{
                                             if(d<substring.size()-1){
                                                   PVector start = new PVector(substring.getJSONArray(d).getFloat(1), substring.getJSONArray(d).getFloat(0));
                                                   PVector end = new PVector(substring.getJSONArray(d+1).getFloat(1), substring.getJSONArray(d+1).getFloat(0));
+                                                  //println(bounds.bounds);
                                                if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){
                                                   Road road = new Road(start, end, OSMid);
                                                   Roads.add(road);

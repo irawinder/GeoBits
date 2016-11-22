@@ -148,6 +148,7 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
     int a = int(random(0, places.POIs.size()));
     PVector loc = mercatorMap.getScreenLocation(places.POIs.get(a).location);
     nodes[i] =  loc;
+
   }
   
   for (int i=0; i<numNodes; i++) {

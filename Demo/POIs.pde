@@ -41,8 +41,10 @@ public void PullPOIs(){
             float lat = float(children[i].getString("lat"));
             float lon = float(children[i].getString("lon"));
                      PVector loc = new PVector(lat, lon);
+                     if(Bounds.inbbox(loc) == true){
                      POI poi = new POI(loc, 12, 0, "test", "stuff");
                      POIs.add(poi);
+                     }
         }
     } 
 }

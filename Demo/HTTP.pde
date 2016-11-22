@@ -23,6 +23,7 @@ public void MapArch(){
     Selection.clear();
     Canvas.clear();
     Bounds = new bbox(BleedZone().get(1).x, BleedZone().get(0).y, BleedZone().get(0).x, BleedZone().get(1).y);
+    println(BleedZone().get(1).x, BleedZone().get(0).y, BleedZone().get(0).x, BleedZone().get(1).y);
     canvas = new RoadNetwork("Canvas", Bounds);
     SelBounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
     selection = new RoadNetwork("Selection", SelBounds);

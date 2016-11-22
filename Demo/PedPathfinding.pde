@@ -10,6 +10,9 @@
 // Step 3.2 Modify Swarm Class to retain Path object of some sort (Probably an ArrayList<PVector>)
 // Step 4: Modify Swarm Behavior to follow path
 
+
+Table safety;
+
 class Pathfinder { 
   Graph network;
   
@@ -216,17 +219,14 @@ class Graph {
     }
     
     if(gendermode){
-        for(int i = 0; i<BresenhamMaster.size()/2; i++){
-         PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
-         
-        if(i < BresenhamMaster.size()-1){
-              nextcoord = mercatorMap.getScreenLocation(BresenhamMaster.get(i+1));
+        safety = loadTable("data/streetscore_boston.csv", "header");
+        
+        for(int i = 0; i<safety.getRowCount(); i++){
+          PVector coord = mercatorMap.getScreenLocation(new PVector(safety.getFloat(i, "latitude"), safety.getFloat(i,"longitude")));
+          if(coord.x > 0 && coord.x < width && coord.y > 0 && coord.y < height){
+          nodes.add(new Node(coord.x, coord.y));
           }
-         
-       if(abs(nextcoord.x - coord.x) > 2 || abs(nextcoord.y - coord.y) > 2){
-        nodes.add(new Node(coord.x, coord.y));
-         }
-    }
+        }
     }
     
   }
@@ -300,7 +300,7 @@ class Graph {
       }
     }
     
-    return closest;
+    return closest; 
   }
   
   float getClosestNeighborDistance(int i) {

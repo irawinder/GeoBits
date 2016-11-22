@@ -6,10 +6,17 @@
 public void PullCensus(){
   bbox blockbbx = new bbox(0, 0, 0, 0);
    for(int i = 0; i<1584; i++){
-       PVector loc = new PVector(map.getLocation(i*10, i*10).y, map.getLocation(i*10, i*10).x);
-
+        int size = 1584;
+        // PVector loc = new PVector(map.getLocation(i*10, i*10).y, map.getLocation(i*10, i*10).x);
+        float horzstep = float(boxw*2)/float(size*2);
+        float vertstep = float(boxh*2)/float(size*2);
+        PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
+        PVector loc = mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep));
+//        Cell cell = new Cell(i, mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep)));
+       
+       
        if (blockbbx.inbbox(loc) == false){
-         link = "http://www.broadbandmap.gov/broadbandmap/census/block?latitude=" + loc.y + "&longitude=" + loc.x + "&format=json";
+         link = "http://www.broadbandmap.gov/broadbandmap/census/block?latitude=" + loc.x + "&longitude=" + loc.y + "&format=json";
          GetRequest get = new GetRequest(link);
          get.send();
          output = get.getContent();
@@ -30,10 +37,9 @@ public void PullCensus(){
          output2 = get2.getContent();
          exportcensus = parseJSONArray(output2);
          int pop = exportcensus.getJSONArray(1).getInt(0);
-
-         blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).setInt("Population", pop);
          
-         blockbbx = new bbox(minx, miny, maxx, maxy);
+         blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).setInt("Population", pop);
+         blockbbx = new bbox(miny, minx, maxy, maxx);
          
          Block thing = new Block(int(blockcode), pop, blockbbx);
          
