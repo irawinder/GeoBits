@@ -60,12 +60,15 @@ public void createGrid(){
     for (int j = 0; j<grid.Blocks.size(); j++){
         float totalpop = grid.Blocks.get(j).population;
         int cellnum = grid.Blocks.get(j).GridCells.size();
-        println(cellnum);
-        gridtot +=cellnum;
             for(int i = 0; i<cellnum; i++){
                 grid.Blocks.get(j).GridCells.get(i).population = totalpop/cellnum;
             }
     }
     
-    println("blocks:", grid.Blocks.size(), "cells:",gridtot);
+    int celltot = 0;
+    for (int j = 0; j<grid.Blocks.size(); j++){
+        celltot += grid.Blocks.get(j).GridCells.size();
+    }
+    
+    println("blocks:", grid.Blocks.size(), "cells:", celltot );
 }
