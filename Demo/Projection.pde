@@ -119,11 +119,11 @@ public class projApplet extends PApplet {
     p.fill(#ff0000);
 
    if(initialized){
-     p.rect(0, 0, 90, 1150);
+//     p.rect(0, 0, 90, 1150);
      p.image(things, 90, 0, 1100, 1150);
 //     p.image(special_agents, 0, 0, 1200, 1200);
 //       if(lines){
-//       p.image(special_roads, 0, 0,1200,1200);
+//       p.image(special_roads, 0, 0,1200,1200);`
 //       }
         p.fill(0);
         p.rect(90, 868, 1100, 500);
