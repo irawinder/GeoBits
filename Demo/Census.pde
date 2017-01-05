@@ -5,6 +5,15 @@
  
 public void PullCensus(){
   bbox blockbbx = new bbox(0, 0, 0, 0);
+  
+  for(int i = 0; i<numcols; i++){
+    for(int j = 0; j<numrows; j++){
+        float horzstep = float(boxw*2)/float(numrows*numcols*2);
+        float vertstep = float(boxh*2)/float(numrows*numcols*2);
+        PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y + i*vertstep));
+    }
+  }
+  
    for(int i = 0; i<1584; i++){
         int size = 1584;
         // PVector loc = new PVector(map.getLocation(i*10, i*10).y, map.getLocation(i*10, i*10).x);
@@ -13,7 +22,6 @@ public void PullCensus(){
         PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
         PVector loc = mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep));
 //        Cell cell = new Cell(i, mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep)));
-       
        
        if (blockbbx.inbbox(loc) == false){
          link = "http://www.broadbandmap.gov/broadbandmap/census/block?latitude=" + loc.x + "&longitude=" + loc.y + "&format=json";

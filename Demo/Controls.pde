@@ -33,6 +33,7 @@ switch(key){
   case 'A':
       handler = canvas;
       Handler = Canvas;
+      Handler.clear();
       BresenhamMaster.clear();
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
@@ -47,6 +48,7 @@ switch(key){
       zoom = map.getZoomLevel();
       handler = selection;
       Handler = Selection;
+      Handler.clear();
       c = #ff0000;
       selection.drawRoads(Selection, c);
       lines = !lines;

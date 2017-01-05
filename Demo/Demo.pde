@@ -14,9 +14,9 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write datege: 8/13/16 
- Last Updated: 11/2/16
+ Last Updated: 1/5/17
  */
-boolean agentstriggered, initagents, initialized, lines, notenoughdata;
+boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
 MercatorMap mercatorMap;
 BufferedReader reader;
@@ -60,8 +60,8 @@ void draw() {
     //Sets up Bounding Boxes for current model's map
       MapArch();
       
-             PullCensus();
-      createGrid();
+//      PullCensus();
+//      createGrid();
       
     
     //Use HTTP requests to get data    
@@ -69,24 +69,9 @@ void draw() {
       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
       PullOSM();
       println("PullMap() ran");
-    }
-    
-    //Or load the pre-processed demo set in Boston
-    if(demo){
-    mapling = "data/map(42.363, -71.068)_(42.357, -71.053).json";
-    }
-    
-    //Organize POIs
-    places.PullPOIs();
+       places.PullPOIs();
     println("Pull POIs ran");
-    
-    //Pulling seperate information if needed
-    if (Yasushi) {
-      PullOSM();
-      PullWidths();
-    }
-    
-    //Generates networks
+   //Generates networks
     selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     println("Networks generated");
@@ -95,9 +80,32 @@ void draw() {
     
     pulling = false;
     pull = false;
+
      
     //sets up for agentnetwork if there is enough info 
     AgentNetworkModel(); 
+    }
+
+        //Or load the pre-processed demo set in Boston
+    if(demo){
+    mapling = "data/map(42.363, -71.068)_(42.357, -71.053).json";
+        places.PullPOIs();
+    println("Pull POIs ran");
+        selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+    canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+    println("Networks generated");
+        AgentNetworkModel();     
+        pulling = false;
+    pull = false;
+    }
+    
+
+    //Pulling seperate information if needed
+    if (Yasushi) {
+      PullOSM();
+      PullWidths();
+    }
+
   }
 
   mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);

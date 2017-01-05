@@ -3,6 +3,7 @@
 boolean frameStep = true;
 float time_0 = 0;
 float speed = 1;
+int pedsize = 4;
 
 int num = 0;
 
@@ -348,7 +349,7 @@ class Swarm {
       int staticNum = 4;
       
       while (swarm.size() < staticNum) {
-        swarm.add(new Pedestrian(origin.x, origin.y, 5, maxSpeed, path.size()));
+        swarm.add(new Pedestrian(origin.x, origin.y, pedsize, maxSpeed, path.size()));
       }
       while (swarm.size() > staticNum) {
         swarm.remove(0);
@@ -357,7 +358,7 @@ class Swarm {
     
     // Adds an Pedestrian
     if (generatePedestrian) {
-      swarm.add(new Pedestrian(origin.x, origin.y, 5, maxSpeed, path.size()));
+      swarm.add(new Pedestrian(origin.x, origin.y, pedsize, maxSpeed, path.size()));
       generatePedestrian = false;
     }
     

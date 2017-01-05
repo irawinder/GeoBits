@@ -69,10 +69,27 @@ public ArrayList<PVector> SelectionBox() {
 
 public ArrayList<PVector> BleedZone() {
  ArrayList<PVector> box = new ArrayList<PVector>();
-         float a = mouseX - boxw/2;
-         float b = mouseY - boxh/2;
-         float c = mouseX + boxw + boxw/2;
-         float d = mouseY + boxh + boxh/2;
+ 
+ float a, b, c, d;
+ 
+         if(map.getZoomLevel() >= 17){
+         a = mouseX - boxw/2;
+         b = mouseY - boxh/2;
+         c = mouseX + boxw + boxw/2;
+         d = mouseY + boxh + boxh/2;
+         }
+         else if (map.getZoomLevel() == 16){
+         a = mouseX - boxw/4;
+         b = mouseY - boxh/4;
+         c = mouseX + boxw + boxw/4;
+         d = mouseY + boxh + boxh/4;
+         }
+         else{
+         a = mouseX ;
+         b = mouseY ;
+         c = mouseX + boxw ;
+         d = mouseY + boxh ;
+         }
          
          PVector topleft = new PVector(0, 0);
           PVector topright = new PVector(0, 0);

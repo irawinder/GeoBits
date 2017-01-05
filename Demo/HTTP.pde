@@ -54,6 +54,7 @@ public void PullMap(int amount, float w, float h){
 }
 
 public void PullOSM(){
+  if(OSMPulled == false){
    String APIbox = BleedZone().get(0).y + "," + BleedZone().get(1).x + "," + BleedZone().get(1).y + "," + BleedZone().get(0).x;
    println(map.getLocation(0, height).y + "," + map.getLocation(0, height).x + "," + map.getLocation(width, 0).y + "," + map.getLocation(width, 0).x);
    println(BleedZone().get(1).x + "," + BleedZone().get(0).y + "," + BleedZone().get(0).x + "," + BleedZone().get(1).y);
@@ -66,6 +67,8 @@ public void PullOSM(){
    String[] test = split(output, "fhajksdhfjajksdkfoiijhedjifkm"); //just gets into a text array without splitting because that char string won't exist
    saveStrings( "exports/" + "OSM"+ map.getLocation(0, 0) + "_" + map.getLocation(width, height)+ ".xml", test);
    println("DONE: OSM Raw Data Pulled");
+  }
+   OSMPulled = true;
 }
 
 //XML xml; 

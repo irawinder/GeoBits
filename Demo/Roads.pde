@@ -128,7 +128,7 @@ public class RoadNetwork{
       bounds = _Bounds;
       size = Roads.size();
   }
-  
+//  
    void GenerateNetwork(int genratio){
      Roads.clear();
       
@@ -219,29 +219,29 @@ public class RoadNetwork{
                 float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
           }
 //  
-//      for(int i = 0; i<Roads.size(); i++){
-//        p.strokeWeight(1);
-//        PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
-//        PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
-//        if(showid){
-//            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
-//               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
-//                p.noFill();
-//                p.stroke(#ff0000);
-//                PVector nextcoord = new PVector(0, 0);
-//                if(j < Roads.get(i).Brez.size()-1){
-//                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
-//                }
-//                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
-//                    p.ellipse(coord.x, coord.y, 5, 5);
-//                  }
-//            }
-//            p.stroke(0);
-//            p.ellipse(start.x, start.y, 3, 3);
-//        }
-//        p.stroke(c);
-//        p.line(start.x, start.y, end.x, end.y);  
-//      }
+      for(int i = 0; i<Roads.size(); i++){
+        p.strokeWeight(1);
+        PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
+        PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
+        if(showid){
+            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
+               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
+                p.noFill();
+                p.stroke(#ff0000);
+                PVector nextcoord = new PVector(0, 0);
+                if(j < Roads.get(i).Brez.size()-1){
+                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
+                }
+                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
+                    p.ellipse(coord.x, coord.y, 5, 5);
+                  }
+            }
+            p.stroke(0);
+            p.ellipse(start.x, start.y, 3, 3);
+        }
+        p.stroke(c);
+        p.line(start.x, start.y, end.x, end.y);  
+      }
 
    p.endDraw(); 
    println("DONE: Roads Drawn", millis());
