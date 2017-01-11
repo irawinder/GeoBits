@@ -6,7 +6,7 @@ Lots of conversion functions
 //left, bottom, right, top
 
 public class bbox{
-  public float minlon, minlat, maxlon, maxlat, w;
+  public float minlon, minlat, maxlon, maxlat, w, h;
   FloatList bounds = new FloatList();
   
   bbox(float _minlon, float _minlat, float _maxlon, float _maxlat){
@@ -16,10 +16,16 @@ public class bbox{
       maxlat = _maxlat;
       
       w = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(minlat, maxlon));
+      h = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(maxlat, minlon));
+   
    bounds.append(minlon);
    bounds.append(minlat);
    bounds.append(maxlon);
    bounds.append(maxlat);
+  }
+  
+  public void drawBox(){
+      rect(minlon, maxlat, w, h);
   }
   
   public boolean inbbox(PVector point){
@@ -45,116 +51,125 @@ public class bbox{
       corners.add(new PVector (minlon, maxlat));
       return corners;
   }
+  
+  public float area(){
+    //left, bottom, right, top
+    //bbox(float _minlon, float _minlat, float _maxlon, float _maxlat) 
+    float len = mercatorMap.Haversine(new PVector(minlon, minlat), new PVector(maxlon, minlat));
+    float wid = mercatorMap.Haversine(new PVector(minlon, minlat), new PVector(minlon, minlat));
+    float result = len*wid;
+    return result;
+  }
 
 }
 
 public ArrayList<PVector> SelectionBox() {
-      ArrayList<PVector> box = new ArrayList<PVector>();
-         float a = mouseX;
-         float b = mouseY;
-         float c = mouseX + boxw;
-         float d = mouseY + boxh;
-         PVector topleft = map.getLocation(a, b);
-         PVector bottomright = map.getLocation(c, d);
-         PVector topright = map.getLocation(c, b);
-         PVector bottomleft = map.getLocation(a, d);
-         PVector center = map.getLocation(mouseX + boxw/2, mouseY + boxh/2);
-         box.add(topleft);
-         box.add(bottomright);
-         box.add(topright);
-         box.add(bottomleft);
-         box.add(center);
-      return box;
+     ArrayList<PVector> box = new ArrayList<PVector>();
+     float a = mouseX;
+     float b = mouseY;
+     float c = mouseX + boxw;
+     float d = mouseY + boxh;
+     PVector topleft = map.getLocation(a, b);
+     PVector bottomright = map.getLocation(c, d);
+     PVector topright = map.getLocation(c, b);
+     PVector bottomleft = map.getLocation(a, d);
+     PVector center = map.getLocation(mouseX + boxw/2, mouseY + boxh/2);
+     box.add(topleft);
+     box.add(bottomright);
+     box.add(topright);
+     box.add(bottomleft);
+     box.add(center);
+     return box;
 };
 
 public ArrayList<PVector> BleedZone() {
- ArrayList<PVector> box = new ArrayList<PVector>();
- 
- float a, b, c, d;
- 
-         if(map.getZoomLevel() >= 17){
-         a = mouseX - boxw/2;
-         b = mouseY - boxh/2;
-         c = mouseX + boxw + boxw/2;
-         d = mouseY + boxh + boxh/2;
-         }
-         else if (map.getZoomLevel() == 16){
-         a = mouseX - boxw/4;
-         b = mouseY - boxh/4;
-         c = mouseX + boxw + boxw/4;
-         d = mouseY + boxh + boxh/4;
-         }
-         else{
-         a = mouseX ;
-         b = mouseY ;
-         c = mouseX + boxw ;
-         d = mouseY + boxh ;
-         }
+     ArrayList<PVector> box = new ArrayList<PVector>();
+     
+     float a, b, c, d;
+     
+     if(map.getZoomLevel() >= 17){
+     a = mouseX - boxw/2;
+     b = mouseY - boxh/2;
+     c = mouseX + boxw + boxw/2;
+     d = mouseY + boxh + boxh/2;
+     }
+     else if (map.getZoomLevel() == 16){
+     a = mouseX - boxw/4;
+     b = mouseY - boxh/4;
+     c = mouseX + boxw + boxw/4;
+     d = mouseY + boxh + boxh/4;
+     }
+     else{
+     a = mouseX ;
+     b = mouseY ;
+     c = mouseX + boxw ;
+     d = mouseY + boxh ;
+     }
          
-         PVector topleft = new PVector(0, 0);
-          PVector topright = new PVector(0, 0);
-           PVector bottomleft = new PVector(0, 0);
-            PVector bottomright = new PVector(0, 0);
+    PVector topleft = new PVector(0, 0);
+    PVector topright = new PVector(0, 0);
+    PVector bottomleft = new PVector(0, 0);
+    PVector bottomright = new PVector(0, 0);
          
-         if (a >= 0 && b >= 0){
-           topleft = map.getLocation(a, b);
-         }
-         if (a >= 0 && b < 0){
-           topleft = map.getLocation(a, 0);
-         }
-         if  (a < 0 && b >= 0){
-            topleft = map.getLocation(0, b);
-         }
-         if (a < 0 && b < 0){
-            topleft = map.getLocation(0, 0);
-         }  
-         
-         if (a >= 0 && d <= height){
-             bottomleft = map.getLocation(a, d);
-         }
-         if (a < 0 && d <= height){
-           bottomleft = map.getLocation(0, d);
-         }
-         if (a >= 0 && d > height){
-            bottomleft = map.getLocation(a, height);
-         }
-         if (a < 0 && d > height){
-           bottomleft = map.getLocation(0, height);
-         }
-         
-         if (c <= width && d <= height){
-           bottomright = map.getLocation(c, d);
-         }
-         if (c > width && d <= height){
-           bottomright = map.getLocation(width, d);
-         }
-         if (c <= width && d > height){
-           bottomright = map.getLocation(c, height);
-         }
-         if (c > width && d > height){
-          bottomright = map.getLocation(width, height);
-         }
+     if (a >= 0 && b >= 0){
+       topleft = map.getLocation(a, b);
+     }
+     if (a >= 0 && b < 0){
+       topleft = map.getLocation(a, 0);
+     }
+     if  (a < 0 && b >= 0){
+        topleft = map.getLocation(0, b);
+     }
+     if (a < 0 && b < 0){
+        topleft = map.getLocation(0, 0);
+     }  
+     
+     if (a >= 0 && d <= height){
+         bottomleft = map.getLocation(a, d);
+     }
+     if (a < 0 && d <= height){
+       bottomleft = map.getLocation(0, d);
+     }
+     if (a >= 0 && d > height){
+        bottomleft = map.getLocation(a, height);
+     }
+     if (a < 0 && d > height){
+       bottomleft = map.getLocation(0, height);
+     }
+     
+     if (c <= width && d <= height){
+       bottomright = map.getLocation(c, d);
+     }
+     if (c > width && d <= height){
+       bottomright = map.getLocation(width, d);
+     }
+     if (c <= width && d > height){
+       bottomright = map.getLocation(c, height);
+     }
+     if (c > width && d > height){
+      bottomright = map.getLocation(width, height);
+     }
 
-         if (c <= width && b >= 0){
-            topright = map.getLocation(c, b);
-         }
-         if (c > width && b >= 0){
-           topright = map.getLocation(width, b);
-         }
-         if (c <= width && b < 0){
-           topright = map.getLocation(c, 0);
-         }
-         if (c > width && b < 0){
-             topright = map.getLocation(width, 0);
-         }
-           
-         PVector center = map.getLocation(mouseX + boxw/2, mouseY + boxh/2);
-         
-         box.add(topleft);
-         box.add(bottomright);
-         box.add(topright);
-         box.add(bottomleft);
-         box.add(center);
+     if (c <= width && b >= 0){
+        topright = map.getLocation(c, b);
+     }
+     if (c > width && b >= 0){
+       topright = map.getLocation(width, b);
+     }
+     if (c <= width && b < 0){
+       topright = map.getLocation(c, 0);
+     }
+     if (c > width && b < 0){
+         topright = map.getLocation(width, 0);
+     }
+       
+     PVector center = map.getLocation(mouseX + boxw/2, mouseY + boxh/2);
+     
+     box.add(topleft);
+     box.add(bottomright);
+     box.add(topright);
+     box.add(bottomleft);
+     box.add(center);
       return box;
 };
 

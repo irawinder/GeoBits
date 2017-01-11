@@ -14,7 +14,7 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write datege: 8/13/16 
- Last Updated: 1/5/17
+ Last Updated: 1/10/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
@@ -60,7 +60,7 @@ void draw() {
     //Sets up Bounding Boxes for current model's map
       MapArch();
       
-//      PullCensus();
+      PullCensus();
 //      createGrid();
       
     
@@ -98,6 +98,8 @@ void draw() {
         pulling = false;
     pull = false;
     }
+    
+    
     
 
     //Pulling seperate information if needed

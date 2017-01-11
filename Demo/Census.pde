@@ -2,28 +2,41 @@
  JSONArray exportcensus;
  JSONObject blok;
  String poplink;
+ ArrayList<PVector>GridPoints = new ArrayList<PVector>();
+StringList FIPS = new StringList();
  
 public void PullCensus(){
   bbox blockbbx = new bbox(0, 0, 0, 0);
   
+  float vertstep = (float(boxh)/float(numrows));
+  float horzstep = (float(boxw)/float(numcols));
+
+  PVector start = mercatorMap.getScreenLocation(new PVector(SelectionBox().get(1).x, SelectionBox().get(0).y));
+  PVector startxy = new PVector(start.x + horzstep/2, start.y - vertstep/2);
+  int count = 0;
+  
   for(int i = 0; i<numcols; i++){
     for(int j = 0; j<numrows; j++){
-        float horzstep = float(boxw*2)/float(numrows*numcols*2);
-        float vertstep = float(boxh*2)/float(numrows*numcols*2);
-        PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y + i*vertstep));
+        PVector loc = new PVector(startxy.x + i*horzstep, startxy.y - j*vertstep);
+        PVector lefttop = new PVector(loc.x - horzstep/2, loc.y - vertstep/2);
+        PVector rightbottom = new PVector(loc.x + horzstep/2, loc.y + vertstep/2);
+        GridPoints.add(mercatorMap.getGeo(lefttop));
+        GridPoints.add(mercatorMap.getGeo(rightbottom));
+        GridPoints.add(mercatorMap.getGeo(loc));      
+        Cell cell = new Cell(count, mercatorMap.getGeo(loc));
+        PVector lefttopGeo = mercatorMap.getGeo(lefttop);
+        PVector rightbottomGeo = mercatorMap.getGeo(rightbottom);
+        cell.bounds = new bbox(lefttopGeo.x, rightbottomGeo.y, rightbottomGeo.x, lefttopGeo.y);
+        count+=1;
+        grid.GridCells.add(cell);
     }
+  
   }
   
-   for(int i = 0; i<1584; i++){
-        int size = 1584;
-        // PVector loc = new PVector(map.getLocation(i*10, i*10).y, map.getLocation(i*10, i*10).x);
-        float horzstep = float(boxw*2)/float(size*2);
-        float vertstep = float(boxh*2)/float(size*2);
-        PVector xy = mercatorMap.getScreenLocation(new PVector(BleedZone().get(1).x, BleedZone().get(1).y));
-        PVector loc = mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep));
-//        Cell cell = new Cell(i, mercatorMap.getGeo(new PVector(xy.x + i*horzstep, xy.y + i*vertstep)));
-       
-       if (blockbbx.inbbox(loc) == false){
+  for(int i = 0; i<grid.GridCells.size(); i++){
+      PVector loc = grid.GridCells.get(i).center;
+      if(blockbbx.inbbox(loc) == false){
+        try{
          link = "http://www.broadbandmap.gov/broadbandmap/census/block?latitude=" + loc.x + "&longitude=" + loc.y + "&format=json";
          GetRequest get = new GetRequest(link);
          get.send();
@@ -35,6 +48,14 @@ public void PullCensus(){
          float minx = blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).getJSONObject("envelope").getFloat("minx");
          float miny = blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).getJSONObject("envelope").getFloat("miny");
          String blockcode = blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).getString("FIPS");
+         
+         
+         if(FIPS.hasValue(blockcode) == false){
+         FIPS.append(blockcode);
+         
+         blockbbx = new bbox(miny, minx, maxy, maxx);
+       
+         println(blockcode, i, grid.GridCells.size());
 
          poplink = "http://api.census.gov/data/2010/sf1?key=d25ec0abd89f8be098513b759dea2f216f886a06&get=P0010001&for=block:" + blockcode.substring(11) + 
                     "&in=state:" + blockcode.substring(0,2) +"+county:" + blockcode.substring(2,5) + "+tract:" + blockcode.substring(5,11);            
@@ -47,20 +68,24 @@ public void PullCensus(){
          int pop = exportcensus.getJSONArray(1).getInt(0);
          
          blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).setInt("Population", pop);
-         blockbbx = new bbox(miny, minx, maxy, maxx);
-         
-         Block thing = new Block(int(blockcode), pop, blockbbx);
-         
-         grid.Blocks.add(thing);
-         
-         println(int(float(i)/1584*100) + "% DONE CENSUS");
-         mastercensus.setJSONObject(i, blok);
-       }
 
-   }
-   try{
-   saveJSONArray(mastercensus, "exports/census" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
-   }
+         FIPS fips = new FIPS(blockcode, blockbbx, pop);
+         
+         FIPStuff.add(fips);
+ 
+          println(int(float(i)/grid.GridCells.size()*100) + "% DONE CENSUS");
+          }
+}
    catch(Exception e){
    }
+      }
+  }
+  
+   try{
+       saveJSONArray(mastercensus, "exports/census" + map.getLocation(0, 0) + "_" + map.getLocation(width, height)+".json");
+   }
+   
+   catch(Exception e){
+   }
+  println(FIPStuff.size());
 }

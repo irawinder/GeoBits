@@ -242,6 +242,15 @@ public class RoadNetwork{
         p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  
       }
+      
+      if(showid){
+          for(int i = 0; i<GridPoints.size(); i++){
+              PVector coord = mercatorMap.getScreenLocation(GridPoints.get(i));
+              p.fill(#cb42f4);
+              p.noStroke();
+              p.ellipse(coord.x, coord.y, 5, 5);
+          }
+      }
 
    p.endDraw(); 
    println("DONE: Roads Drawn", millis());
