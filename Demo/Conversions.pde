@@ -24,8 +24,10 @@ public class bbox{
    bounds.append(maxlat);
   }
   
-  public void drawBox(){
-      rect(minlon, maxlat, w, h);
+  public void drawBox(PGraphics p){
+      PVector lefttop = mercatorMap.getScreenLocation(new PVector(minlon, maxlat));
+      PVector rightbottom = mercatorMap.getScreenLocation(new PVector(maxlon, minlat));
+      p.rect(lefttop.x, lefttop.y, rightbottom.x-lefttop.x, rightbottom.y-lefttop.y);
   }
   
   public boolean inbbox(PVector point){

@@ -223,22 +223,22 @@ public class RoadNetwork{
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
-        if(showid){
-            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
-               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
-                p.noFill();
-                p.stroke(#ff0000);
-                PVector nextcoord = new PVector(0, 0);
-                if(j < Roads.get(i).Brez.size()-1){
-                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
-                }
-                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
-                    p.ellipse(coord.x, coord.y, 5, 5);
-                  }
-            }
-            p.stroke(0);
-            p.ellipse(start.x, start.y, 3, 3);
-        }
+//        if(showid){
+//            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
+//               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
+//                p.noFill();
+//                p.stroke(#ff0000);
+//                PVector nextcoord = new PVector(0, 0);
+//                if(j < Roads.get(i).Brez.size()-1){
+//                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
+//                }
+//                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
+//                    p.ellipse(coord.x, coord.y, 5, 5);
+//                  }
+//            }
+//            p.stroke(0);
+//            p.ellipse(start.x, start.y, 3, 3);
+//        }
         p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  
       }
@@ -248,7 +248,20 @@ public class RoadNetwork{
               PVector coord = mercatorMap.getScreenLocation(GridPoints.get(i));
               p.fill(#cb42f4);
               p.noStroke();
-              p.ellipse(coord.x, coord.y, 5, 5);
+              //p.ellipse(coord.x, coord.y, 5, 5);
+          }
+          
+          for(int i = 0; i<grid.GridCells.size(); i++){
+//             p.fill(#34d6e5, 100);
+             p.noFill();
+             p.stroke(100);
+             grid.GridCells.get(i).bounds.drawBox(p);
+          }
+          
+          for(int i = 0; i<FIPStuff.size(); i++){
+              p.fill(#e5a734, 50);
+              p.stroke(#00ff00);
+              FIPStuff.get(i).bounds.drawBox(p);
           }
       }
 
