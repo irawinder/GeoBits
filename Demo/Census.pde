@@ -89,17 +89,58 @@ public void PullCensus(){
    
    catch(Exception e){
    }
-  println(FIPStuff.size());
+
+  println("Done with Census Pull");
   ProcessCensus();
 }
 
 void ProcessCensus(){
+  Table SquareGrid;
+  Table WorkData = loadTable("ma_wac_S000_JT00_2014.csv", "header");
+  SquareGrid = new Table();
+  SquareGrid.addColumn("id");
+  SquareGrid.addColumn("centerlat");
+  SquareGrid.addColumn("centerlon");
+  SquareGrid.addColumn("width");
+  SquareGrid.addColumn("height");
+  SquareGrid.addColumn("population");
+  SquareGrid.addColumn("jobs");
   for(int i = 0; i<FIPStuff.size(); i++){
      for(int j = 0; j<grid.GridCells.size(); j++){
          float ratio =  NestedBox(grid.GridCells.get(j).bounds, FIPStuff.get(i).bounds);
          grid.GridCells.get(j).population += FIPStuff.get(i).pop * ratio;
-         //println(ratio);
      }
   }
+  
 
+  
+  for(int i =0; i<FIPStuff.size(); i++){
+     for(int j = 0; j<WorkData.getRowCount(); j++){
+         if(WorkData.getFloat(j, "w_geocode") == float(FIPStuff.get(i).id)){
+             FIPStuff.get(i).jobs = WorkData.getInt(j, "C000");
+         }
+     }
+  }
+  
+
+  
+  for(int i = 0; i<FIPStuff.size(); i++){
+     for(int j = 0; j<grid.GridCells.size(); j++){
+         float ratio =  NestedBox(grid.GridCells.get(j).bounds, FIPStuff.get(i).bounds);
+         grid.GridCells.get(j).jobs += FIPStuff.get(i).jobs * ratio;}  }
+         
+  
+  
+  for(int i = 0; i<grid.GridCells.size(); i++){
+      TableRow newRow = SquareGrid.addRow();
+      newRow.setFloat("centerlat", grid.GridCells.get(i).center.x);
+      newRow.setFloat("centerlon", grid.GridCells.get(i).center.y);
+      newRow.setFloat("width", grid.GridCells.get(i).bounds.w);
+      newRow.setFloat("height", grid.GridCells.get(i).bounds.h);
+      newRow.setFloat("population", grid.GridCells.get(i).population);
+      newRow.setFloat("jobs", grid.GridCells.get(i).jobs);
+      newRow.setInt("id", grid.GridCells.get(i).id);
+  }
+  saveTable(SquareGrid, "exports/gridcells" + SelBounds.name + ".csv");
+  println("Census processed and saved");
 }

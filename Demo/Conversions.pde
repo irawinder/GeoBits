@@ -8,7 +8,8 @@ Lots of conversion functions
 public class bbox {
   public float minlon, minlat, maxlon, maxlat, w, h, area;
   FloatList bounds = new FloatList();
-
+  String name;
+  
   bbox(float _minlon, float _minlat, float _maxlon, float _maxlat) {
     minlon = _minlon;
     minlat = _minlat;
@@ -18,6 +19,8 @@ public class bbox {
     w = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(minlat, maxlon));
     h = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(maxlat, minlon));
     area = w*h;
+  
+    name = minlon + "," + minlat + "," + maxlon + "," + maxlat;
 
     bounds.append(minlon);
     bounds.append(minlat);
@@ -136,12 +139,12 @@ public float NestedBox(bbox box1, bbox box2) {
               heightinside = mercatorMap.Haversine(new PVector(box2.minlon, box2.minlat), new PVector(box2.minlon, inbox2.get(0).y));
           } 
       } 
-     println(widthinside*heightinside/box2.area);
+
      return widthinside*heightinside/box2.area;
   }
   
   else{
-     println("WHAT?! NO CORNERS?");
+
     return 0;
   }
 }

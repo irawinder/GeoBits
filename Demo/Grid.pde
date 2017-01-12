@@ -3,7 +3,7 @@ ArrayList<FIPS>FIPStuff = new ArrayList<FIPS>();
 
 class Cell{
   public int id, block;
-  public float population;
+  public float population, jobs;
   public PVector center;
   public ArrayList<POI>POIs = new ArrayList<POI>(); 
   public bbox bounds;
@@ -17,7 +17,7 @@ class Cell{
 }
 
 class FIPS{
-  public int pop;
+  public int pop, jobs;
   public bbox bounds;
   public String id;
   public ArrayList<Cell>GridCells = new ArrayList<Cell>();

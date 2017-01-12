@@ -60,7 +60,7 @@ void draw() {
     //Sets up Bounding Boxes for current model's map
       MapArch();
       
-//      PullCensus();
+     PullCensus();
  ///     createGrid();
       
     

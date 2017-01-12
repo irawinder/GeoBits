@@ -99,7 +99,7 @@ void savePOIs(){
     newRow.setString("transit", "no");
   }
   
-  saveTable(squarePOIs, "exports/squarePOIs.csv");
+  saveTable(squarePOIs, "exports/POIS" + SelBounds.name + ".csv");
 
 }
     
