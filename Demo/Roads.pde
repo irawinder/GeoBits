@@ -189,6 +189,7 @@ public class RoadNetwork{
   
 
   void drawRoads(PGraphics p, color c){
+    transitstops = loadTable("data/transitstops.csv", "header");
     println("Drawing roads...");
          p.beginDraw();
      for(int j = 0; j<bounds.boxcorners().size(); j++){
@@ -251,17 +252,27 @@ public class RoadNetwork{
               //p.ellipse(coord.x, coord.y, 5, 5);
           }
           
-          for(int i = 0; i<grid.GridCells.size(); i++){
-//             p.fill(#34d6e5, 100);
-             p.noFill();
+          
+          for(int i = 0; i<FIPStuff.size(); i++){
+            p.noFill();
+            println(FIPStuff.get(i).pop);
+             p.fill(#e5a734, (FIPStuff.get(i).pop/totalpop)*100);
+             //println(totalpop);
+             p.stroke(#00ff00);
+             FIPStuff.get(i).bounds.drawBox(p);
+          }
+          
+           for(int i = 0; i<grid.GridCells.size(); i++){
+             p.fill(#34d6e5, (grid.GridCells.get(i).population/totalpop)*200);
              p.stroke(100);
              grid.GridCells.get(i).bounds.drawBox(p);
           }
           
-          for(int i = 0; i<FIPStuff.size(); i++){
-              p.fill(#e5a734, 50);
-              p.stroke(#00ff00);
-              FIPStuff.get(i).bounds.drawBox(p);
+          for(int i =0 ; i< transitstops.getRowCount(); i++){
+             PVector loc = mercatorMap.getScreenLocation(new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x")));
+             p.fill(0);
+             p.ellipse(loc.x, loc.y, 5, 5);
+             
           }
       }
 

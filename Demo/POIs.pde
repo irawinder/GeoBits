@@ -35,7 +35,7 @@ public void PullPOIs(){
   for(int i = 0; i<children.length; i++){
     XML[] tag = children[i].getChildren("tag"); 
     for(int j = 0; j < tag.length; j++){
-        if(tag[j].getString("k").equals("amenity") || tag[j].getString("k").equals("building") || tag[j].getString("k").equals("poi")){
+        if(tag[j].getString("k").equals("amenity") || tag[j].getString("k").equals("poi")){
             float lat = float(children[i].getString("lat"));
             float lon = float(children[i].getString("lon"));
                      PVector loc = new PVector(lat, lon);
@@ -50,5 +50,29 @@ public void PullPOIs(){
 }   
 
  
+}
+
+Table squarePOIs;
+Table POIdatabank;
+Table transitstops;
+
+void savePOIs(){
+  println("SAVING thing");
+  transitstops = loadTable("data/transitstops.csv", "header");
+
+  for(int i = 0; i<transitstops.getRowCount(); i++){
+      PVector loc = new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x"));
+      if(SelBounds.inbbox(loc) == true){
+
+          if(hasPVector(places.POIs, loc) == true){
+              println("has transit stop, do thing");
+          }
+          else{
+            println("no transit");
+          }
+      }
+      
+  }
+
 }
     

@@ -9,12 +9,12 @@ PImage special_agents, special_roads, things;
  
  This code is the essence of under construction...it's a hot mess
  
- Author: Nina Lutz, nlutz@mit.edu`
+ Author: Nina Lutz, nlutz@mit.edu
  
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write datege: 8/13/16 
- Last Updated: 1/10/17
+ Last Updated: 1/11/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
@@ -60,8 +60,8 @@ void draw() {
     //Sets up Bounding Boxes for current model's map
       MapArch();
       
-      PullCensus();
-//      createGrid();
+//      PullCensus();
+ ///     createGrid();
       
     
     //Use HTTP requests to get data    
@@ -71,6 +71,7 @@ void draw() {
       println("PullMap() ran");
        places.PullPOIs();
     println("Pull POIs ran");
+    savePOIs();
    //Generates networks
     selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
@@ -90,7 +91,9 @@ void draw() {
     if(demo){
     mapling = "data/map(42.363, -71.068)_(42.357, -71.053).json";
         places.PullPOIs();
+        
     println("Pull POIs ran");
+        savePOIs();
         selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     println("Networks generated");

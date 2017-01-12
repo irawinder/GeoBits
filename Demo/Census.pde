@@ -4,8 +4,9 @@
  String poplink;
  ArrayList<PVector>GridPoints = new ArrayList<PVector>();
 StringList FIPS = new StringList();
- 
+float totalpop;
 public void PullCensus(){
+  int totalpop = 0;
   bbox blockbbx = new bbox(0, 0, 0, 0);
   
   float vertstep = (float(boxh)/float(numrows));
@@ -66,6 +67,7 @@ public void PullCensus(){
          output2 = get2.getContent();
          exportcensus = parseJSONArray(output2);
          int pop = exportcensus.getJSONArray(1).getInt(0);
+         totalpop+=pop;
          
          blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).setInt("Population", pop);
 
@@ -88,4 +90,16 @@ public void PullCensus(){
    catch(Exception e){
    }
   println(FIPStuff.size());
+  ProcessCensus();
+}
+
+void ProcessCensus(){
+  for(int i = 0; i<FIPStuff.size(); i++){
+     for(int j = 0; j<grid.GridCells.size(); j++){
+         float ratio =  NestedBox(grid.GridCells.get(j).bounds, FIPStuff.get(i).bounds);
+         grid.GridCells.get(j).population += FIPStuff.get(i).pop * ratio;
+         //println(ratio);
+     }
+  }
+
 }
