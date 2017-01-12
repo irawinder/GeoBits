@@ -245,14 +245,6 @@ public class RoadNetwork{
       }
       
       if(showid){
-          for(int i = 0; i<GridPoints.size(); i++){
-              PVector coord = mercatorMap.getScreenLocation(GridPoints.get(i));
-              p.fill(#cb42f4);
-              p.noStroke();
-              //p.ellipse(coord.x, coord.y, 5, 5);
-          }
-          
-          
           for(int i = 0; i<FIPStuff.size(); i++){
             p.noFill();
             println(FIPStuff.get(i).pop);
@@ -266,13 +258,15 @@ public class RoadNetwork{
              p.fill(#34d6e5, (grid.GridCells.get(i).population/totalpop)*200);
              p.stroke(100);
              grid.GridCells.get(i).bounds.drawBox(p);
+             PVector centerloc = mercatorMap.getScreenLocation(grid.GridCells.get(i).center);
+             p.fill(0);
+             p.text(grid.GridCells.get(i).id, centerloc.x, centerloc.y);
           }
           
           for(int i =0 ; i< transitstops.getRowCount(); i++){
              PVector loc = mercatorMap.getScreenLocation(new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x")));
              p.fill(0);
              p.ellipse(loc.x, loc.y, 5, 5);
-             
           }
       }
 

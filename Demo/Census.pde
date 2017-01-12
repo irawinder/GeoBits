@@ -35,8 +35,24 @@ public void PullCensus(){
         count+=1;
         grid.GridCells.add(cell);
     }
-  
   }
+
+//  for(int i = 0; i<numrows; i++){
+//    for(int j = 0; j<numcols; j++){
+//        PVector loc = new PVector(startxy.x + j*horzstep, startxy.y - i*vertstep);
+//        PVector lefttop = new PVector(loc.x - horzstep/2, loc.y - vertstep/2);
+//        PVector rightbottom = new PVector(loc.x + horzstep/2, loc.y + vertstep/2);
+//        GridPoints.add(mercatorMap.getGeo(lefttop));
+//        GridPoints.add(mercatorMap.getGeo(rightbottom));
+//        GridPoints.add(mercatorMap.getGeo(loc));      
+//        Cell cell = new Cell(count, mercatorMap.getGeo(loc));
+//        PVector lefttopGeo = mercatorMap.getGeo(lefttop);
+//        PVector rightbottomGeo = mercatorMap.getGeo(rightbottom);
+//        cell.bounds = new bbox(lefttopGeo.x, rightbottomGeo.y, rightbottomGeo.x, lefttopGeo.y);
+//        count+=1;
+//        grid.GridCells.add(cell);
+//    }
+//  }
   
   for(int i = 0; i<grid.GridCells.size(); i++){
       PVector loc = grid.GridCells.get(i).center;
@@ -109,13 +125,14 @@ void ProcessCensus(){
   SquareGrid.addColumn("height");
   SquareGrid.addColumn("population");
   SquareGrid.addColumn("jobs");
+  SquareGrid.addColumn("u");
+  SquareGrid.addColumn("v");
   for(int i = 0; i<FIPStuff.size(); i++){
      for(int j = 0; j<grid.GridCells.size(); j++){
          float ratio =  NestedBox(grid.GridCells.get(j).bounds, FIPStuff.get(i).bounds);
          grid.GridCells.get(j).population += FIPStuff.get(i).pop * ratio;
      }
   }
-  
 
   
   for(int i =0; i<FIPStuff.size(); i++){
@@ -125,14 +142,14 @@ void ProcessCensus(){
          }
      }
   }
-  
 
   
   for(int i = 0; i<FIPStuff.size(); i++){
      for(int j = 0; j<grid.GridCells.size(); j++){
          float ratio =  NestedBox(grid.GridCells.get(j).bounds, FIPStuff.get(i).bounds);
-         grid.GridCells.get(j).jobs += FIPStuff.get(i).jobs * ratio;}  }
-         
+         grid.GridCells.get(j).jobs += FIPStuff.get(i).jobs * ratio;
+       }  
+     }
   
   
   for(int i = 0; i<grid.GridCells.size(); i++){
@@ -144,6 +161,8 @@ void ProcessCensus(){
       newRow.setFloat("population", grid.GridCells.get(i).population);
       newRow.setFloat("jobs", grid.GridCells.get(i).jobs);
       newRow.setInt("id", grid.GridCells.get(i).id);
+      newRow.setInt("u", grid.GridCells.get(i).u);
+      newRow.setInt("v", grid.GridCells.get(i).v);
   }
   saveTable(SquareGrid, "exports/gridcells" + SelBounds.name + ".csv");
   println("Census processed and saved");

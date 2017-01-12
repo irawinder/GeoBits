@@ -2,7 +2,7 @@ Grid grid = new Grid(numrows, numcols);
 ArrayList<FIPS>FIPStuff = new ArrayList<FIPS>();
 
 class Cell{
-  public int id, block;
+  public int id, block, u, v;
   public float population, jobs;
   public PVector center;
   public ArrayList<POI>POIs = new ArrayList<POI>(); 
@@ -12,6 +12,8 @@ class Cell{
   Cell(int _id, PVector _center){
     center = _center;
     id = _id;
+    u = id/numrows;
+    v = numrows*(u+1) - id - 1;
   }
   
 }
