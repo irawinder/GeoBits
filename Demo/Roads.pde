@@ -189,7 +189,7 @@ public class RoadNetwork{
   
 
   void drawRoads(PGraphics p, color c){
-    transitstops = loadTable("data/transitstops.csv", "header");
+    Table transitstops = loadTable("data/transitstops.csv", "header");
     println("Drawing roads...");
          p.beginDraw();
      for(int j = 0; j<bounds.boxcorners().size(); j++){

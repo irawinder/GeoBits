@@ -312,6 +312,7 @@ public boolean hasPVector(ArrayList<POI>thing, PVector stuff){
     for(int i = 0; i<thing.size(); i++){
         if(thing.get(i).location.x == stuff.x){
             if(thing.get(i).location.y == stuff.y){
+              thing.remove(i);
               hasStuff = true;
         }
         }
