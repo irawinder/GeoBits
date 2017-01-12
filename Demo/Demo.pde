@@ -14,7 +14,7 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write datege: 8/13/16 
- Last Updated: 1/11/17
+ Last Updated: 1/12/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
