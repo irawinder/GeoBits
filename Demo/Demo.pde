@@ -60,12 +60,12 @@ void draw() {
     //Sets up Bounding Boxes for current model's map
       MapArch();
       
-     PullCensus();
  ///     createGrid();
       
     
     //Use HTTP requests to get data    
     if(!demo){
+      PullCensus();
       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
       PullOSM();
       println("PullMap() ran");

@@ -15,9 +15,11 @@ public class bbox {
     minlat = _minlat;
     maxlon = _maxlon;
     maxlat = _maxlat;
-
-    w = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(minlat, maxlon));
-    h = mercatorMap.Haversine(new PVector(minlat, minlon), new PVector(maxlat, minlon));
+    PVector lefttop = new PVector(minlon, maxlat);
+    PVector rightbottom = new PVector(maxlon, minlat);
+    PVector righttop = new PVector(minlon, minlat);
+    w = mercatorMap.Haversine(lefttop, righttop);
+    h = mercatorMap.Haversine(rightbottom, righttop);
     area = w*h;
   
     name = minlon + "," + minlat + "," + maxlon + "," + maxlat;
@@ -31,6 +33,7 @@ public class bbox {
   public void drawBox(PGraphics p) {
     PVector lefttop = mercatorMap.getScreenLocation(new PVector(minlon, maxlat));
     PVector rightbottom = mercatorMap.getScreenLocation(new PVector(maxlon, minlat));
+    PVector righttop = mercatorMap.getScreenLocation(new PVector(minlon, minlat));
     p.rect(lefttop.x, lefttop.y, rightbottom.x-lefttop.x, rightbottom.y-lefttop.y);
   }
 

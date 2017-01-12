@@ -6,6 +6,10 @@
 StringList FIPS = new StringList();
 float totalpop;
 public void PullCensus(){
+  FIPS.clear();
+  FIPStuff.clear();
+  GridPoints.clear();
+  grid.GridCells.clear();
   int totalpop = 0;
   bbox blockbbx = new bbox(0, 0, 0, 0);
   
