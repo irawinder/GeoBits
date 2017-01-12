@@ -29,6 +29,8 @@ void setup() {
 
   size(1366, 768, P3D);
   
+  totalpopulation = 1;
+  
   initCanvas();
   renderTableCanvas();
   initGraphics();

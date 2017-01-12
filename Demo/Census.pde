@@ -4,13 +4,18 @@
  String poplink;
  ArrayList<PVector>GridPoints = new ArrayList<PVector>();
 StringList FIPS = new StringList();
-float totalpop;
+  int totalpopulation;
+
+Table FIPSData; 
+  
 public void PullCensus(){
+  println("Pulling census");
+  boolean alreadythere = false;
+  FIPSData = loadTable("data/FIPSDataBase.csv", "header");
   FIPS.clear();
   FIPStuff.clear();
   GridPoints.clear();
   grid.GridCells.clear();
-  int totalpop = 0;
   bbox blockbbx = new bbox(0, 0, 0, 0);
   
   float vertstep = (float(boxh)/float(numrows));
@@ -36,27 +41,32 @@ public void PullCensus(){
         grid.GridCells.add(cell);
     }
   }
-
-//  for(int i = 0; i<numrows; i++){
-//    for(int j = 0; j<numcols; j++){
-//        PVector loc = new PVector(startxy.x + j*horzstep, startxy.y - i*vertstep);
-//        PVector lefttop = new PVector(loc.x - horzstep/2, loc.y - vertstep/2);
-//        PVector rightbottom = new PVector(loc.x + horzstep/2, loc.y + vertstep/2);
-//        GridPoints.add(mercatorMap.getGeo(lefttop));
-//        GridPoints.add(mercatorMap.getGeo(rightbottom));
-//        GridPoints.add(mercatorMap.getGeo(loc));      
-//        Cell cell = new Cell(count, mercatorMap.getGeo(loc));
-//        PVector lefttopGeo = mercatorMap.getGeo(lefttop);
-//        PVector rightbottomGeo = mercatorMap.getGeo(rightbottom);
-//        cell.bounds = new bbox(lefttopGeo.x, rightbottomGeo.y, rightbottomGeo.x, lefttopGeo.y);
-//        count+=1;
-//        grid.GridCells.add(cell);
-//    }
-//  }
-  
+//initialize FIPS from database based on Canvas....load all FIPS objects that are on the canvas (i.e ratio > 0) 
+for(int i = 0; i<FIPSData.getRowCount(); i++){
+  //bbox(float _minlon, float _minlat, float _maxlon, float _maxlat)
+    bbox fipsbbox = new bbox(FIPSData.getFloat(i, "minlon"), FIPSData.getFloat(i, "minlat"), FIPSData.getFloat(i, "maxlon"), FIPSData.getFloat(i, "maxlat"));
+    if(NestedBox(fipsbbox, SelBounds) > 0){
+         FIPS fips = new FIPS(FIPSData.getString(i, "id"), fipsbbox, FIPSData.getInt(i, "pop"));
+         FIPStuff.add(fips);
+         println(FIPStuff.size(), " FIPS objects memoized");
+    }
+}
   for(int i = 0; i<grid.GridCells.size(); i++){
       PVector loc = grid.GridCells.get(i).center;
-      if(blockbbx.inbbox(loc) == false){
+      alreadythere = false;
+      for(int f = 0; f<FIPStuff.size(); f++){
+          if(FIPStuff.get(f).bounds.inbbox(loc) == true){
+              println(i, "In memoized version");
+              alreadythere = true;
+              i++;
+              println(int(float(i)/grid.GridCells.size()*100) + "% DONE CENSUS");
+          }
+      }
+      
+      //test if inside each FIPS, for the ones that aren't, do the thing and save to the FIPS database, else just skip 
+      //update Census progress 
+    if(alreadythere == false){
+        println(i, "doing thing");
         try{
          link = "http://www.broadbandmap.gov/broadbandmap/census/block?latitude=" + loc.x + "&longitude=" + loc.y + "&format=json";
          GetRequest get = new GetRequest(link);
@@ -87,13 +97,23 @@ public void PullCensus(){
          output2 = get2.getContent();
          exportcensus = parseJSONArray(output2);
          int pop = exportcensus.getJSONArray(1).getInt(0);
-         totalpop+=pop;
+         totalpopulation+=pop;
          
          blok.getJSONObject("Results").getJSONArray("block").getJSONObject(0).setInt("Population", pop);
 
          FIPS fips = new FIPS(blockcode, blockbbx, pop);
          
+         totalpopulation+=pop;
+         
          FIPStuff.add(fips);
+          TableRow newRow = FIPSData.addRow();
+           newRow.setString("id", blockcode);
+           newRow.setFloat("minlon", miny);
+           newRow.setFloat("minlat", minx);
+           newRow.setFloat("maxlon", maxy);
+           newRow.setFloat("maxlat", maxx);
+           newRow.setInt("pop", pop);
+
  
           println(int(float(i)/grid.GridCells.size()*100) + "% DONE CENSUS");
           }
@@ -109,12 +129,13 @@ public void PullCensus(){
    
    catch(Exception e){
    }
-
-  println("Done with Census Pull");
+  saveTable(FIPSData, "data/FIPSDataBase.csv");
+  println("Done with Census Pull, total population: ", totalpopulation);
   ProcessCensus();
 }
 
 void ProcessCensus(){
+  totalpopulation = 0;
   Table SquareGrid;
   Table WorkData = loadTable("ma_wac_S000_JT00_2014.csv", "header");
   SquareGrid = new Table();

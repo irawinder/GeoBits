@@ -245,22 +245,22 @@ public class RoadNetwork{
       }
       
       if(showid){
+          println(totalpopulation);
           for(int i = 0; i<FIPStuff.size(); i++){
             p.noFill();
             println(FIPStuff.get(i).pop);
-             p.fill(#e5a734, (FIPStuff.get(i).pop/totalpop)*100);
+             p.fill(#e5a734, (FIPStuff.get(i).pop/(totalpopulation+1))*200);
              //println(totalpop);
              p.stroke(#00ff00);
              FIPStuff.get(i).bounds.drawBox(p);
           }
           
            for(int i = 0; i<grid.GridCells.size(); i++){
-             p.fill(#34d6e5, (grid.GridCells.get(i).population/totalpop)*200);
+             p.fill(#34d6e5, (grid.GridCells.get(i).population/(totalpopulation+1))*100);
              p.stroke(100);
              grid.GridCells.get(i).bounds.drawBox(p);
              PVector centerloc = mercatorMap.getScreenLocation(grid.GridCells.get(i).center);
              p.fill(0);
-             p.text(grid.GridCells.get(i).id, centerloc.x, centerloc.y);
           }
           
           for(int i =0 ; i< transitstops.getRowCount(); i++){
