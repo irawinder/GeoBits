@@ -67,21 +67,7 @@ class Obstacle {
     }
     
   }
-  
-  Obstacle () {
 
-    v = new ArrayList<PVector>();
-    l = new ArrayList<Float>();
-    
-    constant = new ArrayList<Float>();
-    multiple = new ArrayList<Float>();
-    
-    drawOutline = true;
-    
-    polyCorners = 0;
-    index = 0;
-      
-    }
   
   void calc_lengths() {
     

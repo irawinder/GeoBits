@@ -87,6 +87,7 @@ void draw() {
      
     //sets up for agentnetwork if there is enough info 
     AgentNetworkModel(); 
+    
     }
 
         //Or load the pre-processed demo set in Boston
@@ -116,7 +117,6 @@ void draw() {
   }
 
   mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
-
   if (lines) {
     image(Handler, 0, 0);
   }
@@ -145,6 +145,7 @@ void draw() {
   if (agentstriggered) {  
     if (initialized) {
       mainDraw();
+      println("HI");
     } else if (!initialized) {
       initContent(tableCanvas);
       initialized = true;

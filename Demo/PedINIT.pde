@@ -183,6 +183,7 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   
   swarmHorde.popScaler(1.0);
   swarmHorde2.popScaler(1.0);
+  println(swarmHorde.horde.size());
 }
 
 
@@ -206,18 +207,27 @@ void initPathfinder(PGraphics p, int res) {
   // Initializes a Pathfinding network Based off of Random Noise
   initRandomFinder(p, res);
   
+  println("Random finder");
+  
   // Initializes an origin-destination coordinate for testing
   initOD(p);
+  
+    println("OD");
   
   // sets 'pFinder' to one of above network presets
   pFinder = finderRandom;
   initPath(pFinder, A, B);
   
+    println("initPath");
+  
   // Ensures that a valid path is always initialized upon start, to an extent...
   forcePath(p);
   
+    println("forcePath");
+  
   // Initializes a PGraphic of the paths found
   pFinderGrid_Viz(p);
+    println("grid viz");
   
   println("Pathfinders initialized.");
 }

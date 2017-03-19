@@ -24,7 +24,7 @@ class Pathfinder {
   
   Pathfinder(int w, int h, float res, float cullRatio) {
     network = new Graph(w, h, res);
-    network.cullRandom(cullRatio);
+    //network.cullRandom(cullRatio);
     refresh();
   }
 
@@ -165,6 +165,9 @@ class Pathfinder {
     
     for (int i=0; i<networkSize; i++) {
       currentDist = sqrt( sq(v.x-getNode(i).x) + sq(v.y-getNode(i).y) );
+//      if(getNode(i).x > 20 || getNode(i).y < height/2){
+//        currentDist +=200;
+//      }
       if (currentDist < distance) {
         node = i;
         distance = currentDist;
@@ -236,6 +239,7 @@ class Graph {
     for (int i=nodes.size()-1; i>=0; i--) {
       if(random(1.0) < percent) {
         nodes.remove(i);
+        println("hi");
       }
     }
   }
@@ -243,12 +247,11 @@ class Graph {
   // Generates network of edges that connect adjacent nodes (including diagonals)
   void generateEdges() {
     float dist;
-    
+    println("generate edges");
     for (int i=0; i<nodes.size(); i++) {
       nodes.get(i).clearNeighbors();
       for (int j=0; j<nodes.size(); j++) {
         dist = sqrt(sq(nodes.get(i).node.x - nodes.get(j).node.x) + sq(nodes.get(i).node.y - nodes.get(j).node.y));
-        
         if (dist < 2*SCALE && dist != 0) {
           nodes.get(i).addNeighbor(j, dist);
         }
@@ -361,7 +364,10 @@ class Node {
   
   
   Node (float x, float y) {
+
     node = new PVector(x,y);
+
+    
     neighbors = new ArrayList<Integer>();
     distance = new ArrayList<Float>();
   }

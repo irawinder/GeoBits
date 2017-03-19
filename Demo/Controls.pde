@@ -117,14 +117,12 @@ switch(key){
         break;
     case 'g':
         gendermode = !gendermode;
-        agents.clear();
         tableCanvas.clear();
         initialized = false;
         break;
     case 'j':
         popmode = !popmode;
         gendermode = false;
-        agents.clear();
         tableCanvas.clear();
         initialized = false;
         break;

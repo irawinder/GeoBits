@@ -59,21 +59,6 @@ class Pedestrian {
   
   void applyForce(PVector force){
     acceleration.add(force);
-
-  }
-  
-  void reverseCourse() {
-    velocity.x *= random(-20);
-    velocity.y *= random(-20);
-  }
-  
-  void roll(PVector normalForce) {
-    PVector negNorm = new PVector(-1*normalForce.x, -1*normalForce.y);
-    if (PVector.angleBetween(velocity, normalForce) > PVector.angleBetween(velocity, negNorm)) {
-      normalForce.mult(-1);
-    }
-    normalForce.setMag(.5);
-    applyForce(normalForce);
   }
   
   void applyBehaviors(ArrayList<Pedestrian> Pedestrians, PVector waypoint, boolean collision) {
@@ -94,7 +79,6 @@ class Pedestrian {
       PVector steer = PVector.sub(desired,velocity);
       steer.limit(maxforce);
       return steer;
-  
   }
   
   PVector separate(ArrayList<Pedestrian> Pedestrians){
@@ -129,11 +113,7 @@ class Pedestrian {
     // Update velocity
     velocity.add(acceleration);
     
-    if (frameStep) {
-      location.add(new PVector(speed*velocity.x, speed*velocity.y));
-    } else {
-      location.add(new PVector(speed*0.0625*velocity.x*(millis()-time_0), speed*0.0625*velocity.y*(millis()-time_0)));
-    }
+    location.add(new PVector(speed*velocity.x, speed*velocity.y));
         
     // Limit speed
     velocity.limit(maxspeed);
@@ -240,7 +220,7 @@ class Swarm {
     path.add(origin);
     path.add(destination);
     
-    sink = hitBox(destination, hitbox, true);
+   sink = hitBox(destination, hitbox, true);
     
     maxSpeed = maxS;
     PedestrianDelay = delay;

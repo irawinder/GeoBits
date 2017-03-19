@@ -1,4 +1,4 @@
-PGraphics direction, popup, loading, agents, notenough;
+PGraphics direction, popup, loading, notenough;
 //toggling booleans for displays
 boolean showFrameRate = false;
 boolean select = true;
@@ -23,7 +23,6 @@ void initGraphics(){
   direction = createGraphics(width, height);
   popup = createGraphics(width, height);
   loading = createGraphics(width, height);
-  agents = createGraphics(width, height);
   projector = createGraphics(width, height);
   
     draw_directions(direction);       
