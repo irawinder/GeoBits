@@ -18,7 +18,6 @@ public class Road{
   }
   
   public void bresenham(){
-//      println("running brez");
       int inc = 1;
       PVector starting = mercatorMap.getScreenLocation(new PVector(start.x, start.y));
       PVector ending = mercatorMap.getScreenLocation(new PVector(end.x, end.y));
@@ -30,7 +29,6 @@ public class Road{
         
         org = new PVector(x1, y1);
         dest = new PVector(x2, y2);
-        
         
      //these are what will be rendered between the start and end points, initialize at start
         x = org.x;
@@ -117,6 +115,7 @@ public class Road{
  
 }
 
+
 public class RoadNetwork{
   public ArrayList<Road>Roads = new ArrayList<Road>();
   public int size, capacity, normcap;
@@ -128,161 +127,73 @@ public class RoadNetwork{
       bounds = _Bounds;
       size = Roads.size();
   }
-//  
-   void GenerateNetwork(int genratio){
-     Roads.clear();
+ 
+void GenerateNetwork(int genratio){
+    Roads.clear();
+    JSONArray input = loadJSONArray(mapling);
       
-      JSONArray input = loadJSONArray(mapling);
-      
-      for(int m = 0; m<genratio; m++){
-        try{
-          JSONObject JSONM = input.getJSONObject(m); 
-          JSONObject JSON = JSONM.getJSONObject("roads");
-          JSONArray JSONlines = JSON.getJSONArray("features");
-//              try{
-                for(int i=0; i<JSONlines.size(); i++) {
-                  String type = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getString("type");
-                  int OSMid = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("properties").getInt("id");
-  
-                if(type.equals("LineString")){
-                 JSONArray linestring = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
-                   for(int j = 0; j<linestring.size(); j++){
-                     if(j<linestring.size()-1){
-                        PVector start = new PVector(linestring.getJSONArray(j).getFloat(1), linestring.getJSONArray(j).getFloat(0));
-                        PVector end = new PVector(linestring.getJSONArray(j+1).getFloat(1), linestring.getJSONArray(j+1).getFloat(0));
-                        if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){ 
-                        Road road = new Road(start, end, OSMid);
-                        Roads.add(road);
-                           }
-                   }
-                   }
-            }
-             if(type.equals("MultiLineString")){
-                   JSONArray multi = JSON.getJSONArray("features").getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
-                           for(int k = 0; k<multi.size(); k++){
-                               JSONArray substring = multi.getJSONArray(k);
-                                    for(int d = 0; d<substring.size(); d++){
-                                           float lat = substring.getJSONArray(d).getFloat(1);
-                                           float lon = substring.getJSONArray(d).getFloat(0);
-                                            if(d<substring.size()-1){
-                                                  PVector start = new PVector(substring.getJSONArray(d).getFloat(1), substring.getJSONArray(d).getFloat(0));
-                                                  PVector end = new PVector(substring.getJSONArray(d+1).getFloat(1), substring.getJSONArray(d+1).getFloat(0));
-                                                  //println(bounds.bounds);
-                                               if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){
-                                                  Road road = new Road(start, end, OSMid);
-                                                  Roads.add(road);
-                                               }
-                                            }
-                                    }
-                           }
-                   }
-                    }
-            }
+    for(int m = 0; m<genratio; m++){
+      try{
+        JSONArray JSONlines = input.getJSONObject(m).getJSONObject("roads").getJSONArray("features");
+              for(int i=0; i<JSONlines.size(); i++) {
+                String type = JSONlines.getJSONObject(i).getJSONObject("geometry").getString("type");
+                int OSMid = JSONlines.getJSONObject(i).getJSONObject("properties").getInt("id");
+              if(type.equals("LineString")){
+               JSONArray linestring = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+                 for(int j = 0; j<linestring.size(); j++){
+                   if(j<linestring.size()-1){
+                      PVector start = new PVector(linestring.getJSONArray(j).getFloat(1), linestring.getJSONArray(j).getFloat(0));
+                      PVector end = new PVector(linestring.getJSONArray(j+1).getFloat(1), linestring.getJSONArray(j+1).getFloat(0));
+                      if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){ 
+                      Road road = new Road(start, end, OSMid);
+                      Roads.add(road);
+                         }
+                 }
+                 }
+          }
+           if(type.equals("MultiLineString")){
+                 JSONArray multi = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+                         for(int k = 0; k<multi.size(); k++){
+                             JSONArray substring = multi.getJSONArray(k);
+                                  for(int d = 0; d<substring.size(); d++){
+                                         float lat = substring.getJSONArray(d).getFloat(1);
+                                         float lon = substring.getJSONArray(d).getFloat(0);
+                                          if(d<substring.size()-1){
+                                                PVector start = new PVector(substring.getJSONArray(d).getFloat(1), substring.getJSONArray(d).getFloat(0));
+                                                PVector end = new PVector(substring.getJSONArray(d+1).getFloat(1), substring.getJSONArray(d+1).getFloat(0));
+                                             if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){
+                                                Road road = new Road(start, end, OSMid);
+                                                Roads.add(road);
+                                             }
+                                          }
+                                  }
+                         }
+                 }
+                  }
+          }
             catch(Exception e){
             }
                 }
               println("Nodes: ", Roads.size());
-              println("Bounding Box: ");
+              print("Bounding Box: ");
               bounds.printbox();
       }
       
   
 
   void drawRoads(PGraphics p, color c){
-    Table transitstops = loadTable("data/transitstops.csv", "header");
     println("Drawing roads...");
-         p.beginDraw();
-     for(int j = 0; j<bounds.boxcorners().size(); j++){
-            PVector coord2;
-            PVector coord = mercatorMap.getScreenLocation(bounds.boxcorners().get(j));
-            if(j<bounds.boxcorners().size()-1){
-            coord2 = mercatorMap.getScreenLocation(bounds.boxcorners().get(j+1));
-            }
-            else{
-              coord2 = mercatorMap.getScreenLocation(bounds.boxcorners().get(0));
-            }
-            p.stroke(0);
-            p.strokeWeight(5);
-            p.line(coord.x, coord.y, coord2.x, coord2.y);
-             p.strokeWeight(1);
-            p.fill(#0000ff);
-            p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y, 10, 10); 
-            p.fill(#00ff00);
-            p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(1)).y, 10, 10);
-            p.fill(#ffff00);
-             p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y, 10, 10);
-             p.fill(#ff0000);
-             p.ellipse(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x, mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).y, 10, 10);
-        }
-        p.stroke(0);
-          for(int i = 0; i<numcols+1; i++){
-                float ww = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(3)).x - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).x);
-                float hh = abs(mercatorMap.getScreenLocation(bounds.boxcorners().get(2)).y - mercatorMap.getScreenLocation(bounds.boxcorners().get(0)).y);
-          }
-//  
+    p.beginDraw();
+         bounds.drawBounds(p);
       for(int i = 0; i<Roads.size(); i++){
         p.strokeWeight(1);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
-//        if(showid){
-//            for(int j = 0; j<Roads.get(i).Brez.size(); j++){
-//               PVector coord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j).x, Roads.get(i).Brez.get(j).y));
-//                p.noFill();
-//                p.stroke(#ff0000);
-//                PVector nextcoord = new PVector(0, 0);
-//                if(j < Roads.get(i).Brez.size()-1){
-//                 nextcoord = mercatorMap.getScreenLocation(new PVector(Roads.get(i).Brez.get(j+1).x, Roads.get(i).Brez.get(j+1).y));
-//                }
-//                  if(abs(nextcoord.x - coord.x) > 5 || abs(nextcoord.y - coord.y) > 5){
-//                    p.ellipse(coord.x, coord.y, 5, 5);
-//                  }
-//            }
-//            p.stroke(0);
-//            p.ellipse(start.x, start.y, 3, 3);
-//        }
         p.stroke(c);
         p.line(start.x, start.y, end.x, end.y);  
       }
-      
-      if(showid){
-          println(totalpopulation);
-          for(int i = 0; i<FIPStuff.size(); i++){
-            p.noFill();
-            println(FIPStuff.get(i).pop);
-             p.fill(#e5a734, (FIPStuff.get(i).pop/(totalpopulation+1))*200);
-             //println(totalpop);
-             p.stroke(#00ff00);
-             FIPStuff.get(i).bounds.drawBox(p);
-          }
-          
-           for(int i = 0; i<grid.GridCells.size(); i++){
-             p.fill(#34d6e5, (grid.GridCells.get(i).population/(totalpopulation+1))*100);
-             p.stroke(100);
-             grid.GridCells.get(i).bounds.drawBox(p);
-             PVector centerloc = mercatorMap.getScreenLocation(grid.GridCells.get(i).center);
-             p.fill(0);
-          }
-          
-          for(int i =0 ; i< transitstops.getRowCount(); i++){
-             PVector loc = mercatorMap.getScreenLocation(new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x")));
-             p.fill(0);
-             p.ellipse(loc.x, loc.y, 5, 5);
-          }
-      }
-
    p.endDraw(); 
-   println("DONE: Roads Drawn", millis());
+   println("DONE: Roads Drawn");
 }
   
-}
-
-ArrayList<PVector> BresenhamMaster = new ArrayList<PVector>();
-
-void test_Bresen(){
-  for(int i = 0; i<canvas.Roads.size(); i++){
-        for(int j = 0; j<canvas.Roads.get(i).Brez.size(); j++){
-             BresenhamMaster.add(canvas.Roads.get(i).Brez.get(j));
-        }
-  }
-  println("Brez", BresenhamMaster.size());
 }

@@ -10,7 +10,6 @@
 // Step 3.2 Modify Swarm Class to retain Path object of some sort (Probably an ArrayList<PVector>)
 // Step 4: Modify Swarm Behavior to follow path
 
-
 Table safety;
 
 class Pathfinder { 
@@ -382,4 +381,16 @@ class Node {
     distance.clear();
   }
   
+}
+
+
+ArrayList<PVector> BresenhamMaster = new ArrayList<PVector>();
+
+void pop_graph(RoadNetwork Net){
+  for(int i = 0; i<Net.Roads.size(); i++){
+        for(int j = 0; j<Net.Roads.get(i).Brez.size(); j++){
+             BresenhamMaster.add(Net.Roads.get(i).Brez.get(j));
+        }
+  }
+  println("Bresenham nodes generated: ", BresenhamMaster.size());
 }

@@ -38,7 +38,7 @@ switch(key){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      test_Bresen();
+      pop_graph(canvas);
       left = mercatorMap.getGeo(new PVector(0, 0)).x;
       c = #ff0000;
       canvas.drawRoads(Canvas, c);
@@ -92,7 +92,7 @@ switch(key){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      test_Bresen();
+      pop_graph(canvas);
        agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;

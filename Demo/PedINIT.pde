@@ -25,9 +25,6 @@ void initContent(PGraphics p) {
   if(gendermode == false && popmode == false){
   initPedestrians(p);
   }
-  if(gendermode){
-    initGender(p);
-  }
   if(popmode){
     initPop(p);
   }
@@ -49,7 +46,7 @@ void AgentNetworkModel(){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      test_Bresen();
+      pop_graph(canvas);
        agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;
