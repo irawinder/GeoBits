@@ -35,7 +35,7 @@ void initContent(PGraphics p) {
 
 
 void AgentNetworkModel(){
-    if(places.POIs.size() > 2){
+    if(POIs.size() > 2){
       current = map.getZoomLevel();
       notenoughdata = false;
       handler = canvas;
@@ -142,8 +142,8 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   }
   
   for (int i=0; i<numNodes; i++) {
-    int a = int(random(0, places.POIs.size()));
-    PVector loc = mercatorMap.getScreenLocation(places.POIs.get(a).location);
+    int a = int(random(0, POIs.size()));
+    PVector loc = mercatorMap.getScreenLocation(POIs.get(a).location);
     nodes[i] =  loc;
 
   }

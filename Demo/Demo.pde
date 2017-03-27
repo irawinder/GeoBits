@@ -96,7 +96,7 @@ void draw() {
         places.PullPOIs();
         
     println("Pull POIs ran");
-        savePOIs();
+        savePOIs(); 
         selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     println("Networks generated");
