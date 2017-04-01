@@ -46,6 +46,7 @@ void setup() {
 
   
   smooth();
+  flowmode = true;
   
 }
 

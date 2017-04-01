@@ -1,6 +1,6 @@
 // Graphics object in memory that holds visualization
 PGraphics tableCanvas;
-    boolean surge = true; 
+boolean surge = true; 
 void initCanvas() {
   
   println("Initializing Canvas Objects ... ");
@@ -22,7 +22,7 @@ void initContent(PGraphics p) {
   initPathfinder(p, p.width/100);
   
   
-  if(gendermode == false && popmode == false){
+  if(flowmode){
   initPedestrians(p);
   }
   if(popmode){

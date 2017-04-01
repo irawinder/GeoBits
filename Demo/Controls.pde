@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, gendermode, popmode;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, safetymode, popmode, flowmode;
 color c;
 
 float left;
@@ -115,14 +115,24 @@ switch(key){
         // and moved
         ks.toggleCalibration();
         break;
-    case 'g':
-        gendermode = !gendermode;
+    case '1':
+        flowmode = true;
+        safetymode = false;
+        popmode = false;
         tableCanvas.clear();
         initialized = false;
         break;
-    case 'j':
-        popmode = !popmode;
-        gendermode = false;
+    case '2':
+        safetymode = true;
+        popmode = false;
+        flowmode = false;
+        tableCanvas.clear();
+        initialized = false;
+        break;
+    case '3':
+        popmode = true;
+        safetymode = false;
+        flowmode = false;
         tableCanvas.clear();
         initialized = false;
         break;

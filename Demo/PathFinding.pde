@@ -206,7 +206,7 @@ class Graph {
     nodes = new ArrayList<Node>();
      PVector nextcoord = new PVector(0, 0);
      
-     if(!gendermode){
+     if(!safetymode){
     for(int i = 0; i<BresenhamMaster.size(); i++){
          PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
          
@@ -220,7 +220,7 @@ class Graph {
     }
     }
     
-    if(gendermode){
+    if(safetymode){
         safety = loadTable("data/streetscore_boston.csv", "header");
         
         for(int i = 0; i<safety.getRowCount(); i++){
