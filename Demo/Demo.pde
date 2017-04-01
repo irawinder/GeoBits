@@ -14,7 +14,7 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write datege: 8/13/16 
- Last Updated: 1/12/17
+ Last Updated: 3/28/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
@@ -80,13 +80,14 @@ void draw() {
     println("Networks generated");
     
     println("DONE: Data Acquired");
-    
+
+        //sets up for agentnetwork if there is enough info 
+    AgentNetworkModel(); 
     pulling = false;
     pull = false;
 
      
-    //sets up for agentnetwork if there is enough info 
-    AgentNetworkModel(); 
+
     
     }
 

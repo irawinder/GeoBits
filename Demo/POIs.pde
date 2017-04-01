@@ -12,6 +12,8 @@ class POI{
     }
 }
 
+public ArrayList<POI>POIs = new ArrayList<POI>(); 
+
 class ODPOIs{
    public ArrayList<POI>POIs = new ArrayList<POI>(); 
    public String name;
