@@ -1,6 +1,6 @@
-Horde Ped_Old, Ped_Middle, Ped_Family;
 
-void initPop(PGraphics p) {
+
+void initSafety(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
   
@@ -9,7 +9,7 @@ void initPop(PGraphics p) {
   Ped_Family = new Horde(1000);
   
   sources_Viz = createGraphics(p.width, p.height);
-  testNetwork_Pop(p, 6);
+  testNetwork_Safety(p, 6);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
@@ -18,7 +18,7 @@ void initPop(PGraphics p) {
 }
 
 
-void testNetwork_Pop(PGraphics p, int _numNodes) {
+void testNetwork_Safety(PGraphics p, int _numNodes) {
   PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).x), 
         random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).y,  mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(0)).y));
   
@@ -62,9 +62,9 @@ void testNetwork_Pop(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
+      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #ff0000);
     if(surge){
-      swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000);
+      swarmHorde2.addSwarm(.1, location, destination[i], 1, #0000ff);
       }
     }
     

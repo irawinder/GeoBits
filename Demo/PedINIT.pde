@@ -28,7 +28,9 @@ void initContent(PGraphics p) {
   if(popmode){
     initPop(p);
   }
-  
+  if(safetymode){
+  initSafety(p);
+  }
   //hurrySwarms(1000);
   println("Initialization Complete.");
 }
@@ -47,7 +49,7 @@ void AgentNetworkModel(){
         handler.Roads.get(i).bresenham();
       }
       pop_graph(canvas);
-       agentstriggered = !agentstriggered;
+      agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;
       c = #ff0000;

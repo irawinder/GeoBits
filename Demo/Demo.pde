@@ -68,7 +68,7 @@ void draw() {
     
     //Use HTTP requests to get data    
     if(!demo){
-     // PullCensus();
+     //PullCensus();
       PullMap(MapTiles(width, height, 0, 0).size(), width, height);
       PullOSM();
       println("PullMap() ran");
