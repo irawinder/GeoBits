@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, safetymode, popmode, flowmode;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, safemode, popmode, flowmode;
 color c;
 
 float left;
@@ -117,22 +117,21 @@ switch(key){
         break;
     case '1':
         flowmode = true;
-        safetymode = false;
+        safemode = false;
         popmode = false;
         tableCanvas.clear();
         initialized = false;
         break;
     case '2':
-        safetymode = true;
+        safemode = true;
         popmode = false;
         flowmode = false;
         tableCanvas.clear();
         initialized = false;
         break;
     case '3':
-       
         popmode = true;
-        safetymode = false;
+        safemode = false;
         flowmode = false;
         tableCanvas.clear();
         initialized = false;

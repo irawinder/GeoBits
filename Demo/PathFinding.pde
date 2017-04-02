@@ -220,7 +220,7 @@ class Graph {
     }
 
     
-//    if(safetymode){
+//    if(safemode){
 //        safety = loadTable("data/streetscore_boston.csv", "header");
 //        
 //        for(int i = 0; i<safety.getRowCount(); i++){

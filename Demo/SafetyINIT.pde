@@ -1,11 +1,11 @@
-Horde Ped_Safe, Ped_Risk, Ped_Geo;
+Horde Safe, Risk, Geo;
 void initSafety(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
   
-  Ped_Safe = new Horde(1000);
-  Ped_Risk = new Horde(1000);
-  Ped_Geo = new Horde(1000);
+  Safe = new Horde(1000);
+  Risk = new Horde(1000);
+  Geo = new Horde(1000);
   
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Safety(p, 6);
@@ -31,12 +31,11 @@ void testNetwork_Safety(PGraphics p, int _numNodes) {
   origin = new PVector[numSwarm];
   destination = new PVector[numSwarm];
   weight = new float[numSwarm];
-  swarmHorde.clearHorde();
   
-  if(surge){
-  swarmHorde2.clearHorde();
-  }
-  
+  Geo.clearHorde();
+  Risk.clearHorde();
+  Safe.clearHorde();
+
   for (int i=0; i<numNodes; i++) {
     int a = int(random(0, places.POIs.size()));
     PVector loc = mercatorMap.getScreenLocation(places.POIs.get(a).location);
@@ -61,18 +60,20 @@ void testNetwork_Safety(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #ff0000);
-    if(surge){
-      swarmHorde2.addSwarm(.1, location, destination[i], 1, #0000ff);
-      }
+      Geo.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff);
+      Risk.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00);
+      Safe.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die
-    swarmHorde.getSwarm(i).temperStandingPedestrians();
-    swarmHorde2.getSwarm(i).temperStandingPedestrians();
+      Geo.getSwarm(i).temperStandingPedestrians();
+      Risk.getSwarm(i).temperStandingPedestrians();
+      Safe.getSwarm(i).temperStandingPedestrians();
   }
-  colorMode(RGB);
   
-  swarmHorde.popScaler(1.0);
-  swarmHorde2.popScaler(1.0);
+    colorMode(RGB);
+  
+    Geo.popScaler(1.0);
+    Risk.popScaler(1.0);
+    Safe.popScaler(1.0);
 }

@@ -28,7 +28,7 @@ void initContent(PGraphics p) {
   if(popmode){
     initPop(p);
   }
-  if(safetymode){
+  if(safemode){
   initSafety(p);
   }
   //hurrySwarms(1000);
@@ -105,6 +105,11 @@ void swarmPaths(PGraphics p, boolean enable) {
     Bikes.solvePaths(pFinder, enable);
     Cars.solvePaths(pFinder, enable);
   }
+  if(safemode){
+    Risk.solvePaths(pFinder, enable);
+    Geo.solvePaths(pFinder, enable);
+    Safe.solvePaths(pFinder, enable);
+  }
   pFinderPaths_Viz(p, enable);
 }
 
@@ -134,6 +139,11 @@ void hurrySwarms(int frames) {
     Buses.update();
     Bikes.update();
     Cars.update();
+  }
+  if(safemode){
+    Geo.update();
+    Risk.update();
+    Safe.update();
   }
   showSwarm = true;
   //speed = 1.5;

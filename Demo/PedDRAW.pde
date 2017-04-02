@@ -32,6 +32,11 @@ void drawTableCanvas(PGraphics p) {
       Bikes.update();
       Cars.update();
     }
+    if(safemode){
+      Geo.update();
+      Risk.update();
+      Safe.update();
+    }
   }
 
   // holds time from last frame
@@ -75,6 +80,11 @@ void drawTableCanvas(PGraphics p) {
             Bikes.display(p);
             Buses.display(p);
             Cars.display(p);
+          }
+          if(safemode){
+            Geo.display(p);
+            Risk.display(p);
+            Safe.display(p);
           }
       }
 
