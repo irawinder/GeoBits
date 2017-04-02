@@ -62,10 +62,10 @@ void testNetwork_Pop(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      Peds.addSwarm(weight[i], origin[i], destination[i], 1, #ff0000);
-      Cars.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
-      Buses.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff);
-      Bikes.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00);
+      Peds.addSwarm(weight[i], origin[i], destination[i], 1, #ff0000, 3);
+      Cars.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00, 7);
+      Buses.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff, 10);
+      Bikes.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00, 5);
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die

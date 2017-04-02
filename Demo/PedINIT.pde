@@ -194,9 +194,9 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4);
+      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4, 4);
     if(surge){
-      swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000);
+      swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000,4);
       }
     }
     

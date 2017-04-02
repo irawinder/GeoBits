@@ -60,9 +60,9 @@ void testNetwork_Safety(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      Geo.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff);
-      Risk.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00);
-      Safe.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
+      Geo.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff,4);
+      Risk.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00,4);
+      Safe.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00,4);
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die

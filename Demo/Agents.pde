@@ -188,6 +188,7 @@ class Swarm {
   
   float PedestrianLife = Float.MAX_VALUE;
   float PedestrianDelay;
+  float drawRad;
   float maxSpeed;
   float counter = 0;
   color fill;
@@ -212,13 +213,15 @@ class Swarm {
     swarm = new ArrayList<Pedestrian>();
   }
   
-  Swarm (float delay, PVector a, PVector b, float maxS, color f) {
+  Swarm (float delay, PVector a, PVector b, float maxS, color f, float r) {
     origin = a;
     destination = b;
     
     path = new ArrayList<PVector>();
     path.add(origin);
     path.add(destination);
+    
+    drawRad = r;
     
    sink = hitBox(destination, hitbox, true);
     
@@ -232,6 +235,10 @@ class Swarm {
     
     temperStandingPedestrians();
   }
+  
+
+  
+
   
   void temperStandingPedestrians(boolean _external) {   
     // Makes sure that Pedestrians 'staying put' generate only enough to represent their numbers then stop
@@ -329,7 +336,7 @@ class Swarm {
       int staticNum = 4;
       
       while (swarm.size() < staticNum) {
-        swarm.add(new Pedestrian(origin.x, origin.y, pedsize, maxSpeed, path.size()));
+        swarm.add(new Pedestrian(origin.x, origin.y, int(drawRad), maxSpeed, path.size()));
       }
       while (swarm.size() > staticNum) {
         swarm.remove(0);
@@ -338,7 +345,7 @@ class Swarm {
     
     // Adds an Pedestrian
     if (generatePedestrian) {
-      swarm.add(new Pedestrian(origin.x, origin.y, pedsize, maxSpeed, path.size()));
+      swarm.add(new Pedestrian(origin.x, origin.y, int(drawRad), maxSpeed, path.size()));
       generatePedestrian = false;
     }
     
@@ -367,7 +374,7 @@ class Swarm {
       for (Pedestrian v : swarm){
         if(colorMode.equals("color")) {
           // Draws colored Pedestrians
-          v.display(p, fill, 150);
+          v.display(p, fill, 200);
         } else if(colorMode.equals("grayscale")) {
           // Draws grayscaled Pedestrians
           v.display(p, #333333, 100);
@@ -447,8 +454,8 @@ class Horde {
     popScaler = _popScaler;
   }
   
-  void addSwarm(float freq, PVector a, PVector b, float maxS, color f) {
-    horde.add(new Swarm(freq, a, b, maxS, f));
+  void addSwarm(float freq, PVector a, PVector b, float maxS, color f, float r) {
+    horde.add(new Swarm(freq, a, b, maxS, f, r));
     PedestrianCounts.add(0);
   }
   
