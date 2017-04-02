@@ -218,18 +218,6 @@ class Graph {
         nodes.add(new Node(coord.x, coord.y));
          }
     }
-
-    
-//    if(safemode){
-//        safety = loadTable("data/streetscore_boston.csv", "header");
-//        
-//        for(int i = 0; i<safety.getRowCount(); i++){
-//          PVector coord = mercatorMap.getScreenLocation(new PVector(safety.getFloat(i, "latitude"), safety.getFloat(i,"longitude")));
-//          if(coord.x > 0 && coord.x < width && coord.y > 0 && coord.y < height){
-//          nodes.add(new Node(coord.x, coord.y));
-//          }
-//        }
-//    }
     
   }
   

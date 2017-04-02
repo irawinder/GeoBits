@@ -7,15 +7,18 @@ void initPop(PGraphics p) {
   Peds = new Horde(400);
   Cars = new Horde(500);
   Bikes = new Horde(300);
-  Buses = new Horde(100);
+  Buses = new Horde(200);
   
   sources_Viz = createGraphics(p.width, p.height);
  // testNetwork_Pop(p, 10);
   
-  Network_Pop(p, 16, Peds, #ff0000, 3);
-  Network_Pop(p, 16, Cars, #00ff00, 5);
-  Network_Pop(p, 16, Bikes, #ffff00, 4);
-  Network_Pop(p, 5, Buses, #0000ff, 7);
+  Network_Pop(p, 16, Peds, #ff0000, 3, places.POIs);
+  Network_Pop(p, 16, Cars, #00ff00, 5, places.POIs);
+  Network_Pop(p, 16, Bikes, #ffff00, 4, places.POIs);
+  if(transit.size() > 3){
+  Network_Pop(p, transit.size(), Buses, #0000ff, 5, transit);
+  }
+  
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
@@ -23,7 +26,7 @@ void initPop(PGraphics p) {
   println("Population initialized.");
 }
 
-void Network_Pop(PGraphics p, int _numNodes, Horde horde, color c, int agentsize){
+void Network_Pop(PGraphics p, int _numNodes, Horde horde, color c, int agentsize, ArrayList<POI>POIs){
   int numNodes, numEdges, numSwarm;
   numNodes = _numNodes;
   numEdges = numNodes*(numNodes-1);
@@ -38,8 +41,8 @@ void Network_Pop(PGraphics p, int _numNodes, Horde horde, color c, int agentsize
   
   colorMode(HSB);
   for (int i=0; i<numNodes; i++) {
-    int a = int(random(0, places.POIs.size()));
-    PVector loc = mercatorMap.getScreenLocation(places.POIs.get(a).location);
+    int a = int(random(0, POIs.size()));
+    PVector loc = mercatorMap.getScreenLocation(POIs.get(a).location);
     nodes[i] =  loc;
   }
   

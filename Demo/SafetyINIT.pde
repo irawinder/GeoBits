@@ -18,9 +18,6 @@ void initSafety(PGraphics p) {
 
 
 void testNetwork_Safety(PGraphics p, int _numNodes) {
-  PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).x), 
-        random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).y,  mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(0)).y));
-  
   int numNodes, numEdges, numSwarm;
   
   numNodes = _numNodes;
@@ -51,14 +48,12 @@ void testNetwork_Safety(PGraphics p, int _numNodes) {
       
       weight[i*(numNodes-1)+j] = random(0.1, 2.0);
       
-      //println("swarm:" + (i*(numNodes-1)+j) + "; (" + i + ", " + (i+j+1)%(numNodes) + ")");
     }
   }
   
-    // rate, life, origin, destination
+
   colorMode(HSB);
   for (int i=0; i<numSwarm; i++) {
-    // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
       Geo.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff,4);
       Risk.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00,4);

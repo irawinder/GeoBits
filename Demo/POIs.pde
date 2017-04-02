@@ -24,6 +24,7 @@ class ODPOIs{
    
 public void PullPOIs(){
   println("pulling POIS");
+//  bus_POIs();
   XML[] widthtag;
   if(!demo){
   xml = loadXML("exports/" + "OSM"+ map.getLocation(0, 0) + "_" + map.getLocation(width, height)+ ".xml");
@@ -47,6 +48,16 @@ public void PullPOIs(){
                      POIs.add(poi);
                      }
         }
+         if(tag[j].getString("k").equals("bus")){
+           // println("Bus stop added from OSM");
+            float lat = float(children[i].getString("lat"));
+            float lon = float(children[i].getString("lon"));
+                     PVector loc = new PVector(lat, lon);
+                     if(Bounds.inbbox(loc) == true){
+                     POI poi = new POI(loc, 12, 0, "test", "stuff");
+                     transit.add(poi);
+                     }
+        }
     } 
 }
 }
@@ -62,6 +73,18 @@ ArrayList<POI>MasterPOIs = new ArrayList<POI>();
 
 void POIBankUpdate(){
    println("Thing");
+}
+
+void bus_POIs(){
+  transitstops = loadTable("data/transitstops.csv", "header");
+   for(int i = 0; i<transitstops.getRowCount(); i++){
+      PVector loc = new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x"));
+      if(Bounds.inbbox(loc) == true){
+        POI poi = new POI(loc, 12, 0, "test", "stuff");
+        transit.add(poi);
+      }
+   }
+      println("transit stops: ", transit.size());
 }
 
 void savePOIs(){
