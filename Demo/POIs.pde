@@ -38,7 +38,7 @@ public void PullPOIs(){
   for(int i = 0; i<children.length; i++){
     XML[] tag = children[i].getChildren("tag"); 
     for(int j = 0; j < tag.length; j++){
-        if(tag[j].getString("k").equals("amenity") || tag[j].getString("k").equals("poi")){
+        if(tag[j].getString("k").equals("amenity") || tag[j].getString("k").equals("poi") || tag[j].getString("k").equals("shop")){
             float lat = float(children[i].getString("lat"));
             float lon = float(children[i].getString("lon"));
                      PVector loc = new PVector(lat, lon);
@@ -69,38 +69,30 @@ void savePOIs(){
   squarePOIs.addColumn("id");
   squarePOIs.addColumn("lat");
   squarePOIs.addColumn("lon");
-//  squarePOIs.addColumn("transit");
+  squarePOIs.addColumn("transit");
   
- // transitstops = loadTable("data/transitstops.csv", "header");
+  transitstops = loadTable("data/transitstops.csv", "header");
 
-//  for(int i = 0; i<transitstops.getRowCount(); i++){
-//      PVector loc = new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x"));
-//      if(SelBounds.inbbox(loc) == true){
-//          if(hasPVector(places.POIs, loc) == true){
-//              TableRow newRow = squarePOIs.addRow();
-//              newRow.setFloat("lat", loc.x);
-//              newRow.setFloat("lon", loc.y);
-//              newRow.setInt("id",squarePOIs.getRowCount());
-//              newRow.setString("transit", "yes");
-//          }
-//          else{
-//              TableRow newRow = squarePOIs.addRow();
-//              newRow.setFloat("lat", loc.x);
-//              newRow.setFloat("lon", loc.y);
-//              newRow.setInt("id",squarePOIs.getRowCount());
-//              newRow.setString("transit", "yes");
-//          }
-//      }
-//  }
-  
+  for(int i = 0; i<transitstops.getRowCount(); i++){
+      PVector loc = new PVector(transitstops.getFloat(i, "y"), transitstops.getFloat(i, "x"));
+      if(Bounds.inbbox(loc) == true){
+        //  if(hasPVector(places.POIs, loc) == true){
+              TableRow newRow = squarePOIs.addRow();
+              newRow.setFloat("lat", loc.x);
+              newRow.setFloat("lon", loc.y);
+              newRow.setInt("id",squarePOIs.getRowCount());
+              newRow.setString("transit", "yes");
+          //}
+      }
+  }
   for(int i = 0; i<places.POIs.size(); i++){
     TableRow newRow = squarePOIs.addRow();
     newRow.setFloat("lat", places.POIs.get(i).location.x);
     newRow.setFloat("lon", places.POIs.get(i).location.y);
     newRow.setInt("id",squarePOIs.getRowCount());
-//    newRow.setString("transit", "no");
+    newRow.setString("transit", "no");
   }
-  
+
   saveTable(squarePOIs, "exports/POIS" + SelBounds.name + ".csv");
 
 }
