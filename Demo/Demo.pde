@@ -66,6 +66,8 @@ void draw() {
     }
     if(popmode){
       map2.draw();
+      fill(0, 20);
+      rect(0, 0, width, height);
     }
     if(safemode){
       map3.draw();

@@ -3,14 +3,14 @@ Horde Peds, Cars, Bikes, Buses;
 void initPop(PGraphics p) {
 
   println("Initializing Population Objects ... ");
-  
-  Peds = new Horde(500);
+  //These would be based off Census proportions
+  Peds = new Horde(400);
   Cars = new Horde(500);
-  Bikes = new Horde(500);
-  Buses = new Horde(500);
+  Bikes = new Horde(300);
+  Buses = new Horde(100);
   
   sources_Viz = createGraphics(p.width, p.height);
-  testNetwork_Pop(p, 6);
+  testNetwork_Pop(p, 12);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
@@ -67,7 +67,6 @@ void testNetwork_Pop(PGraphics p, int _numNodes) {
       Buses.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff, 10);
       Bikes.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00, 5);
     }
-    
     // Makes sure that Pedestrians 'staying put' eventually die
     Peds.getSwarm(i).temperStandingPedestrians();
     Cars.getSwarm(i).temperStandingPedestrians();
