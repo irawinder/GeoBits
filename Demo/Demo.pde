@@ -34,7 +34,7 @@ void setup() {
   initCanvas();
   renderTableCanvas();
   initGraphics();
-  map2 = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
+  map2 = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
   map3 = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
   map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
   
@@ -75,7 +75,6 @@ void draw() {
       rect(0, 0, width, height);
     }
   }
-
 
   if (pull) {
 
