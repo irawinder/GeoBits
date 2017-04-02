@@ -1,12 +1,11 @@
-
-
+Horde Ped_Safe, Ped_Risk, Ped_Geo;
 void initSafety(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
   
-  Ped_Old = new Horde(1000);
-  Ped_Middle = new Horde(1000);
-  Ped_Family = new Horde(1000);
+  Ped_Safe = new Horde(1000);
+  Ped_Risk = new Horde(1000);
+  Ped_Geo = new Horde(1000);
   
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Safety(p, 6);

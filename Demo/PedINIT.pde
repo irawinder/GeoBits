@@ -93,9 +93,17 @@ void initPedestrians(PGraphics p) {
 
 void swarmPaths(PGraphics p, boolean enable) {
   // Applyies pathfinding network to swarms
+  if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
   if(surge){
   swarmHorde2.solvePaths(pFinder, enable);
+  }
+  }
+  if(popmode){
+    Peds.solvePaths(pFinder, enable);
+    Buses.solvePaths(pFinder, enable);
+    Bikes.solvePaths(pFinder, enable);
+    Cars.solvePaths(pFinder, enable);
   }
   pFinderPaths_Viz(p, enable);
 }
@@ -113,11 +121,19 @@ void hurrySwarms(int frames) {
   showSwarm = false;
   showSource = false;
   showPaths = false;
+  if(flowmode){
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
     if(surge){
       swarmHorde2.update();
     }
+  }
+  }
+  if(popmode){
+    Peds.update();
+    Buses.update();
+    Bikes.update();
+    Cars.update();
   }
   showSwarm = true;
   //speed = 1.5;
@@ -254,12 +270,26 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   // Write Path Results to PGraphics
   pFinderPaths = createGraphics(p.width, p.height);
   pFinderPaths.beginDraw();
+  
+  if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
   swarmHorde.displayPaths(pFinderPaths);
   
   if(surge){
       swarmHorde2.solvePaths(pFinder, enable);
       swarmHorde2.displayPaths(pFinderPaths);
+  }
+  }
+  
+  if(popmode){
+    Peds.solvePaths(pFinder, enable);
+    Peds.displayPaths(pFinderPaths);
+    Buses.solvePaths(pFinder, enable);
+    Buses.displayPaths(pFinderPaths);
+    Bikes.solvePaths(pFinder, enable);
+    Bikes.displayPaths(pFinderPaths);
+    Cars.solvePaths(pFinder, enable);
+    Cars.displayPaths(pFinderPaths);    
   }
   
   pFinderPaths.endDraw();

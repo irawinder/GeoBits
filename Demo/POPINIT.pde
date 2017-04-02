@@ -1,12 +1,13 @@
-Horde Ped_Old, Ped_Middle, Ped_Family;
+Horde Peds, Cars, Bikes, Buses;
 
 void initPop(PGraphics p) {
 
-  println("Initializing Pedestrian Objects ... ");
+  println("Initializing Population Objects ... ");
   
-  Ped_Old = new Horde(1000);
-  Ped_Middle = new Horde(1000);
-  Ped_Family = new Horde(1000);
+  Peds = new Horde(500);
+  Cars = new Horde(500);
+  Bikes = new Horde(500);
+  Buses = new Horde(500);
   
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Pop(p, 6);
@@ -14,7 +15,7 @@ void initPop(PGraphics p) {
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
   
-  println("Pedestrians initialized.");
+  println("Population initialized.");
 }
 
 
@@ -32,12 +33,11 @@ void testNetwork_Pop(PGraphics p, int _numNodes) {
   origin = new PVector[numSwarm];
   destination = new PVector[numSwarm];
   weight = new float[numSwarm];
-  swarmHorde.clearHorde();
-  
-  if(surge){
-  swarmHorde2.clearHorde();
-  }
-  
+  Peds.clearHorde();
+  Buses.clearHorde();
+  Bikes.clearHorde();
+  Cars.clearHorde();
+
   for (int i=0; i<numNodes; i++) {
     int a = int(random(0, places.POIs.size()));
     PVector loc = mercatorMap.getScreenLocation(places.POIs.get(a).location);
@@ -62,18 +62,22 @@ void testNetwork_Pop(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
-    if(surge){
-      swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000);
-      }
+      Peds.addSwarm(weight[i], origin[i], destination[i], 1, #ff0000);
+      Cars.addSwarm(weight[i], origin[i], destination[i], 1, #00ff00);
+      Buses.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff);
+      Bikes.addSwarm(weight[i], origin[i], destination[i], 1, #ffff00);
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die
-    swarmHorde.getSwarm(i).temperStandingPedestrians();
-    swarmHorde2.getSwarm(i).temperStandingPedestrians();
+    Peds.getSwarm(i).temperStandingPedestrians();
+    Cars.getSwarm(i).temperStandingPedestrians();
+    Buses.getSwarm(i).temperStandingPedestrians();
+    Bikes.getSwarm(i).temperStandingPedestrians();
   }
   colorMode(RGB);
   
-  swarmHorde.popScaler(1.0);
-  swarmHorde2.popScaler(1.0);
+  Peds.popScaler(1.0);
+  Cars.popScaler(1.0);
+  Buses.popScaler(1.0);
+  Bikes.popScaler(1.0);
 }

@@ -34,13 +34,20 @@ void setup() {
   initCanvas();
   renderTableCanvas();
   initGraphics();
-  
+  map2 = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
+  map3 = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
   map = new UnfoldingMap(this, new OpenStreetMap.OpenStreetMapProvider());
+  
   MapUtils.createDefaultEventDispatcher(this, map);
+  MapUtils.createDefaultEventDispatcher(this, map2);
+  MapUtils.createDefaultEventDispatcher(this, map3);
+  
   Location Boston = new Location(42.359676, -71.060636);
   
   if(demo){
   map.zoomAndPanTo(Boston, 17);
+  map2.zoomAndPanTo(Boston, 17);
+  map3.zoomAndPanTo(Boston, 17);
   pulling = true;
   }
 
@@ -54,7 +61,17 @@ void draw() {
   background(0);
 
   if (!pulling) {
+    if(flowmode){
     map.draw();
+    }
+    if(popmode){
+      map2.draw();
+    }
+    if(safetymode){
+      map3.draw();
+      fill(0, 20);
+      rect(0, 0, width, height);
+    }
   }
 
 

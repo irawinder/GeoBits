@@ -20,9 +20,17 @@ void drawTableCanvas(PGraphics p) {
   
   //Updates Pedestrian Data to Display
   if (showSwarm) {
+    if(flowmode){
     swarmHorde.update();
     if(surge){
       swarmHorde2.update();
+    }
+    }
+    if(popmode){
+      Peds.update();
+      Buses.update();
+      Bikes.update();
+      Cars.update();
     }
   }
 
@@ -56,9 +64,17 @@ void drawTableCanvas(PGraphics p) {
     
       // Renders Pedestrian 'dots' and corresponding obstacles and heatmaps
       if (showSwarm) {
+          if(flowmode){
           swarmHorde.display(p);
           if(surge){
             swarmHorde2.display(p);
+          }
+          }
+          if(popmode){
+            Peds.display(p);
+            Bikes.display(p);
+            Buses.display(p);
+            Cars.display(p);
           }
       }
 

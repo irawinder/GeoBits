@@ -85,7 +85,7 @@ import de.fhpotsdam.unfolding.events.*;
 import de.fhpotsdam.utils.*;
 import de.fhpotsdam.unfolding.providers.*;
 
-UnfoldingMap map;
+UnfoldingMap map, map2, map3;
     
 public class MercatorMap {
   

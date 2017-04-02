@@ -130,6 +130,7 @@ switch(key){
         initialized = false;
         break;
     case '3':
+       
         popmode = true;
         safetymode = false;
         flowmode = false;
