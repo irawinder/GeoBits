@@ -4,8 +4,8 @@ void initSafety(PGraphics p) {
   println("Initializing Pedestrian Objects ... ");
   
   Safe = new Horde(1000,1);
-  Risk = new Horde(1000,1);
-  Geo = new Horde(1000,1);
+  Risk = new Horde(1000,3);
+  Geo = new Horde(1000,4);
   
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Safety(p, 6);

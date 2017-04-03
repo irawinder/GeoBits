@@ -20,7 +20,7 @@ boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulle
 boolean bw, demo = true;
 MercatorMap mercatorMap;
 BufferedReader reader;
-int current, zoom;
+int current, zoom, margin;
 
 RoadNetwork canvas, selection, handler, roadsonly;
 ODPOIs places;
