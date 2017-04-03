@@ -4,19 +4,18 @@ void initPop(PGraphics p) {
 
   println("Initializing Population Objects ... ");
   //These would be based off Census proportions
-  Peds = new Horde(400);
-  Cars = new Horde(500);
-  Bikes = new Horde(300);
-  Buses = new Horde(100);
+  Peds = new Horde(400,1);
+  Cars = new Horde(100,2);
+  Bikes = new Horde(300,1);
+  Buses = new Horde(50,2);
   
   sources_Viz = createGraphics(p.width, p.height);
  // testNetwork_Pop(p, 10);
   
   Network_Pop(p, 16, Peds, #ff0000, 3, places.POIs);
-  Network_Pop(p, 16, Cars, #00ff00, 5, places.POIs);
+  Network_Pop(p, 16, Cars, #00ff00, 6, places.POIs);
   Network_Pop(p, 16, Bikes, #ffff00, 4, places.POIs);
   if(transit.size() > 3){
-//  Network_Pop(p, int(transit.size()/2), Buses, #0000ff, 7, transit);
     Network_Pop(p, 6, Buses, #0000ff, 7, transit);
   }
   

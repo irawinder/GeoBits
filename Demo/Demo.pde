@@ -22,7 +22,7 @@ MercatorMap mercatorMap;
 BufferedReader reader;
 int current, zoom;
 
-RoadNetwork canvas, selection, handler;
+RoadNetwork canvas, selection, handler, roadsonly;
 ODPOIs places;
 
 void setup() {
@@ -66,13 +66,13 @@ void draw() {
     }
     if(popmode){
       map2.draw();
-      fill(0, 20);
-      rect(0, 0, width, height);
+     // fill(0, 20);
+     // rect(0, 0, width, height);
     }
     if(safemode){
       map3.draw();
-      fill(0, 20);
-      rect(0, 0, width, height);
+    //  fill(0, 20);
+     // rect(0, 0, width, height);
     }
   }
 
@@ -96,6 +96,9 @@ void draw() {
    //Generates networks
     selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
+    if(popmode){
+      roadsonly.GenerateNetworkRoadsOnly(MapTiles(width, height, 0, 0).size());
+    }
     println("Networks generated");
     
     println("DONE: Data Acquired");

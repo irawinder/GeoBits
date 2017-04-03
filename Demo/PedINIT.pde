@@ -48,7 +48,10 @@ void AgentNetworkModel(){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      pop_graph(canvas);
+      pop_graph(canvas,BresenhamMaster);
+      if(popmode){
+      pop_graph(roadsonly,RoadsBresenhamMaster);
+      }
       agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;
@@ -80,8 +83,8 @@ void initPedestrians(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
   
-  swarmHorde = new Horde(1000);
-  swarmHorde2 = new Horde(1500);
+  swarmHorde = new Horde(1000,1);
+  swarmHorde2 = new Horde(1500,1);
   sources_Viz = createGraphics(p.width, p.height);
   testNetwork_Random(p, 15);
   
@@ -333,7 +336,7 @@ void forcePath(PGraphics p) {
 }
 
 void initPath(Pathfinder f, PVector A, PVector B) {
-  testPath = f.findPath(A, B, enablePathfinding);
+  testPath = f.findPath(A, B, enablePathfinding, 1);
   testVisited = f.getVisited();
 }
 

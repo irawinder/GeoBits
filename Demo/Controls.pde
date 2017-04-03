@@ -38,7 +38,7 @@ switch(key){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      pop_graph(canvas);
+      pop_graph(canvas, BresenhamMaster);
       left = mercatorMap.getGeo(new PVector(0, 0)).x;
       c = #ff0000;
       canvas.drawRoads(Canvas, c);
@@ -92,7 +92,7 @@ switch(key){
       for(int i = 0; i<handler.Roads.size(); i++){
         handler.Roads.get(i).bresenham();
       }
-      pop_graph(canvas);
+      pop_graph(canvas, BresenhamMaster);
        agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;
@@ -135,10 +135,6 @@ switch(key){
         flowmode = false;
         tableCanvas.clear();
         initialized = false;
-        break;
-    case 'j':
-        PVector AddThing = new PVector(mouseX, mouseY);
-        Horde swarmThing = new Horde(200);
         break;
         
 }

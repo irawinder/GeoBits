@@ -27,6 +27,7 @@ public void MapArch(){
     canvas = new RoadNetwork("Canvas", Bounds);
     SelBounds = new bbox(SelectionBox().get(1).x, SelectionBox().get(0).y, SelectionBox().get(0).x, SelectionBox().get(1).y);
     selection = new RoadNetwork("Selection", SelBounds);
+    roadsonly = new RoadNetwork("RoadsOnly", Bounds);
     places = new ODPOIs("Places");
 }
 

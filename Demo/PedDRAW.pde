@@ -6,7 +6,7 @@ boolean showSwarm = true;
 // Makes darker colors more visible when projecting
 int masterAlpha = 15;
 float schemeScaler = 0.5;
-int background = 0;
+int background = 10;
 int textColor = 255;
 int grayColor = int(abs(background - (255.0/2)*schemeScaler));
 
@@ -48,7 +48,7 @@ void drawTableCanvas(PGraphics p) {
       // Instead of solid background draws a translucent overlay every frame.
       // Provides the effect of giving animated elements "tails"
       p.noStroke();
-      p.fill(background, 35);
+      p.fill(background, 90);
       p.rect(0,0,p.width,p.height);
       
       

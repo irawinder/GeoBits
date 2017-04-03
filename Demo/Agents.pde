@@ -157,7 +157,12 @@ class Pedestrian {
     p.noStroke();
     p.pushMatrix();
     p.translate(location.x, location.y);
+    if( r < 7){
     p.ellipse(0, 0, r, r);
+    }
+    else{
+      p.rect(0, 0, r+5, r);
+    }
     p.popMatrix();
   }
   
@@ -298,12 +303,12 @@ class Swarm {
     path.add(destination);
   }
   
-  void solvePath(Pathfinder f, boolean enable) {
+  void solvePath(Pathfinder f, boolean enable, int type) {
     
     // Remove all existing Pedestrians from swarms since they will be following wrong path
     swarm.clear();
     
-    path = f.findPath(origin, destination, enable);
+    path = f.findPath(origin, destination, enable, type);
     finderResolution = f.getResolution();
 
 //    // Pedestrian generation slowed down to constant rate if path not found
@@ -433,6 +438,7 @@ class Horde {
   
   ArrayList<Swarm> horde;
   ArrayList<Integer> PedestrianCounts;
+  int type;
  
   int PedestrianCount;
   int hordeIndex;
@@ -440,8 +446,9 @@ class Horde {
   float rateScaler;  // dynamic scalar used to nomralize Pedestrian generation rate
   float popScaler; // number between 0 and 1 to describe how much of 'maxPedestrians' to utilize
   
-  Horde(int _maxPedestrians) {
+  Horde(int _maxPedestrians, int _type) {
     horde = new ArrayList<Swarm>();
+    type = _type;
     PedestrianCounts = new ArrayList<Integer>();
     PedestrianCount = 0;
     hordeIndex = 0;
@@ -510,7 +517,7 @@ class Horde {
   
   void solvePaths(Pathfinder p, boolean enablePathfinding) {
     for (int i=0; i<horde.size(); i++) {
-      getSwarm(i).solvePath(p, enablePathfinding);
+      getSwarm(i).solvePath(p, enablePathfinding, type);
     }
   }
   

@@ -38,7 +38,7 @@ class Pathfinder {
   }
   
   // a, b, represent respective index for start and end nodes in pathfinding network
-  ArrayList<PVector> findPath(PVector A, PVector B, boolean enable) {
+  ArrayList<PVector> findPath(PVector A, PVector B, boolean enable, int type) {
     
     ArrayList<PVector> path = new ArrayList<PVector>();
     allVisited.clear();
@@ -385,11 +385,11 @@ class Node {
 
 
 ArrayList<PVector> BresenhamMaster = new ArrayList<PVector>();
-
-void pop_graph(RoadNetwork Net){
+ArrayList<PVector> RoadsBresenhamMaster = new ArrayList<PVector>();
+void pop_graph(RoadNetwork Net, ArrayList<PVector>MasterList){
   for(int i = 0; i<Net.Roads.size(); i++){
         for(int j = 0; j<Net.Roads.get(i).Brez.size(); j++){
-             BresenhamMaster.add(Net.Roads.get(i).Brez.get(j));
+             MasterList.add(Net.Roads.get(i).Brez.get(j));
         }
   }
   println("Bresenham nodes generated: ", BresenhamMaster.size());
