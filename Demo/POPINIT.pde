@@ -7,7 +7,7 @@ void initPop(PGraphics p) {
   Peds = new Horde(400);
   Cars = new Horde(500);
   Bikes = new Horde(300);
-  Buses = new Horde(200);
+  Buses = new Horde(100);
   
   sources_Viz = createGraphics(p.width, p.height);
  // testNetwork_Pop(p, 10);
@@ -16,7 +16,8 @@ void initPop(PGraphics p) {
   Network_Pop(p, 16, Cars, #00ff00, 5, places.POIs);
   Network_Pop(p, 16, Bikes, #ffff00, 4, places.POIs);
   if(transit.size() > 3){
-  Network_Pop(p, transit.size(), Buses, #0000ff, 5, transit);
+//  Network_Pop(p, int(transit.size()/2), Buses, #0000ff, 7, transit);
+    Network_Pop(p, 6, Buses, #0000ff, 7, transit);
   }
   
   

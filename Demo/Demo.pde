@@ -14,7 +14,7 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write date: 8/13/16 
- Last Updated: 3/28/17
+ Last Updated: 4/2/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
@@ -62,16 +62,18 @@ void draw() {
 
   if (!pulling) {
     if(flowmode){
-    map.draw();
+      map.draw();
+      fill(0, 40);
+      rect(0, 0, width, height);
     }
     if(popmode){
       map2.draw();
-      fill(0, 20);
+      fill(0, 40);
       rect(0, 0, width, height);
     }
     if(safemode){
       map3.draw();
-      fill(0, 20);
+      fill(0, 40);
       rect(0, 0, width, height);
     }
   }
