@@ -137,6 +137,8 @@ void GenerateNetwork(int genratio){
         JSONArray JSONlines = input.getJSONObject(m).getJSONObject("roads").getJSONArray("features");
               for(int i=0; i<JSONlines.size(); i++) {
                 String type = JSONlines.getJSONObject(i).getJSONObject("geometry").getString("type");
+                String kind = JSONlines.getJSONObject(i).getJSONObject("properties").getString("kind");
+                println(kind);
                 int OSMid = JSONlines.getJSONObject(i).getJSONObject("properties").getInt("id");
               if(type.equals("LineString")){
                JSONArray linestring = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
@@ -178,8 +180,61 @@ void GenerateNetwork(int genratio){
               print("Bounding Box: ");
               bounds.printbox();
       }
+     
+ 
+  void GenerateNetworkRoadsOnly(int genratio){
+    Roads.clear();
+    JSONArray input = loadJSONArray(mapling);
       
-  
+    for(int m = 0; m<genratio; m++){
+      try{
+        JSONArray JSONlines = input.getJSONObject(m).getJSONObject("roads").getJSONArray("features");
+              for(int i=0; i<JSONlines.size(); i++) {
+                String type = JSONlines.getJSONObject(i).getJSONObject("geometry").getString("type");
+                String kind = JSONlines.getJSONObject(i).getJSONObject("properties").getString("kind");
+                println(kind);
+                int OSMid = JSONlines.getJSONObject(i).getJSONObject("properties").getInt("id");
+              if(type.equals("LineString") && kind.equals("rail") == false && kind.equals("path") == false){
+               JSONArray linestring = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+                 for(int j = 0; j<linestring.size(); j++){
+                   if(j<linestring.size()-1){
+                      PVector start = new PVector(linestring.getJSONArray(j).getFloat(1), linestring.getJSONArray(j).getFloat(0));
+                      PVector end = new PVector(linestring.getJSONArray(j+1).getFloat(1), linestring.getJSONArray(j+1).getFloat(0));
+                      if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){ 
+                      Road road = new Road(start, end, OSMid);
+                      Roads.add(road);
+                         }
+                 }
+                 }
+          }
+           if(type.equals("MultiLineString") && kind.equals("rail") == false && kind.equals("path") == false){
+                 JSONArray multi = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
+                         for(int k = 0; k<multi.size(); k++){
+                             JSONArray substring = multi.getJSONArray(k);
+                                  for(int d = 0; d<substring.size(); d++){
+                                         float lat = substring.getJSONArray(d).getFloat(1);
+                                         float lon = substring.getJSONArray(d).getFloat(0);
+                                          if(d<substring.size()-1){
+                                                PVector start = new PVector(substring.getJSONArray(d).getFloat(1), substring.getJSONArray(d).getFloat(0));
+                                                PVector end = new PVector(substring.getJSONArray(d+1).getFloat(1), substring.getJSONArray(d+1).getFloat(0));
+                                             if(bounds.inbbox(start) == true || bounds.inbbox(end) == true){
+                                                Road road = new Road(start, end, OSMid);
+                                                Roads.add(road);
+                                             }
+                                          }
+                                  }
+                         }
+                 }
+                  }
+          }
+            catch(Exception e){
+            }
+                }
+              println("Nodes: ", Roads.size());
+              print("Bounding Box: ");
+              bounds.printbox();
+      }
+      
 
   void drawRoads(PGraphics p, color c){
     println("Drawing roads...");

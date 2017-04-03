@@ -218,7 +218,7 @@ Pathfinder pFinder;
 int finderMode = 2;
 
 // Pathfinder test and debugging Objects
-Pathfinder finderRandom;
+Pathfinder finderRandom, roadRandom, safeRandom, riskRandom;
 PVector A, B;
 ArrayList<PVector> testPath, testVisited;
 
@@ -260,6 +260,7 @@ void initPathfinder(PGraphics p, int res) {
 
 void initRandomFinder(PGraphics p, int res) {
   finderRandom = new Pathfinder(p.width, p.height, res, 0.5, BresenhamMaster);
+
 }
 
 // Refresh Paths and visualization; Use for key commands and dynamic changes

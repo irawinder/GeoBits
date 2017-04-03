@@ -136,6 +136,10 @@ switch(key){
         tableCanvas.clear();
         initialized = false;
         break;
+    case 'j':
+        PVector AddThing = new PVector(mouseX, mouseY);
+        Horde swarmThing = new Horde(200);
+        break;
         
 }
 notenoughdata = false;
