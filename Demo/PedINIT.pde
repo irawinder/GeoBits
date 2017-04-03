@@ -259,7 +259,7 @@ void initPathfinder(PGraphics p, int res) {
 
 
 void initRandomFinder(PGraphics p, int res) {
-  finderRandom = new Pathfinder(p.width, p.height, res, 0.5);
+  finderRandom = new Pathfinder(p.width, p.height, res, 0.5, BresenhamMaster);
 }
 
 // Refresh Paths and visualization; Use for key commands and dynamic changes

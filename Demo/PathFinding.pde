@@ -21,8 +21,8 @@ class Pathfinder {
   boolean[] visited;
   ArrayList<Integer> allVisited;
   
-  Pathfinder(int w, int h, float res, float cullRatio) {
-    network = new Graph(w, h, res);
+  Pathfinder(int w, int h, float res, float cullRatio, ArrayList<PVector>_GraphNodes) {
+    network = new Graph(w, h, res, _GraphNodes);
     //network.cullRandom(cullRatio);
     refresh();
   }
@@ -201,17 +201,29 @@ class Graph {
 
 
   // Using the canvas width and height in pixels, a gridded graph is generated with a pixel spacing of 'scale'
-  Graph (int w, int h, float scale) {
+  Graph (int w, int h, float scale, ArrayList<PVector> Brez) {
     
     nodes = new ArrayList<Node>();
      PVector nextcoord = new PVector(0, 0);
      
 
-    for(int i = 0; i<BresenhamMaster.size(); i++){
-         PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
+//    for(int i = 0; i<BresenhamMaster.size(); i++){
+//         PVector coord = mercatorMap.getScreenLocation(BresenhamMaster.get(i));
+//         
+//        if(i < BresenhamMaster.size()-1){
+//              nextcoord = mercatorMap.getScreenLocation(BresenhamMaster.get(i+1));
+//          }
+//         
+//       if(abs(nextcoord.x - coord.x) > 2 || abs(nextcoord.y - coord.y) > 2){
+//        nodes.add(new Node(coord.x, coord.y));
+//         }
+//    }
+
+    for(int i = 0; i<Brez.size(); i++){
+         PVector coord = mercatorMap.getScreenLocation(Brez.get(i));
          
-        if(i < BresenhamMaster.size()-1){
-              nextcoord = mercatorMap.getScreenLocation(BresenhamMaster.get(i+1));
+        if(i < Brez.size()-1){
+              nextcoord = mercatorMap.getScreenLocation(Brez.get(i+1));
           }
          
        if(abs(nextcoord.x - coord.x) > 2 || abs(nextcoord.y - coord.y) > 2){

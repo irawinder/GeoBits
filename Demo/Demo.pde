@@ -62,18 +62,16 @@ void draw() {
 
   if (!pulling) {
     if(flowmode){
-      map.draw();
-      fill(0, 40);
-      rect(0, 0, width, height);
+    map.draw();
     }
     if(popmode){
       map2.draw();
-      fill(0, 40);
+      fill(0, 20);
       rect(0, 0, width, height);
     }
     if(safemode){
       map3.draw();
-      fill(0, 40);
+      fill(0, 20);
       rect(0, 0, width, height);
     }
   }
