@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <!-- charset must remain utf-8 to be handled properly by Processing -->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    
+    <title>rodHilbert2 : Built with Processing</title>
+    
+    <style type="text/css">
+      /* <![CDATA[ */
+	
+		body {
+  		  margin: 60px 0px 0px 55px;
+		  font-family: verdana, geneva, arial, helvetica, sans-serif; 
+		  font-size: 11px; 
+		  background-color: #ddddcc; 
+		  text-decoration: none; 
+		  font-weight: normal; 
+		  line-height: normal; 
+		}
+		 
+		a          { color: #3399cc; }
+		a:link     { color: #3399cc; text-decoration: underline; }
+		a:visited  { color: #3399cc; text-decoration: underline; }
+		a:active   { color: #3399cc; text-decoration: underline; }
+		a:hover    { color: #3399cc; text-decoration: underline; }
+	
+		/* ]]> */
+    </style>
+    
+  </head>
+  <body>
+    <div id="content">
+      
+      <div id="rodHilbert2_container">
+	<applet code="org.jdesktop.applet.util.JNLPAppletLauncher"
+		width="800"
+		height="600"
+		archive="rodHilbert2.jar,opengl.jar,lsystem.jar,core.jar,
+			 http://jogamp.org/deployment/jogamp-current/jar/applet-launcher.jar,
+			 http://jogamp.org/deployment/jogamp-current/jar/jogl.all.jar,
+			 http://jogamp.org/deployment/jogamp-current/jar/gluegen-rt.jar">
+	  <!--http://jogamp.org/deployment/webstart/jogl-demos/jogl-demos.jar-->
+	  <param name="codebase_lookup" value="false" />
+	  <param name="subapplet.classname" value="rodHilbert2" />
+	  <!--<param name="subapplet.displayname" value="Pretty Name Here">-->
+	  <param name="noddraw.check" value="true" />
+	  <param name="progressbar" value="true" />
+	  <param name="jnlpNumExtensions" value="1" />
+	  <param name="jnlpExtension1"
+		 value="http://jogamp.org/deployment/jogamp-current/jogl-all-awt.jnlp" />
+	  <param name="java_arguments" value="-Dsun.java2d.noddraw=true" />
+	  <!--<param name="jnlp_href" value="applet-gears.jnlp">-->
+	  
+	  <p>
+	    <strong>
+	      This browser does not have a Java Plug-in.
+	      <br />
+	      <a href="http://www.java.com/getjava" 
+		 title="Download Java Plug-in">
+		Get the latest Java Plug-in here.
+	      </a>
+	    </strong>
+	  </p>
+
+	</applet>
+      </div>
+   
+      <p>
+	
+ A 3D LSystem example with a SimpleGrammar 
+ Features use of a my new Turtle3D interface (RodTurtle is currently only implementing class) 
+ There is a fixed precision of 1 degree in my lookup tables(note degree rather than radian input for 
+ lookup tables) so makes sense to set number of sides of "cylinder" accordingly
+ This LSystem library is available at Kenai version 0.7.4
+ http://kenai.com/projects/l-system-utilities/downloads
+ works best with new opengl (formerly opengl2, else there is clipping)
+ 
+
+      </p>
+      
+      <p>
+	Source code: <a href="rodHilbert2.pde">rodHilbert2</a> 
+      </p>
+      
+      <p>
+	Built with <a href="http://processing.org" title="Processing.org">Processing</a>
+      </p>
+    </div>
+  </body>
+</html>
