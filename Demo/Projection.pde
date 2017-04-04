@@ -117,7 +117,9 @@ public class projApplet extends PApplet {
     
     // Draw the scene, offscreen
     renderCanvas(offscreen);
+    showTileSwarms(offscreen);  
     surface.render(offscreen);
+    
   
   }
   
