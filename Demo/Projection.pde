@@ -122,17 +122,30 @@ public class projApplet extends PApplet {
   }
   
   void renderCanvas(PGraphics p) {
+    PImage walk, bike, car, bus;
+    walk = loadImage("data/walk.png");
+    car = loadImage("data/car.png");
+    bus = loadImage("data/bus.png");
+    bike = loadImage("data/bike.png");
     // Draw the scene, offscreen
     p.beginDraw();
     p.clear();
     p.fill(#ff0000);
 
    if(initialized){
-       p.fill(0);
+     p.fill(0);
      p.rect(0, 0, 180, 1150);
+     
+     p.fill(237, 52, 52);
+     p.rect(180, 1150-150, 900+180, 1150);
+     
+     p.image(walk, 20, 10);
+     p.image(bike, 20, 60);
+     p.image(bus, 20, 110);
+     p.image(car, 20, 160);
+
      p.image(things, 180, 0, 900, 1150);
-//          p.fill(0, 150);
-//     p.rect(180, 0, 900, 1150);
+     
     }
    
     p.endDraw();
