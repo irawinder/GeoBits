@@ -138,7 +138,7 @@ void GenerateNetwork(int genratio){
               for(int i=0; i<JSONlines.size(); i++) {
                 String type = JSONlines.getJSONObject(i).getJSONObject("geometry").getString("type");
                 String kind = JSONlines.getJSONObject(i).getJSONObject("properties").getString("kind");
-                println(kind);
+                //println(kind);
                 int OSMid = JSONlines.getJSONObject(i).getJSONObject("properties").getInt("id");
               if(type.equals("LineString")){
                JSONArray linestring = JSONlines.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");

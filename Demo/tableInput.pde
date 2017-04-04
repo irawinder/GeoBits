@@ -1,12 +1,8 @@
-//Forked from Ira Winder's Line of Sight Script
-//Modified by Nina Lutz
-
 // Principally, this script ensures that a string is "caught" from Colortizer
 // via UDP and coded into principal inputs of:
 // - tablePieceInput[][] or tablePieceInput[][][2] (rotation)
 // - UMax, VMax
 
-boolean useMouse = true; //this was from when this code was in the LineOfSight script
 
 int portIN = 6152;
 
@@ -99,8 +95,6 @@ void receive( byte[] data, String ip, int port ) {  // <-- extended handler
     busyImporting = true;
     ImportData(split);
   }
-  
-  useMouse = false;
 }
 
 void sendCommand(String command, int port) {

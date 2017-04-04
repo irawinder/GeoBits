@@ -55,6 +55,8 @@ void setup() {
   smooth();
   flowmode = true;
   
+  initUDP();
+  
 }
 
 void draw() {
@@ -177,6 +179,7 @@ void draw() {
     }
   }
   
+  showTileSwarms();  
   if(initialized && pullprojection){
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
   }

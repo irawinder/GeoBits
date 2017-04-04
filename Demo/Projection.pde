@@ -1,12 +1,21 @@
 import javax.swing.JFrame;
 import deadpixel.keystone.*;
 
-int projectorWidth = 1920;
-int projectorHeight = 1080;
-int projectorOffset = 1500;
+//int projectorWidth = 1920;
+//int projectorHeight = 1080;
+//int projectorOffset = 1500;
+//
+//int screenWidth = 1882;
+//int screenHeight = 1058;
 
-int screenWidth = 1882;
-int screenHeight = 1058;
+int projectorWidth = 1200;
+//int projectorHeight = 1920;
+int projectorHeight = 2020;
+int projectorOffset = 1920;
+
+int screenWidth = 1920;
+int screenHeight = 1080;
+
 
 
 // Visualization may show 2D projection visualization, or not
@@ -119,17 +128,9 @@ public class projApplet extends PApplet {
     p.fill(#ff0000);
 
    if(initialized){
-//     p.rect(0, 0, 90, 1150);
-     p.image(things, 90, 0, 1100, 1150);
-//     p.image(special_agents, 0, 0, 1200, 1200);
-//       if(lines){
-//       p.image(special_roads, 0, 0,1200,1200);`
-//       }
-        p.fill(0);
-        p.rect(90, 868, 1100, 500);
-        p.fill(255);
-        p.rect(725, 913, 180, 40);
-    p.rect(90, 1000, 1100, 1150);
+       p.fill(#ff0000);
+     p.rect(0, 0, 180, 1150);
+     p.image(things, 180, 0, 900, 1150);
     }
    
     p.endDraw();

@@ -35,7 +35,7 @@ public void PullPOIs(){
   }
   try{
   XML[] children = xml.getChildren("node");
-  println(children.length);
+  //println(children.length);
   for(int i = 0; i<children.length; i++){
     XML[] tag = children[i].getChildren("tag"); 
     for(int j = 0; j < tag.length; j++){

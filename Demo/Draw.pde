@@ -134,11 +134,16 @@ void showTileSwarms(){
   int center = int( 0.5*(width - 2*margin)/inputUMax );
     for (int u=0; u<displayU/4; u++) {
       for (int v=0; v<displayV/4; v++) {
+        
+        //println(tablePieceInput[u][v][0]);
         if (tablePieceInput[u][v][0] > -1) {
-          PVector loc = new PVector(margin + (4.0*(displayU/4 - u)/displayU)*(width - 2*margin) - center, margin + (4.0*v/displayV)*(height - 2*margin) + center);
+          PVector loc = new PVector(margin + (4.0*(displayU/4 - u)/displayU)*(width - 2*margin) - center, 
+            margin + (4.0*v/displayV)*(height - 2*margin) + center);
+            println(u,v);
+            ellipse(loc.x, loc.y, 50, 50);
         }
       }
-}
+    } 
 //Visualize the swarm closest to that tile 
 
 }
