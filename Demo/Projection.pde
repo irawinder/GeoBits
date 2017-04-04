@@ -139,6 +139,13 @@ public class projApplet extends PApplet {
      p.fill(237, 52, 52);
      p.rect(180, 1150-150, 900+180, 1150);
      
+     p.textSize(20);
+     
+     p.text("70%", 60, 10);
+     p.text("80%", 60, 60);
+     p.text("50%", 60, 110);
+     p.text("30%", 60, 160);
+     
      p.image(walk, 20, 10);
      p.image(bike, 20, 60);
      p.image(bus, 20, 110);
