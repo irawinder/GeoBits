@@ -126,20 +126,21 @@ public class projApplet extends PApplet {
    if(initialized){
      p.fill(0);
      p.rect(0, 0, 180, 1150);
-     
-//     p.textSize(20);
+     p.fill(#ff0000);
+     p.textSize(20);
 ////     
-//     p.text("70%", 60, 10);
-//     p.text("80%", 60, 60);
-//     p.text("50%", 60, 110);
-//     p.text("30%", 60, 160);
+
 //     
     
      int iconsize = 50;
      p.image(walk, 70, 40, iconsize,iconsize);
+     p.text("Walking", 70+iconsize, 40);
      p.image(bike, 70, 240, iconsize, iconsize);
+     p.text("Walking", 70+iconsize, 240);
      p.image(bus, 70, 440, iconsize, iconsize);
+          p.text("Walking", 70+iconsize, 440);
      p.image(car, 70, 640, iconsize, iconsize);
+          p.text("Walking", 70+iconsize, 640);
 
      p.image(things, 180, 0, 900, 1150);
      
