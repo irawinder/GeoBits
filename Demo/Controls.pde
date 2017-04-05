@@ -144,6 +144,9 @@ switch(key){
         tableCanvas.clear();
         initialized = false;
         break;
+    case '4':
+        surge = !surge;
+        break;
         
 }
 notenoughdata = false;

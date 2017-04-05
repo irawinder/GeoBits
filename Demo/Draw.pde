@@ -141,24 +141,23 @@ try{
   PVector startxy = new PVector(start.x + horzstep/2, start.y - vertstep/2);
    int center = int( 0.5*(width - 2*margin)/inputUMax );
    surge = false;
-    for (int u=0; u<displayU/4; u++) {
-      for (int v=0; v<displayV/4; v++) {
+    for (int u=0; u<2; u++) {
+      for (int v=0; v<2; v++) {
 //        //println(tablePieceInput[u][v][0]);
-//        if (tablePieceInput[u][v][0] > -1) {
+        if (tablePieceInput[u][v][0] > -1) {
+            surge = true;
             PVector loc = new PVector(startxy.x + (17-u)*horzstep, startxy.y + (v+1)*vertstep);
-            Horde horde = new Horde(500,1);
+            Horde horde = new Horde(10,1);
             PVector uv = new PVector(u,v);
             SurgeSwarms.add(horde);
             HordeUV.put(uv, horde);
             HordeLoc.put(horde, loc);
             HordeShow.put(horde, 0);
-        //}
+        }
       }
-    } 
+    }
 }
-catch (Exception e){
-
-}
+catch (Exception e){}
 }
 
 

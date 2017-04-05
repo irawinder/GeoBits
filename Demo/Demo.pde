@@ -117,7 +117,8 @@ void draw() {
     println("DONE: Data Acquired");
 
         //sets up for agentnetwork if there is enough info 
-            showTileSwarms();  
+//            showTileSwarms();  
+//         createHordeTiles();
     AgentNetworkModel(); 
     pulling = false;
     pull = false;
@@ -133,12 +134,15 @@ void draw() {
         places.PullPOIs();
         
     println("Pull POIs ran");
+//    println(SurgeSwarms.size(), surge);
         savePOIs(); 
         selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     println("Networks generated");
-        AgentNetworkModel();     
-        pulling = false;
+    createHordeTiles();
+    println(SurgeSwarms.size());
+    AgentNetworkModel();     
+    pulling = false;
     pull = false;
     }
     
@@ -195,12 +199,12 @@ void draw() {
 
   if(initialized && pullprojection){
       showTileSwarms(); 
-    filter(INVERT);  
+   // filter(INVERT);  
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
        
 }
 
-filter(INVERT);
+//filter(INVERT);
   
 }
 

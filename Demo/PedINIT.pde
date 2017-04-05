@@ -102,7 +102,11 @@ void swarmPaths(PGraphics p, boolean enable) {
   if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
  // if(surge){
-  swarmHorde2.solvePaths(pFinder, enable);
+  //swarmHorde2.solvePaths(pFinder, enable);
+    for(int i = 0; i <  SurgeSwarms.size(); i++){
+       SurgeSwarms.get(i).solvePaths(pFinder, enable);
+  }
+  
   //}
   }
   if(popmode){
@@ -144,8 +148,13 @@ void hurrySwarms(int frames) {
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
  //   if(surge){
-      swarmHorde2.update();
+     // swarmHorde2.update();
    // }
+     for(int j = 0; j <  SurgeSwarms.size(); j++){
+       SurgeSwarms.get(j).update();
+  }
+  
+   
   }
   }
   if(popmode){
@@ -164,9 +173,7 @@ void hurrySwarms(int frames) {
 }
 
 void testNetwork_Random(PGraphics p, int _numNodes) {
-  PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).x), 
-        random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).y,  mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(0)).y));
-  
+
   int numNodes, numEdges, numSwarm;
   
   numNodes = _numNodes;
@@ -181,7 +188,12 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   
   if(surge){
   swarmHorde2.clearHorde();
+    for(int i = 0; i <  SurgeSwarms.size(); i++){
+       SurgeSwarms.get(i).clearHorde();
   }
+  
+  }
+  
   
   for (int i=0; i<numNodes; i++) {
     int a = int(random(0, places.POIs.size()));
@@ -189,7 +201,7 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
     nodes[i] =  loc;
 
   }
-  
+
   for (int i=0; i<numNodes; i++) {
     for (int j=0; j<numNodes-1; j++) {
       
@@ -202,32 +214,44 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
       //println("swarm:" + (i*(numNodes-1)+j) + "; (" + i + ", " + (i+j+1)%(numNodes) + ")");
     }
   }
+////  
+    colorMode(HSB);
+  for(int i = 0; i < SurgeSwarms.size(); i++){
+    for(int j = 0; j< numSwarm; j++){
+        int a = int(random(0, places.POIs.size()));
+        PVector dest = mercatorMap.getScreenLocation(places.POIs.get(a).location);
+        PVector org = HordeLoc.get(SurgeSwarms.get(i));
+        float mass = random(.1, 2);
+        SurgeSwarms.get(i).addSwarm(mass, org, dest,1,#00D865,4);
+        SurgeSwarms.get(i).getSwarm(j).temperStandingPedestrians();
+    }
+    SurgeSwarms.get(i).popScaler(1.0);
+  }
   
     // rate, life, origin, destination
-  colorMode(HSB);
+
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
       swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #0000FF, 4);
-   // if(surge){
+    if(surge){
       swarmHorde2.addSwarm(.1, location, destination[i], 1, #00D865,4);
-     // }
+     }
     }
-    
+//    
     // Makes sure that Pedestrians 'staying put' eventually die
     swarmHorde.getSwarm(i).temperStandingPedestrians();
-    swarmHorde2.getSwarm(i).temperStandingPedestrians();
+    //swarmHorde2.getSwarm(i).temperStandingPedestrians();
   }
   colorMode(RGB);
   
   swarmHorde.popScaler(1.0);
   swarmHorde2.popScaler(1.0);
-  println(swarmHorde.horde.size());
 }
 
 
-//------------- Initialize Pathfinding Objects
-
+////------------- Initialize Pathfinding Objects
+//
 Pathfinder pFinder;
 int finderMode = 2;
 
@@ -238,7 +262,7 @@ ArrayList<PVector> testPath, testVisited;
 
 // PGraphic for holding pFinder Viz info so we don't have to re-write it every frame
 PGraphics pFinderPaths, pFinderGrid;
-
+//
 void initPathfinder(PGraphics p, int res) {
   
   println("Initializing Pathfinder Objects ... ");
@@ -276,7 +300,7 @@ void initRandomFinder(PGraphics p, int res) {
   finderRandom = new Pathfinder(p.width, p.height, res, 0.5, BresenhamMaster);
 
 }
-
+//
 // Refresh Paths and visualization; Use for key commands and dynamic changes
 void refreshFinder(PGraphics p) {
   pFinder = finderRandom;
@@ -301,9 +325,16 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   swarmHorde.displayPaths(pFinderPaths);
   
   if(surge){
-      swarmHorde2.solvePaths(pFinder, enable);
-      swarmHorde2.displayPaths(pFinderPaths);
+     // swarmHorde2.solvePaths(pFinder, enable);
+     // swarmHorde2.displayPaths(pFinderPaths);
+      
+   for(int i = 0; i <  SurgeSwarms.size(); i++){
+       SurgeSwarms.get(i).solvePaths(pFinder, enable);
+       SurgeSwarms.get(i).displayPaths(pFinderPaths);
+        }
+
   }
+
   }
   
   if(popmode){

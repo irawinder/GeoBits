@@ -24,6 +24,10 @@ void drawTableCanvas(PGraphics p) {
     swarmHorde.update();
     if(surge){
       swarmHorde2.update();
+        for(int i = 0; i <  SurgeSwarms.size(); i++){
+       SurgeSwarms.get(i).update();
+        }
+  
     }
     }
     if(popmode){
@@ -76,6 +80,11 @@ void drawTableCanvas(PGraphics p) {
           swarmHorde.display(p);
           if(surge){
             swarmHorde2.display(p);
+              for(int i = 0; i <  SurgeSwarms.size(); i++){
+       SurgeSwarms.get(i).display(p);
+      
+  }
+  
           }
           }
           if(popmode){
