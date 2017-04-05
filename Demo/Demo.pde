@@ -27,7 +27,7 @@ ODPOIs places;
 
 boolean invert;
 
-      PImage walk, bike, car, bus;
+PImage walk, bike, car, bus;
 
 void setup() {
 
@@ -70,6 +70,7 @@ void setup() {
 
 void draw() {
   background(0);
+  
 
   if (!pulling) {
     if(flowmode){
@@ -116,6 +117,7 @@ void draw() {
     println("DONE: Data Acquired");
 
         //sets up for agentnetwork if there is enough info 
+            showTileSwarms();  
     AgentNetworkModel(); 
     pulling = false;
     pull = false;
@@ -189,7 +191,7 @@ void draw() {
       mainDraw();
     }
   }
-  //showTileSwarms();  
+ 
 
   if(initialized && pullprojection){
       showTileSwarms(); 

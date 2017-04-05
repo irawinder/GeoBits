@@ -16,6 +16,9 @@ switch(key){
    case 'f':
        showFrameRate = !showFrameRate;
        break;    
+  case '9':
+      showBikes = !showBikes;
+      break;
   case 'e':
     showEdges = !showEdges;
     break;

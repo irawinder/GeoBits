@@ -79,6 +79,8 @@ boolean enablePathfinding = true;
 
 PGraphics sources_Viz, edges_Viz;
 
+ArrayList<Horde>SurgeSwarms = new ArrayList<Horde>(); 
+
 void initPedestrians(PGraphics p) {
 
   println("Initializing Pedestrian Objects ... ");
