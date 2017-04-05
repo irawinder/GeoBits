@@ -1,6 +1,6 @@
 // Graphics object in memory that holds visualization
 PGraphics tableCanvas;
-boolean surge = true; 
+boolean surge;
 void initCanvas() {
   
   println("Initializing Canvas Objects ... ");
@@ -98,9 +98,9 @@ void swarmPaths(PGraphics p, boolean enable) {
   // Applyies pathfinding network to swarms
   if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
-  if(surge){
+ // if(surge){
   swarmHorde2.solvePaths(pFinder, enable);
-  }
+  //}
   }
   if(popmode){
     Peds.solvePaths(pFinder, enable);
@@ -132,9 +132,9 @@ void hurrySwarms(int frames) {
   if(flowmode){
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
-    if(surge){
+ //   if(surge){
       swarmHorde2.update();
-    }
+   // }
   }
   }
   if(popmode){
@@ -198,9 +198,9 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
       swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #003CD4, 4);
-    if(surge){
+   // if(surge){
       swarmHorde2.addSwarm(.1, location, destination[i], 1, #ff0000,4);
-      }
+     // }
     }
     
     // Makes sure that Pedestrians 'staying put' eventually die

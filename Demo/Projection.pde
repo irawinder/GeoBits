@@ -117,9 +117,7 @@ public class projApplet extends PApplet {
     
     // Draw the scene, offscreen
     renderCanvas(offscreen);
-    showTileSwarms(offscreen);  
     surface.render(offscreen);
-    
   
   }
   
@@ -130,9 +128,11 @@ public class projApplet extends PApplet {
     p.fill(#ff0000);
 
    if(initialized){
-       p.fill(#ff0000);
+       p.fill(0);
      p.rect(0, 0, 180, 1150);
      p.image(things, 180, 0, 900, 1150);
+//          p.fill(0, 150);
+//     p.rect(180, 0, 900, 1150);
     }
    
     p.endDraw();

@@ -27,7 +27,7 @@ ODPOIs places;
 
 void setup() {
 
-  size(1366, 768, P3D);
+  size(displayWidth, displayHeight, P3D);
   
   totalpopulation = 1;
   
@@ -141,7 +141,7 @@ void draw() {
 
   }
 
-  mercatorMap = new MercatorMap(1366, 768, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
+  mercatorMap = new MercatorMap(width, height, CanvasBox().get(0).x, CanvasBox().get(1).x, CanvasBox().get(0).y, CanvasBox().get(1).y, 0);
   if (lines) {
     image(Handler, 0, 0);
   }
@@ -179,9 +179,10 @@ void draw() {
     }
   }
   
-  showTileSwarms(tableCanvas);  
+  //showTileSwarms();  
   
   if(initialized && pullprojection){
+      showTileSwarms(); 
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
   }
   

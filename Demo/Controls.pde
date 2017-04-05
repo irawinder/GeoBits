@@ -60,10 +60,10 @@ switch(key){
       pulling = true;
       select = false;
       break;
-// case 'S': //toggles display of swarms of Pedestrians
-////      showSwarm = toggle(showSwarm);
-//      surge = !surge;
-//      break;
+ case 'S': //toggles display of swarms of Pedestrians
+//      showSwarm = toggle(showSwarm);
+      surge = !surge;
+      break;
  case 'L': //speed it up
       updateSpeed(1);
       break;

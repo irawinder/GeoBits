@@ -131,19 +131,35 @@ void draw_selection() {
 
 void showTileSwarms(){
   //Get the tile with the thing
-  int center = int( 0.5*(width - 2*margin)/inputUMax );
+//println("HELLO TILES");
+    float vertstep = (float(boxh)/float(numrows));
+  float horzstep = (float(boxw)/float(numcols));
+
+try{
+  PVector start = mercatorMap.getScreenLocation(new PVector(SelBounds.boxcorners().get(1).x, SelBounds.boxcorners().get(1).y));
+//  ellipse(start.x, start.y, 50, 50);
+  PVector startxy = new PVector(start.x + horzstep/2, start.y - vertstep/2);
+   int center = int( 0.5*(width - 2*margin)/inputUMax );
+   surge = false;
     for (int u=0; u<displayU/4; u++) {
       for (int v=0; v<displayV/4; v++) {
         
         //println(tablePieceInput[u][v][0]);
         if (tablePieceInput[u][v][0] > -1) {
-          PVector loc = new PVector(margin + (4.0*(displayU/4 - u)/displayU)*(width - 2*margin) - center, 
-            margin + (4.0*v/displayV)*(height - 2*margin) + center);
-            println(u,v);
-            ellipse(loc.x, loc.y, 50, 50);
+
+            PVector loc = new PVector(startxy.x + (17-u)*horzstep, startxy.y + (v+1)*vertstep);
+           // p.fill(255);
+           // p.ellipse(loc.x, loc.y, 15, 15);
+           surge = true;
+         println(u,v);
         }
       }
     } 
-//Visualize the swarm closest to that tile 
+}
+catch (Exception e){
+
+}
+
+
 
 }
