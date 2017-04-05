@@ -25,6 +25,8 @@ int current, zoom, margin;
 RoadNetwork canvas, selection, handler, roadsonly;
 ODPOIs places;
 
+boolean invert;
+
       PImage walk, bike, car, bus;
 
 void setup() {
@@ -79,6 +81,7 @@ void draw() {
      // rect(0, 0, width, height);
     }
     if(safemode){
+      
       map3.draw();
     //  fill(0, 20);
      // rect(0, 0, width, height);
@@ -172,6 +175,7 @@ void draw() {
     image(loading, 0, 0);
     pull = true;
   }
+ 
 
 
   if (agentstriggered) {  
@@ -185,13 +189,14 @@ void draw() {
       mainDraw();
     }
   }
-  
   //showTileSwarms();  
-  
+
   if(initialized && pullprojection){
       showTileSwarms(); 
+    filter(INVERT);  
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
-  }
+       
+}
   
 }
 

@@ -113,7 +113,7 @@ public class projApplet extends PApplet {
     
     // Draw the scene, offscreen
     renderCanvas(offscreen);
-    surface.render(offscreen);
+    surface.render(offscreen); 
   
   }
   
@@ -124,7 +124,7 @@ public class projApplet extends PApplet {
     p.fill(#ff0000);
 
    if(initialized){
-     p.fill(100);
+     p.fill(0);
      p.rect(0, 0, 180, 1150);
      
 //     p.textSize(20);
@@ -142,11 +142,11 @@ public class projApplet extends PApplet {
      p.image(car, 70, 640, iconsize, iconsize);
 
      p.image(things, 180, 0, 900, 1150);
-    
+     
           p.fill(0);
      p.rect(180, 860, 900, 200);
      
-     p.fill(255);
+     p.fill(255,0,0,30);
      p.rect(220, 900, 50, 50);
      p.rect(310, 900, 50, 50);
      p.rect(490, 900, 50, 50);

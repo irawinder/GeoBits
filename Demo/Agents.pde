@@ -2,7 +2,7 @@
 //Set to false if Pedestrians iterated by time (useful for choppy framerate; but may cause Pedestrians to "jump")
 boolean frameStep = true;
 float time_0 = 0;
-float speed = 1;
+float speed = 2;
 int pedsize = 4;
 
 int num = 0;
