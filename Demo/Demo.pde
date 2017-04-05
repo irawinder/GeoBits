@@ -14,7 +14,7 @@ PImage special_agents, special_roads, things;
  Supervisor: Ira Winder, jiw@mit.edu
  
  Write date: 8/13/16 
- Last Updated: 4/2/17
+ Last Updated: 4/4/17
  */
 boolean agentstriggered, initagents, initialized, lines, notenoughdata, OSMPulled;
 boolean bw, demo = true;
@@ -197,6 +197,8 @@ void draw() {
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
        
 }
+
+filter(INVERT);
   
 }
 

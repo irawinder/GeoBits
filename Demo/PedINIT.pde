@@ -77,7 +77,7 @@ int textSize = 8;
 boolean enablePathfinding = true;
 
 
-PGraphics sources_Viz;
+PGraphics sources_Viz, edges_Viz;
 
 void initPedestrians(PGraphics p) {
 
@@ -86,11 +86,12 @@ void initPedestrians(PGraphics p) {
   swarmHorde = new Horde(1000,1);
   swarmHorde2 = new Horde(1500,1);
   sources_Viz = createGraphics(p.width, p.height);
+  edges_Viz = createGraphics(p.width, p.height);
   testNetwork_Random(p, 15);
   
   swarmPaths(p, enablePathfinding);
   sources_Viz(p);
-  
+  edges_Viz(p);
   println("Pedestrians initialized.");
 }
 
@@ -122,6 +123,14 @@ void sources_Viz(PGraphics p) {
   // Draws Sources and Sinks to canvas
 //  swarmHorde.displaySource(sources_Viz);
   sources_Viz.endDraw(); 
+}
+
+void edges_Viz(PGraphics p) {
+  edges_Viz = createGraphics(p.width, p.height);
+  edges_Viz.beginDraw();
+  // Draws edges to canvas
+  swarmHorde.displayEdges(edges_Viz);
+  edges_Viz.endDraw(); 
 }
 
 void hurrySwarms(int frames) {
@@ -197,9 +206,9 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
   for (int i=0; i<numSwarm; i++) {
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
-      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #0000ff, 4);
+      swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #0000FF, 4);
    // if(surge){
-      swarmHorde2.addSwarm(.1, location, destination[i], 1, #00ff00,4);
+      swarmHorde2.addSwarm(.1, location, destination[i], 1, #00D865,4);
      // }
     }
     

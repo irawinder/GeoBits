@@ -6,7 +6,7 @@ boolean showSwarm = true;
 // Makes darker colors more visible when projecting
 int masterAlpha = 15;
 float schemeScaler = 0.5;
-int background = 150;
+int background = 200;
 int textColor = 255;
 int grayColor = int(abs(background - (255.0/2)*schemeScaler));
 
@@ -66,6 +66,9 @@ void drawTableCanvas(PGraphics p) {
       if (showSource) {
         p.image(sources_Viz, 0, 0);
       }
+      if(showEdges){
+         p.image(edges_Viz, 0, 0);
+      }
     
       // Renders Pedestrian 'dots' and corresponding obstacles and heatmaps
       if (showSwarm) {
@@ -76,10 +79,18 @@ void drawTableCanvas(PGraphics p) {
           }
           }
           if(popmode){
+            if(showPed){
             Peds.display(p);
+            }
+            if(showBikes){
             Bikes.display(p);
+            }
+            if(showBus){
             Buses.display(p);
+            }
+            if(showCars){
             Cars.display(p);
+            }
           }
           if(safemode){
             Geo.display(p);

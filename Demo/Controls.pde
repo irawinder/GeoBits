@@ -1,4 +1,4 @@
-boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, safemode, popmode, flowmode;
+boolean pull, square, generated, showid, pulling, Yasushi, pullprojection, safemode, popmode, flowmode, showPed, showBus, showCars, showBikes, showEdges;
 color c;
 
 float left;
@@ -16,6 +16,10 @@ switch(key){
    case 'f':
        showFrameRate = !showFrameRate;
        break;    
+  case 'e':
+    showEdges = !showEdges;
+    break;
+     
   case 's':
        select = !select;
        break; 
