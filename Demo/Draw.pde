@@ -39,9 +39,9 @@ void draw_info() {
     text("frameRate: " + frameRate, 20, 50);
     text("zoom level " + map.getZoomLevel(), 20, 80);
   }
-  rect(0, 0, width, 30);
-  fill(255);
-  text("Nina Lutz. This demo is under development, please be patient. Press 'd' for instructions.", 20, 20);
+//  rect(0, 0, width, 30);
+//  fill(255);
+//  text("Nina Lutz. This demo is under development, please be patient. Press 'd' for instructions.", 20, 20);
 }
 
 void draw_notenough(PGraphics p){

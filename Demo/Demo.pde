@@ -25,9 +25,16 @@ int current, zoom, margin;
 RoadNetwork canvas, selection, handler, roadsonly;
 ODPOIs places;
 
+      PImage walk, bike, car, bus;
+
 void setup() {
 
   size(displayWidth, displayHeight, P3D);
+  
+    walk = loadImage("data/walk.png");
+    car = loadImage("data/car.png");
+    bus = loadImage("data/bus.png");
+    bike = loadImage("data/bike.png");
   
   totalpopulation = 1;
   
