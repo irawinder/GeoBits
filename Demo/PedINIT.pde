@@ -101,13 +101,13 @@ void swarmPaths(PGraphics p, boolean enable) {
   // Applyies pathfinding network to swarms
   if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
- // if(surge){
-  //swarmHorde2.solvePaths(pFinder, enable);
+  if(surge){
+  swarmHorde2.solvePaths(pFinder, enable);
     for(int i = 0; i <  SurgeSwarms.size(); i++){
        SurgeSwarms.get(i).solvePaths(pFinder, enable);
   }
   
-  //}
+  }
   }
   if(popmode){
     Peds.solvePaths(pFinder, enable);
@@ -147,9 +147,9 @@ void hurrySwarms(int frames) {
   if(flowmode){
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
- //   if(surge){
-     // swarmHorde2.update();
-   // }
+   if(surge){
+     swarmHorde2.update();
+      }
      for(int j = 0; j <  SurgeSwarms.size(); j++){
        SurgeSwarms.get(j).update();
   }
@@ -173,7 +173,8 @@ void hurrySwarms(int frames) {
 }
 
 void testNetwork_Random(PGraphics p, int _numNodes) {
-
+PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x, mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).x), 
+        random(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(2)).y,  mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(0)).y));
   int numNodes, numEdges, numSwarm;
   
   numNodes = _numNodes;
@@ -241,7 +242,7 @@ void testNetwork_Random(PGraphics p, int _numNodes) {
 //    
     // Makes sure that Pedestrians 'staying put' eventually die
     swarmHorde.getSwarm(i).temperStandingPedestrians();
-    //swarmHorde2.getSwarm(i).temperStandingPedestrians();
+    swarmHorde2.getSwarm(i).temperStandingPedestrians();
   }
   colorMode(RGB);
   
@@ -325,8 +326,8 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   swarmHorde.displayPaths(pFinderPaths);
   
   if(surge){
-     // swarmHorde2.solvePaths(pFinder, enable);
-     // swarmHorde2.displayPaths(pFinderPaths);
+     swarmHorde2.solvePaths(pFinder, enable);
+     swarmHorde2.displayPaths(pFinderPaths);
       
    for(int i = 0; i <  SurgeSwarms.size(); i++){
        SurgeSwarms.get(i).solvePaths(pFinder, enable);
