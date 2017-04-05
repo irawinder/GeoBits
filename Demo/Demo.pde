@@ -69,6 +69,7 @@ void setup() {
 }
 
 void draw() {
+  surge = true;
   background(0);
   
 
@@ -139,7 +140,7 @@ void draw() {
         selection.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     canvas.GenerateNetwork(MapTiles(width, height, 0, 0).size());
     println("Networks generated");
-    createHordeTiles();
+    //createHordeTiles();
     println(SurgeSwarms.size());
     AgentNetworkModel();     
     pulling = false;
