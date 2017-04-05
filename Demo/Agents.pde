@@ -243,7 +243,35 @@ class Swarm {
   
 
   
-
+  void displayEdges(PGraphics p) {
+    
+    // Draws weighted lines from origin to destinations
+    p.stroke(fill, 50);
+    p.fill(fill, 50);
+    
+    float w = 5.0/PedestrianDelay;
+   
+    if (w > 0.2*p.height) {
+      w = 0.2*p.height;
+    }
+    
+    if (PedestrianDelay > 0) {
+      p.strokeWeight(w);
+    } else {
+      p.noStroke();
+    }
+    
+   
+    if (origin != destination) {
+      p.line(origin.x, origin.y, destination.x, destination.y);
+    } else {
+      p.noStroke();
+      p.ellipse(origin.x, origin.y, w, w);
+    }
+    p.strokeWeight(1);
+    p.noStroke();
+      
+  }
   
   void temperStandingPedestrians(boolean _external) {   
     // Makes sure that Pedestrians 'staying put' generate only enough to represent their numbers then stop
@@ -263,6 +291,9 @@ class Swarm {
       //immortal = true;
     }
   }
+  
+  
+
   
   void cropPedestrians(boolean _external) {
     if (_external) {
@@ -533,6 +564,11 @@ class Horde {
     }
   }
 
+  void displayEdges(PGraphics p) {
+    for (int i=0; i<horde.size(); i++) {
+      getSwarm(i).displayEdges(p);
+    }
+  }
   
   void update() {
     PedestrianCount = 0;

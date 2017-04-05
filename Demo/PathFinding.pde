@@ -323,8 +323,9 @@ class Graph {
     // Formatting
     p.noFill();
     int base = 155;
-    p.stroke(213, 150, 255);
-    p.strokeWeight(1);
+//    p.stroke(255, 230, 150);
+    p.stroke(#00B2FF);
+    p.strokeWeight(.5);
     
     // Draws Tangent Circles Centered at pathfinding nodes
     for (int i=0; i<nodes.size(); i++) {
@@ -336,7 +337,7 @@ class Graph {
       PVector coord = mercatorMap.getScreenLocation(new PVector(safety.getFloat(i, "latitude"), safety.getFloat(i,"longitude")));
       if(coord.x > 0 && coord.x < width && coord.y > 0 && coord.y < height){
           p.stroke(safety.getInt(i, "q-score") * 10);
-          p.ellipse(coord.x, coord.y, SCALE+5, SCALE);
+          //p.ellipse(coord.x, coord.y, SCALE+5, SCALE);
       }
     }
     
@@ -345,9 +346,9 @@ class Graph {
     for (int i=0; i<nodes.size(); i++) {
       for (int j=0; j<nodes.get(i).neighbors.size(); j++) {
         neighbor = nodes.get(i).neighbors.get(j);
-        p.stroke(213, 150, 255);
+        //p.stroke(213, 150, 255);
         //println(neighbor);
-        p.line(nodes.get(i).node.x, nodes.get(i).node.y, nodes.get(neighbor).node.x, nodes.get(neighbor).node.y);
+        //p.line(nodes.get(i).node.x, nodes.get(i).node.y, nodes.get(neighbor).node.x, nodes.get(neighbor).node.y);
       }
     }
   }

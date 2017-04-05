@@ -241,7 +241,7 @@ void GenerateNetwork(int genratio){
     p.beginDraw();
          bounds.drawBounds(p);
       for(int i = 0; i<Roads.size(); i++){
-        p.strokeWeight(1);
+        p.strokeWeight(3);
         PVector start = mercatorMap.getScreenLocation(new PVector(Roads.get(i).start.x, Roads.get(i).start.y));
         PVector end = mercatorMap.getScreenLocation(new PVector(Roads.get(i).end.x, Roads.get(i).end.y));
         p.stroke(c);
