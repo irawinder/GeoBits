@@ -1,6 +1,8 @@
 // Graphics object in memory that holds visualization
 PGraphics tableCanvas;
 boolean surge;
+
+
 void initCanvas() {
   
   println("Initializing Canvas Objects ... ");

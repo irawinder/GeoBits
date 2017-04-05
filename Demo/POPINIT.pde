@@ -1,13 +1,19 @@
 Horde Peds, Cars, Bikes, Buses;
 
+float carpercent = .35;
+float buspercent = .20;
+float bikepercent = .15;
+float walkpercent = .30;
+
+
 void initPop(PGraphics p) {
 
   println("Initializing Population Objects ... ");
   //These would be based off Census proportions
-  Peds = new Horde(400,1);
-  Cars = new Horde(100,2);
-  Bikes = new Horde(300,1);
-  Buses = new Horde(50,2);
+  Peds = new Horde(int(1500*walkpercent),1);
+  Cars = new Horde(int(1500*carpercent),2);
+  Bikes = new Horde(int(1500*bikepercent),1);
+  Buses = new Horde(int(1500*buspercent*.25),2);
   
   sources_Viz = createGraphics(p.width, p.height);
  // testNetwork_Pop(p, 10);

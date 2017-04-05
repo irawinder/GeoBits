@@ -18,6 +18,9 @@ switch(key){
        break;    
   case '9':
       showBikes = !showBikes;
+      showCars = !showCars;
+      showBus = !showBus;
+      showPed = !showPed;
       break;
   case 'e':
     showEdges = !showEdges;
