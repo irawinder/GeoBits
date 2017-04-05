@@ -146,6 +146,14 @@ public class projApplet extends PApplet {
           p.fill(0);
      p.rect(180, 860, 900, 200);
      
+     p.fill(255);
+     p.rect(220, 900, 50, 50);
+     p.rect(310, 900, 50, 50);
+     p.rect(490, 900, 50, 50);
+     p.rect(580, 900, 50, 50);
+     p.rect(670, 900, 50, 50);
+              p.rect(760, 900, 50, 50);
+                       p.rect(850, 900, 50, 50); 
     }
    
     p.endDraw();

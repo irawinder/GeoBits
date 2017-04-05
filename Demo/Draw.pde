@@ -148,10 +148,8 @@ try{
         if (tablePieceInput[u][v][0] > -1) {
 
             PVector loc = new PVector(startxy.x + (17-u)*horzstep, startxy.y + (v+1)*vertstep);
-           // p.fill(255);
-           // p.ellipse(loc.x, loc.y, 15, 15);
            surge = true;
-         println(u,v);
+        // println(loc);
         }
       }
     } 
