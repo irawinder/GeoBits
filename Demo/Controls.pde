@@ -131,21 +131,21 @@ switch(key){
         safemode = false;
         popmode = false;
         tableCanvas.clear();
-        initialized = false;
+      //  initialized = false;
         break;
     case '2':
         safemode = true;
         popmode = false;
         flowmode = false;
         tableCanvas.clear();
-        initialized = false;
+      //  initialized = false;
         break;
     case '3':
         popmode = true;
         safemode = false;
         flowmode = false;
         tableCanvas.clear();
-        initialized = false;
+        //initialized = false;
         break;
     case '4':
         surge = !surge;

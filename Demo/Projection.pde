@@ -127,32 +127,49 @@ public class projApplet extends PApplet {
      p.fill(0);
      p.rect(0, 0, 180, 1150);
      p.fill(#ff0000);
-     p.textSize(20);
+     p.textSize(40);
 
      int iconsize = 50;
-     p.image(walk, 70, 40, iconsize,iconsize);
-     p.text("Walking: " + walkpercent, 70+iconsize, 40);
-     p.image(bike, 70, 240, iconsize, iconsize);
-     p.text("Biking: " + bikepercent, 70+iconsize, 240);
-     p.image(bus, 70, 440, iconsize, iconsize);
-     p.text("Transit: " + buspercent, 70+iconsize, 440);
-     p.image(car, 70, 640, iconsize, iconsize);
-     p.text("Car: " + carpercent, 70+iconsize, 640);
+     p.image(walk, 30, 40, iconsize,iconsize);
+     p.text(int(walkpercent*100) +"%", 35+iconsize, 70);
+     p.image(bike, 30, 140, iconsize, iconsize);
+     p.fill(#ffff00);
+     p.text(int(bikepercent*100) + "%", 35+iconsize, 170);
+     p.image(bus, 30, 240, iconsize, iconsize);
+     p.fill(#00ff00);
+     p.text(int(buspercent*100) + "%", 35+iconsize, 270);
+     p.image(car, 30, 340, iconsize, iconsize);
+     p.fill(#ff00ff);
+     p.text(int(carpercent*100)+"%", 35+iconsize, 370);
+     
+     
+     p.image(logo, 10, 650, 160, 160);
 
      p.image(things, 180, 0, 900, 1150);
      
      p.fill(0);
      p.rect(180, 860, 900, 200);
      
-     p.fill(255,0,0,30);
+                p.fill(0,255,0);
      p.rect(220, 900, 50, 50);
-     p.rect(310, 900, 50, 50);
+        p.rect(310, 900, 50, 50);
+     p.fill(255,0,0);
+     if(flowmode){
+         p.fill(255,0,0);
      p.rect(490, 900, 50, 50);
      p.rect(580, 900, 50, 50);
      p.rect(670, 900, 50, 50);
-              p.rect(760, 900, 50, 50);
-                       p.rect(850, 900, 50, 50); 
-    }
+     p.rect(760, 900, 50, 50);
+     p.rect(850, 900, 50, 50);
+     }
+ }
+     // p.rect(490, 900, 50, 50);
+     if(popmode){
+       p.image(bike, 592, 910, 30, 30);
+       p.image(car, 685, 910, 30, 30);
+              p.image(bus, 775, 910, 30, 30);
+                     p.image(walk, 865, 910, 30, 30);
+     }
    
     p.endDraw();
   }

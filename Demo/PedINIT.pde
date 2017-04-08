@@ -24,12 +24,12 @@ void initContent(PGraphics p) {
   initPathfinder(p, p.width/100);
   
   
-  if(flowmode){
+//  if(flowmode){
   initPedestrians(p);
-  }
-  if(popmode){
-    initPop(p);
-  }
+ // }
+  //if(popmode){
+    //initPop(p);
+  //}
   if(safemode){
   initSafety(p);
   }
@@ -51,9 +51,9 @@ void AgentNetworkModel(){
         handler.Roads.get(i).bresenham();
       }
       pop_graph(canvas,BresenhamMaster);
-      if(popmode){
-      pop_graph(roadsonly,RoadsBresenhamMaster);
-      }
+     // if(popmode){
+     // pop_graph(roadsonly,RoadsBresenhamMaster);
+     // }
       agentstriggered = !agentstriggered;
       handler = selection;
       Handler = Selection;
@@ -91,6 +91,9 @@ void initPedestrians(PGraphics p) {
   swarmHorde2 = new Horde(1500,1);
   sources_Viz = createGraphics(p.width, p.height);
   edges_Viz = createGraphics(p.width, p.height);
+  
+  initPop(p);
+  
   testNetwork_Random(p, 15);
   
   swarmPaths(p, enablePathfinding);
@@ -101,22 +104,22 @@ void initPedestrians(PGraphics p) {
 
 void swarmPaths(PGraphics p, boolean enable) {
   // Applyies pathfinding network to swarms
-  if(flowmode){
+  //if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
-  if(surge){
+  //if(surge){
   swarmHorde2.solvePaths(pFinder, enable);
     for(int i = 0; i <  SurgeSwarms.size(); i++){
        SurgeSwarms.get(i).solvePaths(pFinder, enable);
   }
   
-  }
-  }
-  if(popmode){
+  //}
+  //}
+  //if(popmode){
     Peds.solvePaths(pFinder, enable);
     Buses.solvePaths(pFinder, enable);
     Bikes.solvePaths(pFinder, enable);
     Cars.solvePaths(pFinder, enable);
-  }
+  //}
   if(safemode){
     Risk.solvePaths(pFinder, enable);
     Geo.solvePaths(pFinder, enable);
@@ -146,25 +149,25 @@ void hurrySwarms(int frames) {
   showSwarm = false;
   showSource = false;
   showPaths = false;
-  if(flowmode){
+  //if(flowmode){
   for (int i=0; i<frames; i++) {
     swarmHorde.update();
-   if(surge){
+   //if(surge){
      swarmHorde2.update();
-      }
+      //}
      for(int j = 0; j <  SurgeSwarms.size(); j++){
        SurgeSwarms.get(j).update();
   }
   
    
   }
-  }
-  if(popmode){
+  //}
+  //if(popmode){
     Peds.update();
     Buses.update();
     Bikes.update();
     Cars.update();
-  }
+  //}
   if(safemode){
     Geo.update();
     Risk.update();
@@ -189,13 +192,13 @@ PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bo
   weight = new float[numSwarm];
   swarmHorde.clearHorde();
   
-  if(surge){
+  //if(surge){
   swarmHorde2.clearHorde();
     for(int i = 0; i <  SurgeSwarms.size(); i++){
        SurgeSwarms.get(i).clearHorde();
   }
   
-  }
+  //}
   
   
   for (int i=0; i<numNodes; i++) {
@@ -237,9 +240,9 @@ PVector location = new PVector(random(mercatorMap.getScreenLocation(selection.bo
     // delay, origin, destination, speed, color
     if(origin[i] != destination[i]){
       swarmHorde.addSwarm(weight[i], origin[i], destination[i], 1, #0000FF, 4);
-    if(surge){
+    //if(surge){
       swarmHorde2.addSwarm(.1, location, destination[i], 1, #00D865,4);
-     }
+     //}
     }
 //    
     // Makes sure that Pedestrians 'staying put' eventually die
@@ -323,11 +326,11 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
   pFinderPaths = createGraphics(p.width, p.height);
   pFinderPaths.beginDraw();
   
-  if(flowmode){
+  //if(flowmode){
   swarmHorde.solvePaths(pFinder, enable);
   swarmHorde.displayPaths(pFinderPaths);
   
-  if(surge){
+  //if(surge){
      swarmHorde2.solvePaths(pFinder, enable);
      swarmHorde2.displayPaths(pFinderPaths);
       
@@ -336,11 +339,11 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
        SurgeSwarms.get(i).displayPaths(pFinderPaths);
         }
 
-  }
+  //}
 
-  }
+  //}
   
-  if(popmode){
+  //if(popmode){
     Peds.solvePaths(pFinder, enable);
     Peds.displayPaths(pFinderPaths);
     Buses.solvePaths(pFinder, enable);
@@ -349,7 +352,7 @@ void pFinderPaths_Viz(PGraphics p, boolean enable) {
     Bikes.displayPaths(pFinderPaths);
     Cars.solvePaths(pFinder, enable);
     Cars.displayPaths(pFinderPaths);    
-  }
+  ///}
   
   pFinderPaths.endDraw();
   

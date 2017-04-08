@@ -27,7 +27,7 @@ ODPOIs places;
 
 boolean invert;
 
-PImage walk, bike, car, bus;
+PImage walk, bike, car, bus, logo;
 
 void setup() {
 
@@ -37,7 +37,7 @@ void setup() {
     car = loadImage("data/car.png");
     bus = loadImage("data/bus.png");
     bike = loadImage("data/bike.png");
-  
+    logo = loadImage("data/logo.png");
   totalpopulation = 1;
   
   initCanvas();
@@ -66,12 +66,33 @@ void setup() {
   
   initUDP();
   
+                showSwarm = false;
+            surge = false;
+            lines = false;
+            showGrid = false;
+            showEdges = false;
+            
+            showBikes = false;
+            showCars = false;
+            showBus = false;
+            showPed = false;
+  
 }
 
 void draw() {
-  surge = true;
+  //surge = true;
   background(0);
   
+//                showSwarm = false;
+//            surge = false;
+//            lines = false;
+//            showGrid = false;
+//            showEdges = false;
+//            
+//            showBikes = false;
+//            showCars = false;
+//            showBus = false;
+//            showPed = false;
 
   if (!pulling) {
     if(flowmode){
@@ -197,10 +218,11 @@ void draw() {
     }
   }
  
+ println(showBikes, showSwarm);
 
   if(initialized && pullprojection){
       showTileSwarms(); 
-   // filter(INVERT);  
+    filter(INVERT);  
   things = get(int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).x), int(mercatorMap.getScreenLocation(selection.bounds.boxcorners().get(1)).y), boxh, boxw+90);
        
 }

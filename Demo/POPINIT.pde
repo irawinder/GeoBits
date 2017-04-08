@@ -18,11 +18,11 @@ void initPop(PGraphics p) {
   sources_Viz = createGraphics(p.width, p.height);
  // testNetwork_Pop(p, 10);
   
-  Network_Pop(p, 16, Peds, #ff0000, 3, places.POIs);
+  Network_Pop(p, 16, Peds, #00bfff, 4, places.POIs);
   Network_Pop(p, 16, Cars, #00ff00, 6, places.POIs);
-  Network_Pop(p, 16, Bikes, #ffff00, 4, places.POIs);
+  Network_Pop(p, 16, Bikes, #0000ff, 4, places.POIs);
   if(transit.size() > 3){
-    Network_Pop(p, 6, Buses, #0000ff, 7, transit);
+    Network_Pop(p, 6, Buses, #bf00ff, 7, transit);
   }
   
   

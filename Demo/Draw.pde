@@ -172,15 +172,90 @@ try{
 //  ellipse(start.x, start.y, 50, 50);
   PVector startxy = new PVector(start.x + horzstep/2, start.y - vertstep/2);
    int center = int( 0.5*(width - 2*margin)/inputUMax );
-   surge = false;
+                showSwarm = false;
+            surge = false;
+            lines = false;
+            showGrid = false;
+            showEdges = false;
+            
+            showBikes = false;
+            showCars = false;
+            showBus = false;
+            showPed = false;
+//            popmode = false;
+//            flowmode = true;
+            
+    //        pulling = false;
+  //          select = true;
+            
     for (int u=0; u<displayU/4; u++) {
       for (int v=0; v<displayV/4; v++) {
         
         //println(tablePieceInput[u][v][0]);
-        if (tablePieceInput[u][v][0] > -1) {
-
+//        if (tablePieceInput[u][v][0] > -1) {
+//            surge = true;
+//            println(u,v);
+//            PVector loc = new PVector(startxy.x + (17-u)*horzstep, startxy.y + (v+1)*vertstep);
+//            
+//        }
+if (tablePieceInput[u][v][0] > -1) {
+            //println(u,v);
+            
+           if (u == 16 && v == 20){
+                popmode = true;
+                flowmode = false;
+                 tableCanvas.clear();
+           //      showSwarm = true;
+               }
+            if (u == 14 && v == 20){
+                popmode = false;
+                flowmode = true;
+                 tableCanvas.clear();
+             //    showSwarm = true;
+               }
+            
             PVector loc = new PVector(startxy.x + (17-u)*horzstep, startxy.y + (v+1)*vertstep);
             
+            if(flowmode){
+            if (u == 4 && v == 20){
+                 showSwarm = true;
+               }
+             if(u == 2 && v == 20){
+                 surge = true;
+             }
+             if(u == 10 && v == 20){
+                 lines = true;
+             }
+             if(u == 8 && v == 20){
+                 showGrid = true;
+             }
+             if(u == 6 && v == 20){
+                 showEdges = true;
+             }
+            }
+            if(popmode){
+              showSwarm = true;
+//              if(u == 10 && v == 20){
+//                //println("HI");
+//                showBikes = true;
+//                showCars = true;
+//                showBus = true;
+//                showPed = true;
+//             }
+             if(u == 8 && v == 20){
+                 showBikes = true;
+             }
+             if(u == 6 && v == 20){
+                 showCars = true;
+             }
+             if(u == 4 && v == 20){
+                 showBus = true;
+             }
+            if(u == 2 && v == 20){
+                 showPed = true;
+             }
+             
+            }
         }
       }
     } 
