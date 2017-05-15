@@ -130,6 +130,7 @@ public class projApplet extends PApplet {
      p.textSize(40);
 
      int iconsize = 50;
+     if(popmode){
      p.image(walk, 30, 40, iconsize,iconsize);
      p.text(int(walkpercent*100) +"%", 35+iconsize, 70);
      p.image(bike, 30, 140, iconsize, iconsize);
@@ -141,6 +142,7 @@ public class projApplet extends PApplet {
      p.image(car, 30, 340, iconsize, iconsize);
      p.fill(#ff00ff);
      p.text(int(carpercent*100)+"%", 35+iconsize, 370);
+     }
      
      
      p.image(logo, 10, 650, 160, 160);
